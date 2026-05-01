@@ -1,0 +1,79 @@
+@import '../assets/fontawesome-pro-6.7.2-web/css/fontawesome.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/brands.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/solid.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/regular.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/light.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/thin.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/duotone.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/duotone-light.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/duotone-regular.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/duotone-thin.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-solid.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-regular.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-light.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-thin.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-duotone-solid.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-duotone-regular.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-duotone-light.css';
+@import '../assets/fontawesome-pro-6.7.2-web/css/sharp-duotone-thin.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: Inter, 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: #15171a;
+  background: #ffffff;
+}
+
+body {
+  overflow: hidden;
+}
+
+.icon-page {
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+}
+
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  grid-template-rows: repeat(5, minmax(0, 1fr));
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  padding: clamp(12px, 2.2vw, 28px);
+  gap: clamp(8px, 1.8vw, 24px);
+}
+
+.icon-target {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(var(--icon-size) * 1.45);
+  height: calc(var(--icon-size) * 1.45);
+  border-radius: 8px;
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 0.34;
+}
+
+.icon-target i {
+  font-size: var(--icon-size);
+  line-height: 1;
+}
+
+@media (max-width: 760px) {
+  .icon-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-template-rows: repeat(8, minmax(0, 1fr));
+  }
+}
