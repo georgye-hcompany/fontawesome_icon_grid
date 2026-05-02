@@ -1,0 +1,242 @@
+{
+  "fa-hand-holding-seedling": {
+    "appearanceId": "cupped open palm supporting a small sprouting plant with two leaves; hand cradling a seedling from below",
+    "functionalityId": "represents offering or nurturing a seedling; displays a symbol of environmental care",
+    "intentId": "convey care for nature or plant growth; indicate sustainability or eco-friendly action"
+  },
+  "fa-hand-holding-skull": {
+    "appearanceId": "cupped open palm supporting a human skull from below; hand cradling a skull shape",
+    "functionalityId": "represents holding or presenting a skull; displays a symbol of death or danger",
+    "intentId": "convey mortality or hazardous material; indicate poison, danger, or morbid content"
+  },
+  "fa-hand-holding-usd": {
+    "appearanceId": "cupped open palm supporting a banknote or dollar bill from below; hand cradling a currency note",
+    "functionalityId": "represents offering or providing financial aid; displays a symbol of monetary transfer",
+    "intentId": "convey financial support or donation; indicate funding, payment, or monetary giving"
+  },
+  "fa-hand-holding-water": {
+    "appearanceId": "cupped open palm supporting falling water drops from above; hand cradling liquid droplets",
+    "functionalityId": "represents offering or conserving water; displays a symbol of water resource management",
+    "intentId": "convey water conservation or access; indicate hydration, irrigation, or clean water initiatives"
+  },
+  "fa-hand-horns": {
+    "appearanceId": "fist with index finger and pinky extended upward forming a horns shape; thumb tucked with two outer fingers raised",
+    "functionalityId": "represents a rock-on or devil-horns hand gesture; displays an enthusiastic or metal salute sign",
+    "intentId": "express excitement or rock music culture; signal enthusiasm or a rebellious attitude"
+  },
+  "fa-hand-lizard": {
+    "appearanceId": "flat extended hand with fingers together and thumb angled outward resembling a lizard head; palm-down flat gesture",
+    "functionalityId": "represents the lizard gesture in rock-paper-scissors-lizard-Spock; displays a flat extending hand shape",
+    "intentId": "indicate the lizard move in an extended hand game; represent a lizard or flat-hand gesture"
+  },
+  "fa-hand-love": {
+    "appearanceId": "open hand with fingers forming a heart shape using thumb and index finger; hand held up with a heart outline",
+    "functionalityId": "represents a love or affection hand gesture; displays a hand making a heart symbol",
+    "intentId": "express love, care, or affection; signal warmth or emotional connection"
+  },
+  "fa-hand-middle-finger": {
+    "appearanceId": "fist with middle finger extended upward; four fingers curled with center finger raised alone",
+    "functionalityId": "represents a rude or offensive hand gesture; displays the middle-finger salute",
+    "intentId": "indicate profanity or offensive content; convey irreverence or an explicit gesture warning"
+  },
+  "fa-hand-peace": {
+    "appearanceId": "hand with index and middle fingers extended in a V-shape; two raised fingers forming a peace or victory sign",
+    "functionalityId": "represents a peace or victory hand gesture; displays a two-finger V-sign",
+    "intentId": "convey peace, harmony, or victory; signal a positive or non-violent sentiment"
+  },
+  "fa-hand-point-down": {
+    "appearanceId": "hand with index finger extended pointing downward; single finger pointing straight down with other fingers curled",
+    "functionalityId": "points downward to direct attention below; indicates a location or element beneath",
+    "intentId": "direct user attention downward; indicate a below-positioned item or scroll prompt"
+  },
+  "fa-hand-point-left": {
+    "appearanceId": "hand with index finger extended pointing left; single finger pointing horizontally left with other fingers curled",
+    "functionalityId": "points leftward to direct attention; indicates a location or element to the left",
+    "intentId": "direct user attention to the left; indicate a previous item or leftward navigation"
+  },
+  "fa-hand-point-ribbon": {
+    "appearanceId": "hand with index finger extended pointing, wearing or touching a ribbon badge; pointing finger with a decorative ribbon",
+    "functionalityId": "points to or highlights a ribbon or award; directs attention to a badge or recognition element",
+    "intentId": "highlight an award, badge, or achievement; indicate a featured or certified item"
+  },
+  "fa-hand-point-right": {
+    "appearanceId": "hand with index finger extended pointing right; single finger pointing horizontally right with other fingers curled",
+    "functionalityId": "points rightward to direct attention; indicates a location or element to the right",
+    "intentId": "direct user attention to the right; indicate a next item or rightward navigation"
+  },
+  "fa-hand-point-up": {
+    "appearanceId": "hand with index finger extended pointing upward; single finger pointing straight up with other fingers curled",
+    "functionalityId": "points upward to direct attention above; indicates a location or element above",
+    "intentId": "direct user attention upward; indicate a top-positioned item or scroll-up prompt"
+  },
+  "fa-hand-pointer": {
+    "appearanceId": "hand cursor with index finger extended downward as a click pointer; cursor-style pointing hand with finger angled down",
+    "functionalityId": "represents a clickable cursor or interactive pointer; indicates a selectable or tappable element",
+    "intentId": "signal an interactive or clickable element; indicate a link or tappable UI component"
+  },
+  "fa-hand-receiving": {
+    "appearanceId": "open upward-facing palm with fingers extended ready to receive; cupped hand facing up in a receiving posture",
+    "functionalityId": "represents accepting or receiving an item; displays a hand open to catch or collect",
+    "intentId": "indicate receiving, accepting, or collecting; convey an intake or donation-receive action"
+  },
+  "fa-hand-rock": {
+    "appearanceId": "closed fist with all fingers curled forming a rock shape; balled hand in the rock gesture",
+    "functionalityId": "represents the rock gesture in rock-paper-scissors; displays a clenched fist sign",
+    "intentId": "indicate the rock move in a hand game; convey strength or a clenched-fist symbol"
+  },
+  "fa-hand-scissors": {
+    "appearanceId": "hand with index and middle fingers extended in a V and spread apart like scissors blades; two-finger scissor gesture",
+    "functionalityId": "represents the scissors gesture in rock-paper-scissors; displays a two-finger cutting motion",
+    "intentId": "indicate the scissors move in a hand game; represent cutting or a scissors action"
+  },
+  "fa-hand-sparkles": {
+    "appearanceId": "open raised hand surrounded by small sparkle or star symbols; hand with glittering particles radiating outward",
+    "functionalityId": "represents cleanliness, magic, or sanitizing with a hand gesture; displays a sparkling hand",
+    "intentId": "indicate hand hygiene, magic, or a clean gesture; convey sanitizing or a special touch"
+  },
+  "fa-hand-spock": {
+    "appearanceId": "hand with fingers spread in a Vulcan salute—split between ring and middle fingers with thumb extended; V-split spread hand",
+    "functionalityId": "represents the Vulcan salute hand gesture; displays the live-long-and-prosper sign",
+    "intentId": "convey a sci-fi or Star Trek greeting; signal the Spock move in an extended hand game"
+  },
+  "fa-hand-wave": {
+    "appearanceId": "open hand with fingers together raised and slightly curved as if waving; flat hand tilted in a greeting wave",
+    "functionalityId": "represents a greeting or farewell wave gesture; displays a waving hand sign",
+    "intentId": "convey a hello or goodbye greeting; indicate a friendly welcome or departure"
+  },
+  "fa-handcuffs": {
+    "appearanceId": "two linked metal cuffs connected by a short chain; pair of circular restraints joined together",
+    "functionalityId": "represents restraint or law enforcement; displays a pair of handcuffs",
+    "intentId": "indicate arrest, detention, or law enforcement activity; convey restriction or criminal justice"
+  },
+  "fa-hands": {
+    "appearanceId": "two open palms facing each other with fingers spread; a pair of hands displayed symmetrically",
+    "functionalityId": "represents collaboration, service, or open hands; displays two hands facing each other",
+    "intentId": "convey community support, service, or openness; indicate cooperation or hands-on assistance"
+  },
+  "fa-hands-bound": {
+    "appearanceId": "two wrists held together bound with a rope or restraint; paired hands tied at the wrists",
+    "functionalityId": "represents restriction or captivity; displays two bound or tied hands",
+    "intentId": "indicate restraint, captivity, or human rights issues; convey restriction of freedom"
+  },
+  "fa-hands-clapping": {
+    "appearanceId": "two hands meeting in a clap position with palms facing each other at an angle; hands mid-clap with fingers upward",
+    "functionalityId": "represents applause or celebrating with clapping; displays two hands in a clapping motion",
+    "intentId": "convey applause, celebration, or approval; indicate appreciation or a congratulatory reaction"
+  },
+  "fa-hands-heart": {
+    "appearanceId": "two open hands cupped together forming a heart shape between the palms; hands framing or cradling a heart outline",
+    "functionalityId": "represents care, compassion, or charitable giving; displays hands holding or forming a heart",
+    "intentId": "convey love, generosity, or healthcare support; indicate a caring or charitable act"
+  },
+  "fa-hands-helping": {
+    "appearanceId": "one hand extended flat with another hand clasping it from above in an assistive grip; handshake-like helping gesture",
+    "functionalityId": "represents assistance or support being offered; displays a helping or assisting hand grip",
+    "intentId": "convey mutual aid, volunteering, or support services; indicate help or community assistance"
+  },
+  "fa-hands-holding": {
+    "appearanceId": "two hands positioned from opposite sides with palms up and fingers toward center as if jointly holding something; paired cupped hands",
+    "functionalityId": "represents jointly holding or sharing an object; displays two hands holding together",
+    "intentId": "indicate joint ownership, sharing, or collaborative stewardship; convey partnership in holding something"
+  },
+  "fa-hands-holding-child": {
+    "appearanceId": "two hands supporting a small child figure from beneath; large hands cradling a small human silhouette",
+    "functionalityId": "represents child care or child protection; displays hands safeguarding a child",
+    "intentId": "convey childcare, foster care, or child welfare; indicate protection or nurturing of a child"
+  },
+  "fa-hands-holding-circle": {
+    "appearanceId": "two hands reaching in from sides supporting or framing a circular shape; hands holding a round object or globe",
+    "functionalityId": "represents holding or protecting a circle or globe; displays hands cradling a round element",
+    "intentId": "convey global stewardship, community, or world care; indicate protecting or sharing a circular resource"
+  },
+  "fa-hands-praying": {
+    "appearanceId": "two palms pressed together with fingers pointing upward in a prayer or namaste pose; hands clasped vertically",
+    "functionalityId": "represents prayer, meditation, or a respectful greeting; displays pressed palms in devotion",
+    "intentId": "convey prayer, spirituality, or gratitude; indicate a religious gesture or respectful salutation"
+  },
+  "fa-hands-usd": {
+    "appearanceId": "two hands with a dollar bill or currency symbol between them; paired hands exchanging or holding money",
+    "functionalityId": "represents a financial transaction or money exchange between parties; displays hands handling currency",
+    "intentId": "indicate a payment, fundraising, or financial exchange; convey monetary transaction or financial support"
+  },
+  "fa-hands-wash": {
+    "appearanceId": "two hands rubbing together with water droplets or soap bubbles around them; hands in a washing motion",
+    "functionalityId": "represents handwashing or sanitizing hands; displays hands being scrubbed clean",
+    "intentId": "convey hand hygiene or sanitation practices; indicate a hygiene reminder or cleaning step"
+  },
+  "fa-handshake": {
+    "appearanceId": "two hands clasped together in a firm handshake grip; right and left hands interlocked at the fingers",
+    "functionalityId": "represents agreement, partnership, or greeting; displays two clasped hands in a handshake",
+    "intentId": "convey a deal, partnership, or formal greeting; indicate agreement or collaborative relationship"
+  },
+  "fa-handshake-alt": {
+    "appearanceId": "two hands clasped in a handshake viewed from an alternate angle or style; paired clasped hands in a variant composition",
+    "functionalityId": "represents an alternate version of agreement or partnership handshake; displays clasped hands with different framing",
+    "intentId": "convey a deal or partnership in an alternative presentation; indicate agreement or collaboration"
+  },
+  "fa-handshake-alt-slash": {
+    "appearanceId": "two clasped handshake hands with a diagonal slash line across them; handshake with a cancellation stroke",
+    "functionalityId": "represents a broken agreement or no-deal state; displays a cancelled or negated handshake",
+    "intentId": "indicate a failed deal, cancelled partnership, or no-contact policy; convey rejection of an agreement"
+  },
+  "fa-handshake-slash": {
+    "appearanceId": "two clasped hands in a handshake with a diagonal slash through them; standard handshake crossed out by a line",
+    "functionalityId": "represents a rejected handshake or no-contact directive; displays a handshake negated by a slash",
+    "intentId": "indicate social distancing, no handshake policy, or a broken deal; convey avoidance of physical contact"
+  },
+  "fa-hanukiah": {
+    "appearanceId": "nine-branched candelabra with a raised central shamash candle and eight branches; menorah-style candle holder with nine arms",
+    "functionalityId": "represents the Jewish Hanukkah candelabra; displays a nine-branch hanukiah or Hanukkah menorah",
+    "intentId": "indicate Hanukkah, Jewish faith, or the Festival of Lights; convey a religious or cultural holiday symbol"
+  },
+  "fa-hard-hat": {
+    "appearanceId": "rigid dome-shaped safety helmet with a brim around the base; rounded protective construction hat with a flat brim",
+    "functionalityId": "represents construction safety or worker protection headgear; displays a hard hat or safety helmet",
+    "intentId": "indicate a construction site, safety requirement, or industrial work zone; convey worker safety or building activity"
+  },
+  "fa-hashtag": {
+    "appearanceId": "two horizontal lines crossed by two vertical lines forming a hash or pound sign; grid-like # symbol",
+    "functionalityId": "represents a hashtag, number sign, or social media tag; displays the # character",
+    "intentId": "indicate a social media topic tag or numbered item; convey categorization or trending content"
+  },
+  "fa-hashtag-lock": {
+    "appearanceId": "hash or pound sign # with a small padlock overlay on or beside it; hashtag symbol combined with a lock shape",
+    "functionalityId": "represents a locked or private hashtag or channel; displays a secured # tag",
+    "intentId": "indicate a restricted or private social channel or tag; convey locked topic access"
+  },
+  "fa-hat-beach": {
+    "appearanceId": "wide-brimmed floppy sun hat with a decorative bow or ribbon band; broad-brimmed summer hat with flowing brim",
+    "functionalityId": "represents a beach or sun hat for leisure wear; displays a wide-brim summer hat",
+    "intentId": "convey beach vacation, leisure, or sun protection; indicate a tropical or outdoor relaxation setting"
+  },
+  "fa-hat-chef": {
+    "appearanceId": "tall rounded cylindrical toque hat with a gathered puffed top; classic white chef hat with a tall pleated crown",
+    "functionalityId": "represents a chef or culinary professional; displays a chef's toque hat",
+    "intentId": "indicate cooking, culinary arts, or a restaurant context; convey professional kitchen or chef identity"
+  },
+  "fa-hat-cowboy": {
+    "appearanceId": "wide-brimmed cowboy hat with a center-creased crown viewed from the front; broad flat brim with indented top",
+    "functionalityId": "represents western or cowboy culture; displays a cowboy hat from the front",
+    "intentId": "indicate a western theme, ranch, or cowboy identity; convey rodeo, country, or outdoor western culture"
+  },
+  "fa-hat-cowboy-side": {
+    "appearanceId": "wide-brimmed cowboy hat viewed from the side showing the curved brim profile; side-profile western hat silhouette",
+    "functionalityId": "represents western or cowboy culture from a side view; displays a side-facing cowboy hat",
+    "intentId": "indicate a western theme or cowboy identity from a profile angle; convey rodeo or country culture"
+  },
+  "fa-hat-santa": {
+    "appearanceId": "pointed red Santa hat with a white folded brim and a round pompom at the tip; drooping conical holiday hat",
+    "functionalityId": "represents Santa Claus or Christmas holiday; displays a Santa hat with a pompom tip",
+    "intentId": "indicate Christmas, holiday festivities, or Santa Claus; convey a festive or seasonal celebration"
+  },
+  "fa-hat-winter": {
+    "appearanceId": "rounded knit beanie or winter cap with a folded cuff brim; soft dome-shaped knit hat with a rolled band",
+    "functionalityId": "represents cold-weather headwear or winter apparel; displays a knit winter beanie",
+    "intentId": "indicate winter season, cold weather, or seasonal apparel; convey warmth or winter outdoor activity"
+  },
+  "fa-hat-witch": {
+    "appearanceId": "tall pointed conical hat with a wide flat brim; classic witch hat with a sharp peaked crown and broad flat brim",
+    "functionalityId": "represents a witch, Halloween, or fantasy magic; displays a pointed witch hat",
+    "intentId": "indicate Halloween, witchcraft, or a fantasy/magic theme; convey a spooky or mystical context"
+  }
+}

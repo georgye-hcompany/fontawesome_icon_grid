@@ -1,0 +1,242 @@
+{
+  "fa-floppy-disk-pen": {
+    "appearanceId": "square floppy disk outline with a sliding metal shutter at the bottom and a small pen or pencil overlaid in the lower right corner; storage disk shape with a writing instrument badge",
+    "functionalityId": "saves an in-progress edit or draft directly to disk; writes and stores modified content in a file",
+    "intentId": "save edits or annotated changes to a file; persist a drafted or annotated document"
+  },
+  "fa-floppy-disks": {
+    "appearanceId": "two overlapping square floppy disk outlines stacked or side by side, each with a shutter slot; a pair of storage disk silhouettes arranged as a duplicate set",
+    "functionalityId": "saves multiple files or creates a duplicate backup copy; manages multiple storage media or disk slots",
+    "intentId": "back up data across multiple disks; save copies of files to more than one storage location"
+  },
+  "fa-florin-sign": {
+    "appearanceId": "stylized lowercase f with two horizontal crossbars through the stem; a currency glyph resembling a script f with dual parallel strikethrough lines",
+    "functionalityId": "displays or selects the florin or guilder currency symbol; represents a historical Dutch or Hungarian monetary denomination",
+    "intentId": "indicate a price in florin or guilder currency; access historical European currency data in a financial app"
+  },
+  "fa-flower": {
+    "appearanceId": "circular bloom with multiple rounded petals radiating symmetrically around a central round disc; generic five or six petal flower silhouette with a solid center",
+    "functionalityId": "marks a floral, botanical, or nature category in an app; decorates content with a flower motif",
+    "intentId": "indicate a floral or garden-related theme; access botanical or nature content"
+  },
+  "fa-flower-daffodil": {
+    "appearanceId": "daffodil bloom with six pointed petals radiating outward and a protruding central trumpet or corona cup in the middle; star-shaped petal ring surrounding a raised cylindrical center tube",
+    "functionalityId": "marks a spring flower or daffodil category in a botanical or garden app; represents a trumpet-flowered plant species",
+    "intentId": "indicate a spring or daffodil floral theme; access botanical content related to trumpet-shaped flowers"
+  },
+  "fa-flower-tulip": {
+    "appearanceId": "tulip bloom with three rounded outer petals forming a cup or goblet shape on a straight stem with two leaf blades; closed-cup petal silhouette on an upright stalk with lateral leaves",
+    "functionalityId": "marks a tulip or spring flower category in a botanical or garden app; represents a cup-shaped bloom in a floral catalog",
+    "intentId": "indicate a tulip or spring floral theme; access bulb-flower content in a botanical or garden app"
+  },
+  "fa-flushed": {
+    "appearanceId": "circular face outline with wide circular eyes, rosy or shaded cheeks on both sides of the face, and a small neutral mouth; round emoticon with large dot eyes and visible blush marks on the cheeks",
+    "functionalityId": "expresses embarrassment, surprise, or flushed emotion in a message; inserts a blushing or red-faced emoji reaction",
+    "intentId": "convey embarrassment or flustered emotion in a chat; react with a blushing or surprised face expression"
+  },
+  "fa-flute": {
+    "appearanceId": "long thin horizontal cylinder or tube with a series of small circular tone holes along its length and a blow hole near one end; slender woodwind pipe silhouette with evenly spaced finger holes",
+    "functionalityId": "selects or plays a flute instrument in a music or orchestra app; marks a woodwind or orchestral instrument category",
+    "intentId": "play or compose with a flute instrument; access woodwind or orchestral instrument settings"
+  },
+  "fa-flux-capacitor": {
+    "appearanceId": "Y-shaped or three-pronged fork outline with glowing or spark-like marks at each tip and a central hub; trident or branching connector shape with radiating energy marks at each branch end",
+    "functionalityId": "represents a time-travel or science-fiction power source element; marks a retro-futuristic or novelty feature in a themed app",
+    "intentId": "access a time-travel or retro sci-fi themed feature; indicate a fictional power or energy concept in an entertainment app"
+  },
+  "fa-flying-disc": {
+    "appearanceId": "flat circular disc shape with a slightly domed top and a narrow rim or lip around the edge; shallow saucer silhouette with a curved upper surface and a defined outer edge ring",
+    "functionalityId": "marks a frisbee or disc sport activity in a recreation or sports app; represents an outdoor throwing game or toy",
+    "intentId": "find disc golf, frisbee, or outdoor throwing game content; access flying disc sports or recreation categories"
+  },
+  "fa-fog": {
+    "appearanceId": "several horizontal wavy or straight parallel lines of decreasing length stacked to suggest haze; layered horizontal stroke bands representing obscured visibility or mist",
+    "functionalityId": "displays a fog or low-visibility weather condition in a forecast app; indicates misty or hazy atmospheric conditions",
+    "intentId": "check fog or haze weather conditions; indicate low-visibility weather in a forecast or map view"
+  },
+  "fa-folder": {
+    "appearanceId": "folder shape with a flat bottom, two vertical sides, and a top edge with a small rectangular tab on the left; standard file folder silhouette with a protruding label tab at the upper-left corner",
+    "functionalityId": "opens or navigates to a directory or file container; represents a folder in a file system browser",
+    "intentId": "organize or access files stored in a folder; navigate to a directory in a file manager"
+  },
+  "fa-folder-bookmark": {
+    "appearanceId": "folder silhouette with a small ribbon bookmark or pennant shape overlaid at the lower right corner; standard folder tab outline with a pointed-bottom bookmark badge",
+    "functionalityId": "saves a folder as a favorite or bookmarked location; marks a directory as a pinned or starred destination",
+    "intentId": "bookmark a folder for quick access; mark a directory as a favorite in a file manager"
+  },
+  "fa-folder-check": {
+    "appearanceId": "folder silhouette with a checkmark overlaid in the lower right area; standard folder tab outline with a tick mark badge indicating completion",
+    "functionalityId": "marks a folder as reviewed, complete, or approved; confirms that a directory has been processed or verified",
+    "intentId": "indicate that a folder's contents have been reviewed or completed; mark a directory as verified or done"
+  },
+  "fa-folder-closed": {
+    "appearanceId": "closed folder shape with a flat bottom, vertical sides, a tab on top, and a visible front face panel suggesting it is shut; folder silhouette with a prominent front face indicating a sealed or closed state",
+    "functionalityId": "indicates a directory that is currently closed or not expanded; collapses an open folder back to its closed state",
+    "intentId": "close or collapse a folder in a file tree; indicate an unexpanded or sealed directory"
+  },
+  "fa-folder-cog": {
+    "appearanceId": "folder silhouette with a gear or cog wheel overlaid in the lower right corner; standard folder tab outline with a settings gear badge",
+    "functionalityId": "opens folder settings or configuration options; manages directory properties or permissions",
+    "intentId": "configure a folder's settings or permissions; access directory management options"
+  },
+  "fa-folder-download": {
+    "appearanceId": "folder silhouette with a downward-pointing arrow overlaid inside or at the bottom center; folder tab outline with a download arrow badge pointing downward",
+    "functionalityId": "downloads all contents of a folder to a local device; initiates a bulk download from a directory",
+    "intentId": "download an entire folder or its contents; save a remote directory locally"
+  },
+  "fa-folder-grid": {
+    "appearanceId": "folder silhouette with a small grid of dots or squares overlaid on the front face; standard folder tab outline with a four-dot or two-by-two grid pattern badge",
+    "functionalityId": "switches a folder view to a grid or thumbnail layout; displays directory contents as a grid of items",
+    "intentId": "view folder contents in a grid layout; toggle a directory to tile or thumbnail display mode"
+  },
+  "fa-folder-heart": {
+    "appearanceId": "folder silhouette with a heart shape overlaid in the center or lower right area; standard folder tab outline with a heart badge indicating affection or favoriting",
+    "functionalityId": "marks a folder as loved or favorited with a heart; saves a directory to a favorites or loved collection",
+    "intentId": "favorite or like a folder for personal use; mark a directory as a loved or special collection"
+  },
+  "fa-folder-image": {
+    "appearanceId": "folder silhouette with a small landscape image frame or photo thumbnail overlaid on the front face; folder tab outline with a picture or photo badge inside",
+    "functionalityId": "opens an image or media folder in a gallery or file browser; marks a directory as containing photos or visual assets",
+    "intentId": "browse a folder of images or photos; access a media or picture directory"
+  },
+  "fa-folder-medical": {
+    "appearanceId": "folder silhouette with a medical cross or plus symbol overlaid in the center; standard folder tab outline with a healthcare cross badge",
+    "functionalityId": "opens a medical records folder or health documents directory; marks a folder as containing healthcare or clinical files",
+    "intentId": "access medical records or health-related documents in a folder; organize clinical files in a healthcare directory"
+  },
+  "fa-folder-minus": {
+    "appearanceId": "folder silhouette with a horizontal minus bar overlaid in the center or lower area; standard folder tab outline with a subtraction dash badge",
+    "functionalityId": "removes a folder from a list or collapses a directory branch; deletes or unsubscribes from a folder",
+    "intentId": "remove or unsubscribe from a folder; delete a directory from a file system"
+  },
+  "fa-folder-music": {
+    "appearanceId": "folder silhouette with a musical note overlaid on the front face; standard folder tab outline with a single or double music note badge",
+    "functionalityId": "opens a music or audio files folder; marks a directory as containing audio tracks or music assets",
+    "intentId": "browse a folder of music or audio files; access a music library directory"
+  },
+  "fa-folder-open": {
+    "appearanceId": "open folder shape with a tab on top, vertical sides, and a raised or lifted front flap revealing the interior; folder silhouette with the front panel angled upward showing an open cavity",
+    "functionalityId": "opens or expands a folder to display its contents; navigates into a directory in a file browser",
+    "intentId": "view the contents of a folder; expand a directory to see its files"
+  },
+  "fa-folder-plus": {
+    "appearanceId": "folder silhouette with a plus or cross symbol overlaid in the center; standard folder tab outline with an addition sign badge",
+    "functionalityId": "creates a new folder or adds a directory to the file system; adds files or items to an existing folder",
+    "intentId": "create a new directory or folder; add a new folder to a file manager"
+  },
+  "fa-folder-search": {
+    "appearanceId": "folder silhouette with a magnifying glass overlaid in the lower right corner; standard folder tab outline with a search lens badge",
+    "functionalityId": "searches within a folder's contents or across directories; opens a file search tool scoped to a specific folder",
+    "intentId": "find files inside a folder or directory; search for content within a specific directory"
+  },
+  "fa-folder-times": {
+    "appearanceId": "folder silhouette with an X mark overlaid in the center or lower right area; standard folder tab outline with a close or delete cross badge",
+    "functionalityId": "deletes or removes a folder from the file system; cancels or dismisses a selected directory",
+    "intentId": "delete or close a folder; remove a directory from a file manager"
+  },
+  "fa-folder-tree": {
+    "appearanceId": "folder silhouette with a branching tree or hierarchical node diagram overlaid on the front; folder tab outline with a file-tree branch structure badge showing parent and child nodes",
+    "functionalityId": "displays or navigates a hierarchical folder tree structure; expands a directory tree showing nested subdirectories",
+    "intentId": "explore a hierarchical file or folder tree; navigate nested directory structures"
+  },
+  "fa-folder-upload": {
+    "appearanceId": "folder silhouette with an upward-pointing arrow overlaid inside or at the top center; folder tab outline with an upload arrow badge pointing upward",
+    "functionalityId": "uploads files from a local folder to a remote server or cloud; initiates a bulk upload from a selected directory",
+    "intentId": "upload a folder or its contents to a cloud or server; transfer local directory files to remote storage"
+  },
+  "fa-folder-user": {
+    "appearanceId": "folder silhouette with a person or user silhouette overlaid in the center; standard folder tab outline with a human figure badge",
+    "functionalityId": "opens a user's personal folder or profile directory; marks a folder as belonging to a specific user",
+    "intentId": "access a user's personal file directory; view or manage files associated with a specific user account"
+  },
+  "fa-folders": {
+    "appearanceId": "two or more folder shapes stacked or overlapping with tab outlines visible; a set of folder silhouettes grouped together suggesting multiple directories",
+    "functionalityId": "navigates to a collection of folders or a multi-directory view; manages multiple directories or folder groups at once",
+    "intentId": "browse multiple folders or directories at once; manage a collection of file folders"
+  },
+  "fa-fondue-pot": {
+    "appearanceId": "round pot or cauldron shape on a stand with a small burner or flame beneath and dipping forks leaning against it; circular cooking vessel silhouette on legs with a heat source and utensil accents",
+    "functionalityId": "marks a fondue dish or Swiss cuisine category in a food or restaurant app; represents a communal hot-pot cooking activity",
+    "intentId": "find fondue recipes or Swiss cuisine options; access communal cooking or hot-pot dining content"
+  },
+  "fa-font": {
+    "appearanceId": "large capital letter A with serifs and smaller lowercase letters or a second A nearby forming a typographic glyph pair; single or paired letterform glyphs representing a typeface",
+    "functionalityId": "opens a font selector or typeface settings panel; changes the font family of selected text",
+    "intentId": "choose or change a text font or typeface; access typography settings for a document or design"
+  },
+  "fa-font-case": {
+    "appearanceId": "large uppercase letter A paired with a small lowercase letter a side by side; a capital and lowercase letter glyph duo representing case toggling",
+    "functionalityId": "toggles text between uppercase, lowercase, or title case; changes the letter case of selected text in an editor",
+    "intentId": "change the capitalization or case of text; toggle between uppercase and lowercase in a text editor"
+  },
+  "fa-football": {
+    "appearanceId": "oval or prolate spheroid shape with curved lacing stitches along the center seam; elongated elliptical ball silhouette with stitch marks on its surface",
+    "functionalityId": "marks an American football sport category or game event; represents football-related content in a sports app",
+    "intentId": "access American football scores, games, or content; browse football-related sports information"
+  },
+  "fa-football-helmet": {
+    "appearanceId": "domed helmet shape with a face guard or cage grille in front and a chin strap outline; protective sports headgear silhouette with a bar-grid visor attached to the front",
+    "functionalityId": "marks a football player or team gear category; represents protective sports equipment in a sporting goods or team management app",
+    "intentId": "access football gear, team equipment, or player safety content; browse American football helmet or protective gear options"
+  },
+  "fa-fork": {
+    "appearanceId": "long-handled utensil with four upward-pointing tines at the top; dining fork silhouette with a straight handle and a multi-prong head",
+    "functionalityId": "marks a dining, restaurant, or meal category in a food app; represents eating utensils in a kitchen or menu context",
+    "intentId": "find dining or restaurant options; indicate a meal or eating context in a food app"
+  },
+  "fa-fork-knife": {
+    "appearanceId": "a fork with tines on the left and a knife with a blade on the right placed side by side; paired dining utensil silhouettes with a fork and knife facing upward",
+    "functionalityId": "opens a restaurant, meal, or dining category in a food app; marks a location as a place to eat",
+    "intentId": "find a restaurant or dining option; indicate a meal or food service context"
+  },
+  "fa-forklift": {
+    "appearanceId": "industrial vehicle silhouette with two horizontal fork tines protruding from the front, a vertical mast, and a cab body with wheels; warehouse lift truck outline with front lifting forks and a driver cab",
+    "functionalityId": "marks a warehouse, logistics, or heavy-lift equipment category; represents material handling or pallet-moving operations",
+    "intentId": "manage warehouse equipment or logistics operations; access forklift or material handling content in an industrial app"
+  },
+  "fa-fort": {
+    "appearanceId": "rectangular or square fortress outline with battlements or crenellations along the top wall and a gate or door opening at the bottom; castle wall silhouette with notched parapets and an arched entrance",
+    "functionalityId": "marks a historical site, fort, or castle location on a map; represents a defensive structure in a game or history app",
+    "intentId": "explore a fort or castle location or historical site; access fortification-themed content in a game or history app"
+  },
+  "fa-forward": {
+    "appearanceId": "two right-pointing solid triangles or arrowheads side by side forming a fast-forward double chevron; a pair of filled play triangles pointing to the right",
+    "functionalityId": "skips forward in media playback or advances to the next track; fast-forwards through audio or video content",
+    "intentId": "skip ahead or fast-forward in media playback; advance to the next item in a playlist"
+  },
+  "fa-forward-step": {
+    "appearanceId": "a single right-pointing filled triangle followed by a vertical bar on the right side; one play arrowhead with a stop bar at its right edge indicating a single-step advance",
+    "functionalityId": "advances playback to the next track or step in a queue; skips to the immediately following media item",
+    "intentId": "go to the next track or step in a media playlist; advance one item forward in a queue"
+  },
+  "fa-fragile": {
+    "appearanceId": "wine glass or goblet silhouette with crack marks or fracture lines on it, sometimes inside a square or diamond border; breakable glassware outline with shatter marks indicating delicate contents",
+    "functionalityId": "marks a package or item as fragile or breakable; indicates that contents require careful handling during shipping",
+    "intentId": "label a shipment as fragile or handle-with-care; indicate that an item is breakable and requires gentle handling"
+  },
+  "fa-frame": {
+    "appearanceId": "rectangular border outline with corner marks or a simple box frame with no interior content; thin-lined square or portrait rectangle resembling an empty picture frame",
+    "functionalityId": "adds a frame or border around an image or content area; selects or defines a frame boundary in a design tool",
+    "intentId": "frame or border an image or design element; define a framed container in a layout or design tool"
+  },
+  "fa-franc-sign": {
+    "appearanceId": "capital letter F with two horizontal crossbars through the upper stem portion; a currency glyph resembling an uppercase F with dual parallel strikethrough lines",
+    "functionalityId": "displays or selects the Swiss franc or French franc currency symbol; represents a franc-denominated monetary value in a financial app",
+    "intentId": "indicate a price or value in Swiss or French francs; access franc currency data in a financial or banking app"
+  },
+  "fa-french-fries": {
+    "appearanceId": "rectangular carton or cup container with several elongated stick shapes sticking up from the top; takeout fry box silhouette with vertical rectangular strips representing fried potatoes",
+    "functionalityId": "marks a fast food or fried side dish option in a food or restaurant menu; represents a fries or snack category",
+    "intentId": "find french fries or fast food side dish options; browse snack or fast food items in a restaurant app"
+  },
+  "fa-frog": {
+    "appearanceId": "compact frog body silhouette with two large hind legs splayed outward, small front legs, and a wide rounded head with protruding eyes; amphibian outline with long rear legs and bulging eye bumps on top",
+    "functionalityId": "marks an amphibian, nature, or wildlife category in an app; represents a frog or pond life element in a nature or educational context",
+    "intentId": "access wildlife or amphibian content; indicate a pond, nature, or frog-themed element in an app"
+  },
+  "fa-frosty-head": {
+    "appearanceId": "snowman or round head shape with a carrot nose, dot eyes, and a winter hat or snow-covered top; circular face silhouette with facial feature dots and a pointed nose suggesting a frosty snowman",
+    "functionalityId": "marks a winter, snowman, or holiday themed element in an app; represents a frosty or cold-weather character",
+    "intentId": "indicate a winter holiday or snowman-themed feature; access cold-weather or festive seasonal content"
+  }
+}

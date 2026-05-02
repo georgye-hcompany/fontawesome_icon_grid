@@ -1,0 +1,242 @@
+{
+  "fa-frown": {
+    "appearanceId": "a circular face outline with two dot eyes and a curved downward-arching mouth suggesting sadness; round head silhouette with drooping smile line and small circular pupils",
+    "functionalityId": "indicates a negative reaction or unhappy sentiment; marks feedback or a rating as unfavorable",
+    "intentId": "express dissatisfaction or a negative emotional response; submit a negative review or reaction"
+  },
+  "fa-frown-open": {
+    "appearanceId": "a circular face outline with two dot eyes and a wide open downward-curving mouth forming a pronounced frown; round head silhouette with an open-mouthed unhappy expression",
+    "functionalityId": "indicates a strongly negative or distressed reaction; marks feedback as very unhappy or upset",
+    "intentId": "express strong dissatisfaction or distress; convey an extremely negative emotional response"
+  },
+  "fa-function": {
+    "appearanceId": "a stylized lowercase f-like mathematical function symbol with a curved stem and crossbar resembling a script letter; italic cursive f shape with a horizontal line through the middle",
+    "functionalityId": "represents or inserts a mathematical or programming function; opens a formula or function editor",
+    "intentId": "work with mathematical functions or formulas; access function-related tools in a calculator or code editor"
+  },
+  "fa-funnel-dollar": {
+    "appearanceId": "a downward-pointing triangular funnel shape with a dollar sign symbol overlaid or embedded within it; inverted triangle filter form combined with a currency symbol",
+    "functionalityId": "filters or sorts items by monetary value or cost; applies a financial criteria to narrow a list of results",
+    "intentId": "filter data by price or financial parameters; narrow results to a specific budget or cost range"
+  },
+  "fa-futbol": {
+    "appearanceId": "a circle representing a soccer ball with a classic black pentagonal and white hexagonal panel pattern across its surface; spherical ball outline with interlocking polygonal patches",
+    "functionalityId": "navigates to a soccer or football sports section; represents a football or futbol game or team",
+    "intentId": "access soccer or football-related content or scores; find information about a futbol match or team"
+  },
+  "fa-g": {
+    "appearanceId": "a single uppercase letter G with a curved open arc and a small horizontal bar extending inward at mid-height; blocky capital G letterform with an inner shelf on the right side",
+    "functionalityId": "represents the letter G as a label or initial; marks a category or item starting with the letter G",
+    "intentId": "label or categorize content starting with G; use the letter G as a shorthand or identifier"
+  },
+  "fa-galaxy": {
+    "appearanceId": "a spiral galaxy shape with curved arms radiating outward from a bright central core and scattered star dots; swirling disc form with pinwheel arms and a luminous nucleus",
+    "functionalityId": "represents outer space or astronomical content; navigates to a cosmic or space-themed section",
+    "intentId": "explore space or astronomy-related content; access a cosmic or universe-themed feature"
+  },
+  "fa-gallery-thumbnails": {
+    "appearanceId": "a grid of small rectangular thumbnail boxes arranged in rows and columns with a larger featured image at the top; mosaic layout of preview frames in a structured gallery formation",
+    "functionalityId": "switches the view to a thumbnail gallery layout; displays media items as a grid of small previews",
+    "intentId": "browse a collection of images or media in thumbnail format; switch to a visual grid layout for a photo gallery"
+  },
+  "fa-game-board": {
+    "appearanceId": "a square board divided into a grid of smaller squares resembling a checkerboard or game grid with alternating filled cells; flat game surface with a regular checkerboard tile pattern",
+    "functionalityId": "opens a board game interface or game grid view; navigates to a turn-based or strategy game board",
+    "intentId": "play a board game or strategy game; access a grid-based game interface"
+  },
+  "fa-game-board-alt": {
+    "appearanceId": "a square board with a grid of cells and a different arrangement of pieces or markers compared to the standard board; game grid surface with an alternative pattern of filled and empty squares",
+    "functionalityId": "opens an alternate board game layout or variant game grid; switches to a different game board configuration",
+    "intentId": "access an alternative board game mode or layout; play a variant of a grid-based game"
+  },
+  "fa-game-console-handheld": {
+    "appearanceId": "a rectangular handheld gaming device with a small screen in the center, a directional pad on the left, and action buttons on the right; portable console silhouette with a display and control buttons",
+    "functionalityId": "represents a handheld gaming device or portable game; opens a mobile or portable gaming section",
+    "intentId": "access handheld or portable game content; find games compatible with a handheld console"
+  },
+  "fa-game-console-handheld-crank": {
+    "appearanceId": "a rectangular handheld console with a small screen, control buttons, and a small side-mounted crank handle protruding from the edge; portable gaming device silhouette with a rotary crank accessory",
+    "functionalityId": "represents a crank-operated handheld gaming device; opens content related to a crank-mechanism portable console",
+    "intentId": "access content for a crank-mechanism handheld game platform; find games or features for a specific crank-based portable device"
+  },
+  "fa-gamepad": {
+    "appearanceId": "a rounded rectangular game controller with a directional pad on the left, two analog sticks, and action buttons on the right face; classic dual-grip console controller silhouette with button clusters",
+    "functionalityId": "opens a game controller configuration or gaming section; represents video games or a gaming console interface",
+    "intentId": "access gaming features or configure a game controller; navigate to a video game library or gaming hub"
+  },
+  "fa-gamepad-alt": {
+    "appearanceId": "a rounded game controller outline with a different button layout or grip shape than the standard gamepad, featuring a symmetrical or alternative form; alternate console controller silhouette with a variant design",
+    "functionalityId": "opens an alternate gaming controller configuration or secondary game input settings; represents a variant or alternative game controller",
+    "intentId": "configure an alternative game controller or input device; access a secondary gaming control scheme"
+  },
+  "fa-garage": {
+    "appearanceId": "a building facade with a peaked roofline and a wide closed rectangular garage door at the base; house-like structure with a large flat-paneled door taking up most of the front face",
+    "functionalityId": "navigates to a garage or storage space management section; represents a home garage or vehicle storage area",
+    "intentId": "manage a garage space or home storage area; access information about a vehicle garage"
+  },
+  "fa-garage-car": {
+    "appearanceId": "a garage building facade with a peaked roof and an open or closed garage door with a small car silhouette visible inside or in front; house structure with a door opening and a vehicle shape within",
+    "functionalityId": "represents a garage with a parked vehicle inside; navigates to a vehicle storage or parking management section",
+    "intentId": "manage a vehicle stored in a garage; access parking or car storage information"
+  },
+  "fa-garage-open": {
+    "appearanceId": "a garage building facade with a peaked roofline and a fully raised open garage door revealing the interior space; house structure with the large door panel lifted to expose an empty bay",
+    "functionalityId": "indicates an open garage door state; toggles or shows the open status of a garage entrance",
+    "intentId": "check or manage an open garage door; monitor the access state of a garage entry"
+  },
+  "fa-garlic": {
+    "appearanceId": "a rounded bulb shape with a pointed top and segmented cloves visible around its base, resembling a garlic head; teardrop-shaped vegetable bulb with a tuft of roots and layered outer skin",
+    "functionalityId": "tags or categorizes content related to garlic or cooking ingredients; marks a recipe or dish as containing garlic",
+    "intentId": "find recipes or content featuring garlic; filter food items by a specific ingredient"
+  },
+  "fa-gas-pump": {
+    "appearanceId": "a rectangular gas pump body with a nozzle hose hanging off the side and a display panel at the top front; fuel dispenser silhouette with a side-mounted hose and nozzle",
+    "functionalityId": "indicates a fuel station location or gas price information; marks a fueling stop on a map or route",
+    "intentId": "find a nearby gas station or fuel stop; track fuel costs or refueling locations"
+  },
+  "fa-gas-pump-slash": {
+    "appearanceId": "a rectangular gas pump body with a diagonal slash line crossing through the entire shape; fuel dispenser silhouette overlaid with a cancellation or prohibition line",
+    "functionalityId": "indicates that fueling is unavailable or a gas station is closed; marks a location as out of fuel or inaccessible",
+    "intentId": "alert the user that fueling is not available at this location; indicate a fuel supply outage or pump unavailability"
+  },
+  "fa-gauge": {
+    "appearanceId": "a semicircular dial face with tick marks along the arc and a needle pointing to a mid-range position; half-circle speedometer outline with a central pivot needle",
+    "functionalityId": "displays a current measurement or performance level on a scale; monitors a real-time metric such as speed or usage",
+    "intentId": "monitor system performance or a measured value; check the current level of a tracked metric"
+  },
+  "fa-gauge-circle-bolt": {
+    "appearanceId": "a semicircular dial face with a needle and a small circle containing a lightning bolt badge overlaid at the lower portion; half-circle gauge with a power or charge indicator badge",
+    "functionalityId": "displays an electrical power or energy metric on a gauge; monitors a charge level or power output reading",
+    "intentId": "monitor electrical power or energy usage on a gauge; check current power charge or battery level"
+  },
+  "fa-gauge-circle-minus": {
+    "appearanceId": "a semicircular dial face with a needle and a small circle containing a minus sign badge overlaid at the lower portion; half-circle gauge with a reduction or decrease indicator badge",
+    "functionalityId": "displays a gauge reading indicating a decrease or reduction; monitors a metric that has been lowered or throttled",
+    "intentId": "track a reduction in a measured value; monitor a decrease in system performance or output"
+  },
+  "fa-gauge-circle-plus": {
+    "appearanceId": "a semicircular dial face with a needle and a small circle containing a plus sign badge overlaid at the lower portion; half-circle gauge with an increase or addition indicator badge",
+    "functionalityId": "displays a gauge reading indicating an increase or boost; monitors a metric that has been raised or elevated",
+    "intentId": "track an increase in a measured value; monitor a boost in system performance or output"
+  },
+  "fa-gauge-high": {
+    "appearanceId": "a semicircular dial face with tick marks along the arc and a needle pointing toward the high end of the scale near the right side; half-circle speedometer with a pivot needle deflected to upper range",
+    "functionalityId": "indicates a high level or elevated reading on a performance scale; alerts to a high usage or above-normal measurement",
+    "intentId": "monitor a high-level metric or elevated performance value; check if a system measurement is in the high range"
+  },
+  "fa-gauge-low": {
+    "appearanceId": "a semicircular dial face with tick marks along the arc and a needle pointing toward the low end of the scale near the left side; half-circle speedometer with a pivot needle deflected to lower range",
+    "functionalityId": "indicates a low level or reduced reading on a performance scale; alerts to a low usage or below-normal measurement",
+    "intentId": "monitor a low-level metric or reduced performance value; check if a system measurement is in the low range"
+  },
+  "fa-gauge-max": {
+    "appearanceId": "a semicircular dial face with a needle pinned at the maximum far-right position at the top of the scale arc; half-circle speedometer with the pivot needle pointing to the highest tick mark",
+    "functionalityId": "indicates a maximum or peak level reading on a scale; marks the upper limit or full capacity of a measured metric",
+    "intentId": "check if a metric has reached its maximum or peak value; monitor a system at full capacity or upper limit"
+  },
+  "fa-gauge-min": {
+    "appearanceId": "a semicircular dial face with a needle pinned at the minimum far-left position at the bottom of the scale arc; half-circle speedometer with the pivot needle pointing to the lowest tick mark",
+    "functionalityId": "indicates a minimum or baseline level reading on a scale; marks the lower limit or empty state of a measured metric",
+    "intentId": "check if a metric has reached its minimum or baseline value; monitor a system at its lowest or empty state"
+  },
+  "fa-gauge-simple": {
+    "appearanceId": "a plain semicircular dial outline with a central needle and no tick marks or labels, giving a clean minimal appearance; undecorated half-circle gauge with only a pivot needle and smooth arc",
+    "functionalityId": "displays a simplified gauge reading without detailed scale markings; represents a basic measurement or level indicator",
+    "intentId": "show a clean simple measurement or progress level; use a minimal gauge display for a performance metric"
+  },
+  "fa-gauge-simple-max": {
+    "appearanceId": "a plain semicircular dial outline with a needle deflected fully to the maximum right-side position and no tick marks; clean half-circle gauge with only a pivot needle at the top end of the arc",
+    "functionalityId": "indicates a maximum reading on a simplified gauge without scale markers; marks full capacity on a minimal dial display",
+    "intentId": "show that a metric has reached its maximum on a clean gauge display; confirm full capacity in a simplified measurement view"
+  },
+  "fa-gauge-simple-min": {
+    "appearanceId": "a plain semicircular dial outline with a needle deflected fully to the minimum left-side position and no tick marks; clean half-circle gauge with only a pivot needle at the bottom end of the arc",
+    "functionalityId": "indicates a minimum reading on a simplified gauge without scale markers; marks empty or zero state on a minimal dial display",
+    "intentId": "show that a metric is at its minimum on a clean gauge display; confirm an empty or zero state in a simplified measurement view"
+  },
+  "fa-gave-dandy": {
+    "appearanceId": "a decorative plant or flower with a distinctive dandelion-like puffball head and a slender stem with small leaves; rounded seed-head silhouette atop a thin stalk with leaf protrusions",
+    "functionalityId": "represents a dandelion or wildflower plant in a nature or garden context; marks content related to wildflowers or seeds",
+    "intentId": "explore nature or garden content featuring dandelions; identify or categorize wildflower-related items"
+  },
+  "fa-gavel": {
+    "appearanceId": "a wooden judge's mallet with a cylindrical head and a long handle, often shown at an angle as if striking; rectangular hammer head on a tapered handle depicted mid-swing",
+    "functionalityId": "finalizes a decision or confirms an auction bid; marks an item as approved or officially ruled upon",
+    "intentId": "finalize a legal or official decision; close an auction or authorize a formal action"
+  },
+  "fa-gbp": {
+    "appearanceId": "a stylized pound sterling symbol consisting of a bold capital L shape with one or two horizontal crossbars through the upper stem; decorative currency letterform with a horizontal stripe",
+    "functionalityId": "represents or selects British pound sterling as the currency; displays a price or value in GBP",
+    "intentId": "work with British pound sterling pricing or currency conversion; display or set a GBP monetary value"
+  },
+  "fa-gear-code": {
+    "appearanceId": "a single toothed gear wheel outline with angle bracket or code symbols displayed in the center hub area; cog silhouette with less-than and greater-than bracket marks inside",
+    "functionalityId": "opens code-related settings or a developer configuration panel; accesses gear-level coding or build settings",
+    "intentId": "configure developer or code-related system settings; access gear-level options for a software development workflow"
+  },
+  "fa-gear-complex": {
+    "appearanceId": "two or more interlocking toothed gear wheels of different sizes meshed together; a large cog and a smaller cog with teeth interlocked side by side",
+    "functionalityId": "represents a complex mechanical or system configuration; opens advanced multi-component settings or automation rules",
+    "intentId": "manage complex system configuration or multi-part automation; access advanced interlocking process settings"
+  },
+  "fa-gear-complex-code": {
+    "appearanceId": "two interlocking toothed gear wheels with code bracket symbols visible inside one of the gear hubs; paired cog silhouette with angle bracket code marks in the center of one gear",
+    "functionalityId": "opens advanced developer settings involving multiple system components; accesses complex code-driven gear-level configuration",
+    "intentId": "configure a complex multi-component developer or code system; manage interlocking software build or automation settings"
+  },
+  "fa-gem": {
+    "appearanceId": "a faceted diamond or gemstone shape with a flat top table, angled crown facets, and a pointed or flat pavilion base; multifaceted jewel outline with a classic cut diamond silhouette",
+    "functionalityId": "represents a premium or high-value item or tier; marks content as a gem, treasure, or top-quality asset",
+    "intentId": "identify a premium feature or high-value item; upgrade to a gem-tier plan or mark something as a top asset"
+  },
+  "fa-genderless": {
+    "appearanceId": "a simple circle outline with no directional arrow or cross, representing a neutral gender symbol; plain round ring with no attached directional or cross extension",
+    "functionalityId": "represents a genderless or non-binary gender identity; marks a profile or form field as genderless",
+    "intentId": "indicate a genderless or non-binary identity; select or display a neutral gender option in a profile or form"
+  },
+  "fa-ghost": {
+    "appearanceId": "a rounded ghost silhouette with a dome-shaped head, two dot eyes, and wavy or scalloped bottom edge tentacles; floating spirit shape with a smooth top and uneven bottom fringe",
+    "functionalityId": "represents a ghost or hidden mode in an application; indicates an invisible or stealth presence status",
+    "intentId": "activate ghost or invisible mode; indicate a hidden or incognito presence in a system"
+  },
+  "fa-gif": {
+    "appearanceId": "the three uppercase letters G, I, F arranged as a text label badge; blocky sans-serif GIF text mark with no additional imagery",
+    "functionalityId": "inserts or opens an animated GIF image; navigates to a GIF search or media picker",
+    "intentId": "find and share an animated GIF; add a GIF to a message or post"
+  },
+  "fa-gift": {
+    "appearanceId": "a rectangular box with a lid, wrapped in a bow on top with ribbon loops and trailing ends; present package outline with a tied bow and vertical ribbon stripe down the middle",
+    "functionalityId": "sends or opens a gift or reward; navigates to a promotions or gifting section",
+    "intentId": "send a gift or reward to another user; access promotions or gift-related features"
+  },
+  "fa-gift-card": {
+    "appearanceId": "a flat rectangular card resembling a credit card with a bow or ribbon design printed on the surface; payment card silhouette with a gift bow graphic in the center",
+    "functionalityId": "applies or manages a gift card balance or code; navigates to a gift card redemption or purchase page",
+    "intentId": "redeem or purchase a gift card; manage gift card balances in a checkout or wallet"
+  },
+  "fa-gifts": {
+    "appearanceId": "two or more wrapped gift boxes of different sizes stacked or grouped together, each with ribbons and bows; a cluster of present packages with tied bows arranged as a group",
+    "functionalityId": "navigates to a gift registry or multiple-gift management section; displays a collection of gifts or rewards",
+    "intentId": "browse or manage a collection of gifts; access a gift registry or holiday gifting feature"
+  },
+  "fa-gingerbread-man": {
+    "appearanceId": "a humanoid cookie silhouette with a rounded head, outstretched arms, and two leg stumps in the classic gingerbread man cutout shape; flat biscuit figure with a rounded head and simple limb stubs",
+    "functionalityId": "represents a holiday or Christmas-themed decoration or treat; marks seasonal baking or festive content",
+    "intentId": "access holiday baking or Christmas-themed content; find seasonal recipes or festive decorations"
+  },
+  "fa-glass": {
+    "appearanceId": "a simple tall drinking glass with straight or slightly tapered walls and no stem; plain cylindrical tumbler outline with an open top",
+    "functionalityId": "represents a beverage or drink item in a menu or recipe; marks a drink order or glass container",
+    "intentId": "find drink or beverage options; mark a container as a glass for a recipe or menu"
+  },
+  "fa-glass-cheers": {
+    "appearanceId": "two stemmed wine or champagne glasses clinking together with small splash lines at the tops; a pair of goblets touching rim-to-rim in a toasting gesture",
+    "functionalityId": "represents a toast or celebratory drink; marks a social or celebratory event or occasion",
+    "intentId": "celebrate a milestone or social occasion; find party or event-related content"
+  },
+  "fa-glass-citrus": {
+    "appearanceId": "a tall glass with a citrus fruit slice or wedge perched on the rim and liquid visible inside; drinking tumbler outline with a lemon or lime garnish on the edge",
+    "functionalityId": "represents a citrus-flavored drink or cocktail; marks a beverage item as citrus-garnished",
+    "intentId": "find citrus-flavored drink or cocktail options; add a citrus drink to a menu or order"
+  }
+}

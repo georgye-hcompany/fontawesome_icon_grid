@@ -1,0 +1,242 @@
+{
+  "fa-left-to-bracket": {
+    "appearanceId": "a left-pointing arrow with a horizontal shaft terminating at a vertical bar or bracket on the right side; directional arrow aimed toward a rectangular stop bar",
+    "functionalityId": "logs into or enters a session from the left; navigates into a bounded area or bracket from the outside",
+    "intentId": "sign in or enter an application or gated section; navigate into a defined boundary or session"
+  },
+  "fa-left-to-line": {
+    "appearanceId": "a left-pointing arrow with a horizontal shaft ending at a thin vertical line on the left side; directional arrow aligned toward a straight vertical boundary line",
+    "functionalityId": "moves content or a cursor to the leftmost position or a fixed line; snaps an element to a left boundary",
+    "intentId": "align or snap content to the left edge or a fixed line; move a cursor or item to the far left"
+  },
+  "fa-lemon": {
+    "appearanceId": "an oval or elliptical citrus fruit shape with a small pointed tip at one end and a leaf or stem at the other; rounded fruit silhouette with two slight taper points at each pole",
+    "functionalityId": "marks a lemon or citrus ingredient in a recipe or food app; represents a sour flavor or citrus category",
+    "intentId": "find lemon-flavored recipes or citrus ingredients; indicate a sour or citrus element in a food or drink context"
+  },
+  "fa-less-than": {
+    "appearanceId": "a single left-pointing angular chevron formed by two diagonal strokes meeting at a leftward point; mathematical less-than sign glyph with two angled lines converging to the left",
+    "functionalityId": "represents the less-than comparison operator in a formula or filter; inserts a less-than symbol into an expression",
+    "intentId": "apply a less-than condition in a filter or formula; use the less-than mathematical operator in an expression"
+  },
+  "fa-less-than-equal": {
+    "appearanceId": "a left-pointing angular chevron above a horizontal equals line; less-than symbol with an underline bar forming the less-than-or-equal glyph",
+    "functionalityId": "represents the less-than-or-equal comparison operator in a formula or filter; inserts the less-than-or-equal symbol into an expression",
+    "intentId": "apply a less-than-or-equal condition in a filter or calculation; use the comparison operator in a mathematical or logical expression"
+  },
+  "fa-level-down": {
+    "appearanceId": "a downward-pointing arrow that first travels vertically and then turns ninety degrees to the right, resembling an L-shape rotated; a bent arrow descending then pointing right",
+    "functionalityId": "navigates down one level in a hierarchy or drill-down structure; moves to a subordinate item or sub-level",
+    "intentId": "drill down into a nested level of a hierarchy; navigate to a child or subordinate item in a tree structure"
+  },
+  "fa-level-up": {
+    "appearanceId": "an upward-pointing arrow that first travels vertically and then turns ninety degrees to the right, forming a reversed L-shape; a bent arrow ascending then pointing right",
+    "functionalityId": "navigates up one level in a hierarchy or breadcrumb structure; moves to a parent item or higher level",
+    "intentId": "go up to a parent level or higher tier in a hierarchy; navigate back up in a nested tree or folder structure"
+  },
+  "fa-life-ring": {
+    "appearanceId": "a circular ring or torus shape with four alternating filled and open quarter segments resembling a lifebuoy; round flotation ring silhouette with quartered panel segments",
+    "functionalityId": "links to a help center, support documentation, or rescue resource; provides emergency assistance or customer support access",
+    "intentId": "get help or access support resources; reach emergency assistance or a help center"
+  },
+  "fa-light-ceiling": {
+    "appearanceId": "a ceiling-mounted light fixture shape with a flat horizontal base plate and downward-pointing light cone or dome shade hanging below; overhead lamp silhouette with a flush ceiling mount and a hanging globe or shade",
+    "functionalityId": "controls or represents a ceiling-mounted light fixture in a smart home app; indicates an overhead lighting element",
+    "intentId": "manage ceiling light settings in a smart home; control or adjust an overhead light fixture"
+  },
+  "fa-light-emergency": {
+    "appearanceId": "a rectangular or domed emergency light housing shape with radiating line rays extending outward, typically wall or ceiling mounted; emergency beacon silhouette with outward burst rays indicating an alarm light",
+    "functionalityId": "represents an emergency or safety warning light fixture; marks an alert or evacuation lighting element",
+    "intentId": "indicate an emergency lighting system or alarm beacon; manage safety lighting in a building or facility"
+  },
+  "fa-light-emergency-on": {
+    "appearanceId": "a rectangular or domed emergency light housing with more prominent radiating rays indicating active illumination; emergency beacon silhouette with bold outward burst rays showing the light is activated",
+    "functionalityId": "shows an emergency light that is currently active or triggered; indicates an alarm light is on and functioning",
+    "intentId": "confirm that an emergency light is active and working; monitor an alarm beacon in active alert mode"
+  },
+  "fa-light-switch": {
+    "appearanceId": "a rectangular wall switch plate with a single rocker or toggle in the center in a neutral or indeterminate position; flat switch panel outline with a centered rocker button",
+    "functionalityId": "toggles or represents a wall light switch in a smart home app; controls a lighting circuit on or off",
+    "intentId": "control a light switch in a smart home or building system; toggle a room's lighting on or off"
+  },
+  "fa-light-switch-off": {
+    "appearanceId": "a rectangular wall switch plate with a single rocker in the lower or off position; flat switch panel outline with a rocker button depressed or angled downward indicating off state",
+    "functionalityId": "turns off a light via a wall switch control; indicates that a lighting circuit is currently switched off",
+    "intentId": "turn off a room's lights using a wall switch; confirm that a light circuit is in the off state"
+  },
+  "fa-light-switch-on": {
+    "appearanceId": "a rectangular wall switch plate with a single rocker in the upper or on position; flat switch panel outline with a rocker button raised or angled upward indicating on state",
+    "functionalityId": "turns on a light via a wall switch control; indicates that a lighting circuit is currently switched on",
+    "intentId": "turn on a room's lights using a wall switch; confirm that a light circuit is in the on state"
+  },
+  "fa-lightbulb": {
+    "appearanceId": "a standard teardrop-shaped light bulb with a rounded glass globe and a ribbed screw-thread base at the bottom; classic incandescent bulb silhouette with a flared top and threaded fitting",
+    "functionalityId": "represents an idea, tip, or illumination concept; toggles or indicates a lighting setting in a smart home",
+    "intentId": "share a tip or idea; control or monitor a light bulb in a smart home or interface"
+  },
+  "fa-lightbulb-cfl": {
+    "appearanceId": "a compact fluorescent lamp with a coiled or spiral tube above a screw-thread base; CFL bulb silhouette with a helical glass tube and a threaded fitting below",
+    "functionalityId": "represents a compact fluorescent or energy-saving light bulb; indicates an eco-friendly or CFL lighting option",
+    "intentId": "select or manage a CFL or energy-efficient light bulb; indicate an eco-friendly lighting choice"
+  },
+  "fa-lightbulb-cfl-on": {
+    "appearanceId": "a compact fluorescent lamp with a spiral tube and screw base, surrounded by short radiating lines indicating it is lit; CFL bulb silhouette with helical tube and outward glow rays showing active illumination",
+    "functionalityId": "indicates a CFL bulb that is currently switched on and glowing; shows an active energy-saving lamp in use",
+    "intentId": "confirm that a CFL light is on and illuminating; monitor an active energy-saving bulb in a lighting system"
+  },
+  "fa-lightbulb-dollar": {
+    "appearanceId": "a standard rounded light bulb globe with a screw base and a dollar sign symbol overlaid on the globe surface; incandescent bulb silhouette with a currency dollar badge on the glass",
+    "functionalityId": "represents a cost-saving idea or an energy-cost insight; links a lighting suggestion to a financial or savings metric",
+    "intentId": "find cost-saving ideas or energy bill insights; access financial recommendations related to lighting"
+  },
+  "fa-lightbulb-exclamation": {
+    "appearanceId": "a standard rounded light bulb globe with a screw base and an exclamation mark symbol overlaid on or near the globe; incandescent bulb silhouette with an alert exclamation badge",
+    "functionalityId": "flags an important idea, warning, or alert related to a lighting concept; highlights a critical tip or notification",
+    "intentId": "highlight an urgent tip or important alert; draw attention to a critical idea or lighting warning"
+  },
+  "fa-lightbulb-exclamation-on": {
+    "appearanceId": "a standard rounded light bulb with screw base, an exclamation badge, and short radiating rays indicating the bulb is glowing; incandescent bulb silhouette with an alert mark and active glow rays",
+    "functionalityId": "flags an active urgent alert or warning while a light is on; combines an on-state indicator with an important notification",
+    "intentId": "alert the user to an active and urgent lighting or idea notification; draw attention to a critical active tip"
+  },
+  "fa-lightbulb-gear": {
+    "appearanceId": "a standard rounded light bulb globe with a screw base and a gear or cog symbol overlaid on the glass; incandescent bulb silhouette with a settings gear badge on the surface",
+    "functionalityId": "accesses lighting configuration or smart bulb settings; adjusts technical settings for a light fixture",
+    "intentId": "configure smart bulb or lighting automation settings; access technical settings for a light in a smart home"
+  },
+  "fa-lightbulb-message": {
+    "appearanceId": "a standard rounded light bulb globe with a screw base and a small speech bubble or message badge overlaid on the glass; incandescent bulb silhouette with a dialogue bubble badge",
+    "functionalityId": "attaches a message or note to a lighting idea or suggestion; combines an idea indicator with a communication prompt",
+    "intentId": "add a comment or message to an idea or lighting tip; communicate about a concept using a lightbulb message badge"
+  },
+  "fa-lightbulb-on": {
+    "appearanceId": "a standard rounded light bulb with a screw base surrounded by short radiating lines or rays indicating it is lit and glowing; incandescent bulb silhouette with outward glow rays showing active illumination",
+    "functionalityId": "indicates an active idea or a light that is currently turned on; represents an illuminated or enabled state",
+    "intentId": "show that a light is on or an idea is active; indicate an enabled or illuminated state in a lighting system"
+  },
+  "fa-lightbulb-slash": {
+    "appearanceId": "a standard rounded light bulb globe with a screw base and a diagonal slash line crossing through the bulb; incandescent bulb silhouette with a cancellation stroke",
+    "functionalityId": "indicates a disabled, broken, or turned-off light or idea; marks a lighting element as inactive or unavailable",
+    "intentId": "indicate that a light or idea is disabled or unavailable; mark a lighting feature as turned off or not working"
+  },
+  "fa-lighthouse": {
+    "appearanceId": "a tall cylindrical tower with a wider lamp housing at the top and a small lantern room, often with horizontal band details on the shaft; coastal beacon tower silhouette with a capped light room at the apex",
+    "functionalityId": "marks a lighthouse location on a navigational or coastal map; represents a navigational beacon or landmark",
+    "intentId": "find a lighthouse or coastal navigation landmark; access maritime navigation or coastal landmark information"
+  },
+  "fa-lights-holiday": {
+    "appearanceId": "a string of small round or teardrop-shaped bulbs connected by a wavy line, representing a decorative holiday light strand; festive string light silhouette with multiple evenly spaced glowing bulb shapes",
+    "functionalityId": "represents holiday or seasonal decorative string lights; marks a festive lighting element in a holiday or event app",
+    "intentId": "decorate with or find holiday string light options; indicate a festive seasonal lighting theme"
+  },
+  "fa-line-columns": {
+    "appearanceId": "multiple vertical parallel columns each containing short horizontal text lines stacked within them; columnar layout silhouette showing rows of content arranged in side-by-side vertical strips",
+    "functionalityId": "switches a layout to a multi-column text display; arranges content into side-by-side vertical column format",
+    "intentId": "format text or content into a multi-column layout; organize information into parallel vertical columns"
+  },
+  "fa-line-height": {
+    "appearanceId": "a pair of horizontal text lines with a vertical double-headed arrow on the left indicating the spacing between them; two parallel rows with an up-down measurement arrow at the side",
+    "functionalityId": "adjusts the line height or vertical spacing between text rows; sets the leading distance in a text block",
+    "intentId": "control line spacing or leading in a text editor; adjust the vertical distance between lines of text"
+  },
+  "fa-lines-leaning": {
+    "appearanceId": "a series of diagonal or angled lines leaning to one side rather than horizontal; parallel strokes tilted at an oblique angle across the glyph area",
+    "functionalityId": "represents a leaning or diagonal line pattern in a design tool; indicates a slanted or oblique text or layout element",
+    "intentId": "apply a diagonal or leaning line pattern to a design; indicate a slanted or off-axis layout element"
+  },
+  "fa-link": {
+    "appearanceId": "two interlocked oval chain links oriented diagonally, each forming a rounded rectangle loop that hooks through the other; standard chain-link pair silhouette with overlapping ovals at an angle",
+    "functionalityId": "copies or inserts a hyperlink to a URL or resource; connects two items or pages with a navigable link",
+    "intentId": "share or insert a hyperlink; connect content items with a navigable URL or reference"
+  },
+  "fa-link-horizontal": {
+    "appearanceId": "two interlocked oval chain links oriented horizontally side by side, each forming a rounded rectangle loop aligned on the same horizontal axis; chain-link pair silhouette with ovals arranged left-right",
+    "functionalityId": "represents a horizontal link or connection between two items; inserts or displays a side-by-side chain link relationship",
+    "intentId": "create or display a horizontal connection or link between items; represent a side-by-side linked relationship"
+  },
+  "fa-link-horizontal-slash": {
+    "appearanceId": "two horizontal oval chain link shapes with a diagonal slash crossing through the connection point between them; horizontal chain-link pair silhouette with a cancellation stroke breaking the bond",
+    "functionalityId": "removes or breaks a horizontal link or connection between items; indicates that a horizontal relationship is severed",
+    "intentId": "break or remove a horizontal link between two items; indicate that a side-by-side connection is disconnected"
+  },
+  "fa-link-simple": {
+    "appearanceId": "a single curved arc or semicircle shape resembling one half of a chain link rather than two interlocked ovals; a single open-ended arc without a second interlocking loop",
+    "functionalityId": "inserts a simplified or single hyperlink; represents a lightweight or minimal link connection",
+    "intentId": "add a simple hyperlink or URL reference; create a minimal link connection to a resource"
+  },
+  "fa-link-simple-slash": {
+    "appearanceId": "a single curved arc resembling one chain link half with a diagonal slash crossing through it; a simple open-ended arc silhouette with a cancellation stroke",
+    "functionalityId": "removes or breaks a simple single-arc link; indicates an unlinked or disconnected minimal reference",
+    "intentId": "break or remove a simple link or URL reference; indicate that a minimal link is disconnected"
+  },
+  "fa-lips": {
+    "appearanceId": "a pair of parted lips showing the upper bow-shaped lip and the lower fuller lip meeting at a slight opening; mouth silhouette with a curved cupid's bow upper lip and a rounded lower lip",
+    "functionalityId": "represents speech, vocals, or a voice input function; marks a beauty or cosmetics category in a retail or lifestyle app",
+    "intentId": "access voice input or speech features; browse lip or beauty cosmetics in a retail or lifestyle context"
+  },
+  "fa-lira-sign": {
+    "appearanceId": "a stylized lira currency glyph resembling a capital L with one or two horizontal crossbars through the upper portion; currency symbol with a serif-style vertical stroke and horizontal strikethrough bars",
+    "functionalityId": "displays or selects the Turkish lira or Italian lira as the currency; represents a price or monetary value in TRY",
+    "intentId": "work with Turkish lira pricing or currency conversion; display or set a lira monetary value"
+  },
+  "fa-list": {
+    "appearanceId": "three or four horizontal lines of equal length with a small square or bullet dot to the left of each line; unordered text list silhouette with left-aligned bullet markers",
+    "functionalityId": "displays content as a bulleted or unformatted list; switches a view to list layout",
+    "intentId": "view or organize content as a simple list; switch from a grid or other view to a list format"
+  },
+  "fa-list-alt": {
+    "appearanceId": "a rectangular bordered box containing several horizontal text lines each preceded by a small bullet or checkbox on the left side; bordered list container with inline bullet-line rows",
+    "functionalityId": "displays a formatted or bordered task list or checklist; presents items in an alternative list layout with a container border",
+    "intentId": "view a formatted or bordered task list; organize checklist items in an alternative list container"
+  },
+  "fa-list-dropdown": {
+    "appearanceId": "three or four horizontal bullet lines forming a list with a small downward-pointing chevron badge at the bottom right corner; bulleted list silhouette with a dropdown arrow indicator",
+    "functionalityId": "expands or opens a dropdown list of selectable items; shows a list that can be toggled open with more options",
+    "intentId": "open a dropdown to see and select list options; expand a collapsed list to view all items"
+  },
+  "fa-list-music": {
+    "appearanceId": "horizontal bullet lines forming a list with a small musical note badge overlaid at the corner or alongside; bulleted list silhouette with a music note indicator",
+    "functionalityId": "displays a playlist or music track listing; organizes songs or audio items in a list view",
+    "intentId": "view or manage a music playlist; organize audio tracks in a list format"
+  },
+  "fa-list-ol": {
+    "appearanceId": "three or four horizontal lines each preceded by a sequential number on the left side; ordered or numbered text list silhouette with numeric prefix markers",
+    "functionalityId": "formats selected text as a numbered or ordered list; displays items with sequential numeric prefixes",
+    "intentId": "create or display a numbered ordered list; format content with sequential numeric labels"
+  },
+  "fa-list-radio": {
+    "appearanceId": "horizontal lines forming a list with a small filled circle or radio button shape to the left of each line instead of a square bullet; list silhouette with circular radio dot markers",
+    "functionalityId": "displays a list of radio-button selectable options; represents a single-choice selection list",
+    "intentId": "select one item from a list of mutually exclusive options; present a single-choice radio button list"
+  },
+  "fa-list-timeline": {
+    "appearanceId": "horizontal lines forming a list with small circular dots connected by a vertical line running down the left side, resembling a timeline; list silhouette with connected dot markers forming a vertical thread",
+    "functionalityId": "displays events or items in a chronological timeline list; organizes entries with time-ordered connected markers",
+    "intentId": "view events or activities in a chronological timeline list; organize time-ordered entries with connected markers"
+  },
+  "fa-list-tree": {
+    "appearanceId": "horizontal lines forming a list with branching indent lines extending to child items below, resembling a tree hierarchy; list silhouette with indented sub-items connected by branch lines",
+    "functionalityId": "displays items in a hierarchical tree list with expandable branches; organizes nested content in a tree-structure list view",
+    "intentId": "browse or organize content in a hierarchical tree list; expand and navigate nested items in a tree structure"
+  },
+  "fa-list-ul": {
+    "appearanceId": "three or four horizontal lines each preceded by a small solid circular bullet dot on the left side; standard unordered text list silhouette with round bullet markers",
+    "functionalityId": "formats selected text as an unordered bulleted list; displays items with round bullet point prefixes",
+    "intentId": "create or display an unordered bulleted list; format content with round bullet point markers"
+  },
+  "fa-litecoin-sign": {
+    "appearanceId": "a stylized letter L with a short diagonal crossbar through the middle of the vertical stroke, resembling the Litecoin cryptocurrency symbol; currency glyph with a single horizontal strikethrough on the vertical stroke",
+    "functionalityId": "displays or selects Litecoin as the cryptocurrency; represents a price or value in LTC",
+    "intentId": "work with Litecoin pricing or cryptocurrency conversion; display or set an LTC monetary value"
+  },
+  "fa-loader": {
+    "appearanceId": "a circular arc or ring shape with a gap indicating a spinning progress indicator; open-ended circle silhouette suggesting a rotating loading animation",
+    "functionalityId": "indicates a loading or processing state in an application; displays a spinner while content or data is being fetched",
+    "intentId": "show that content is loading or a process is in progress; indicate a waiting state while data is being retrieved"
+  },
+  "fa-lobster": {
+    "appearanceId": "a lobster body silhouette with a segmented tail curled downward, two large front claws extended outward, antennae above, and multiple legs below; crustacean outline with prominent claws, segmented abdomen, and long feelers",
+    "functionalityId": "marks a lobster or seafood item in a restaurant or menu app; represents a crustacean or seafood category",
+    "intentId": "find lobster or premium seafood menu items; browse seafood restaurant options or crustacean ingredients"
+  }
+}

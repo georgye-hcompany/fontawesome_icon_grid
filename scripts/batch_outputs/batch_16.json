@@ -1,0 +1,242 @@
+{
+  "fa-person-circle-plus": {
+    "appearanceId": "person silhouette with plus sign circle badge",
+    "functionalityId": "add or register a new person",
+    "intentId": "create a new user or contact"
+  },
+  "fa-person-circle-question": {
+    "appearanceId": "person silhouette with question mark circle badge",
+    "functionalityId": "view or request person information",
+    "intentId": "find out details about an unknown person"
+  },
+  "fa-person-circle-xmark": {
+    "appearanceId": "person silhouette with X mark circle badge",
+    "functionalityId": "remove or deactivate a person",
+    "intentId": "delete or block a user account"
+  },
+  "fa-person-dolly": {
+    "appearanceId": "person silhouette pushing a hand truck dolly with boxes",
+    "functionalityId": "log or manage cargo transport",
+    "intentId": "track moving or delivery of goods"
+  },
+  "fa-person-dolly-empty": {
+    "appearanceId": "person silhouette pushing an empty hand truck dolly",
+    "functionalityId": "indicate empty or unloaded cart",
+    "intentId": "show a delivery worker with no load"
+  },
+  "fa-person-dress-burst": {
+    "appearanceId": "person silhouette in dress with radiating burst lines around body",
+    "functionalityId": "highlight or alert about a person",
+    "intentId": "draw attention to a specific individual"
+  },
+  "fa-person-dress-fairy": {
+    "appearanceId": "person silhouette in dress with small wings on back and wand",
+    "functionalityId": "select or apply a fantasy or magical theme",
+    "intentId": "represent a fairy or fantasy character"
+  },
+  "fa-person-dress-simple": {
+    "appearanceId": "person silhouette in a plain dress shape",
+    "functionalityId": "indicate or select a female-presenting person",
+    "intentId": "represent a woman or dress-coded gender"
+  },
+  "fa-person-drowning": {
+    "appearanceId": "person silhouette submerged in water with arms raised above surface",
+    "functionalityId": "flag a water safety or drowning hazard",
+    "intentId": "alert users to a drowning emergency"
+  },
+  "fa-person-fairy": {
+    "appearanceId": "person silhouette with small wings on back and wand",
+    "functionalityId": "select or apply a fantasy or magical theme",
+    "intentId": "represent a fairy or fantasy character"
+  },
+  "fa-person-falling": {
+    "appearanceId": "person silhouette tilted at angle falling backward",
+    "functionalityId": "flag a fall hazard or accident event",
+    "intentId": "report or warn about a fall risk"
+  },
+  "fa-person-falling-burst": {
+    "appearanceId": "person silhouette falling with radiating burst lines around body",
+    "functionalityId": "alert or flag a critical fall event",
+    "intentId": "indicate an urgent fall or impact emergency"
+  },
+  "fa-person-half-dress": {
+    "appearanceId": "person silhouette split vertically half plain half in dress",
+    "functionalityId": "represent a non-binary or gender-mixed option",
+    "intentId": "select a gender-neutral or mixed identity option"
+  },
+  "fa-person-harassing": {
+    "appearanceId": "person silhouette leaning aggressively toward a second smaller person silhouette",
+    "functionalityId": "report or flag a harassment incident",
+    "intentId": "document or alert about a harassment situation"
+  },
+  "fa-person-military-pointing": {
+    "appearanceId": "person silhouette in military cap with one arm extended pointing outward",
+    "functionalityId": "direct or assign a military action",
+    "intentId": "indicate direction or give a command"
+  },
+  "fa-person-military-rifle": {
+    "appearanceId": "person silhouette in military cap holding a rifle upright",
+    "functionalityId": "represent armed military personnel",
+    "intentId": "indicate a soldier or armed guard role"
+  },
+  "fa-person-military-to-person": {
+    "appearanceId": "military person silhouette with arrow pointing toward a civilian person silhouette",
+    "functionalityId": "transfer or transition from military to civilian",
+    "intentId": "represent a handoff or service transition"
+  },
+  "fa-person-pinball": {
+    "appearanceId": "person silhouette inside a pinball machine bumper ring",
+    "functionalityId": "access pinball or arcade game features",
+    "intentId": "play or browse a pinball game"
+  },
+  "fa-person-pregnant": {
+    "appearanceId": "person silhouette with rounded pregnant belly",
+    "functionalityId": "indicate or access pregnancy-related features",
+    "intentId": "represent a pregnant person or maternity status"
+  },
+  "fa-person-rays": {
+    "appearanceId": "person silhouette with radiating lines emanating outward from body",
+    "functionalityId": "indicate energy, radiation, or aura status",
+    "intentId": "represent a person emitting signal or energy"
+  },
+  "fa-person-rifle": {
+    "appearanceId": "person silhouette holding a rifle in shooting stance",
+    "functionalityId": "represent armed or shooting activity",
+    "intentId": "indicate hunting, shooting, or armed personnel"
+  },
+  "fa-person-running-fast": {
+    "appearanceId": "person silhouette in mid-sprint running pose",
+    "functionalityId": "indicate fast movement or running activity",
+    "intentId": "represent speed, urgency, or athletic running"
+  },
+  "fa-person-seat": {
+    "appearanceId": "person silhouette seated in a chair",
+    "functionalityId": "reserve or assign a seat",
+    "intentId": "select or manage a seating position"
+  },
+  "fa-person-seat-reclined": {
+    "appearanceId": "person silhouette seated in a reclined chair with back tilted back",
+    "functionalityId": "toggle or indicate a reclined seat option",
+    "intentId": "select a reclined or comfort seat setting"
+  },
+  "fa-person-shelter": {
+    "appearanceId": "person silhouette standing under a triangular roof or shelter canopy",
+    "functionalityId": "access shelter or housing resources",
+    "intentId": "find or indicate emergency shelter availability"
+  },
+  "fa-person-sign": {
+    "appearanceId": "person silhouette holding a rectangular sign board",
+    "functionalityId": "display a message or announcement",
+    "intentId": "broadcast or protest with a visible sign"
+  },
+  "fa-person-simple": {
+    "appearanceId": "minimal stick-figure person silhouette with circle head",
+    "functionalityId": "represent a generic person or user",
+    "intentId": "identify or select a basic human entity"
+  },
+  "fa-person-through-window": {
+    "appearanceId": "person silhouette diving or jumping through a window frame",
+    "functionalityId": "indicate an emergency exit or escape action",
+    "intentId": "represent escaping through or breaking a window"
+  },
+  "fa-person-to-door": {
+    "appearanceId": "person silhouette walking toward or standing at a door frame",
+    "functionalityId": "navigate to an entrance or exit",
+    "intentId": "arrive at or access a room or building"
+  },
+  "fa-person-walking-arrow-loop-left": {
+    "appearanceId": "person silhouette walking with a leftward looping return arrow",
+    "functionalityId": "indicate a return or loop-back walking route",
+    "intentId": "navigate back along a circular or return path"
+  },
+  "fa-person-walking-arrow-right": {
+    "appearanceId": "person silhouette walking with a rightward arrow alongside",
+    "functionalityId": "direct a person to move or proceed right",
+    "intentId": "guide or redirect someone to the right"
+  },
+  "fa-person-walking-dashed-line-arrow-right": {
+    "appearanceId": "person silhouette walking with a dashed boundary line and rightward arrow",
+    "functionalityId": "indicate crossing or exiting a boundary zone",
+    "intentId": "represent departing or crossing a defined border"
+  },
+  "fa-person-walking-luggage": {
+    "appearanceId": "person silhouette walking with rolling suitcase",
+    "functionalityId": "indicate travel check-in or departure",
+    "intentId": "represent a traveler or airport departure"
+  },
+  "fa-phone": {
+    "appearanceId": "handset telephone receiver shape",
+    "functionalityId": "initiate or view a phone call",
+    "intentId": "call or contact someone by phone"
+  },
+  "fa-phone-arrow-right": {
+    "appearanceId": "handset telephone receiver with rightward arrow beside it",
+    "functionalityId": "forward or transfer a phone call",
+    "intentId": "redirect a call to another recipient"
+  },
+  "fa-phone-arrow-up": {
+    "appearanceId": "handset telephone receiver with upward arrow beside it",
+    "functionalityId": "escalate or upgrade a phone call",
+    "intentId": "send or promote a call upward"
+  },
+  "fa-phone-slash": {
+    "appearanceId": "handset telephone receiver with a diagonal slash through it",
+    "functionalityId": "end or disable a phone call",
+    "intentId": "mute, block, or reject a phone call"
+  },
+  "fa-pills": {
+    "appearanceId": "oval pill capsule shapes",
+    "functionalityId": "manage or log medication dosage",
+    "intentId": "track or access prescription medication"
+  },
+  "fa-pizza": {
+    "appearanceId": "top-down round pizza with slice cut lines and topping dots",
+    "functionalityId": "browse or order pizza options",
+    "intentId": "select or view a whole pizza item"
+  },
+  "fa-pizza-slice": {
+    "appearanceId": "triangular pizza slice with toppings",
+    "functionalityId": "select or order a pizza slice",
+    "intentId": "choose a single slice of pizza"
+  },
+  "fa-plane": {
+    "appearanceId": "top-view airplane silhouette with wings",
+    "functionalityId": "search or book a flight",
+    "intentId": "access air travel or flight information"
+  },
+  "fa-plane-alt": {
+    "appearanceId": "side-view streamlined airplane silhouette with wings and tail",
+    "functionalityId": "search or book a flight",
+    "intentId": "access air travel or flight information"
+  },
+  "fa-plane-arrival": {
+    "appearanceId": "airplane silhouette angled downward toward runway line",
+    "functionalityId": "view or track an arriving flight",
+    "intentId": "check the status of an incoming flight"
+  },
+  "fa-plane-circle-check": {
+    "appearanceId": "airplane silhouette with checkmark circle badge",
+    "functionalityId": "confirm or approve a flight status",
+    "intentId": "verify a flight is cleared or on schedule"
+  },
+  "fa-plane-circle-exclamation": {
+    "appearanceId": "airplane silhouette with exclamation mark circle badge",
+    "functionalityId": "flag a flight warning or alert",
+    "intentId": "review an issue or alert on a flight"
+  },
+  "fa-plane-circle-xmark": {
+    "appearanceId": "airplane silhouette with X mark circle badge",
+    "functionalityId": "cancel or reject a flight",
+    "intentId": "indicate a cancelled or denied flight"
+  },
+  "fa-plane-departure": {
+    "appearanceId": "airplane silhouette angled upward away from runway line",
+    "functionalityId": "view or track a departing flight",
+    "intentId": "check the status of an outgoing flight"
+  },
+  "fa-plane-lock": {
+    "appearanceId": "airplane silhouette with padlock badge overlay",
+    "functionalityId": "restrict or secure a flight or route",
+    "intentId": "indicate a locked or restricted flight"
+  }
+}

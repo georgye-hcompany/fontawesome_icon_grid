@@ -1,0 +1,242 @@
+{
+  "fa-clarinet": {
+    "appearanceId": "long slender cylindrical wind instrument with tone holes along the body and a flared bell at one end; tapered woodwind tube with a mouthpiece at the narrow top",
+    "functionalityId": "inserts or selects a clarinet instrument symbol; tags content with a woodwind or classical music theme",
+    "intentId": "represent woodwind or orchestral music; categorize content related to clarinet playing or music education"
+  },
+  "fa-claw-marks": {
+    "appearanceId": "four parallel diagonal slash lines angled as if raked by sharp claws; scratched swipe marks in a downward-slanting row",
+    "functionalityId": "inserts a claw or scratch mark symbol; tags content with a wild animal or damage theme",
+    "intentId": "represent danger, a predator, or a scratched surface; indicate animal attack or horror-themed content"
+  },
+  "fa-clinic-medical": {
+    "appearanceId": "building facade with a prominent medical cross emblem centered on the front; rectangular structure outline with a plus-sign badge on the face",
+    "functionalityId": "opens clinic or medical facility information; navigates to a healthcare location or service",
+    "intentId": "find or access a medical clinic; locate nearby healthcare services or facilities"
+  },
+  "fa-clipboard": {
+    "appearanceId": "rectangular board with a curved top clip bar centered at the top edge; flat writing surface with a horizontal fastener clamp",
+    "functionalityId": "opens a clipboard or notes panel; pastes copied content into the current context",
+    "intentId": "view or manage copied or recorded notes; access a clipboard of stored content"
+  },
+  "fa-clipboard-check": {
+    "appearanceId": "clipboard board shape with a checkmark overlaid on the writing surface; flat notepad outline with a tick mark on the face",
+    "functionalityId": "marks a task or checklist item as complete; confirms and submits a clipboard form",
+    "intentId": "verify or approve completed tasks on a list; confirm that a recorded item has been checked off"
+  },
+  "fa-clipboard-list": {
+    "appearanceId": "clipboard board shape with two or three horizontal lines representing list items on the writing surface; flat notepad outline with stacked text rows on the face",
+    "functionalityId": "opens a task list or itemized checklist on the clipboard; displays a structured list of recorded items",
+    "intentId": "review or manage an ordered list of tasks or items; access a structured checklist or to-do record"
+  },
+  "fa-clipboard-list-check": {
+    "appearanceId": "clipboard board shape with multiple list rows each preceded by a small checkbox or tick mark; flat notepad outline with a checked item list on the face",
+    "functionalityId": "opens a completed or verified checklist on the clipboard; marks all listed tasks as done",
+    "intentId": "confirm that all tasks on a recorded list are completed; review a fully checked-off task record"
+  },
+  "fa-clipboard-medical": {
+    "appearanceId": "clipboard board shape with a medical cross symbol on the writing surface; flat notepad outline with a plus-sign health badge on the face",
+    "functionalityId": "opens a medical record or patient chart clipboard; accesses health-related notes or clinical documentation",
+    "intentId": "review or manage medical records or clinical notes; access patient health information on a chart"
+  },
+  "fa-clipboard-prescription": {
+    "appearanceId": "clipboard board shape with an Rx prescription symbol on the writing surface; flat notepad outline with a pharmacist's Rx mark on the face",
+    "functionalityId": "opens or fills in a prescription record; accesses medication prescription documentation",
+    "intentId": "manage or view a medical prescription; record or retrieve a doctor's medication order"
+  },
+  "fa-clipboard-question": {
+    "appearanceId": "clipboard board shape with a question mark on the writing surface; flat notepad outline with an interrogation symbol on the face",
+    "functionalityId": "opens a survey form or questionnaire on the clipboard; prompts the user to answer recorded questions",
+    "intentId": "fill out or review an unanswered questionnaire or form; access a clipboard with pending questions"
+  },
+  "fa-clipboard-user": {
+    "appearanceId": "clipboard board shape with a person silhouette on the writing surface; flat notepad outline with a user profile figure on the face",
+    "functionalityId": "opens a patient or user profile form on the clipboard; accesses a personnel record or intake document",
+    "intentId": "view or manage a person's recorded profile or intake form; access user-specific documentation on a clipboard"
+  },
+  "fa-clock": {
+    "appearanceId": "circular clock face outline with two hands indicating a time; round dial with hour and minute hands",
+    "functionalityId": "displays or sets the current time; opens a time-picker or scheduling tool",
+    "intentId": "check or record the current time; access time-management or scheduling features"
+  },
+  "fa-clock-desk": {
+    "appearanceId": "rounded desk clock body with a flat base stand and a clock face on the front; small standing tabletop timepiece silhouette",
+    "functionalityId": "opens a desk clock widget or time display; sets a countdown or alarm on a desk-style timer",
+    "intentId": "display the current time as a desk clock; manage a tabletop timer or office scheduling reminder"
+  },
+  "fa-clock-eight": {
+    "appearanceId": "circular clock face with the hour hand pointing to 8 and the minute hand pointing straight up to 12; round dial with hands set at exactly 8:00",
+    "functionalityId": "indicates or sets the time to eight o'clock; stamps an event or record with an 8:00 time marker",
+    "intentId": "represent or log the specific time of 8:00; schedule something at eight o'clock"
+  },
+  "fa-clock-eight-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 8 and 9 and the minute hand pointing straight down to 6; round dial with hands set at 8:30",
+    "functionalityId": "indicates or sets the time to eight-thirty; stamps an event or record with an 8:30 time marker",
+    "intentId": "represent or log the specific time of 8:30; schedule something at half past eight"
+  },
+  "fa-clock-eleven": {
+    "appearanceId": "circular clock face with the hour hand pointing to 11 and the minute hand pointing straight up to 12; round dial with hands set at exactly 11:00",
+    "functionalityId": "indicates or sets the time to eleven o'clock; stamps an event or record with an 11:00 time marker",
+    "intentId": "represent or log the specific time of 11:00; schedule something at eleven o'clock"
+  },
+  "fa-clock-eleven-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 11 and 12 and the minute hand pointing straight down to 6; round dial with hands set at 11:30",
+    "functionalityId": "indicates or sets the time to eleven-thirty; stamps an event or record with an 11:30 time marker",
+    "intentId": "represent or log the specific time of 11:30; schedule something at half past eleven"
+  },
+  "fa-clock-five": {
+    "appearanceId": "circular clock face with the hour hand pointing to 5 and the minute hand pointing straight up to 12; round dial with hands set at exactly 5:00",
+    "functionalityId": "indicates or sets the time to five o'clock; stamps an event or record with a 5:00 time marker",
+    "intentId": "represent or log the specific time of 5:00; schedule something at five o'clock"
+  },
+  "fa-clock-five-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 5 and 6 and the minute hand pointing straight down to 6; round dial with hands set at 5:30",
+    "functionalityId": "indicates or sets the time to five-thirty; stamps an event or record with a 5:30 time marker",
+    "intentId": "represent or log the specific time of 5:30; schedule something at half past five"
+  },
+  "fa-clock-four-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 4 and 5 and the minute hand pointing straight down to 6; round dial with hands set at 4:30",
+    "functionalityId": "indicates or sets the time to four-thirty; stamps an event or record with a 4:30 time marker",
+    "intentId": "represent or log the specific time of 4:30; schedule something at half past four"
+  },
+  "fa-clock-nine": {
+    "appearanceId": "circular clock face with the hour hand pointing to 9 and the minute hand pointing straight up to 12; round dial with hands set at exactly 9:00",
+    "functionalityId": "indicates or sets the time to nine o'clock; stamps an event or record with a 9:00 time marker",
+    "intentId": "represent or log the specific time of 9:00; schedule something at nine o'clock"
+  },
+  "fa-clock-nine-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 9 and 10 and the minute hand pointing straight down to 6; round dial with hands set at 9:30",
+    "functionalityId": "indicates or sets the time to nine-thirty; stamps an event or record with a 9:30 time marker",
+    "intentId": "represent or log the specific time of 9:30; schedule something at half past nine"
+  },
+  "fa-clock-one": {
+    "appearanceId": "circular clock face with the hour hand pointing to 1 and the minute hand pointing straight up to 12; round dial with hands set at exactly 1:00",
+    "functionalityId": "indicates or sets the time to one o'clock; stamps an event or record with a 1:00 time marker",
+    "intentId": "represent or log the specific time of 1:00; schedule something at one o'clock"
+  },
+  "fa-clock-one-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 1 and 2 and the minute hand pointing straight down to 6; round dial with hands set at 1:30",
+    "functionalityId": "indicates or sets the time to one-thirty; stamps an event or record with a 1:30 time marker",
+    "intentId": "represent or log the specific time of 1:30; schedule something at half past one"
+  },
+  "fa-clock-seven": {
+    "appearanceId": "circular clock face with the hour hand pointing to 7 and the minute hand pointing straight up to 12; round dial with hands set at exactly 7:00",
+    "functionalityId": "indicates or sets the time to seven o'clock; stamps an event or record with a 7:00 time marker",
+    "intentId": "represent or log the specific time of 7:00; schedule something at seven o'clock"
+  },
+  "fa-clock-seven-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 7 and 8 and the minute hand pointing straight down to 6; round dial with hands set at 7:30",
+    "functionalityId": "indicates or sets the time to seven-thirty; stamps an event or record with a 7:30 time marker",
+    "intentId": "represent or log the specific time of 7:30; schedule something at half past seven"
+  },
+  "fa-clock-six": {
+    "appearanceId": "circular clock face with the hour hand pointing to 6 and the minute hand pointing straight up to 12; round dial with hands set at exactly 6:00",
+    "functionalityId": "indicates or sets the time to six o'clock; stamps an event or record with a 6:00 time marker",
+    "intentId": "represent or log the specific time of 6:00; schedule something at six o'clock"
+  },
+  "fa-clock-six-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 6 and 7 and the minute hand pointing straight down to 6; round dial with hands set at 6:30",
+    "functionalityId": "indicates or sets the time to six-thirty; stamps an event or record with a 6:30 time marker",
+    "intentId": "represent or log the specific time of 6:30; schedule something at half past six"
+  },
+  "fa-clock-ten": {
+    "appearanceId": "circular clock face with the hour hand pointing to 10 and the minute hand pointing straight up to 12; round dial with hands set at exactly 10:00",
+    "functionalityId": "indicates or sets the time to ten o'clock; stamps an event or record with a 10:00 time marker",
+    "intentId": "represent or log the specific time of 10:00; schedule something at ten o'clock"
+  },
+  "fa-clock-ten-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 10 and 11 and the minute hand pointing straight down to 6; round dial with hands set at 10:30",
+    "functionalityId": "indicates or sets the time to ten-thirty; stamps an event or record with a 10:30 time marker",
+    "intentId": "represent or log the specific time of 10:30; schedule something at half past ten"
+  },
+  "fa-clock-three": {
+    "appearanceId": "circular clock face with the hour hand pointing to 3 and the minute hand pointing straight up to 12; round dial with hands set at exactly 3:00",
+    "functionalityId": "indicates or sets the time to three o'clock; stamps an event or record with a 3:00 time marker",
+    "intentId": "represent or log the specific time of 3:00; schedule something at three o'clock"
+  },
+  "fa-clock-three-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 3 and 4 and the minute hand pointing straight down to 6; round dial with hands set at 3:30",
+    "functionalityId": "indicates or sets the time to three-thirty; stamps an event or record with a 3:30 time marker",
+    "intentId": "represent or log the specific time of 3:30; schedule something at half past three"
+  },
+  "fa-clock-twelve": {
+    "appearanceId": "circular clock face with both the hour hand and the minute hand pointing straight up to 12; round dial with both hands aligned vertically at the top",
+    "functionalityId": "indicates or sets the time to twelve o'clock; stamps an event or record with a 12:00 time marker",
+    "intentId": "represent or log the specific time of 12:00 noon or midnight; schedule something at twelve o'clock"
+  },
+  "fa-clock-twelve-thirty": {
+    "appearanceId": "circular clock face with the hour hand just past 12 and the minute hand pointing straight down to 6; round dial with hands set at 12:30",
+    "functionalityId": "indicates or sets the time to twelve-thirty; stamps an event or record with a 12:30 time marker",
+    "intentId": "represent or log the specific time of 12:30; schedule something at half past twelve"
+  },
+  "fa-clock-two": {
+    "appearanceId": "circular clock face with the hour hand pointing to 2 and the minute hand pointing straight up to 12; round dial with hands set at exactly 2:00",
+    "functionalityId": "indicates or sets the time to two o'clock; stamps an event or record with a 2:00 time marker",
+    "intentId": "represent or log the specific time of 2:00; schedule something at two o'clock"
+  },
+  "fa-clock-two-thirty": {
+    "appearanceId": "circular clock face with the hour hand between 2 and 3 and the minute hand pointing straight down to 6; round dial with hands set at 2:30",
+    "functionalityId": "indicates or sets the time to two-thirty; stamps an event or record with a 2:30 time marker",
+    "intentId": "represent or log the specific time of 2:30; schedule something at half past two"
+  },
+  "fa-clone": {
+    "appearanceId": "two overlapping identical rectangles offset diagonally with one slightly behind the other; duplicate stacked document shapes",
+    "functionalityId": "duplicates or clones the selected element or file; creates an exact copy of the current item",
+    "intentId": "make a duplicate of an existing item or record; replicate content without modifying the original"
+  },
+  "fa-close": {
+    "appearanceId": "two diagonal lines crossing at the center forming an X shape; intersecting strokes meeting at a central point",
+    "functionalityId": "closes or dismisses the current dialog, panel, or window; cancels the current action or selection",
+    "intentId": "exit or dismiss the current view or overlay; cancel an operation and return to the previous state"
+  },
+  "fa-closed-captioning": {
+    "appearanceId": "rounded rectangle containing the bold letters CC; enclosed box badge with a captioning abbreviation",
+    "functionalityId": "toggles closed captions on video or media content; enables or disables subtitle text display",
+    "intentId": "make video content accessible with text captions; turn on subtitles for hearing-impaired viewers"
+  },
+  "fa-closed-captioning-slash": {
+    "appearanceId": "rounded rectangle containing the letters CC overlaid with a diagonal slash through the shape; captioning badge crossed out by a strike-through line",
+    "functionalityId": "turns off or disables closed captions on video content; removes subtitle text from media playback",
+    "intentId": "hide caption text during media playback; disable subtitle accessibility for the current video"
+  },
+  "fa-clothes-hanger": {
+    "appearanceId": "triangular wire hanger shape with a small hook at the top apex and a horizontal bar at the base; inverted V-shaped garment hook with a straight lower rod",
+    "functionalityId": "opens a wardrobe or clothing management section; tags content with a laundry or apparel category",
+    "intentId": "manage clothing items or a wardrobe; represent fashion, laundry, or apparel-related content"
+  },
+  "fa-cloud": {
+    "appearanceId": "fluffy rounded cloud outline with three or four lobed bumps along the top and a flat base; puffed cumulus shape with smooth curved edges",
+    "functionalityId": "opens cloud storage or online sync settings; uploads or accesses files stored in the cloud",
+    "intentId": "store or access files remotely in the cloud; sync data across devices using online storage"
+  },
+  "fa-cloud-binary": {
+    "appearanceId": "fluffy cloud shape with 0 and 1 digits displayed inside or beneath it; rounded cumulus outline overlaid with binary number symbols",
+    "functionalityId": "indicates cloud-based data processing or binary data upload; accesses raw data stored in cloud infrastructure",
+    "intentId": "manage or transfer binary or raw data to the cloud; represent cloud computing or data storage for developers"
+  },
+  "fa-cloud-bolt": {
+    "appearanceId": "fluffy cloud shape with a lightning bolt descending from beneath it; rounded cumulus outline with a jagged electric flash below",
+    "functionalityId": "indicates a thunderstorm weather condition; alerts to a lightning or severe weather event",
+    "intentId": "check or display a thunderstorm weather forecast; warn about lightning or electrical storm conditions"
+  },
+  "fa-cloud-bolt-moon": {
+    "appearanceId": "crescent moon shape beside a cloud with a lightning bolt descending below; nighttime cumulus outline with a moon crescent and electric flash",
+    "functionalityId": "indicates nighttime thunderstorm weather conditions; displays a nighttime severe weather alert",
+    "intentId": "check the overnight weather forecast for storms; be warned about lightning during nighttime hours"
+  },
+  "fa-cloud-bolt-sun": {
+    "appearanceId": "sun shape beside a cloud with a lightning bolt descending below; daytime cumulus outline with a sun symbol and electric flash",
+    "functionalityId": "indicates a daytime thunderstorm weather condition; displays a partly sunny storm weather alert",
+    "intentId": "check the daytime weather forecast for mixed sun and storms; be warned about afternoon lightning activity"
+  },
+  "fa-cloud-check": {
+    "appearanceId": "fluffy cloud shape with a checkmark overlaid on or beneath it; rounded cumulus outline combined with a tick symbol",
+    "functionalityId": "confirms a successful cloud upload or sync operation; verifies that cloud data is current and saved",
+    "intentId": "confirm that files are safely backed up to the cloud; verify a completed cloud synchronization"
+  },
+  "fa-cloud-download": {
+    "appearanceId": "fluffy cloud shape with a downward-pointing arrow beneath it; rounded cumulus outline with a download arrow below",
+    "functionalityId": "downloads a file or data from cloud storage to the local device; pulls content from an online source",
+    "intentId": "retrieve a file from the cloud onto the local device; save online content for offline use"
+  }
+}

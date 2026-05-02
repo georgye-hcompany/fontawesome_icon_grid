@@ -1,0 +1,242 @@
+{
+  "fa-diagram-project": {
+    "appearanceId": "three nodes connected by lines in a branching project flow structure",
+    "functionalityId": "view or manage project diagram",
+    "intentId": "visualize task dependencies in a project"
+  },
+  "fa-diagram-sankey": {
+    "appearanceId": "wide flow bands branching and narrowing between left and right columns of nodes",
+    "functionalityId": "display Sankey flow diagram",
+    "intentId": "analyze proportional flow between categories"
+  },
+  "fa-diagram-subtask": {
+    "appearanceId": "parent node connected by lines to two indented child nodes below",
+    "functionalityId": "expand or view subtask breakdown",
+    "intentId": "see child tasks under a parent task"
+  },
+  "fa-diagram-successor": {
+    "appearanceId": "two boxes connected by a rightward arrow indicating sequential order",
+    "functionalityId": "navigate to the next task in sequence",
+    "intentId": "identify which task follows the current one"
+  },
+  "fa-diagram-venn": {
+    "appearanceId": "two overlapping circles forming a Venn diagram with shared center region",
+    "functionalityId": "compare overlapping sets or categories",
+    "intentId": "identify shared or unique attributes between groups"
+  },
+  "fa-display-arrow-down": {
+    "appearanceId": "desktop monitor screen with a downward-pointing arrow displayed on it",
+    "functionalityId": "download or push content to display",
+    "intentId": "send or save content from the screen"
+  },
+  "fa-display-chart-up": {
+    "appearanceId": "desktop monitor showing an upward-trending line chart",
+    "functionalityId": "view analytics or growth chart on screen",
+    "intentId": "monitor rising performance metrics on display"
+  },
+  "fa-display-chart-up-circle-currency": {
+    "appearanceId": "desktop monitor with upward chart and a small circle containing a generic currency symbol in corner",
+    "functionalityId": "view financial growth chart on display",
+    "intentId": "monitor currency-based performance on screen"
+  },
+  "fa-display-chart-up-circle-dollar": {
+    "appearanceId": "desktop monitor with upward chart and a small circle containing a dollar sign in corner",
+    "functionalityId": "view dollar-denominated growth chart on display",
+    "intentId": "track dollar-value performance metrics on screen"
+  },
+  "fa-dna": {
+    "appearanceId": "double helix strand with horizontal rungs twisting vertically",
+    "functionalityId": "access genetics or biology data",
+    "intentId": "explore genetic or molecular information"
+  },
+  "fa-dog": {
+    "appearanceId": "dog silhouette with four legs, floppy ear, tail, and snout facing right",
+    "functionalityId": "browse pet or animal content",
+    "intentId": "find information related to dogs or pets"
+  },
+  "fa-dog-leashed": {
+    "appearanceId": "dog silhouette with a leash line extending upward from collar",
+    "functionalityId": "manage or log a leashed pet",
+    "intentId": "indicate a dog on a leash or pet walking"
+  },
+  "fa-dove": {
+    "appearanceId": "dove bird silhouette with wings spread wide in flight facing right",
+    "functionalityId": "send a peace or message symbol",
+    "intentId": "represent peace, hope, or a sent message"
+  },
+  "fa-download": {
+    "appearanceId": "downward arrow pointing into a horizontal line at the bottom",
+    "functionalityId": "download a file or resource",
+    "intentId": "save content to local device"
+  },
+  "fa-dragon": {
+    "appearanceId": "dragon silhouette with wings, horns, tail, and clawed legs",
+    "functionalityId": "access fantasy or gaming content",
+    "intentId": "represent a dragon character or fantasy theme"
+  },
+  "fa-dumbbell": {
+    "appearanceId": "horizontal bar with large round weight plates on each end",
+    "functionalityId": "log or browse fitness or workout data",
+    "intentId": "track exercise or access gym features"
+  },
+  "fa-e": {
+    "appearanceId": "bold uppercase letter E",
+    "functionalityId": "insert or label letter E",
+    "intentId": "represent the letter E"
+  },
+  "fa-egg": {
+    "appearanceId": "smooth oval egg shape wider at bottom",
+    "functionalityId": "add or label an egg item",
+    "intentId": "represent an egg in food or nature context"
+  },
+  "fa-egg-fried": {
+    "appearanceId": "fried egg with round yolk centered on an irregular white spread",
+    "functionalityId": "add or label a fried egg item",
+    "intentId": "represent a cooked egg in a food context"
+  },
+  "fa-ellipsis": {
+    "appearanceId": "three small dots arranged horizontally in a row",
+    "functionalityId": "open overflow or additional options menu",
+    "intentId": "access more actions not currently shown"
+  },
+  "fa-envelope": {
+    "appearanceId": "rectangular envelope shape with a V-shaped flap at top",
+    "functionalityId": "compose or open an email message",
+    "intentId": "send or view an email or message"
+  },
+  "fa-eraser": {
+    "appearanceId": "rectangular eraser block with a angled bottom edge",
+    "functionalityId": "erase or clear selected content",
+    "intentId": "remove drawn marks or typed text"
+  },
+  "fa-exclamation": {
+    "appearanceId": "vertical exclamation mark with dot below",
+    "functionalityId": "flag an alert or warning",
+    "intentId": "draw attention to an important notice"
+  },
+  "fa-expand": {
+    "appearanceId": "four corner arrows pointing outward toward the edges of a square boundary",
+    "functionalityId": "expand or fullscreen a view",
+    "intentId": "enlarge content to fill available space"
+  },
+  "fa-eye": {
+    "appearanceId": "almond-shaped eye outline with a circular pupil in the center",
+    "functionalityId": "toggle visibility or preview content",
+    "intentId": "view or reveal hidden information"
+  },
+  "fa-eye-slash": {
+    "appearanceId": "almond-shaped eye outline with a diagonal slash line across it",
+    "functionalityId": "hide or toggle content invisible",
+    "intentId": "conceal or mask sensitive information"
+  },
+  "fa-f": {
+    "appearanceId": "bold uppercase letter F",
+    "functionalityId": "insert or label letter F",
+    "intentId": "represent the letter F"
+  },
+  "fa-face-angry-horns": {
+    "appearanceId": "round face with furrowed brows, frown, and small horns on top",
+    "functionalityId": "express anger or devil emotion",
+    "intentId": "convey rage or mischievous fury"
+  },
+  "fa-face-anguished": {
+    "appearanceId": "round face with raised inner brows, wide open eyes, and wavy open mouth",
+    "functionalityId": "express anguish or distress emotion",
+    "intentId": "convey intense pain or emotional suffering"
+  },
+  "fa-face-anxious-sweat": {
+    "appearanceId": "round face with furrowed brows, nervous expression, and sweat drop on side",
+    "functionalityId": "express anxiety or nervousness",
+    "intentId": "convey stress or worried discomfort"
+  },
+  "fa-face-astonished": {
+    "appearanceId": "round face with wide open eyes and O-shaped mouth",
+    "functionalityId": "express shock or astonishment",
+    "intentId": "convey extreme surprise or disbelief"
+  },
+  "fa-face-beam-hand-over-mouth": {
+    "appearanceId": "round face with smiling eyes and a hand covering the mouth",
+    "functionalityId": "express delighted surprise or excitement",
+    "intentId": "convey gleeful astonishment or shy happiness"
+  },
+  "fa-face-clouds": {
+    "appearanceId": "round face partially obscured by cloud shapes in front",
+    "functionalityId": "express confusion or foggy thinking",
+    "intentId": "convey unclear thoughts or mental haze"
+  },
+  "fa-face-confounded": {
+    "appearanceId": "round face with X eyes and open mouth",
+    "functionalityId": "express total confusion or overwhelm",
+    "intentId": "convey being completely stumped or defeated"
+  },
+  "fa-face-confused": {
+    "appearanceId": "round face with uneven raised brow and crooked mouth expression",
+    "functionalityId": "express mild confusion or uncertainty",
+    "intentId": "convey puzzlement or a questioning feeling"
+  },
+  "fa-face-cowboy-hat": {
+    "appearanceId": "round face wearing a wide-brimmed cowboy hat",
+    "functionalityId": "express cowboy or western theme",
+    "intentId": "convey a country, western, or rugged mood"
+  },
+  "fa-face-diagonal-mouth": {
+    "appearanceId": "round face with a diagonal slanted mouth and neutral eyes",
+    "functionalityId": "express skepticism or indifference",
+    "intentId": "convey doubt or unimpressed reaction"
+  },
+  "fa-face-disappointed": {
+    "appearanceId": "round face with downturned mouth and sad eyes",
+    "functionalityId": "express disappointment or sadness",
+    "intentId": "convey letdown or unmet expectations"
+  },
+  "fa-face-disguise": {
+    "appearanceId": "round face with disguise glasses and nose attached",
+    "functionalityId": "express disguise or playful anonymity",
+    "intentId": "convey a joke, disguise, or hidden identity"
+  },
+  "fa-face-dotted": {
+    "appearanceId": "round face with small dots scattered across it instead of normal features",
+    "functionalityId": "represent an abstract or spotted face",
+    "intentId": "indicate an unusual or placeholder facial state"
+  },
+  "fa-face-downcast-sweat": {
+    "appearanceId": "round face with downturned mouth, downcast eyes, and a sweat drop",
+    "functionalityId": "express dejection or embarrassed sadness",
+    "intentId": "convey shame, exhaustion, or sad stress"
+  },
+  "fa-face-drooling": {
+    "appearanceId": "round face with drool drop from corner of mouth",
+    "functionalityId": "express craving or delight",
+    "intentId": "convey strong desire or appetite for something"
+  },
+  "fa-face-exhaling": {
+    "appearanceId": "round face with puffed cheek and air stream blowing outward from mouth",
+    "functionalityId": "express relief or exhaustion",
+    "intentId": "convey letting go of stress or catching breath"
+  },
+  "fa-face-explode": {
+    "appearanceId": "round face with top of head blowing off in an explosion burst",
+    "functionalityId": "express mind blown or shock",
+    "intentId": "convey overwhelming amazement or overload"
+  },
+  "fa-face-expressionless": {
+    "appearanceId": "round face with flat horizontal line mouth and neutral open eyes",
+    "functionalityId": "express neutral or no emotion",
+    "intentId": "convey deadpan or unemotional reaction"
+  },
+  "fa-face-eyes-xmarks": {
+    "appearanceId": "round face with X marks for both eyes and a neutral mouth",
+    "functionalityId": "express KO, death, or dizziness",
+    "intentId": "convey being knocked out or overwhelmed"
+  },
+  "fa-face-fearful": {
+    "appearanceId": "round face with wide open eyes, raised brows, and small open mouth in fear",
+    "functionalityId": "express fear or fright",
+    "intentId": "convey terror or an alarming reaction"
+  },
+  "fa-face-frown-slight": {
+    "appearanceId": "round face with slightly curved downward mouth and neutral eyes",
+    "functionalityId": "express mild displeasure or slight sadness",
+    "intentId": "convey a subtle negative or unhappy feeling"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-frog": {
+    "appearanceId": "side-view frog with wide body, four splayed legs, and large round eyes",
+    "functionalityId": "browse nature or amphibian category",
+    "intentId": "select a frog or nature-themed element"
+  },
+  "fa-futbol": {
+    "appearanceId": "spherical soccer ball with black pentagonal patches on white surface",
+    "functionalityId": "browse soccer or futbol sports content",
+    "intentId": "access soccer scores or match information"
+  },
+  "fa-g": {
+    "appearanceId": "bold uppercase letter G",
+    "functionalityId": "insert or label the letter G",
+    "intentId": "represent or badge content with letter G"
+  },
+  "fa-gamepad": {
+    "appearanceId": "rectangular game controller with two thumbsticks, directional pad, and face buttons",
+    "functionalityId": "open gaming settings or connect a controller",
+    "intentId": "play a game or configure controller input"
+  },
+  "fa-garage-car": {
+    "appearanceId": "garage structure with arched door opening showing a car inside",
+    "functionalityId": "manage or access a home garage",
+    "intentId": "control garage door or parked vehicle"
+  },
+  "fa-gift": {
+    "appearanceId": "wrapped gift box with ribbon band and bow on top",
+    "functionalityId": "claim a gift or view rewards",
+    "intentId": "access a bonus offer or present"
+  },
+  "fa-glass-martini": {
+    "appearanceId": "stemmed martini glass with wide triangular bowl and thin stem",
+    "functionalityId": "browse bar menu or cocktail options",
+    "intentId": "order or explore alcoholic beverages"
+  },
+  "fa-globe": {
+    "appearanceId": "spherical globe with latitude and longitude grid lines",
+    "functionalityId": "open language or region settings",
+    "intentId": "change locale or browse worldwide content"
+  },
+  "fa-globe-snow": {
+    "appearanceId": "decorative snow globe with round glass dome on a base containing a scene",
+    "functionalityId": "browse holiday or winter-themed content",
+    "intentId": "access seasonal decorations or winter settings"
+  },
+  "fa-golf-ball": {
+    "appearanceId": "small spherical ball covered with circular dimple indentations",
+    "functionalityId": "browse golf sports content or scoring",
+    "intentId": "access golf game or course information"
+  },
+  "fa-golf-club": {
+    "appearanceId": "golf club with long straight shaft and angled club head at bottom",
+    "functionalityId": "browse golf equipment or course features",
+    "intentId": "select a golf club or manage equipment"
+  },
+  "fa-golf-flag-hole": {
+    "appearanceId": "circular golf hole in ground with flagstick and triangular flag",
+    "functionalityId": "navigate to a golf hole",
+    "intentId": "track golf score or find hole"
+  },
+  "fa-grip": {
+    "appearanceId": "three-by-three grid of evenly spaced small dots",
+    "functionalityId": "activate drag-and-drop reordering mode",
+    "intentId": "rearrange items by dragging them"
+  },
+  "fa-h": {
+    "appearanceId": "bold uppercase letter H",
+    "functionalityId": "insert or label the letter H",
+    "intentId": "represent or badge content with letter H"
+  },
+  "fa-hammer": {
+    "appearanceId": "claw hammer with rectangular metal head and handle at angle",
+    "functionalityId": "trigger a build or construction action",
+    "intentId": "initiate a compilation or repair process"
+  },
+  "fa-hammer-brush": {
+    "appearanceId": "hammer with rectangular head paired beside a paintbrush",
+    "functionalityId": "open renovation or build-and-paint tools",
+    "intentId": "perform construction and decorating tasks"
+  },
+  "fa-hammer-crash": {
+    "appearanceId": "hammer striking downward with impact burst lines around the head",
+    "functionalityId": "trigger a force or destructive action",
+    "intentId": "demolish or forcefully reset a component"
+  },
+  "fa-hammer-war": {
+    "appearanceId": "war hammer with heavy flanged head and long handle",
+    "functionalityId": "access combat or weapon-themed actions",
+    "intentId": "select a battle weapon or aggressive action"
+  },
+  "fa-hand-holding-seedling": {
+    "appearanceId": "open upward-facing hand cradling a small seedling sprout with two leaves",
+    "functionalityId": "promote sustainability or plant-care features",
+    "intentId": "support environmental growth or nurture an item"
+  },
+  "fa-headphones": {
+    "appearanceId": "arched headband connecting two circular ear cups",
+    "functionalityId": "open audio or headphone settings",
+    "intentId": "listen privately or manage audio playback"
+  },
+  "fa-heart": {
+    "appearanceId": "symmetric heart shape with two rounded lobes at top meeting at a downward point",
+    "functionalityId": "like or favorite selected content",
+    "intentId": "save or express approval for an item"
+  },
+  "fa-heart-crack": {
+    "appearanceId": "heart shape split down the middle with a jagged crack line",
+    "functionalityId": "remove a favorite or connection",
+    "intentId": "unlike content or signal a relationship ended"
+  },
+  "fa-helicopter": {
+    "appearanceId": "side-view helicopter with main rotor on top and tail rotor at rear",
+    "functionalityId": "access helicopter transport or tracking features",
+    "intentId": "book or track a helicopter service"
+  },
+  "fa-helicopter-symbol": {
+    "appearanceId": "letter H inside a circle representing a helicopter landing pad symbol",
+    "functionalityId": "navigate to a helicopter landing zone",
+    "intentId": "find or designate a helipad location"
+  },
+  "fa-hippo": {
+    "appearanceId": "side-view hippo with large rounded body, short legs, and wide muzzle",
+    "functionalityId": "browse wildlife or zoo-themed content",
+    "intentId": "select a hippopotamus or animal-themed element"
+  },
+  "fa-hockey-mask": {
+    "appearanceId": "goalie hockey mask with eye holes and vertical bar grill over face",
+    "functionalityId": "browse hockey goalie or protective gear content",
+    "intentId": "access hockey equipment or Halloween horror theme"
+  },
+  "fa-hockey-puck": {
+    "appearanceId": "flat circular disk representing a hockey puck viewed from slight angle",
+    "functionalityId": "browse ice hockey sports content",
+    "intentId": "access hockey game scores or information"
+  },
+  "fa-hockey-stick-puck": {
+    "appearanceId": "hockey stick with blade resting beside a circular puck",
+    "functionalityId": "browse ice hockey game or team content",
+    "intentId": "access hockey match details or equipment"
+  },
+  "fa-hockey-sticks": {
+    "appearanceId": "two hockey sticks crossed over each other in an X pattern",
+    "functionalityId": "browse ice hockey sports or team content",
+    "intentId": "access hockey league scores or team information"
+  },
+  "fa-horse": {
+    "appearanceId": "full side-view horse standing with raised head, four legs, and tail",
+    "functionalityId": "browse equestrian or horse-related content",
+    "intentId": "access horse racing or riding information"
+  },
+  "fa-horse-head": {
+    "appearanceId": "side-view horse head and neck silhouette with mane detail",
+    "functionalityId": "browse equestrian or horse-related content",
+    "intentId": "identify a horse breed or equestrian feature"
+  },
+  "fa-horse-saddle": {
+    "appearanceId": "side-view horse saddle with seat, pommel, and stirrup leather",
+    "functionalityId": "browse horse riding equipment or equestrian gear",
+    "intentId": "select or manage saddle and riding accessories"
+  },
+  "fa-hospital": {
+    "appearanceId": "multi-story building facade with large H cross symbol on front",
+    "functionalityId": "find a nearby hospital or medical facility",
+    "intentId": "access emergency care or hospital services"
+  },
+  "fa-hospital-user": {
+    "appearanceId": "hospital building with a person silhouette badge overlay",
+    "functionalityId": "manage patient or hospital user profile",
+    "intentId": "access a patient record or staff account"
+  },
+  "fa-hotdog": {
+    "appearanceId": "elongated sausage in a bun with condiment lines on top",
+    "functionalityId": "browse fast food menu items",
+    "intentId": "order or view hot dog"
+  },
+  "fa-hotel": {
+    "appearanceId": "multi-story building with grid of windows and hotel entrance",
+    "functionalityId": "search or book a hotel accommodation",
+    "intentId": "find or reserve a hotel room"
+  },
+  "fa-hourglass": {
+    "appearanceId": "two triangular chambers connected at narrow center with sand",
+    "functionalityId": "indicate a loading or waiting state",
+    "intentId": "wait for a timed process to complete"
+  },
+  "fa-hourglass-1": {
+    "appearanceId": "hourglass with sand mostly in upper chamber",
+    "functionalityId": "show timer at early stage of countdown",
+    "intentId": "indicate most time remains before completion"
+  },
+  "fa-hourglass-2": {
+    "appearanceId": "hourglass with sand at midpoint between chambers",
+    "functionalityId": "show timer at halfway point of countdown",
+    "intentId": "indicate half the allotted time has elapsed"
+  },
+  "fa-hourglass-3": {
+    "appearanceId": "hourglass with sand mostly in lower chamber",
+    "functionalityId": "show timer near end of countdown",
+    "intentId": "indicate time is almost expired"
+  },
+  "fa-house-building": {
+    "appearanceId": "small residential house beside a taller multi-story building",
+    "functionalityId": "browse mixed residential and commercial properties",
+    "intentId": "compare home and building options"
+  },
+  "fa-house-flood-water-circle-arrow-right": {
+    "appearanceId": "house with water waves at base and a circle with rightward arrow badge",
+    "functionalityId": "evacuate or redirect from a flooded property",
+    "intentId": "navigate away from flood-affected area"
+  },
+  "fa-house-tree": {
+    "appearanceId": "residential house with a tree growing beside it",
+    "functionalityId": "browse eco-friendly or suburban property listings",
+    "intentId": "find a home with outdoor greenery"
+  },
+  "fa-i": {
+    "appearanceId": "bold uppercase letter I",
+    "functionalityId": "insert or label the letter I",
+    "intentId": "represent or badge content with letter I"
+  },
+  "fa-image": {
+    "appearanceId": "rectangular frame with small mountain landscape and sun in upper corner",
+    "functionalityId": "insert or view an image",
+    "intentId": "add a photo or graphic to content"
+  },
+  "fa-images": {
+    "appearanceId": "two overlapping rectangular image frames stacked with offset",
+    "functionalityId": "open an image gallery or photo library",
+    "intentId": "browse a collection of multiple images"
+  },
+  "fa-inbox": {
+    "appearanceId": "rectangular tray with angled sides and a downward arrow pointing into it",
+    "functionalityId": "open incoming messages or task inbox",
+    "intentId": "check for new items that need attention"
+  },
+  "fa-info": {
+    "appearanceId": "lowercase letter i with dot above on a plain background",
+    "functionalityId": "display help text or additional details",
+    "intentId": "learn more about a feature or item"
+  }
+}

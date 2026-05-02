@@ -1,0 +1,242 @@
+{
+  "fa-circle-2": {
+    "appearanceId": "circle containing the uppercase digit 2; round outline enclosing the number two",
+    "functionalityId": "navigates to step two or selects the second item; labels or sequences content as number two",
+    "intentId": "identify or jump to the second step or option in a sequence; mark an item as second in order"
+  },
+  "fa-circle-3": {
+    "appearanceId": "circle containing the uppercase digit 3; round outline enclosing the number three",
+    "functionalityId": "navigates to step three or selects the third item; labels or sequences content as number three",
+    "intentId": "identify or jump to the third step or option in a sequence; mark an item as third in order"
+  },
+  "fa-circle-4": {
+    "appearanceId": "circle containing the uppercase digit 4; round outline enclosing the number four",
+    "functionalityId": "navigates to step four or selects the fourth item; labels or sequences content as number four",
+    "intentId": "identify or jump to the fourth step or option in a sequence; mark an item as fourth in order"
+  },
+  "fa-circle-5": {
+    "appearanceId": "circle containing the uppercase digit 5; round outline enclosing the number five",
+    "functionalityId": "navigates to step five or selects the fifth item; labels or sequences content as number five",
+    "intentId": "identify or jump to the fifth step or option in a sequence; mark an item as fifth in order"
+  },
+  "fa-circle-6": {
+    "appearanceId": "circle containing the uppercase digit 6; round outline enclosing the number six",
+    "functionalityId": "navigates to step six or selects the sixth item; labels or sequences content as number six",
+    "intentId": "identify or jump to the sixth step or option in a sequence; mark an item as sixth in order"
+  },
+  "fa-circle-7": {
+    "appearanceId": "circle containing the uppercase digit 7; round outline enclosing the number seven",
+    "functionalityId": "navigates to step seven or selects the seventh item; labels or sequences content as number seven",
+    "intentId": "identify or jump to the seventh step or option in a sequence; mark an item as seventh in order"
+  },
+  "fa-circle-8": {
+    "appearanceId": "circle containing the uppercase digit 8; round outline enclosing the number eight",
+    "functionalityId": "navigates to step eight or selects the eighth item; labels or sequences content as number eight",
+    "intentId": "identify or jump to the eighth step or option in a sequence; mark an item as eighth in order"
+  },
+  "fa-circle-9": {
+    "appearanceId": "circle containing the uppercase digit 9; round outline enclosing the number nine",
+    "functionalityId": "navigates to step nine or selects the ninth item; labels or sequences content as number nine",
+    "intentId": "identify or jump to the ninth step or option in a sequence; mark an item as ninth in order"
+  },
+  "fa-circle-a": {
+    "appearanceId": "circle containing uppercase letter A; round outline enclosing a capital A glyph",
+    "functionalityId": "selects or filters the first alphabetical category; labels content or a list entry under category A",
+    "intentId": "navigate to or identify an A-labeled section or category; represent the first alphabetical option"
+  },
+  "fa-circle-ampersand": {
+    "appearanceId": "circle containing an ampersand symbol; round outline enclosing a stylized and-sign glyph",
+    "functionalityId": "represents a conjunction or combination action; links or joins two items or categories together",
+    "intentId": "indicate a relationship or pairing between two elements; represent a combined or joint grouping"
+  },
+  "fa-circle-arrow-down-left": {
+    "appearanceId": "arrow pointing diagonally toward the lower-left inside a circle outline; circular border enclosing a down-left diagonal arrowhead",
+    "functionalityId": "moves or sends content diagonally down and to the left; navigates to the lower-left direction",
+    "intentId": "reposition or route content toward the lower-left; indicate movement or flow in a down-left direction"
+  },
+  "fa-circle-arrow-down-right": {
+    "appearanceId": "arrow pointing diagonally toward the lower-right inside a circle outline; circular border enclosing a down-right diagonal arrowhead",
+    "functionalityId": "moves or sends content diagonally down and to the right; navigates to the lower-right direction",
+    "intentId": "reposition or route content toward the lower-right; indicate movement or flow in a down-right direction"
+  },
+  "fa-circle-arrow-up-left": {
+    "appearanceId": "arrow pointing diagonally toward the upper-left inside a circle outline; circular border enclosing an up-left diagonal arrowhead",
+    "functionalityId": "moves or sends content diagonally up and to the left; navigates to the upper-left direction",
+    "intentId": "reposition or route content toward the upper-left; indicate movement or flow in an up-left direction"
+  },
+  "fa-circle-arrow-up-right": {
+    "appearanceId": "arrow pointing diagonally toward the upper-right inside a circle outline; circular border enclosing an up-right diagonal arrowhead",
+    "functionalityId": "moves or sends content diagonally up and to the right; navigates to the upper-right direction",
+    "intentId": "reposition or route content toward the upper-right; indicate movement or flow in an up-right direction"
+  },
+  "fa-circle-b": {
+    "appearanceId": "circle containing uppercase letter B; round outline enclosing a capital B glyph",
+    "functionalityId": "selects or filters the second alphabetical category; labels content or a list entry under category B",
+    "intentId": "navigate to or identify a B-labeled section or category; represent the second alphabetical option"
+  },
+  "fa-circle-bolt": {
+    "appearanceId": "circle containing a lightning bolt symbol; round outline enclosing a zigzag flash shape",
+    "functionalityId": "triggers a quick action or power feature; activates an instant or high-energy operation",
+    "intentId": "execute a fast or powerful action; access an electric or energy-related feature"
+  },
+  "fa-circle-c": {
+    "appearanceId": "circle containing uppercase letter C; round outline enclosing a capital C glyph",
+    "functionalityId": "selects or filters the third alphabetical category; labels content or a list entry under category C",
+    "intentId": "navigate to or identify a C-labeled section or category; represent the third alphabetical option"
+  },
+  "fa-circle-d": {
+    "appearanceId": "circle containing uppercase letter D; round outline enclosing a capital D glyph",
+    "functionalityId": "selects or filters the fourth alphabetical category; labels content or a list entry under category D",
+    "intentId": "navigate to or identify a D-labeled section or category; represent the fourth alphabetical option"
+  },
+  "fa-circle-dashed": {
+    "appearanceId": "circle formed by a series of dashes or short segments with gaps between them; incomplete ring made of evenly spaced broken line segments",
+    "functionalityId": "indicates a pending, draft, or incomplete state; marks a placeholder or in-progress circular element",
+    "intentId": "represent an item that is incomplete or not yet finalized; signal a placeholder or draft status"
+  },
+  "fa-circle-divide": {
+    "appearanceId": "circle containing a division sign with a dot above and a dot below a horizontal line; round outline enclosing an obelus or divide symbol",
+    "functionalityId": "performs or triggers a division calculation; opens a math or arithmetic operation for dividing values",
+    "intentId": "divide a value or quantity by another; access a division function in a calculator or math tool"
+  },
+  "fa-circle-dot": {
+    "appearanceId": "circle outline with a smaller filled dot centered inside it; ring shape enclosing a solid central point",
+    "functionalityId": "selects a radio button option; marks the currently active or chosen item in a list",
+    "intentId": "choose a single option from a set of mutually exclusive choices; indicate the selected state of a radio control"
+  },
+  "fa-circle-down": {
+    "appearanceId": "circle outline containing a downward-pointing arrow centered inside; round border enclosing a downward arrowhead",
+    "functionalityId": "downloads content or scrolls the view downward; moves focus or selection to the next item below",
+    "intentId": "retrieve or download a file or data item; navigate downward through a list or page"
+  },
+  "fa-circle-down-left": {
+    "appearanceId": "circle outline with a downward-left diagonal arrow inside; round border enclosing an arrow pointing toward the lower-left corner",
+    "functionalityId": "moves or collapses content toward the lower-left; navigates diagonally down and left within a view",
+    "intentId": "shift focus or content toward the lower-left of a layout; indicate a down-left directional movement"
+  },
+  "fa-circle-down-right": {
+    "appearanceId": "circle outline with a downward-right diagonal arrow inside; round border enclosing an arrow pointing toward the lower-right corner",
+    "functionalityId": "moves or expands content toward the lower-right; navigates diagonally down and right within a view",
+    "intentId": "shift focus or content toward the lower-right of a layout; indicate a down-right directional movement"
+  },
+  "fa-circle-e": {
+    "appearanceId": "circle containing uppercase letter E; round outline enclosing a capital E glyph",
+    "functionalityId": "selects or filters the fifth alphabetical category; labels content or a list entry under category E",
+    "intentId": "navigate to or identify an E-labeled section or category; represent the fifth alphabetical option"
+  },
+  "fa-circle-ellipsis": {
+    "appearanceId": "circle containing three horizontally arranged dots; round outline enclosing a horizontal ellipsis symbol",
+    "functionalityId": "opens an overflow menu with additional options; reveals more actions in a contextual dropdown",
+    "intentId": "access additional or hidden menu options; expand a set of actions beyond what is immediately visible"
+  },
+  "fa-circle-ellipsis-vertical": {
+    "appearanceId": "circle containing three vertically stacked dots; round outline enclosing a vertical ellipsis symbol",
+    "functionalityId": "opens a vertical overflow menu with more options; reveals a context menu of additional actions",
+    "intentId": "access a vertical list of additional actions or settings; expand a contextual menu for more choices"
+  },
+  "fa-circle-envelope": {
+    "appearanceId": "circle outline containing a small envelope or letter shape; round border enclosing a rectangular mail flap symbol",
+    "functionalityId": "opens an email compose or inbox view; sends or accesses a message via a circular mail button",
+    "intentId": "send or read an email message; access a messaging or mail feature"
+  },
+  "fa-circle-euro": {
+    "appearanceId": "circle containing a euro currency sign with two horizontal bars through the C-shaped glyph; round outline enclosing a euro symbol",
+    "functionalityId": "selects euro as the currency for a transaction; opens a euro-denominated payment or pricing setting",
+    "intentId": "set or view a price or amount in euros; access euro currency options in a financial tool"
+  },
+  "fa-circle-exclamation": {
+    "appearanceId": "circle containing an exclamation mark with a vertical stroke and a dot below; round outline enclosing a warning punctuation symbol",
+    "functionalityId": "alerts the user to an error, warning, or important notice; highlights a critical status that needs attention",
+    "intentId": "address an urgent warning or error condition; review an alert or important notification"
+  },
+  "fa-circle-exclamation-check": {
+    "appearanceId": "circle containing both an exclamation mark and a small checkmark; round outline enclosing a combined warning and verified symbol",
+    "functionalityId": "confirms that a warning or alert has been acknowledged; marks an issue as reviewed and resolved",
+    "intentId": "acknowledge and clear an alert or warning; confirm that a flagged issue has been addressed"
+  },
+  "fa-circle-f": {
+    "appearanceId": "circle containing uppercase letter F; round outline enclosing a capital F glyph",
+    "functionalityId": "selects or filters the sixth alphabetical category; labels content or a list entry under category F",
+    "intentId": "navigate to or identify an F-labeled section or category; represent the sixth alphabetical option"
+  },
+  "fa-circle-g": {
+    "appearanceId": "circle containing uppercase letter G; round outline enclosing a capital G glyph",
+    "functionalityId": "selects or filters a G-labeled category or group; labels content or a list entry under category G",
+    "intentId": "navigate to or identify a G-labeled section or category; represent a G-keyed option or group"
+  },
+  "fa-circle-gf": {
+    "appearanceId": "circle containing the uppercase letter pair GF; round outline enclosing two capital letters side by side",
+    "functionalityId": "identifies or links to a GF-branded entity or feature; labels content with a two-letter GF monogram",
+    "intentId": "access or represent a resource or brand identified by the GF initials; navigate to a GF-labeled section"
+  },
+  "fa-circle-h": {
+    "appearanceId": "circle containing uppercase letter H; round outline enclosing a capital H glyph",
+    "functionalityId": "navigates to a hospital, helipad, or help section; labels content or a location under the H designation",
+    "intentId": "find a hospital or medical facility; access help or a helipad-marked location"
+  },
+  "fa-circle-half": {
+    "appearanceId": "circle split exactly in half with one half filled and the other half empty; two-tone disk with a solid semicircle adjacent to a hollow semicircle",
+    "functionalityId": "toggles between two opposite states or modes; switches a setting to a half-on or partial state",
+    "intentId": "represent a midpoint or 50-percent status; toggle between two contrasting states or themes"
+  },
+  "fa-circle-heart": {
+    "appearanceId": "circle containing a heart shape with two rounded lobes and a downward point; round outline enclosing a love or favorite symbol",
+    "functionalityId": "adds an item to a favorites or loved list; marks content as liked or cherished",
+    "intentId": "save something as a favorite or express appreciation; bookmark a liked item in a collection"
+  },
+  "fa-circle-i": {
+    "appearanceId": "circle containing uppercase letter I; round outline enclosing a capital I glyph",
+    "functionalityId": "selects or filters an I-labeled category or item; labels content or a list entry under category I",
+    "intentId": "navigate to or identify an I-labeled section or category; represent an I-keyed option or group"
+  },
+  "fa-circle-info": {
+    "appearanceId": "circle containing a lowercase letter i information symbol; round outline enclosing a vertical stroke with a dot above",
+    "functionalityId": "opens a tooltip, help text, or information panel; displays additional details about a feature or item",
+    "intentId": "learn more about a feature or get contextual help; access supplementary information or documentation"
+  },
+  "fa-circle-j": {
+    "appearanceId": "circle containing uppercase letter J; round outline enclosing a capital J glyph",
+    "functionalityId": "selects or filters a J-labeled category or item; labels content or a list entry under category J",
+    "intentId": "navigate to or identify a J-labeled section or category; represent a J-keyed option or group"
+  },
+  "fa-circle-k": {
+    "appearanceId": "circle containing uppercase letter K; round outline enclosing a capital K glyph",
+    "functionalityId": "selects or filters a K-labeled category or item; labels content or a list entry under category K",
+    "intentId": "navigate to or identify a K-labeled section or category; represent a K-keyed option or group"
+  },
+  "fa-circle-l": {
+    "appearanceId": "circle containing uppercase letter L; round outline enclosing a capital L glyph",
+    "functionalityId": "selects or filters an L-labeled category or item; labels content or a list entry under category L",
+    "intentId": "navigate to or identify an L-labeled section or category; represent an L-keyed option or group"
+  },
+  "fa-circle-left": {
+    "appearanceId": "circle outline containing a leftward-pointing arrow centered inside; round border enclosing a left arrowhead",
+    "functionalityId": "navigates to the previous page or item; moves focus or content to the left",
+    "intentId": "go back to the previous view or step; shift content or selection to the left"
+  },
+  "fa-circle-m": {
+    "appearanceId": "circle containing uppercase letter M; round outline enclosing a capital M glyph",
+    "functionalityId": "selects or filters an M-labeled category or item; labels content or a list entry under category M",
+    "intentId": "navigate to or identify an M-labeled section or category; represent an M-keyed option or group"
+  },
+  "fa-circle-microphone": {
+    "appearanceId": "circle containing a microphone shape with a cylindrical capsule and a stem; round outline enclosing a recording mic symbol",
+    "functionalityId": "activates voice input or audio recording; opens a microphone-based feature such as speech-to-text",
+    "intentId": "start speaking or recording audio; enable voice commands or a voice note feature"
+  },
+  "fa-circle-minus": {
+    "appearanceId": "circle outline containing a horizontal minus line centered inside; round border enclosing a subtraction symbol",
+    "functionalityId": "removes an item or decreases a count; collapses a section or deletes an entry",
+    "intentId": "reduce a quantity or remove something from a list; collapse or dismiss a selected item"
+  },
+  "fa-circle-n": {
+    "appearanceId": "circle containing uppercase letter N; round outline enclosing a capital N glyph",
+    "functionalityId": "selects or filters an N-labeled category or item; labels content or a list entry under category N",
+    "intentId": "navigate to or identify an N-labeled section or category; represent an N-keyed option or group"
+  },
+  "fa-circle-nodes": {
+    "appearanceId": "circle outline with smaller node dots positioned around the perimeter connected by lines; ring shape with connected satellite points forming a network diagram",
+    "functionalityId": "opens a network topology or graph view; manages connected nodes or linked data points in a system",
+    "intentId": "visualize or manage a connected network or graph structure; explore relationships between linked nodes"
+  }
+}

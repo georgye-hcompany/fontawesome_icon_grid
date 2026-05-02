@@ -1,0 +1,242 @@
+{
+  "fa-down-from-dotted-line": {
+    "appearanceId": "downward-pointing arrow with shaft descending from a horizontal dotted line above; solid arrowhead pointing down below a dashed baseline",
+    "functionalityId": "moves or pulls content below a dotted boundary line; extracts an element downward from a dashed threshold",
+    "intentId": "place content beneath a dotted divider; bring an item down from a dashed boundary"
+  },
+  "fa-down-from-line": {
+    "appearanceId": "downward-pointing arrow with shaft descending from a solid horizontal line above; solid arrowhead pointing down below a solid baseline",
+    "functionalityId": "moves or pulls content below a solid boundary line; extracts an element downward from a defined threshold",
+    "intentId": "place content beneath a solid divider; bring an item down from a fixed line"
+  },
+  "fa-down-left": {
+    "appearanceId": "diagonal arrow pointing toward the lower-left corner; angled shaft with arrowhead aimed down and to the left",
+    "functionalityId": "navigates or moves content diagonally toward the lower-left; redirects an element in a down-left direction",
+    "intentId": "move something to the lower-left position; navigate diagonally downward and leftward"
+  },
+  "fa-down-long": {
+    "appearanceId": "long downward-pointing arrow with an elongated vertical shaft; solid arrowhead at the bottom of a tall stem",
+    "functionalityId": "scrolls or moves content far downward; navigates to a lower position with extended travel",
+    "intentId": "reach content far below the current view; move an element a significant distance downward"
+  },
+  "fa-down-right": {
+    "appearanceId": "diagonal arrow pointing toward the lower-right corner; angled shaft with arrowhead aimed down and to the right",
+    "functionalityId": "navigates or moves content diagonally toward the lower-right; redirects an element in a down-right direction",
+    "intentId": "move something to the lower-right position; navigate diagonally downward and rightward"
+  },
+  "fa-down-to-bracket": {
+    "appearanceId": "downward-pointing arrow with shaft ending at a horizontal bracket or tray shape below; arrowhead pointing into an open-top bracket",
+    "functionalityId": "downloads or drops content into a receiving bracket or slot; moves an item down into a designated container",
+    "intentId": "save or deposit content into a target slot below; download a file into a defined location"
+  },
+  "fa-down-to-dotted-line": {
+    "appearanceId": "downward-pointing arrow with shaft terminating at a horizontal dotted line below; solid arrowhead pointing down to a dashed floor",
+    "functionalityId": "moves or inserts content down to a dotted boundary; snaps an element downward to a dashed threshold",
+    "intentId": "align content to a dotted lower boundary; bring an item down to a dashed limit"
+  },
+  "fa-down-to-line": {
+    "appearanceId": "downward-pointing arrow with shaft terminating at a solid horizontal line below; solid arrowhead pointing down to a solid floor",
+    "functionalityId": "moves or snaps content down to a solid boundary line; collapses an element to a lower fixed position",
+    "intentId": "align content to a solid lower boundary; bring an item down to a fixed limit"
+  },
+  "fa-download": {
+    "appearanceId": "downward-pointing arrow above a horizontal tray or shelf line; arrow shaft descending toward an underline base",
+    "functionalityId": "downloads a file or resource to the local device; saves remote content to the user's storage",
+    "intentId": "save a file from the internet to local storage; retrieve and store a resource locally"
+  },
+  "fa-dragon": {
+    "appearanceId": "side-profile dragon silhouette with wings, tail, and open jaw; scaled reptilian creature in a rearing or flying pose",
+    "functionalityId": "represents a dragon character or fantasy creature element; tags content with a mythical beast category",
+    "intentId": "indicate fantasy or mythical creature content; select or identify a dragon-themed element"
+  },
+  "fa-draw-circle": {
+    "appearanceId": "circular ring or loop shape drawn with a single continuous stroke; round outline path suggesting a hand-drawn circle",
+    "functionalityId": "activates a circle drawing tool; creates a circular shape on a canvas",
+    "intentId": "draw or add a circle to a design; use the circular shape drawing mode"
+  },
+  "fa-draw-polygon": {
+    "appearanceId": "multi-sided polygon outline with connecting vertices and straight edges; irregular closed shape with corner anchor points",
+    "functionalityId": "activates a polygon or freeform shape drawing tool; creates a custom multi-point closed shape on a canvas",
+    "intentId": "draw a custom polygon on a design surface; define a multi-sided shape by placing vertices"
+  },
+  "fa-draw-square": {
+    "appearanceId": "square outline drawn with a single continuous stroke; four equal sides forming a right-angled closed path",
+    "functionalityId": "activates a square or rectangle drawing tool; creates a square shape on a canvas",
+    "intentId": "draw or add a square to a design; use the rectangular shape drawing mode"
+  },
+  "fa-dreidel": {
+    "appearanceId": "spinning top toy with a pointed bottom, wide body, and small handle at the top; four-sided top with Hebrew letter markings",
+    "functionalityId": "represents a Hanukkah dreidel game piece; tags content with a Jewish holiday symbol",
+    "intentId": "indicate Hanukkah or Jewish cultural content; select a dreidel or holiday-themed element"
+  },
+  "fa-drone": {
+    "appearanceId": "top-down view of a quadcopter drone body with four extending arms and propellers at each corner; symmetrical X-shaped frame",
+    "functionalityId": "represents a drone device or aerial vehicle; tags content related to drone operations or delivery",
+    "intentId": "indicate drone or unmanned aerial vehicle content; select or manage a drone-related feature"
+  },
+  "fa-drone-alt": {
+    "appearanceId": "side-profile or alternate view of a drone with visible body and rotor arms; slightly angled quadcopter silhouette",
+    "functionalityId": "represents an alternate drone view or variant drone type; tags content with an aerial drone identifier",
+    "intentId": "indicate drone content with an alternative perspective; select a different drone style or mode"
+  },
+  "fa-drum": {
+    "appearanceId": "cylindrical drum body with drumheads on top and bottom and tension rods along the side; percussion instrument viewed from a slight angle",
+    "functionalityId": "represents a drum instrument or percussion element; tags audio content with a drum sound category",
+    "intentId": "indicate drum or percussion instrument content; select or trigger a drum-related sound or action"
+  },
+  "fa-drum-steelpan": {
+    "appearanceId": "circular steel pan drum viewed from above showing a concave bowl surface with dented tone sections; Caribbean percussion dish shape",
+    "functionalityId": "represents a steel drum or steel pan instrument; tags audio content with a Caribbean percussion category",
+    "intentId": "indicate steel pan or Caribbean music content; select a steel drum instrument element"
+  },
+  "fa-drumstick": {
+    "appearanceId": "single tapered drumstick with a rounded tip at one end and a thicker handle at the other; elongated percussion mallet silhouette",
+    "functionalityId": "represents a drumstick or percussion mallet; tags music content with a drumming instrument accessory",
+    "intentId": "indicate drumming or percussion performance content; select a drumstick-related music element"
+  },
+  "fa-drumstick-bite": {
+    "appearanceId": "chicken or turkey drumstick with a bite taken out of the meat end; bone visible with partially eaten flesh silhouette",
+    "functionalityId": "represents a food drumstick or partially eaten poultry leg; tags content with a cooked meat or meal category",
+    "intentId": "indicate food or dining content featuring poultry; select a meal or snack-related element"
+  },
+  "fa-dryer": {
+    "appearanceId": "front-loading clothes dryer appliance with a circular door porthole and control panel; rectangular laundry machine body",
+    "functionalityId": "represents a clothes dryer appliance; tags content related to laundry or household appliances",
+    "intentId": "indicate laundry or dryer appliance content; select or manage a clothes-drying function"
+  },
+  "fa-dryer-alt": {
+    "appearanceId": "alternate view of a clothes dryer with a circular porthole door and different panel layout; front-loading laundry machine variant",
+    "functionalityId": "represents an alternate style clothes dryer; tags content with a laundry appliance variant identifier",
+    "intentId": "indicate an alternate dryer model or style; select a different laundry appliance representation"
+  },
+  "fa-duck": {
+    "appearanceId": "side-profile duck silhouette with rounded body, short tail, flat bill, and small eye; waterfowl bird outline",
+    "functionalityId": "represents a duck animal or waterfowl; tags content with a duck or nature category",
+    "intentId": "indicate duck or waterfowl content; select a bird or nature-themed element"
+  },
+  "fa-dumbbell": {
+    "appearanceId": "horizontal dumbbell with two weight plates on each end connected by a short central bar; symmetrical barbell silhouette",
+    "functionalityId": "represents a dumbbell or weightlifting exercise; tags content with a fitness or gym activity category",
+    "intentId": "indicate strength training or fitness content; select a weightlifting or exercise-related element"
+  },
+  "fa-dumpster": {
+    "appearanceId": "rectangular waste dumpster container with open top and side handles; large trash bin body viewed from a slight angle",
+    "functionalityId": "represents a dumpster or large waste container; tags content with a trash disposal or cleanup category",
+    "intentId": "indicate waste disposal or bulk trash content; select a large trash container element"
+  },
+  "fa-dumpster-fire": {
+    "appearanceId": "rectangular dumpster container with flames rising from the open top; trash bin engulfed in fire silhouette",
+    "functionalityId": "represents a chaotic or disastrous situation using a burning dumpster metaphor; tags content as a crisis or major failure",
+    "intentId": "indicate a catastrophic failure or chaotic situation; signal that something has gone severely wrong"
+  },
+  "fa-dungeon": {
+    "appearanceId": "arched stone doorway or castle gate with a portcullis grating; medieval dungeon entrance with vertical bars and arch frame",
+    "functionalityId": "represents a dungeon or medieval prison location; tags content with a fantasy or role-playing game dungeon category",
+    "intentId": "indicate a dungeon or castle environment in a game; navigate to or enter a dungeon-themed area"
+  },
+  "fa-e": {
+    "appearanceId": "single uppercase or lowercase letter E glyph; the fifth letter of the Latin alphabet",
+    "functionalityId": "inserts or labels content with the letter E; represents the character E in a text or category system",
+    "intentId": "represent the letter E in an alphabet or labeling context; identify an item starting with or categorized under E"
+  },
+  "fa-ear": {
+    "appearanceId": "side-profile human ear silhouette with outer helix curve, antihelix, and earlobe; anatomical ear outline",
+    "functionalityId": "represents listening or audio input functionality; indicates a hearing or audio-related control",
+    "intentId": "indicate audio listening or accessibility hearing features; access sound input or hearing-related settings"
+  },
+  "fa-ear-listen": {
+    "appearanceId": "side-profile human ear silhouette with sound waves or signal lines near the opening; ear with audio reception indicators",
+    "functionalityId": "activates audio listening or live sound monitoring; enables audio accessibility or hearing assistance mode",
+    "intentId": "listen to incoming audio or enable sound monitoring; access hearing assistance or audio capture features"
+  },
+  "fa-ear-muffs": {
+    "appearanceId": "pair of circular ear cup pads connected by an overhead headband arc; noise-canceling or cold-weather ear protection silhouette",
+    "functionalityId": "represents ear protection or noise-canceling accessories; tags content with hearing protection or cold-weather gear",
+    "intentId": "indicate ear protection or hearing safety equipment; select a noise reduction or cold-weather accessory"
+  },
+  "fa-earth": {
+    "appearanceId": "globe sphere with continent outlines and latitude or longitude grid lines; round world map with land mass silhouettes",
+    "functionalityId": "represents the Earth or global scope; indicates a worldwide or geographic feature",
+    "intentId": "indicate global content or worldwide reach; access geography or world-level settings"
+  },
+  "fa-earth-africa": {
+    "appearanceId": "globe sphere with Africa and Europe continent outlines prominently centered; round world map showing the eastern Atlantic hemisphere",
+    "functionalityId": "represents Africa or the African continent on a global map; filters or selects Africa-specific content",
+    "intentId": "indicate African regional content or geography; select or navigate to Africa on a global interface"
+  },
+  "fa-earth-asia": {
+    "appearanceId": "globe sphere with Asia and Australia continent outlines prominently centered; round world map showing the eastern hemisphere",
+    "functionalityId": "represents Asia or the Asian continent on a global map; filters or selects Asia-specific content",
+    "intentId": "indicate Asian regional content or geography; select or navigate to Asia on a global interface"
+  },
+  "fa-earth-europe": {
+    "appearanceId": "globe sphere with Europe and parts of Africa and Asia continent outlines prominently centered; round world map showing the Euro-centric hemisphere",
+    "functionalityId": "represents Europe or the European region on a global map; filters or selects Europe-specific content",
+    "intentId": "indicate European regional content or geography; select or navigate to Europe on a global interface"
+  },
+  "fa-earth-oceania": {
+    "appearanceId": "globe sphere with Australia and Pacific island continent outlines prominently centered; round world map showing the Oceania hemisphere",
+    "functionalityId": "represents Oceania or the Australasian region on a global map; filters or selects Oceania-specific content",
+    "intentId": "indicate Oceanian regional content or geography; select or navigate to Oceania on a global interface"
+  },
+  "fa-eclipse": {
+    "appearanceId": "circular disk with a smaller overlapping circle partially covering one side; solar or lunar eclipse silhouette showing partial occlusion",
+    "functionalityId": "represents an eclipse event or dark mode toggle; indicates a celestial or light-blocking transition",
+    "intentId": "indicate an eclipse event or toggle between light and dark states; represent a celestial occlusion moment"
+  },
+  "fa-eclipse-alt": {
+    "appearanceId": "circular disk with an overlapping crescent or alternate occlusion pattern; variant eclipse silhouette with different coverage geometry",
+    "functionalityId": "represents an alternate eclipse view or variant dark mode state; indicates a different celestial occlusion style",
+    "intentId": "indicate an alternate eclipse configuration or dark mode variant; represent a different light-blocking state"
+  },
+  "fa-edit": {
+    "appearanceId": "pencil or pen angled diagonally over a document or square surface; writing instrument overlaying a page outline",
+    "functionalityId": "opens an editing interface for a document or item; enables modification of existing content",
+    "intentId": "modify or update existing content; enter edit mode to make changes to a record or document"
+  },
+  "fa-egg": {
+    "appearanceId": "oval egg shape with a slightly tapered top and rounded bottom; smooth elliptical shell silhouette",
+    "functionalityId": "represents an egg or food ingredient; tags content with a cooking or ingredient category",
+    "intentId": "indicate egg-related food or cooking content; select an egg as an ingredient or item"
+  },
+  "fa-egg-fried": {
+    "appearanceId": "fried egg with a round yolk centered on an irregular white spread; sunny-side-up egg silhouette on a flat surface",
+    "functionalityId": "represents a fried egg or cooked breakfast item; tags content with a prepared egg meal category",
+    "intentId": "indicate a cooked egg or breakfast food item; select a fried egg as a meal or menu element"
+  },
+  "fa-eggplant": {
+    "appearanceId": "elongated teardrop-shaped eggplant with a green stem and leafy calyx at the top; aubergine vegetable silhouette",
+    "functionalityId": "represents an eggplant or aubergine vegetable; tags food content with a vegetable category",
+    "intentId": "indicate eggplant or aubergine as a food or ingredient; select a vegetable item in a recipe or menu"
+  },
+  "fa-eject": {
+    "appearanceId": "upward-pointing triangle with a horizontal bar directly below it; eject symbol with arrowhead above a line",
+    "functionalityId": "ejects a disk, tray, or removable media from a device; removes inserted media from its slot",
+    "intentId": "safely remove or eject a disc or storage device; release inserted media from a drive or player"
+  },
+  "fa-elephant": {
+    "appearanceId": "side-profile elephant silhouette with large ear flap, long curved trunk, and rounded body; four-legged pachyderm outline",
+    "functionalityId": "represents an elephant animal or large mammal; tags content with a wildlife or zoo animal category",
+    "intentId": "indicate elephant or safari wildlife content; select an animal-themed element"
+  },
+  "fa-elevator": {
+    "appearanceId": "rectangular elevator car outline with up and down arrows or a person figure inside; vertical transport cabin silhouette",
+    "functionalityId": "represents an elevator or vertical transport function; navigates between floors or levels in a building interface",
+    "intentId": "indicate elevator access or floor navigation; move between levels in a building or layered interface"
+  },
+  "fa-ellipsis": {
+    "appearanceId": "three small equally spaced dots arranged horizontally in a row; horizontal ellipsis punctuation mark",
+    "functionalityId": "opens an overflow or more-options menu; reveals additional actions or settings not shown in the main interface",
+    "intentId": "access hidden or additional options for an item; expand a menu to see more available actions"
+  },
+  "fa-ellipsis-h-alt": {
+    "appearanceId": "three small equally spaced dots arranged horizontally with a subtle style variation; alternate horizontal three-dot ellipsis",
+    "functionalityId": "opens an alternate overflow or more-options menu; reveals additional actions in a secondary style",
+    "intentId": "access additional options through an alternate menu style; expand a secondary set of available actions"
+  },
+  "fa-ellipsis-v": {
+    "appearanceId": "three small equally spaced dots arranged vertically in a column; vertical ellipsis or kebab menu indicator",
+    "functionalityId": "opens a vertical overflow or contextual options menu; reveals additional item-level actions in a vertical menu",
+    "intentId": "access contextual actions for a specific item; expand a vertical menu to see more options"
+  }
+}

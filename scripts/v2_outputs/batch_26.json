@@ -1,0 +1,242 @@
+{
+  "fa-face-sunglasses": {
+    "appearanceId": "round face outline with two large oval or rectangular dark lenses resting on a small nose, suggesting sunglasses across the eyes; circular face shape wearing a pair of oversized shaded eyeglasses",
+    "functionalityId": "inserts a cool or confident sunglasses-wearing emoji reaction into a message; marks content with a stylish or laid-back sentiment",
+    "intentId": "express coolness, confidence, or a carefree attitude in a reaction; react to content with a relaxed and stylish emotion"
+  },
+  "fa-face-swear": {
+    "appearanceId": "round face outline with a scowling furrowed brow, and a mouth area replaced or covered by symbols such as asterisks or typographic glyphs representing censored profanity; circular face with angry eyes and grawlix symbols at the mouth",
+    "functionalityId": "inserts a frustrated or profanity-implied reaction emoji into a message; marks content with a deeply irritated or cursing sentiment",
+    "intentId": "express extreme frustration or censored anger in a reaction; react to aggravating content with a swearing emotion"
+  },
+  "fa-face-thermometer": {
+    "appearanceId": "round face outline with a small thermometer shape protruding from the mouth area and wavy or flushed lines suggesting fever; circular face shape with a temperature gauge inserted at the mouth",
+    "functionalityId": "inserts a sick or feverish reaction emoji into a message; marks content with an illness or under-the-weather sentiment",
+    "intentId": "express feeling sick, feverish, or unwell in a reaction; indicate illness or a temperature-related health state"
+  },
+  "fa-face-thinking": {
+    "appearanceId": "round face outline with one raised eyebrow, eyes looking upward or sideways, and a hand or finger touching the chin in a contemplative pose; circular face with a pensive upward gaze and thoughtful chin-touching gesture",
+    "functionalityId": "inserts a thinking or pondering reaction emoji into a message; marks content with a contemplative or evaluating sentiment",
+    "intentId": "express thoughtfulness, contemplation, or careful consideration; react to content with a reflective or evaluating emotion"
+  },
+  "fa-face-tissue": {
+    "appearanceId": "round face outline with a tissue or handkerchief pressed against the nose area and slightly red or watery eyes; circular face shape with a folded tissue held up to the nostrils",
+    "functionalityId": "inserts a crying, sneezing, or sick reaction emoji into a message; marks content with a tearful or congested sentiment",
+    "intentId": "express sadness, sneezing, or feeling unwell in a reaction; react to emotional or illness-related content with a tissue gesture"
+  },
+  "fa-face-tongue-money": {
+    "appearanceId": "round face outline with a tongue sticking out and a dollar sign or money symbol on or near the tongue, often with money-eyes; circular face shape with a protruding tongue bearing a currency symbol",
+    "functionalityId": "inserts a money-craving or greed-themed reaction emoji into a message; marks content with a financially excited or materialistic sentiment",
+    "intentId": "express excitement about money or a desire for financial gain; react to profitable or expensive content with a greedy delight"
+  },
+  "fa-face-tongue-sweat": {
+    "appearanceId": "round face outline with a tongue sticking out and a sweat droplet on the side of the face near the temple; circular face shape with a protruding tongue and a nervous sweat mark",
+    "functionalityId": "inserts an awkward, nervous, or playfully stressed reaction emoji into a message; marks content with a tense yet lighthearted sentiment",
+    "intentId": "express nervous awkwardness or playful embarrassment in a reaction; react to tricky or uncomfortable content with a tongue-out and sweat gesture"
+  },
+  "fa-face-unamused": {
+    "appearanceId": "round face outline with flat or slightly downward-angled eyes and a straight neutral or slightly downturned mouth expressing indifference; circular face with a deadpan or unimpressed expression",
+    "functionalityId": "inserts an unamused or unimpressed reaction emoji into a message; marks content with an indifferent or deadpan sentiment",
+    "intentId": "express boredom, indifference, or lack of amusement in a reaction; react to dull or unimpressive content with a flat expression"
+  },
+  "fa-face-viewfinder": {
+    "appearanceId": "round face outline with a square or rectangular viewfinder frame around or overlapping the face area, with corner bracket marks; circular face shape framed by a camera or scope targeting reticle",
+    "functionalityId": "activates facial recognition or face-framing detection in a camera interface; marks a face as the focus target in an image or video tool",
+    "intentId": "identify or frame a face using a camera or recognition tool; focus a camera or scanner on a person's face"
+  },
+  "fa-face-vomit": {
+    "appearanceId": "round face outline with a green or wavy squiggly stream emerging from a wide open disgusted mouth; circular face shape with bulging cheeks and a vomit arc exiting the mouth area",
+    "functionalityId": "inserts a disgusted or nauseated reaction emoji into a message; marks content with a revolted or deeply unpleasant sentiment",
+    "intentId": "express disgust, nausea, or extreme repulsion in a reaction; react to revolting or sickening content with a vomiting emotion"
+  },
+  "fa-face-weary": {
+    "appearanceId": "round face outline with heavy drooping eyelids, downward-slanting tired eyebrows, and a frowning open mouth as if exhaling or groaning; circular face with exhausted droopy eyes and a weary open-mouth grimace",
+    "functionalityId": "inserts a weary or exhausted reaction emoji into a message; marks content with a drained or burned-out sentiment",
+    "intentId": "express weariness, exhaustion, or being completely worn out; react to tiring or overwhelming content with a depleted emotion"
+  },
+  "fa-face-woozy": {
+    "appearanceId": "round face outline with dizzy spiral or cross-shaped eyes, a wavy unsteady mouth, and possibly rosy cheeks suggesting disorientation; circular face with swirly unfocused eyes and a wobbly expression",
+    "functionalityId": "inserts a dizzy, dazed, or woozy reaction emoji into a message; marks content with a disoriented or lightheaded sentiment",
+    "intentId": "express dizziness, disorientation, or feeling woozy in a reaction; react to overwhelming or confusing content with a dazed emotion"
+  },
+  "fa-face-worried": {
+    "appearanceId": "round face outline with raised inner eyebrows forming an anxious arch and a slight frown or wavy mouth suggesting concern; circular face with pinched worried brows and a tense downturned mouth",
+    "functionalityId": "inserts a worried or anxious reaction emoji into a message; marks content with a concerned or apprehensive sentiment",
+    "intentId": "express worry, concern, or anxious apprehension in a reaction; react to troubling or uncertain content with a fearful emotion"
+  },
+  "fa-face-zany": {
+    "appearanceId": "round face outline with one large spiral or wide-open eye, one normal eye, a wide grinning mouth with tongue out, and a generally chaotic expression; circular face with mismatched eyes and an unhinged grin",
+    "functionalityId": "inserts a zany, wild, or silly reaction emoji into a message; marks content with a wacky or chaotically fun sentiment",
+    "intentId": "express wild silliness or chaotic humor in a reaction; react to absurd or hilariously random content with a zany emotion"
+  },
+  "fa-face-zipper": {
+    "appearanceId": "round face outline with a zipper shape running horizontally across the mouth area, teeth of the zipper interlocking across the lips; circular face with a closed zipper replacing the mouth",
+    "functionalityId": "inserts a secretive or zipped-lips reaction emoji indicating silence; marks content with a confidential or keeping-quiet sentiment",
+    "intentId": "express secrecy, silence, or keeping something confidential; react with a zipped-lips gesture to indicate saying nothing"
+  },
+  "fa-falafel": {
+    "appearanceId": "round or oval falafel ball with a textured or dotted surface suggesting a fried chickpea patty; slightly flattened sphere with irregular surface markings",
+    "functionalityId": "represents a falafel food item or Middle Eastern dish; tags content with a vegetarian street food or restaurant category",
+    "intentId": "indicate falafel or Middle Eastern food content; select a vegetarian food item in a menu or recipe"
+  },
+  "fa-family": {
+    "appearanceId": "group of human silhouettes of different heights suggesting adults and children standing together; two or more person figures arranged side by side representing a family unit",
+    "functionalityId": "represents a family group or household unit; tags content with a family or household category",
+    "intentId": "indicate family or group household content; select a family-themed element in a profile or settings view"
+  },
+  "fa-family-dress": {
+    "appearanceId": "group of human silhouettes including a figure wearing a dress or skirt shape alongside other family member figures; person figures with at least one in a feminine dress silhouette",
+    "functionalityId": "represents a family unit including members in feminine dress; tags content with a household or family-with-dress category",
+    "intentId": "indicate a family group with gender-diverse or feminine-attired members; select a family representation including dress-wearing figures"
+  },
+  "fa-family-pants": {
+    "appearanceId": "group of human silhouettes all wearing pants or trousers, including taller adult figures and shorter child figures; person figures with visible leg outlines suggesting pants-clad family members",
+    "functionalityId": "represents a family unit with all members shown in pants or trousers; tags content with a household or family-in-pants category",
+    "intentId": "indicate a family group represented with pants-wearing figures; select a family representation using trouser-clad silhouettes"
+  },
+  "fa-fan": {
+    "appearanceId": "circular fan with several evenly spaced curved or angled blades radiating from a central hub; spinning ventilation blade assembly viewed from the front",
+    "functionalityId": "toggles a fan, ventilation, or cooling system on or off; navigates to climate or airflow control settings",
+    "intentId": "control a fan or ventilation device; access cooling or air circulation settings"
+  },
+  "fa-fan-table": {
+    "appearanceId": "small desk or table fan with a rounded blade guard, circular front grille, and a short base or stand below; compact personal fan silhouette on a pedestal",
+    "functionalityId": "represents a table fan or personal desktop cooling device; toggles or navigates to a desk fan or small appliance control",
+    "intentId": "control a desk or table fan; access personal cooling appliance settings"
+  },
+  "fa-farm": {
+    "appearanceId": "barn or farmhouse silhouette with a pitched roof, large door opening, and possibly a silo or fence element nearby; rural agricultural building outline",
+    "functionalityId": "represents a farm, agricultural property, or rural location; navigates to farm management or agricultural settings",
+    "intentId": "indicate farming or agricultural content; access farm management tools or rural property information"
+  },
+  "fa-fast-forward": {
+    "appearanceId": "two right-pointing triangles or chevrons side by side forming a double-arrow fast-forward symbol; paired forward-facing arrowheads indicating increased playback speed",
+    "functionalityId": "advances media playback to a faster speed or skips ahead; jumps forward in a video, audio, or timeline",
+    "intentId": "skip ahead in media or increase playback speed; advance past content to reach a later point quickly"
+  },
+  "fa-faucet": {
+    "appearanceId": "side-profile tap or faucet silhouette with a handle on top and a spout curving downward; water tap outline with a lever or knob handle above the nozzle",
+    "functionalityId": "represents a water faucet or plumbing fixture; navigates to water usage, utility, or plumbing settings",
+    "intentId": "manage water supply or plumbing fixture settings; indicate water access or utility controls"
+  },
+  "fa-faucet-drip": {
+    "appearanceId": "side-profile tap or faucet silhouette with a small water droplet shape hanging below the spout tip; water tap outline with a dripping teardrop at the nozzle end",
+    "functionalityId": "indicates a dripping faucet or water leak alert; represents water waste or a plumbing drip notification",
+    "intentId": "report or identify a water leak or dripping faucet; address a plumbing drip or water conservation issue"
+  },
+  "fa-fax": {
+    "appearanceId": "rectangular fax machine body with a paper tray or slot on top and a keypad or button area on the front face; office document transmission device silhouette with a paper feed slot",
+    "functionalityId": "sends or receives a fax document; navigates to fax transmission settings or contact fax information",
+    "intentId": "send or receive a fax document; access fax communication or document transmission features"
+  },
+  "fa-feather": {
+    "appearanceId": "a single elongated feather with a central quill spine and tapering barbs fanning out symmetrically on both sides; slim leaf-like plume with a pointed tip and narrow stem",
+    "functionalityId": "represents a writing, poetry, or lightweight content mode; activates a note-taking or creative writing feature",
+    "intentId": "access writing tools or a lightweight content creation mode; indicate poetry, authorship, or creative writing"
+  },
+  "fa-feather-alt": {
+    "appearanceId": "an alternate feather shape with a pen-tip or quill point at the base suggesting a writing quill; elongated plume with barbs and a sharpened nib at the bottom end",
+    "functionalityId": "activates a quill pen or stylized writing mode; represents authorship, drafting, or editorial actions",
+    "intentId": "use a quill or stylized pen for writing or signing; indicate authorship or a classic writing instrument tool"
+  },
+  "fa-female": {
+    "appearanceId": "standing human figure silhouette with a circular head, torso, and a flared skirt or dress shape below the waist; person outline with a feminine dress or triangular lower body",
+    "functionalityId": "filters or selects content categorized as female or feminine; represents a woman or girl figure in a demographic or profile field",
+    "intentId": "indicate or filter by a female gender category; select a feminine figure in a profile or demographic selector"
+  },
+  "fa-fence": {
+    "appearanceId": "a horizontal row of vertical fence posts or pickets connected by horizontal rails; repeating vertical slats with a crossbar forming a fence panel",
+    "functionalityId": "represents a fence boundary or property perimeter; tags content with a yard, property line, or barrier category",
+    "intentId": "indicate a fence, boundary, or property perimeter element; mark a separation or enclosure in a landscape or map view"
+  },
+  "fa-ferris-wheel": {
+    "appearanceId": "large circular wheel with evenly spaced gondola or car shapes hanging around its circumference and spokes radiating from a central hub; amusement park observation wheel silhouette",
+    "functionalityId": "represents a ferris wheel ride or amusement park attraction; tags a location or event with a fairground or carnival category",
+    "intentId": "indicate an amusement park or carnival attraction; find or select a ferris wheel ride location"
+  },
+  "fa-ferry": {
+    "appearanceId": "side-profile boat or ferry vessel with a flat deck, enclosed cabin structure, and hull shape; water transport ship silhouette with a rectangular superstructure",
+    "functionalityId": "represents a ferry boat or water transport route; navigates to ferry schedules, routes, or marine transit information",
+    "intentId": "find or use a ferry boat service or water crossing route; access marine transit schedules or vessel information"
+  },
+  "fa-field-hockey": {
+    "appearanceId": "a field hockey stick with a curved hooked end at the bottom and a long straight handle, alongside or near a small round ball; J-shaped sports stick with a rounded hook and a ball",
+    "functionalityId": "represents a field hockey sport or activity; tags content with a field hockey or stick sport category",
+    "intentId": "indicate field hockey sport content or activities; select a field hockey game or equipment element"
+  },
+  "fa-fighter-jet": {
+    "appearanceId": "side-profile military fighter jet silhouette with swept-back delta wings, a pointed nose cone, and tail fins; sleek angular aircraft body with swept wings and exhaust nozzle",
+    "functionalityId": "represents a fighter jet or military aircraft; tags content with an aviation, defense, or fast-travel category",
+    "intentId": "indicate military aviation or high-speed flight content; select a fighter jet or defense aircraft element"
+  },
+  "fa-file": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner creating a dog-ear; standard paper sheet silhouette with a triangular corner fold",
+    "functionalityId": "opens, creates, or represents a generic file or document; attaches or links to a file resource in a form or upload area",
+    "intentId": "access or manage a file or document; open a generic file for viewing or editing"
+  },
+  "fa-file-alt": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and two or three short horizontal lines inside representing text content; paper sheet with a dog-ear corner and stacked text lines",
+    "functionalityId": "opens or represents a text-based document or alternative file format; displays a file with visible text content indicators",
+    "intentId": "view or access a text document or alternate file format; open a file that contains readable text content"
+  },
+  "fa-file-audio": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a musical note or speaker/sound wave symbol inside; paper sheet with a dog-ear and an audio indicator glyph",
+    "functionalityId": "opens or attaches an audio file such as MP3 or WAV; represents a sound recording or audio document",
+    "intentId": "access or play an audio file or sound recording; attach or manage an audio document"
+  },
+  "fa-file-award": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a ribbon or medal badge symbol inside; paper sheet with a dog-ear and an award or certification emblem",
+    "functionalityId": "opens or represents a certificate, award, or credential document; attaches an achievement or accreditation file",
+    "intentId": "access or share a certificate or award document; view or store a credential or achievement file"
+  },
+  "fa-file-binary": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and binary digits or ones and zeros inside; paper sheet with a dog-ear and a binary code pattern",
+    "functionalityId": "represents a binary or compiled executable file; opens or manages a low-level binary data document",
+    "intentId": "access or handle a binary file or compiled data; manage raw binary document content"
+  },
+  "fa-file-cad": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a CAD or technical drawing symbol such as geometric lines or a drafting shape inside; paper sheet with a dog-ear and a computer-aided design indicator",
+    "functionalityId": "opens or represents a CAD drawing or technical design file; attaches or links to an engineering or architectural document",
+    "intentId": "access or manage a CAD or technical drawing file; view or edit an engineering or architectural design document"
+  },
+  "fa-file-caret-down": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a downward-pointing caret or chevron inside; paper sheet with a dog-ear and a down-arrow indicator",
+    "functionalityId": "expands or downloads content associated with a file; collapses or scrolls down within a file-related panel",
+    "intentId": "expand or download content from a file entry; scroll down or reveal more in a file-linked section"
+  },
+  "fa-file-caret-up": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and an upward-pointing caret or chevron inside; paper sheet with a dog-ear and an up-arrow indicator",
+    "functionalityId": "collapses or uploads content associated with a file; scrolls up or minimizes a file-related panel",
+    "intentId": "collapse or upload content for a file entry; scroll up or minimize a file-linked section"
+  },
+  "fa-file-chart-line": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a line chart or trend graph drawn inside; paper sheet with a dog-ear and an upward-trending line graph",
+    "functionalityId": "opens or represents a file containing a line chart or trend report; attaches a data analytics or performance document",
+    "intentId": "access or share a line chart report or analytics document; view trend data contained in a file"
+  },
+  "fa-file-chart-pie": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a pie chart or circular segmented graph inside; paper sheet with a dog-ear and a divided circle chart",
+    "functionalityId": "opens or represents a file containing a pie chart or distribution report; attaches a data breakdown or proportion document",
+    "intentId": "access or share a pie chart report or distribution document; view proportional data contained in a file"
+  },
+  "fa-file-check": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a checkmark symbol inside; paper sheet with a dog-ear and a tick or check glyph",
+    "functionalityId": "marks a file as reviewed, approved, or completed; indicates that a document has passed a verification check",
+    "intentId": "confirm that a file has been reviewed or approved; mark a document as verified or complete"
+  },
+  "fa-file-circle-check": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a small circle containing a checkmark overlaid at the lower-right; paper sheet with a dog-ear and a circular confirmation badge",
+    "functionalityId": "confirms that a file has been successfully processed or verified; marks a document with a completed or approved status badge",
+    "intentId": "verify that a file has been successfully completed or confirmed; check the approval status of a document"
+  },
+  "fa-file-circle-exclamation": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a small circle containing an exclamation mark overlaid at the lower-right; paper sheet with a dog-ear and a circular warning badge",
+    "functionalityId": "alerts the user to a file with an error, warning, or required action; marks a document as needing attention or containing an issue",
+    "intentId": "investigate a file error or warning that requires attention; address an issue flagged on a document"
+  },
+  "fa-file-circle-info": {
+    "appearanceId": "rectangular document page outline with a folded upper-right corner and a small circle containing an information mark or lowercase i overlaid at the lower-right; paper sheet with a dog-ear and a circular info badge",
+    "functionalityId": "opens additional information or metadata details for a file; displays an informational tooltip or description for a document",
+    "intentId": "view more details or metadata about a specific file; access informational context for a document"
+  }
+}

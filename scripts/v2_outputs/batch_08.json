@@ -1,0 +1,242 @@
+{
+  "fa-book-user": {
+    "appearanceId": "open book with a person silhouette on the cover or visible page; bound volume displaying a human figure",
+    "functionalityId": "opens a personal profile or contact record book; navigates to a user's information or account details",
+    "intentId": "access a person's profile or bio information; view a user's details from a directory or record"
+  },
+  "fa-bookmark": {
+    "appearanceId": "tall rectangle with a pointed V-notch cut into the bottom center; vertical tab shape tapering to a downward chevron tip",
+    "functionalityId": "saves a page or item for quick return; bookmarks content to access later",
+    "intentId": "keep track of an important item or page; build a personal collection of saved content"
+  },
+  "fa-bookmark-circle": {
+    "appearanceId": "bookmark pennant shape enclosed inside a circle; pointed-bottom ribbon tab centered within a round ring",
+    "functionalityId": "saves or favorites an item within a grouped circle; adds a bookmark with a circular status indicator",
+    "intentId": "save and categorize an item in a circular context; mark content as bookmarked within a set"
+  },
+  "fa-bookmark-slash": {
+    "appearanceId": "bookmark pennant shape crossed by a diagonal slash line; pointed-bottom ribbon tab with a strikethrough diagonal",
+    "functionalityId": "removes or deletes a saved bookmark; unbookmarks a previously saved page or item",
+    "intentId": "remove a saved item from the bookmarks list; clear a bookmark that is no longer needed"
+  },
+  "fa-books": {
+    "appearanceId": "several upright book spines standing side by side on a shelf; a row of multiple rectangular book silhouettes",
+    "functionalityId": "opens a library or collection of documents; navigates to a reading list or resource catalog",
+    "intentId": "browse a library of content or publications; access a full catalog of documents or reading material"
+  },
+  "fa-books-medical": {
+    "appearanceId": "row of upright book spines with a medical cross symbol on one; multiple books standing together with a health emblem",
+    "functionalityId": "opens a medical reference library or clinical resource; navigates to health or treatment documentation",
+    "intentId": "find medical literature or clinical guidelines; access a health information or medical reference catalog"
+  },
+  "fa-boombox": {
+    "appearanceId": "wide rectangular portable stereo body with two circular speaker cones and a central control panel; classic cassette boom box silhouette with dual speakers",
+    "functionalityId": "plays or controls audio via a portable stereo; opens a music player or sound system interface",
+    "intentId": "listen to music on a portable audio device; control playback from a retro-style stereo"
+  },
+  "fa-boot": {
+    "appearanceId": "side-view ankle boot silhouette with a flat sole and short shaft; sturdy footwear profile with a rounded toe cap",
+    "functionalityId": "marks a footwear category or product listing; filters items by boot or outdoor shoe type",
+    "intentId": "browse boots or outdoor footwear options; find shoes in a boot category"
+  },
+  "fa-boot-heeled": {
+    "appearanceId": "side-view tall boot silhouette with a raised heel and pointed toe; heeled footwear profile with a slim elevated back",
+    "functionalityId": "marks a high-heeled boot category or fashion item; filters footwear by heeled boot style",
+    "intentId": "browse heeled boots or fashion footwear; find a specific style of dress boot"
+  },
+  "fa-booth-curtain": {
+    "appearanceId": "rectangular booth frame with a curtain hanging across the opening; upright stall outline with a draped fabric panel",
+    "functionalityId": "indicates a private booth, dressing room, or polling station; marks an enclosed space requiring a curtain",
+    "intentId": "access or indicate a private enclosed space; navigate to a voting booth or changing room"
+  },
+  "fa-border-all": {
+    "appearanceId": "square with all four outer edges and interior grid lines drawn; a box divided into cells with every border line visible",
+    "functionalityId": "applies borders to all sides and interior dividers of a cell or table; enables full border formatting",
+    "intentId": "draw visible lines around and inside all table cells; apply a complete border to a grid selection"
+  },
+  "fa-border-bottom": {
+    "appearanceId": "square outline with only the bottom edge drawn as a solid line; box shape with a single line at the base and no other borders",
+    "functionalityId": "applies a border only to the bottom edge of a cell or element; adds a bottom underline to a selected area",
+    "intentId": "add a visual separator beneath a row or element; apply a bottom border to a table cell"
+  },
+  "fa-border-center-h": {
+    "appearanceId": "rectangle with a single horizontal line through the vertical center and no outer edges; box frame split only by a horizontal midline",
+    "functionalityId": "applies a horizontal center border dividing a selection into top and bottom halves; draws a midline across selected cells",
+    "intentId": "split a table area with a horizontal center divider; add a horizontal midline border to a selection"
+  },
+  "fa-border-center-v": {
+    "appearanceId": "rectangle with a single vertical line through the horizontal center and no outer edges; box frame split only by a vertical midline",
+    "functionalityId": "applies a vertical center border dividing a selection into left and right halves; draws a vertical midline across selected cells",
+    "intentId": "split a table area with a vertical center divider; add a vertical midline border to a selection"
+  },
+  "fa-border-inner": {
+    "appearanceId": "square divided by inner horizontal and vertical grid lines without outer border edges; interior cross dividers inside a borderless box",
+    "functionalityId": "applies borders only to the inner dividers of selected cells; draws internal grid lines without outer borders",
+    "intentId": "add interior dividing lines to a table selection; apply inner cell borders without outer edges"
+  },
+  "fa-border-left": {
+    "appearanceId": "square outline with only the left edge drawn as a solid line; box shape with a single vertical line on the left side",
+    "functionalityId": "applies a border only to the left edge of a cell or element; adds a left-side line to a selected area",
+    "intentId": "mark the left boundary of a table cell or text block; apply a left border to a selection"
+  },
+  "fa-border-none": {
+    "appearanceId": "square outline drawn entirely in dashed or dotted lines indicating no borders; box shape with no solid edge lines visible",
+    "functionalityId": "removes all borders from a selected cell or element; clears any existing border formatting",
+    "intentId": "eliminate visible cell borders from a table selection; reset all borders to none"
+  },
+  "fa-border-outer": {
+    "appearanceId": "square with all four outer edges drawn as solid lines and no interior grid lines; plain bordered box with no inner dividers",
+    "functionalityId": "applies borders only to the outer edges of a selection; draws a box outline around the entire selected area",
+    "intentId": "enclose a table selection with an outer border only; box in a range of cells without inner lines"
+  },
+  "fa-border-right": {
+    "appearanceId": "square outline with only the right edge drawn as a solid line; box shape with a single vertical line on the right side",
+    "functionalityId": "applies a border only to the right edge of a cell or element; adds a right-side line to a selected area",
+    "intentId": "mark the right boundary of a table cell or text block; apply a right border to a selection"
+  },
+  "fa-border-style": {
+    "appearanceId": "square with outer edges shown in varying line styles such as solid, dashed, and dotted; box outline with mixed line patterns on each side",
+    "functionalityId": "opens border style options to change line type; applies a chosen line style to cell or element borders",
+    "intentId": "customize the style of table or element borders; choose between solid, dashed, or dotted border lines"
+  },
+  "fa-border-style-alt": {
+    "appearanceId": "square with outer edges shown in an alternative combination of line styles; box outline with a different mixed-style border pattern",
+    "functionalityId": "selects an alternative border line style for cells or elements; applies a secondary style pattern to borders",
+    "intentId": "apply an alternate border styling to a selection; choose a different line-style preset for table borders"
+  },
+  "fa-border-top": {
+    "appearanceId": "square outline with only the top edge drawn as a solid line; box shape with a single line at the top and no other borders",
+    "functionalityId": "applies a border only to the top edge of a cell or element; adds a top line to a selected area",
+    "intentId": "add a visual separator above a row or element; apply a top border to a table cell"
+  },
+  "fa-bore-hole": {
+    "appearanceId": "circular opening at the top of a cylindrical shaft descending into darkness; round hole with depth lines extending downward",
+    "functionalityId": "marks a drill site or borehole location on a map or diagram; indicates a geological or mining excavation point",
+    "intentId": "identify a drilling or excavation site; mark a borehole location for geological or construction purposes"
+  },
+  "fa-bottle-baby": {
+    "appearanceId": "tall feeding bottle with a rounded bottom, cylindrical body, and a nipple top; infant formula bottle with measurement markings",
+    "functionalityId": "marks an infant feeding or baby nutrition item; opens a baby care or feeding product section",
+    "intentId": "find or manage infant feeding products; indicate a baby bottle or newborn nutrition item"
+  },
+  "fa-bottle-droplet": {
+    "appearanceId": "upright cylindrical bottle with a droplet shape at the top or beside it; narrow container silhouette paired with a teardrop liquid drop",
+    "functionalityId": "indicates liquid product content or a dropper bottle; opens a medication, serum, or fluid product detail",
+    "intentId": "select or view a liquid product or fluid container; access dropper bottle or skincare serum information"
+  },
+  "fa-bottle-water": {
+    "appearanceId": "tall slim plastic bottle with a narrow cap and slightly wider body; upright water bottle silhouette with a sealed top",
+    "functionalityId": "marks a water or beverage product; opens hydration tracking or water intake features",
+    "intentId": "track water consumption or select a beverage; find water products or hydration reminders"
+  },
+  "fa-bow-arrow": {
+    "appearanceId": "curved bow with a taut string and an arrow nocked and aimed horizontally; archery bow and arrow silhouette in a drawn position",
+    "functionalityId": "selects an archery or ranged weapon action; marks content related to hunting or archery sport",
+    "intentId": "access archery or hunting-related features; indicate a ranged attack or bow sport context"
+  },
+  "fa-bowl-chopsticks": {
+    "appearanceId": "rounded wide bowl with two thin parallel chopsticks resting across the rim; circular vessel seen from slight above-angle with two slim utensils",
+    "functionalityId": "opens an Asian cuisine category or restaurant section; marks a meal as chopstick-served food",
+    "intentId": "browse Asian food options or chopstick-based dining; find a restaurant or dish associated with chopstick cuisine"
+  },
+  "fa-bowl-chopsticks-noodles": {
+    "appearanceId": "wide rounded bowl with wavy noodle loops visible inside and two chopsticks resting on the rim; circular dish containing curved pasta strands with utensils",
+    "functionalityId": "opens a noodle dish or Asian food menu section; marks ramen, udon, or noodle-based meal options",
+    "intentId": "order or browse noodle dishes and Asian cuisine; find ramen or noodle-based dining options"
+  },
+  "fa-bowl-food": {
+    "appearanceId": "wide rounded bowl with contents mounded above the rim; circular vessel with a filled domed center",
+    "functionalityId": "opens a food bowl or meal category; marks a dish as a bowl-style serving",
+    "intentId": "browse bowl meal options or food delivery; select a bowl-style dish from a menu"
+  },
+  "fa-bowl-rice": {
+    "appearanceId": "wide rounded bowl with a domed mound of rice visible above the rim; circular dish filled with a rounded heap of grain",
+    "functionalityId": "opens an Asian food or rice dish menu section; marks a meal item as rice-based",
+    "intentId": "order or browse rice dishes and Asian cuisine; select a rice bowl meal from a food menu"
+  },
+  "fa-bowl-scoop": {
+    "appearanceId": "wide rounded bowl with a single round scoop mound sitting inside; circular dish containing one domed ball of content",
+    "functionalityId": "marks a dessert or ice cream scoop item; opens a single-serving bowl or scoop product detail",
+    "intentId": "order or browse single-scoop dessert options; select an ice cream or scoop-served food item"
+  },
+  "fa-bowl-scoops": {
+    "appearanceId": "wide rounded bowl with multiple round scoop mounds stacked inside; circular dish containing two or more domed balls of content",
+    "functionalityId": "marks a multi-scoop dessert or serving; opens a multi-portion bowl or ice cream listing",
+    "intentId": "order a multi-scoop dessert or larger bowl serving; browse multiple-scoop ice cream options"
+  },
+  "fa-bowl-soft-serve": {
+    "appearanceId": "wide rounded bowl with a swirled soft-serve ice cream peak rising above the rim; circular dish with a curled spiral soft-serve top",
+    "functionalityId": "marks a soft-serve dessert or frozen treat item; opens a soft-serve ice cream or frozen yogurt section",
+    "intentId": "order soft-serve ice cream or a frozen dessert; browse frozen treat or dessert bowl options"
+  },
+  "fa-bowl-spoon": {
+    "appearanceId": "wide rounded bowl with an oval-headed spoon resting inside or beside it; circular dish paired with a long-handled utensil",
+    "functionalityId": "marks a soup, cereal, or spoon-served food item; opens a meal category served with a spoon",
+    "intentId": "browse soup, porridge, or spoon-based meals; order a dish typically eaten with a spoon"
+  },
+  "fa-bowling-ball": {
+    "appearanceId": "large solid sphere with three small finger-hole circles on its surface; round bowling ball with drilled grip holes",
+    "functionalityId": "opens a bowling activity or sport section; marks content related to bowling games",
+    "intentId": "find a bowling venue or activity; access bowling game or sport-related content"
+  },
+  "fa-bowling-ball-pin": {
+    "appearanceId": "large sphere beside a single upright pin with a narrow neck and wider base; bowling ball next to a standing pin silhouette",
+    "functionalityId": "marks a bowling game or lane interaction; opens a bowling score or strike tracking feature",
+    "intentId": "track bowling scores or find a bowling alley; access a bowling game session"
+  },
+  "fa-bowling-pins": {
+    "appearanceId": "multiple upright bowling pin silhouettes arranged in a triangular formation; cluster of standing pins with narrow necks and round bases",
+    "functionalityId": "marks a bowling alley or game lane; opens a pin-setting or score-tracking bowling section",
+    "intentId": "find a bowling venue or manage a game session; view pin counts or bowling statistics"
+  },
+  "fa-box": {
+    "appearanceId": "three-dimensional closed cardboard box with flap lines on top; rectangular shipping carton with a lid seam",
+    "functionalityId": "opens a package or shipment tracking view; marks an item as boxed or ready for shipping",
+    "intentId": "track or manage a shipped package; prepare or label an item for delivery"
+  },
+  "fa-box-alt": {
+    "appearanceId": "three-dimensional open-top box with visible inner depth and sidewalls; cardboard carton silhouette with an open lid",
+    "functionalityId": "opens an alternative packaging or storage container view; marks an item in an open box state",
+    "intentId": "manage or inspect an open container or package; view the contents of an unlidded box"
+  },
+  "fa-box-ballot": {
+    "appearanceId": "three-dimensional box with a narrow slot opening on the top surface; closed carton with a horizontal slit cut into the lid",
+    "functionalityId": "submits or deposits a ballot or vote into a collection box; indicates a drop-box for voting or forms",
+    "intentId": "cast a vote by dropping a ballot into the box; submit a document through a secure drop slot"
+  },
+  "fa-box-check": {
+    "appearanceId": "three-dimensional closed box with a checkmark overlaid on the front face; shipping carton with a tick mark on its surface",
+    "functionalityId": "marks a package as verified, inspected, or complete; confirms a boxed item has passed a quality check",
+    "intentId": "confirm that a package or order is correct and complete; verify a shipped box has been checked"
+  },
+  "fa-box-circle-check": {
+    "appearanceId": "three-dimensional box with a filled circle containing a checkmark badge overlaid; shipping carton with a circle-check indicator",
+    "functionalityId": "confirms a package or delivery as fully approved and complete; marks a boxed item with a verified badge",
+    "intentId": "confirm final approval or completion of a packaged order; indicate that a box has been officially verified"
+  },
+  "fa-box-fragile": {
+    "appearanceId": "three-dimensional box with a wine glass or broken-item symbol on the front face; shipping carton with a fragile handling icon",
+    "functionalityId": "marks a package as fragile or requiring careful handling; flags a shipment for gentle delivery treatment",
+    "intentId": "indicate that a package contains breakable items; request careful handling during shipping"
+  },
+  "fa-box-full": {
+    "appearanceId": "three-dimensional open box with contents overflowing above the top edge; open carton with items bulging out of the lid",
+    "functionalityId": "indicates a storage container or cart is at full capacity; marks a box as completely filled",
+    "intentId": "indicate that a package or inventory is full; show that no more items can be added to the box"
+  },
+  "fa-box-heart": {
+    "appearanceId": "three-dimensional box with a heart symbol on the front face; shipping carton with a love heart emblem",
+    "functionalityId": "marks a gift box or care package with a heart; opens a favorites or gift-related packaging option",
+    "intentId": "send or identify a care package or gift box; indicate a heartfelt or love-themed package"
+  },
+  "fa-box-open": {
+    "appearanceId": "three-dimensional box with flaps folded outward revealing an open top; open-lidded carton with four spread corner flaps",
+    "functionalityId": "opens or unpacks a package or container; reveals the contents of a previously sealed box",
+    "intentId": "unbox or access the contents of a package; open a container to view or retrieve its items"
+  },
+  "fa-box-tissue": {
+    "appearanceId": "rectangular tissue box with a single sheet of tissue pulling out from the slot on top; cardboard tissue carton with a protruding paper sheet",
+    "functionalityId": "marks a hygiene or tissue product; indicates a wellness or cleaning supply item",
+    "intentId": "find tissue or hygiene products; access cleaning or personal care supply information"
+  }
+}

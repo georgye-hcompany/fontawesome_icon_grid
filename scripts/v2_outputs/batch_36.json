@@ -1,0 +1,242 @@
+{
+  "fa-house-flood": {
+    "appearanceId": "house silhouette with a peaked roof and a rising wave or water line overlaid at the base indicating flooding; residential structure outline with wavy water bands at the lower portion",
+    "functionalityId": "indicates a property or area affected by flood water; marks a location as flooded or flood-risk",
+    "intentId": "report or track a flood-affected property; identify a residential area at risk of or experiencing flooding"
+  },
+  "fa-house-flood-water": {
+    "appearanceId": "house silhouette with a peaked roof and distinct water wave shapes rising partway up the structure; residential outline with undulating flood water bands across the lower walls",
+    "functionalityId": "displays flood water status at a residential address; marks a home as currently inundated with water",
+    "intentId": "monitor flood water levels at a property; report a home as flood-damaged or actively flooded"
+  },
+  "fa-house-flood-water-circle-arrow-right": {
+    "appearanceId": "house silhouette with water waves at the base and a small circle containing a right-pointing arrow badge overlaid; flooded residential outline with a circular directional indicator",
+    "functionalityId": "directs or redirects away from a flooded property; routes emergency response or evacuation from a flood-affected home",
+    "intentId": "evacuate or reroute from a flooded residence; navigate away from a flood-affected area to safety"
+  },
+  "fa-house-laptop": {
+    "appearanceId": "house silhouette with a peaked roof and a small open laptop computer shape overlaid in the center; residential outline with a clamshell screen-and-keyboard device inside",
+    "functionalityId": "represents working or connecting from home; indicates remote work or a home office setup",
+    "intentId": "set up or access a home office or remote work environment; indicate work-from-home status"
+  },
+  "fa-house-leave": {
+    "appearanceId": "house silhouette with a peaked roof and an arrow pointing away from or out of the structure; residential outline with a directional arrow exiting through the side or door",
+    "functionalityId": "indicates departing or leaving a home location; logs a check-out or exit from a residential address",
+    "intentId": "record or confirm leaving a home or residence; log a departure from a tracked location"
+  },
+  "fa-house-lock": {
+    "appearanceId": "house silhouette with a peaked roof and a padlock shape overlaid at the front center; residential outline with a closed lock badge on the facade",
+    "functionalityId": "marks a home as secured or access-restricted; locks or secures a residential smart home setting",
+    "intentId": "secure or lock a home remotely; indicate that a residential property has restricted access"
+  },
+  "fa-house-medical": {
+    "appearanceId": "house silhouette with a peaked roof and a medical cross or plus symbol overlaid in the center; residential outline with a healthcare cross badge on the facade",
+    "functionalityId": "marks a location as a medical home or healthcare facility; indicates in-home medical care or a healthcare address",
+    "intentId": "identify a home used for medical or healthcare services; locate a residential healthcare or home-care address"
+  },
+  "fa-house-medical-circle-check": {
+    "appearanceId": "house silhouette with a medical cross and a small filled circle containing a checkmark badge overlaid at the corner; residential healthcare outline with a verification badge",
+    "functionalityId": "confirms a medical home visit is complete or approved; marks a healthcare residential address as verified",
+    "intentId": "verify or confirm a home medical appointment or care visit; mark a healthcare residential location as approved"
+  },
+  "fa-house-medical-circle-exclamation": {
+    "appearanceId": "house silhouette with a medical cross and a small filled circle containing an exclamation mark badge at the corner; residential healthcare outline with an alert warning badge",
+    "functionalityId": "flags a medical home location as having an urgent alert or issue; warns that a home healthcare address needs immediate attention",
+    "intentId": "address an urgent issue at a home medical care location; alert caregivers to a critical situation at a residential health address"
+  },
+  "fa-house-medical-circle-xmark": {
+    "appearanceId": "house silhouette with a medical cross and a small filled circle containing an X mark badge at the corner; residential healthcare outline with a rejection or cancellation badge",
+    "functionalityId": "marks a home medical location as closed, removed, or rejected; cancels or disables a home healthcare address entry",
+    "intentId": "close or remove a home medical care location; indicate that a residential healthcare address is no longer active"
+  },
+  "fa-house-medical-flag": {
+    "appearanceId": "house silhouette with a medical cross on the facade and a small flag or pennant mounted at the top or corner; residential healthcare outline with a flagging marker",
+    "functionalityId": "flags a home medical location for special attention or categorization; marks a healthcare residential address with a status flag",
+    "intentId": "flag a home healthcare location for priority review; categorize or mark a medical residential address with a status indicator"
+  },
+  "fa-house-night": {
+    "appearanceId": "house silhouette with a peaked roof and a crescent moon or star shape overlaid above or within the structure; residential outline with a night sky or moon badge",
+    "functionalityId": "represents a home at night or an overnight stay mode; activates night mode or a nighttime home automation setting",
+    "intentId": "enable night mode or overnight settings at home; indicate a property or system operating in night-time configuration"
+  },
+  "fa-house-return": {
+    "appearanceId": "house silhouette with a peaked roof and an arrow pointing back into or toward the structure; residential outline with a directional arrow returning inward",
+    "functionalityId": "indicates returning or arriving back at a home location; logs a check-in or return to a residential address",
+    "intentId": "record or confirm arriving home; log a return to a tracked residence or home base"
+  },
+  "fa-house-signal": {
+    "appearanceId": "house silhouette with a peaked roof and radiating arc signal bars overlaid above the structure; residential outline with wireless or connectivity wave marks emanating upward",
+    "functionalityId": "represents a smart home with wireless connectivity; indicates home network signal or smart home hub status",
+    "intentId": "check or manage home wireless signal or smart home connectivity; monitor the network status of a residential hub"
+  },
+  "fa-house-tree": {
+    "appearanceId": "house silhouette with a peaked roof placed beside or in front of a tree shape with a rounded canopy; residential structure outline with a deciduous tree silhouette adjacent to it",
+    "functionalityId": "marks a residential property with outdoor greenery or garden space; represents an eco-friendly or nature-adjacent home",
+    "intentId": "find or list a home with a garden or tree-filled property; indicate an environmentally friendly or nature-adjacent residence"
+  },
+  "fa-house-tsunami": {
+    "appearanceId": "house silhouette with a peaked roof and a large curling tsunami wave shape looming over or crashing into the structure; residential outline with a towering wave crest overhead",
+    "functionalityId": "marks a location at risk of or affected by a tsunami; indicates a coastal hazard or extreme flood event at a property",
+    "intentId": "alert about a tsunami threat or impact at a coastal property; identify a residence in a tsunami hazard zone"
+  },
+  "fa-house-turret": {
+    "appearanceId": "house silhouette with a main peaked roof and a taller cylindrical or square tower turret shape rising from one side; residential structure with a castle-like tower extension at one end",
+    "functionalityId": "represents a fortified or historic residential structure; marks a property with a turret or tower architectural feature",
+    "intentId": "identify a historic or castle-style residential property; browse listings featuring turret or tower architectural elements"
+  },
+  "fa-house-window": {
+    "appearanceId": "house silhouette with a peaked roof and a visible rectangular window shape on the facade; residential outline with a paned window opening in the front wall",
+    "functionalityId": "represents a residential property with a visible window feature; marks a home with a defined window element in a design or listing",
+    "intentId": "identify a home by its window design or facade; browse properties or architectural styles featuring windows"
+  },
+  "fa-hryvnia": {
+    "appearanceId": "a stylized Ukrainian hryvnia currency glyph resembling a cursive h-like letterform with two horizontal strikethrough lines; calligraphic currency symbol with dual parallel crossbars",
+    "functionalityId": "displays or selects the Ukrainian hryvnia as the currency; represents a price or monetary value in UAH",
+    "intentId": "work with Ukrainian hryvnia pricing or currency conversion; display or set a UAH monetary value"
+  },
+  "fa-humidity": {
+    "appearanceId": "a water droplet shape beside or above a percentage sign or horizontal arc indicating moisture level; teardrop silhouette with humidity measurement marks or a wave line",
+    "functionalityId": "displays the current humidity level or moisture percentage; monitors atmospheric water content in a weather or environment app",
+    "intentId": "check or track humidity levels in a space or weather forecast; monitor indoor or outdoor moisture conditions"
+  },
+  "fa-hurricane": {
+    "appearanceId": "a swirling spiral shape with tightly wound circular arms radiating outward from a central eye; cyclone or vortex silhouette with inward-curving arcs forming a rotating storm pattern",
+    "functionalityId": "indicates a hurricane or tropical storm weather event; marks a location or forecast as impacted by a cyclone",
+    "intentId": "track a hurricane or tropical storm path and impact; monitor severe cyclone weather in a forecast or alert system"
+  },
+  "fa-hydra": {
+    "appearanceId": "a multi-headed serpentine creature with several long necks and heads extending from a single body; mythological serpent silhouette with multiple branching necks and snake heads",
+    "functionalityId": "represents a multi-headed challenge or complex interconnected system; marks a fantasy or mythological creature category",
+    "intentId": "indicate a multi-faceted problem or hydra-like system architecture; access fantasy or mythology-themed content"
+  },
+  "fa-hyphen": {
+    "appearanceId": "a single short horizontal dash or line centered in the glyph space; a plain minus-length stroke with no arrowheads or decorations",
+    "functionalityId": "inserts a hyphen or dash character into text; represents a punctuation separator in a text editor",
+    "intentId": "add a hyphen or word-break character to text; use a dash punctuation mark in a document or label"
+  },
+  "fa-i": {
+    "appearanceId": "a single uppercase or lowercase letter I as a plain sans-serif or serif letterform; vertical stroke glyph representing the ninth letter of the alphabet",
+    "functionalityId": "represents the letter I as a label or initial; marks a category or item starting with the letter I",
+    "intentId": "label or categorize content starting with I; use the letter I as a shorthand or identifier"
+  },
+  "fa-i-cursor": {
+    "appearanceId": "a text insertion cursor shape consisting of a thin vertical bar with small horizontal serifs at the top and bottom; I-beam caret symbol used to indicate a text editing position",
+    "functionalityId": "indicates a text input or editing cursor position; activates or shows a text entry field is focused",
+    "intentId": "position the cursor for text entry or editing; indicate that a text field is active and ready for input"
+  },
+  "fa-ice-cream": {
+    "appearanceId": "a rounded scoop of ice cream sitting on top of a waffle cone shape; dome-shaped dessert ball atop a pointed triangular cone outline",
+    "functionalityId": "marks a dessert or ice cream item in a food or menu app; represents a frozen treat category in a restaurant or shop",
+    "intentId": "find ice cream or frozen dessert options; browse dessert menu items or treat shop locations"
+  },
+  "fa-ice-skate": {
+    "appearanceId": "a side-profile boot or shoe shape with a flat blade running along the bottom edge; ice skate silhouette with a horizontal metal runner beneath the boot",
+    "functionalityId": "marks an ice skating activity or winter sport in a recreation app; represents figure skating or hockey skate equipment",
+    "intentId": "find ice skating rinks or winter sport activities; browse skating equipment or winter recreation options"
+  },
+  "fa-icicles": {
+    "appearanceId": "a row of downward-pointing pointed spike shapes of varying lengths hanging from a horizontal surface; tapering ice spike silhouettes suspended in a line with jagged irregular lengths",
+    "functionalityId": "represents a freezing cold or winter weather condition; marks a surface or environment with ice formation",
+    "intentId": "indicate freezing temperatures or icy surface conditions; convey a winter or cold-weather hazard in a weather or environment app"
+  },
+  "fa-icons": {
+    "appearanceId": "a cluster of small mixed symbols including a heart, music note, and other graphic marks arranged together; a collage of assorted miniature icon shapes grouped in a single tile",
+    "functionalityId": "opens an icon picker or symbol library; accesses a collection of available icons or glyphs in a design tool",
+    "intentId": "browse or select an icon from a library; access a symbol or glyph picker in a design or editing app"
+  },
+  "fa-id-badge": {
+    "appearanceId": "a vertically oriented rectangular card or badge with a small person silhouette at the top and horizontal text lines below; portrait-format credential badge outline with a head-and-shoulders figure and name fields",
+    "functionalityId": "displays an identification badge or credential for a person; represents a name tag or staff ID in an employee or access system",
+    "intentId": "view or manage a person's ID badge or credentials; display an employee or event identification tag"
+  },
+  "fa-id-card": {
+    "appearanceId": "a horizontally oriented rectangular card shape with a small person head silhouette on one side and horizontal text lines on the other; landscape-format identity card outline with a photo zone and data fields",
+    "functionalityId": "represents a government or official identification card; opens an identity verification or profile card view",
+    "intentId": "verify a person's identity with an ID card; access or display official identification credentials"
+  },
+  "fa-id-card-alt": {
+    "appearanceId": "a horizontally oriented rectangular card with a person silhouette and a slightly different layout or badge clip element compared to the standard ID card; landscape identity card outline with an alternate position for the photo or holder clip",
+    "functionalityId": "represents an alternative form of identification card; opens an alternate credential or membership card view",
+    "intentId": "use an alternative ID or membership card for verification; display a secondary or alternate credential card"
+  },
+  "fa-igloo": {
+    "appearanceId": "a domed hemispherical structure with a small arched entrance tunnel at the base; rounded snow dome silhouette with a low curved tunnel entrance at the front",
+    "functionalityId": "represents an igloo or arctic dwelling; marks a cold-climate shelter or winter survival structure",
+    "intentId": "identify an arctic or ice shelter location; access cold-climate housing or winter survival content"
+  },
+  "fa-ils": {
+    "appearanceId": "a stylized shekel sign consisting of two Hebrew letterforms or a currency glyph with two vertical strokes and a horizontal element; monetary symbol resembling interlocked letters with vertical bars",
+    "functionalityId": "displays or selects the Israeli new shekel as the currency; represents a price or monetary value in ILS",
+    "intentId": "work with Israeli shekel pricing or currency conversion; display or set an ILS monetary value"
+  },
+  "fa-image": {
+    "appearanceId": "a rectangular frame outline with a small mountain or hill shape and a circle sun in the upper corner representing a landscape photo; picture frame silhouette with a scenic mountain-and-sun thumbnail",
+    "functionalityId": "inserts or displays an image in a document or interface; opens an image file or photo viewer",
+    "intentId": "add or view an image in a document or media library; browse and select a photo or picture file"
+  },
+  "fa-image-polaroid": {
+    "appearanceId": "a square polaroid photo frame with a wide white border at the bottom and a smaller landscape thumbnail in the upper image area; instant photo print outline with a thick bottom margin and a scenic inner picture",
+    "functionalityId": "represents a polaroid-style instant photo or printed picture; displays or shares a photo in a vintage polaroid format",
+    "intentId": "view or share a photo in a polaroid or instant-print style; add a vintage polaroid aesthetic to an image"
+  },
+  "fa-image-polaroid-user": {
+    "appearanceId": "a polaroid-style photo frame with a wide bottom border and a person or portrait silhouette inside the image area; instant print outline with a thick lower margin and a head-and-shoulders figure in the photo space",
+    "functionalityId": "displays a user portrait or profile photo in a polaroid format; represents a personal photo or contact image as an instant print",
+    "intentId": "view or share a user's profile photo in a polaroid style; display a contact portrait as a vintage instant photo"
+  },
+  "fa-image-slash": {
+    "appearanceId": "a rectangular image frame outline with a diagonal slash line crossing through it; picture frame silhouette with a cancellation or broken-image stroke",
+    "functionalityId": "indicates a broken, missing, or unavailable image; marks a media placeholder when an image fails to load",
+    "intentId": "indicate that an image is unavailable or could not be loaded; handle a broken image or missing media placeholder"
+  },
+  "fa-image-user": {
+    "appearanceId": "a rectangular image frame with a person or head-and-shoulders silhouette inside as the main subject; picture frame outline with a human portrait figure filling the photo area",
+    "functionalityId": "represents a user profile photo or avatar image; displays a person's portrait in an image or media context",
+    "intentId": "view or set a user's profile picture; display a person's avatar or portrait in a media library"
+  },
+  "fa-images": {
+    "appearanceId": "two or more overlapping rectangular image frames each containing a landscape thumbnail; stacked picture frame silhouettes forming a photo collection pile",
+    "functionalityId": "opens a photo gallery or multiple image view; navigates to a collection of pictures or media files",
+    "intentId": "browse a gallery of multiple images or photos; access a media collection or photo album"
+  },
+  "fa-images-user": {
+    "appearanceId": "two overlapping rectangular image frames each containing a person or portrait silhouette; stacked picture frame outlines with head-and-shoulders figures suggesting a user photo collection",
+    "functionalityId": "opens a gallery of user profile photos or contact portraits; displays a collection of person images in a media or directory view",
+    "intentId": "browse user profile pictures or a contacts photo gallery; view a collection of portraits or people images"
+  },
+  "fa-inbox": {
+    "appearanceId": "a rectangular tray or box shape open at the top with a flat bottom and low side walls; horizontal inbox tray silhouette with no contents inside",
+    "functionalityId": "opens an email inbox or message tray; navigates to incoming messages or notifications",
+    "intentId": "check and read incoming messages or emails; access the inbox for new notifications or correspondence"
+  },
+  "fa-inbox-full": {
+    "appearanceId": "a rectangular tray or box shape with horizontal lines or stacked items filling the interior; inbox tray silhouette with multiple content rows suggesting it is full",
+    "functionalityId": "indicates an inbox with unread messages or at capacity; displays a full or heavily loaded message tray",
+    "intentId": "review an overflowing inbox of messages; manage a backlog of incoming notifications or emails"
+  },
+  "fa-inbox-in": {
+    "appearanceId": "a rectangular tray or box shape with a downward-pointing arrow entering from above; inbox tray silhouette with an arrow descending into the container from the top",
+    "functionalityId": "receives or downloads incoming items into an inbox or tray; indicates an inbound message or file arriving",
+    "intentId": "receive or import items into an inbox; process incoming files or messages arriving in a tray"
+  },
+  "fa-inbox-out": {
+    "appearanceId": "a rectangular tray or box shape with an upward-pointing arrow exiting from the top; inbox tray silhouette with an arrow rising out of the container upward",
+    "functionalityId": "sends or moves items out of an inbox or tray; indicates an outbound message or file being dispatched",
+    "intentId": "send or export items from an inbox or tray; move outgoing files or messages from a queue"
+  },
+  "fa-inboxes": {
+    "appearanceId": "two rectangular tray or box shapes stacked or arranged side by side; a pair of inbox tray silhouettes grouped together as a dual-tray set",
+    "functionalityId": "manages multiple inboxes or message trays simultaneously; switches between or organizes separate inbox queues",
+    "intentId": "manage multiple inboxes or message queues; organize separate communication channels in a unified tray view"
+  },
+  "fa-indent": {
+    "appearanceId": "a series of horizontal text lines with the first line having a right-pointing arrow or the lines stepping progressively to the right; paragraph lines with a leading indent arrow at the left margin",
+    "functionalityId": "increases the indentation level of selected text or a paragraph; adds a tab or left margin offset to a block of text",
+    "intentId": "indent text or a paragraph to structure a document; increase the left margin of a selected block of content"
+  },
+  "fa-industry": {
+    "appearanceId": "a factory or industrial building silhouette with a large rectangular structure and one or more tall chimney stacks rising from the roofline; plant building outline with vertical smoke stacks",
+    "functionalityId": "represents an industrial facility, factory, or manufacturing site; marks a category as industrial or production-related",
+    "intentId": "identify or locate an industrial facility or manufacturing plant; access industry or factory-related content in a business app"
+  }
+}

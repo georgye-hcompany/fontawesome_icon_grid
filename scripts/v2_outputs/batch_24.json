@@ -1,0 +1,242 @@
+{
+  "fa-ellipsis-v-alt": {
+    "appearanceId": "three vertically stacked dots with equal spacing between each; vertical column of three small filled circles arranged top to bottom",
+    "functionalityId": "opens a vertical overflow menu with additional options; reveals a secondary action list for the selected item",
+    "intentId": "access more actions for a specific item; expand a hidden list of choices for the current context"
+  },
+  "fa-empty-set": {
+    "appearanceId": "a circle outline with a diagonal slash or line crossing through its center from corner to corner; round ring intersected by a forward or backward leaning stroke",
+    "functionalityId": "represents a null or empty collection in a data view; indicates no items exist in the current set or query result",
+    "intentId": "communicate that a dataset or selection is empty; signal the absence of matching results to the user"
+  },
+  "fa-engine": {
+    "appearanceId": "a blocky mechanical engine block shape with cylindrical protrusions and intake ports visible; rectangular machine housing with multiple stacked or side-mounted components suggesting a motor",
+    "functionalityId": "opens engine settings or mechanical system configuration; navigates to the power or motor management section",
+    "intentId": "access engine or motor configuration for a vehicle or machine; manage core mechanical system settings"
+  },
+  "fa-engine-warning": {
+    "appearanceId": "an engine block shape with a small exclamation mark or warning badge overlaid at a corner; mechanical motor silhouette combined with an alert indicator symbol",
+    "functionalityId": "alerts the user to an engine fault or critical mechanical warning; navigates to an engine diagnostic or error detail page",
+    "intentId": "investigate an active engine fault or warning condition; address a mechanical system alert before further use"
+  },
+  "fa-envelope": {
+    "appearanceId": "a rectangular envelope outline with a triangular or V-shaped fold line across the top flap; closed letter sleeve with a diagonal crease forming two triangular halves at the top",
+    "functionalityId": "opens a message compose window or email inbox; navigates to a mail or messaging section of the application",
+    "intentId": "send or read a message or email; access the communication or inbox area of the app"
+  },
+  "fa-envelope-circle-check": {
+    "appearanceId": "a rectangular envelope outline with a small circle containing a checkmark overlaid at the lower right corner; closed letter sleeve combined with a confirmation badge",
+    "functionalityId": "confirms that an email or message was successfully sent or verified; marks a message as delivered or validated",
+    "intentId": "verify that a message was received or confirmed; check the delivery status of a sent email"
+  },
+  "fa-envelope-dot": {
+    "appearanceId": "a rectangular envelope outline with a small filled dot or notification badge at its upper right corner; closed letter sleeve with a tiny circle indicator in the corner",
+    "functionalityId": "indicates an unread message notification on the envelope; opens a messaging inbox showing new unread items",
+    "intentId": "check for new or unread messages; acknowledge a pending message notification"
+  },
+  "fa-envelope-open": {
+    "appearanceId": "an envelope outline with the top flap folded fully open revealing the inner pocket; rectangular letter sleeve with two angled flap wings spread apart at the top",
+    "functionalityId": "opens or previews a selected email or message; marks a message as opened or read in the inbox",
+    "intentId": "read the contents of a received message; open a specific email for viewing"
+  },
+  "fa-envelope-open-dollar": {
+    "appearanceId": "an open envelope outline with a dollar sign visible inside the inner pocket area; rectangular letter sleeve with flap spread open revealing a currency symbol",
+    "functionalityId": "opens a financial notification or payment-related email; navigates to a billing statement or monetary correspondence section",
+    "intentId": "review a payment, invoice, or financial email; access billing communication sent via mail"
+  },
+  "fa-envelope-open-text": {
+    "appearanceId": "an open envelope outline with two or three horizontal lines representing text visible inside the inner pocket; rectangular letter sleeve with flap open revealing stacked content lines",
+    "functionalityId": "opens or previews the text body of an email or letter; navigates to the full content view of a message",
+    "intentId": "read the written content of a received message; view the body text of an opened email"
+  },
+  "fa-envelope-square": {
+    "appearanceId": "a square container with rounded or sharp corners framing a smaller envelope shape inside; boxy wrapper outline enclosing a standard letter sleeve with diagonal fold line",
+    "functionalityId": "opens a mail or messaging feature within a boxed UI element; links to an email address or contact form in a card layout",
+    "intentId": "access email or messaging from a social or contact card; send a message via a boxed contact action button"
+  },
+  "fa-envelopes": {
+    "appearanceId": "two overlapping or stacked envelope outlines offset slightly from each other; a pair of rectangular letter sleeves arranged in a layered or fanned formation",
+    "functionalityId": "opens multiple messages or a bulk mail management view; navigates to a multi-message or grouped inbox section",
+    "intentId": "manage or review multiple emails at once; access a collection of messages or correspondence threads"
+  },
+  "fa-equals": {
+    "appearanceId": "two short parallel horizontal lines of equal length stacked vertically with a gap between them; a pair of evenly spaced horizontal bars forming the mathematical equals sign",
+    "functionalityId": "applies an equality filter or condition in a query builder; confirms that two values are equivalent in a comparison operation",
+    "intentId": "set an equals condition in a filter or formula; compare two values for exact equality"
+  },
+  "fa-eraser": {
+    "appearanceId": "a small rectangular eraser block shape angled or tilted slightly with a flat worn edge at one end; short stubby rectangle with a diagonal worn-down tip suggesting a rubber eraser",
+    "functionalityId": "clears or erases selected drawn content on a canvas; removes annotations or markings from the current view",
+    "intentId": "undo or remove drawn content from a whiteboard or canvas; clear a specific area of hand-drawn marks"
+  },
+  "fa-escalator": {
+    "appearanceId": "a diagonal staircase-like shape with a handrail line on either side and steps indicated by short horizontal marks along the incline; angled moving stairway silhouette with step notches and parallel rail lines",
+    "functionalityId": "navigates to an escalator location or floor transition point on a map; indicates an escalator route between levels in a building directory",
+    "intentId": "find the nearest escalator in a building or transit map; plan a route using moving stairway infrastructure"
+  },
+  "fa-ethernet": {
+    "appearanceId": "a rectangular plug connector with a rectangular notch or tab at the bottom and several small parallel pins inside; network cable jack silhouette resembling an RJ45 connector with a locking clip tab",
+    "functionalityId": "toggles or configures a wired network connection; navigates to ethernet or LAN network settings",
+    "intentId": "connect to a wired local area network; manage ethernet or cable-based network configuration"
+  },
+  "fa-eur": {
+    "appearanceId": "the euro currency symbol consisting of a stylized letter C with two horizontal parallel lines through its center; rounded open C-shape with a double horizontal bar cutting through the middle",
+    "functionalityId": "selects euro as the active currency in a financial form; filters or displays prices in euros within a commerce interface",
+    "intentId": "set or view pricing in euros; apply the euro currency to a transaction or financial display"
+  },
+  "fa-excavator": {
+    "appearanceId": "a construction excavator silhouette with a large articulated arm, bucket attachment at the end, and a tracked base; boxy cab body mounted on tracks with a long boom arm ending in a digging bucket",
+    "functionalityId": "indicates an active construction zone or excavation area on a map; navigates to heavy equipment or site machinery management tools",
+    "intentId": "locate or manage an excavation site or construction zone; track heavy equipment assigned to a dig or earthwork project"
+  },
+  "fa-exchange": {
+    "appearanceId": "two horizontal arrows pointing in opposite directions, one pointing left and one pointing right, stacked vertically; a pair of parallel bidirectional arrows indicating a two-way transfer",
+    "functionalityId": "swaps or exchanges two selected values, currencies, or items; triggers a bidirectional transfer between two endpoints",
+    "intentId": "swap or trade two items, currencies, or data values; perform a two-way exchange between accounts or fields"
+  },
+  "fa-exclamation": {
+    "appearanceId": "a tall vertical bar or line above a single small dot at the bottom; a thin elongated rectangle topped over a round filled circle forming the classic alert punctuation mark",
+    "functionalityId": "marks an item as requiring urgent attention or having an error; triggers an alert or warning state for a form field or notification",
+    "intentId": "flag an urgent issue or critical warning to the user; draw immediate attention to an error or required action"
+  },
+  "fa-exclamation-square": {
+    "appearanceId": "a square outline with rounded or sharp corners containing a centered exclamation mark inside; boxy container framing a vertical bar and dot alert symbol in its interior",
+    "functionalityId": "displays a boxed alert or critical warning notification; opens an error detail panel for a flagged item",
+    "intentId": "respond to a critical boxed warning or system alert; investigate an error highlighted with an exclamation badge"
+  },
+  "fa-expand": {
+    "appearanceId": "four outward-pointing corner arrows or chevrons at each corner of an implied rectangle; small directional marks at each corner indicating expansion outward in all directions",
+    "functionalityId": "expands the current view or panel to full-screen mode; enlarges a selected element to fill the available display area",
+    "intentId": "view content in full-screen or maximized mode; enlarge a panel or media to fill the screen"
+  },
+  "fa-expand-alt": {
+    "appearanceId": "two diagonal arrows pointing away from each other from a central point, forming an expand or maximize shape; a pair of outward-angled arrows stretching toward opposite corners",
+    "functionalityId": "maximizes or expands a modal, image, or panel to full size; increases the display area of the focused content element",
+    "intentId": "view content in a larger or full-screen format; maximize the workspace or media viewer for better visibility"
+  },
+  "fa-expand-arrows": {
+    "appearanceId": "four arrows pointing outward in all four cardinal directions from a central point; cross-shaped arrangement of arrowheads extending up, down, left, and right",
+    "functionalityId": "expands or stretches content in all four directions simultaneously; enables free-resize or full-expand for a selected element",
+    "intentId": "scale content outward in every direction; maximize or freely resize a panel or element"
+  },
+  "fa-expand-wide": {
+    "appearanceId": "two horizontal arrows pointing outward in opposite directions left and right from a central point; a side-to-side bidirectional arrow pair emphasizing lateral expansion",
+    "functionalityId": "widens a panel or column to expand its horizontal width; stretches content laterally to fill more horizontal space",
+    "intentId": "increase the horizontal width of a layout element or panel; spread content wider across the available screen area"
+  },
+  "fa-explosion": {
+    "appearanceId": "a burst or starburst shape with irregular jagged radiating spikes emanating outward from a central mass; uneven spiky cloud outline with multiple protruding points suggesting a blast or detonation",
+    "functionalityId": "triggers a dramatic or destructive delete or purge action; marks an event or item as a high-impact or critical occurrence",
+    "intentId": "perform a destructive or high-impact action such as purging data; indicate or log a critical explosive or blast event"
+  },
+  "fa-external-link": {
+    "appearanceId": "a square outline with an outward-pointing arrow emerging from its upper right corner; a box shape combined with a diagonal or angled arrow leaving the frame toward the top right",
+    "functionalityId": "opens a linked URL in a new browser tab or external window; navigates the user away from the current application to an external site",
+    "intentId": "visit an external website or resource in a new tab; leave the current app to view a linked external page"
+  },
+  "fa-external-link-alt": {
+    "appearanceId": "a small square outline in the lower left with a diagonal arrow pointing up and to the right departing from it; a compact box combined with an upward-right angled arrow indicating outward navigation",
+    "functionalityId": "opens an external link or referenced resource in a new tab; launches an external destination from the current page context",
+    "intentId": "access an external resource or website in a separate tab; follow a reference link to content outside the current app"
+  },
+  "fa-external-link-square": {
+    "appearanceId": "a square container outline with a smaller inset arrow or link symbol inside pointing outward; boxy frame enclosing an upward-right directional arrow representing an outbound link",
+    "functionalityId": "opens an external website or linked resource in a new window; links to an outside URL from a card or container element",
+    "intentId": "navigate to an external page or resource; open an outbound link displayed within a boxed button or badge"
+  },
+  "fa-eye": {
+    "appearanceId": "an almond or lens-shaped outline with a filled circle pupil centered inside; a horizontal oval eye outline enclosing a round iris and pupil in its center",
+    "functionalityId": "toggles the visibility of a hidden element or password field; previews a document, image, or data item without editing",
+    "intentId": "see or reveal hidden content, passwords, or data; preview an item before committing to opening or editing it"
+  },
+  "fa-eye-dropper-full": {
+    "appearanceId": "an eyedropper or pipette tool shape with a filled bulb at the top and a pointed tip at the bottom, shown fully loaded with color; elongated narrow instrument with a rounded filled reservoir and tapered nozzle",
+    "functionalityId": "samples a color from the canvas or image at the cursor position; picks and applies a specific color value from the display",
+    "intentId": "select an exact color from an image or design canvas; capture a precise color value for use in a palette or style"
+  },
+  "fa-eye-dropper-half": {
+    "appearanceId": "an eyedropper or pipette shape with a bulb that is partially filled, shown half full with a horizontal fill line; narrow instrument with a rounded reservoir half-shaded and a pointed tip",
+    "functionalityId": "indicates a partially loaded color sampler or partially applied color; samples a color value while showing partial capacity status",
+    "intentId": "select a color while aware of a partial fill or limited capacity; use a color picker tool in a partially loaded state"
+  },
+  "fa-eye-evil": {
+    "appearanceId": "an almond-shaped eye outline with a slit or narrow vertical pupil and angular or downward-slanting inner brow lines giving a sinister expression; narrow eye combined with sharp angled brows suggesting a menacing or villainous gaze",
+    "functionalityId": "marks content as dangerous, malicious, or adversarial in nature; toggles a threat or evil-entity indicator in a game or security context",
+    "intentId": "identify or flag a malicious actor, enemy, or threat; indicate danger or an evil presence in a game or security dashboard"
+  },
+  "fa-eye-slash": {
+    "appearanceId": "an almond-shaped eye outline with a diagonal line or slash crossing through its center from corner to corner; a standard eye silhouette bisected by a forward or backward leaning strike-through",
+    "functionalityId": "hides or masks a visible element such as a password or sensitive data; toggles content to an invisible or concealed state",
+    "intentId": "hide sensitive information like a password or private field; conceal content so it is not visible on screen"
+  },
+  "fa-eyedropper": {
+    "appearanceId": "a thin pipette or dropper tool outline angled diagonally with a small bulb at one end and a pointed tip at the other; elongated narrow instrument shown at an angle with a rounded reservoir top and fine nozzle bottom",
+    "functionalityId": "activates the color-picker or color-sampling tool on a canvas; selects a specific color from any pixel in the current view",
+    "intentId": "sample an existing color from a design or image; pick a precise hue for use in drawing or styling tools"
+  },
+  "fa-eyes": {
+    "appearanceId": "two side-by-side almond-shaped eye outlines each with a centered filled pupil, arranged horizontally as a pair; a duo of horizontal oval eye shapes placed next to each other",
+    "functionalityId": "indicates that content is being watched or monitored by others; toggles a viewer count or audience awareness indicator",
+    "intentId": "see who is watching or monitoring a piece of content; enable visibility tracking or audience awareness for an item"
+  },
+  "fa-f": {
+    "appearanceId": "the uppercase letter F consisting of a vertical stroke with two horizontal bars extending to the right, one at the top and one midway; a capital letter form with a tall left vertical and two rightward serifs or bars",
+    "functionalityId": "labels a keyboard shortcut, format option, or filter shortcut beginning with F; represents the letter F as a category, grade, or taxonomy marker",
+    "intentId": "identify or select an item categorized under the letter F; use as a keyboard shortcut label or alphabetical index marker"
+  },
+  "fa-face-angry-horns": {
+    "appearanceId": "a round face outline with two small horn protrusions at the top of the head, furrowed downward-angled eyebrows, and a frowning or scowling mouth; circular face shape combined with pointed horns above and an angry expression with angled brows",
+    "functionalityId": "inserts an angry devil or furious reaction emoji into a message; marks content with an enraged or hostile sentiment label",
+    "intentId": "express extreme anger or devilish fury in a message or reaction; react to content with an enraged or villainous emotion"
+  },
+  "fa-face-anguished": {
+    "appearanceId": "a round face outline with raised inner eyebrows forming a distressed arch, open or grimacing mouth showing teeth, and wide open eyes expressing torment; circular face with upward-pinched brow center and a wide distressed open mouth",
+    "functionalityId": "inserts an anguished or tormented emotion emoji into a message; marks content with a deeply distressed or pained sentiment",
+    "intentId": "express anguish, torment, or extreme emotional distress; react to content with a suffering or deeply pained emotion"
+  },
+  "fa-face-anxious-sweat": {
+    "appearanceId": "a round face outline with raised inner eyebrows, a nervous or slightly open mouth, and a small sweat droplet on the side of the face; circular face shape with worried brow expression and a teardrop or sweat mark near the temple",
+    "functionalityId": "inserts an anxious or nervously sweating reaction emoji into a message; marks content with a stressed or apprehensive sentiment",
+    "intentId": "express nervousness, anxiety, or stressed worry in a reaction; communicate a feeling of pressure or apprehensive stress"
+  },
+  "fa-face-astonished": {
+    "appearanceId": "a round face outline with wide circular or oval open eyes and a wide open O-shaped mouth expressing shock or amazement; circular face shape with large round eyes and an open gaping mouth of surprise",
+    "functionalityId": "inserts an astonished or shocked reaction emoji into a message; marks content with an amazed or stunned emotional label",
+    "intentId": "express astonishment, shock, or amazement in a message or reaction; react to surprising or incredible content with a stunned emotion"
+  },
+  "fa-face-beam-hand-over-mouth": {
+    "appearanceId": "a round face outline with raised smiling eyes and a hand shape covering the lower half of the mouth area in a gleeful or suppressing-laughter gesture; circular face with squinted happy eyes and an overlaid palm covering a smile",
+    "functionalityId": "inserts a gleefully laughing or excited reaction emoji with a covering hand gesture; marks content with a delighted or barely-contained excitement sentiment",
+    "intentId": "express suppressed excitement, glee, or laughing delight; react with a joyful emotion being held back or barely contained"
+  },
+  "fa-face-clouds": {
+    "appearanceId": "a round face outline partially obscured by or surrounded with small cloud shapes around the head; circular face shape with cloud puffs or fog elements framing or covering portions of the face",
+    "functionalityId": "inserts a confused, dreamy, or foggy-minded reaction emoji into a message; marks content with a spaced-out or unclear mental state sentiment",
+    "intentId": "express confusion, daydreaming, or a foggy unclear mental state; react to content with a spaced-out or clouded-thinking emotion"
+  },
+  "fa-face-confounded": {
+    "appearanceId": "a round face outline with a squiggly or wavy line mouth, wide open or uneven eyes, and possibly sweating or flushed expression marks; circular face with irregular wavy mouth and a baffled or overwhelmed expression",
+    "functionalityId": "inserts a confounded or completely baffled reaction emoji into a message; marks content with an overwhelmed or utterly confused sentiment",
+    "intentId": "express utter confusion or being completely overwhelmed; react to baffling or incomprehensible content with total bewilderment"
+  },
+  "fa-face-confused": {
+    "appearanceId": "a round face outline with one raised eyebrow, an uneven or slightly tilted mouth, and a perplexed or uncertain expression; circular face shape with asymmetric brows and a quizzical or puzzled look",
+    "functionalityId": "inserts a confused or puzzled reaction emoji into a message; marks content with an uncertain or questioning sentiment",
+    "intentId": "express confusion, uncertainty, or a puzzled reaction; indicate that something is unclear or hard to understand"
+  },
+  "fa-face-cowboy-hat": {
+    "appearanceId": "a round face outline topped with a wide-brimmed cowboy hat silhouette with a curved brim and creased crown; circular face shape wearing a tall western-style hat above the head",
+    "functionalityId": "inserts a cowboy or western-themed emoji reaction into a message; marks content with a rugged, adventurous, or western sentiment",
+    "intentId": "express a western, adventurous, or cowboy personality in a reaction; react with a fun or playful cowboy theme"
+  },
+  "fa-face-diagonal-mouth": {
+    "appearanceId": "a round face outline with a straight mouth line tilted diagonally at an angle, and neutral or slightly raised eyebrows; circular face shape with an off-center angled mouth expressing skepticism",
+    "functionalityId": "inserts a skeptical or unamused diagonal-mouth reaction emoji; marks content with a doubtful or noncommittal sentiment",
+    "intentId": "express skepticism, mild doubt, or an unamused reaction; react to something questionable or unconvincing with a sideways expression"
+  },
+  "fa-face-disappointed": {
+    "appearanceId": "a round face outline with downward-curved eyebrows and a downward-curved frown mouth expressing sadness or letdown; circular face with slanted sad brows and a clear frown arc at the mouth",
+    "functionalityId": "inserts a disappointed or let-down reaction emoji into a message; marks content with a sad or unfulfilled expectation sentiment",
+    "intentId": "express disappointment, sadness, or a let-down feeling; react to bad news or unmet expectations with a dejected emotion"
+  }
+}

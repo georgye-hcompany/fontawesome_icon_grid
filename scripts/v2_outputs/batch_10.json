@@ -1,0 +1,242 @@
+{
+  "fa-building-circle-check": {
+    "appearanceId": "building silhouette with a small filled circle containing a checkmark badge overlaid at the corner; rectangular structure outline with a confirmation badge",
+    "functionalityId": "marks a building or facility as verified or approved; confirms a location meets required criteria",
+    "intentId": "certify or validate a building or organization; confirm a facility has passed an inspection or approval"
+  },
+  "fa-building-circle-exclamation": {
+    "appearanceId": "building silhouette with a small filled circle containing an exclamation mark badge at the corner; rectangular structure outline with a warning badge",
+    "functionalityId": "flags a building or facility as having an alert or issue; warns that a location requires attention",
+    "intentId": "investigate a problem or warning at a facility; acknowledge a building-related alert"
+  },
+  "fa-building-circle-xmark": {
+    "appearanceId": "building silhouette with a small filled circle containing an X mark badge at the corner; rectangular structure outline with a removal or rejection badge",
+    "functionalityId": "marks a building or location as closed, removed, or rejected; disables or deletes a facility entry",
+    "intentId": "remove or close a building from a list; indicate a facility is no longer available or approved"
+  },
+  "fa-building-flag": {
+    "appearanceId": "building silhouette with a small flag or pennant mounted on top; rectangular structure outline with a waving flag at the roof",
+    "functionalityId": "marks a location as a headquarters or flagged facility; labels a building with a national or organizational flag",
+    "intentId": "identify a government or official headquarters building; mark a location with a national or institutional designation"
+  },
+  "fa-building-lock": {
+    "appearanceId": "building silhouette with a padlock shape overlaid at the base or corner; rectangular structure outline with a lock badge",
+    "functionalityId": "marks a building or facility as secured or access-restricted; locks down a location or organization record",
+    "intentId": "restrict access to a facility or building; indicate a secured or private location"
+  },
+  "fa-building-magnifying-glass": {
+    "appearanceId": "building silhouette with a magnifying glass overlaid at the corner; rectangular structure outline with a search lens symbol",
+    "functionalityId": "searches for a building or facility; opens a location or property search tool",
+    "intentId": "find a specific building or facility by name or address; browse and look up organizational locations"
+  },
+  "fa-building-memo": {
+    "appearanceId": "building silhouette with a small memo or document page overlaid at the corner; rectangular structure outline with a note or paper badge",
+    "functionalityId": "attaches or views a memo or note linked to a building; opens property or facility documentation",
+    "intentId": "review notes or records associated with a facility; document information about a building or organization"
+  },
+  "fa-building-ngo": {
+    "appearanceId": "building silhouette with the letters NGO displayed on or beside it; rectangular structure outline labeled with an organization acronym",
+    "functionalityId": "marks a location as a non-governmental organization; identifies a facility as an NGO headquarters or office",
+    "intentId": "identify an NGO or non-profit organization building; navigate to resources associated with a non-governmental body"
+  },
+  "fa-building-shield": {
+    "appearanceId": "building silhouette with a shield shape overlaid at the corner; rectangular structure outline with a protective badge symbol",
+    "functionalityId": "marks a building as protected or secure; indicates a facility with security or safety designation",
+    "intentId": "identify a secured or protected facility; indicate that a building has security measures in place"
+  },
+  "fa-building-un": {
+    "appearanceId": "building silhouette with the letters UN displayed on or beside it; rectangular structure outline labeled with a United Nations acronym",
+    "functionalityId": "marks a location as a United Nations facility or related office; identifies a building as a UN-affiliated site",
+    "intentId": "identify a United Nations building or affiliated organization; navigate to UN-related resources or facilities"
+  },
+  "fa-building-user": {
+    "appearanceId": "building silhouette with a small person or user figure overlaid at the corner; rectangular structure outline with a human silhouette badge",
+    "functionalityId": "associates a building with a specific user or occupant; opens user-specific building or office assignment",
+    "intentId": "identify a person's assigned building or workplace; link a user account to a facility or office location"
+  },
+  "fa-building-wheat": {
+    "appearanceId": "building silhouette with a wheat stalk or grain sheaf overlaid at the corner; rectangular structure outline with an agricultural crop badge",
+    "functionalityId": "marks a building as an agricultural or food production facility; identifies a grain storage or food-related structure",
+    "intentId": "locate an agricultural facility or food production site; identify a building associated with grain or crop management"
+  },
+  "fa-buildings": {
+    "appearanceId": "two rectangular building silhouettes of different heights placed side by side; pair of urban structure outlines forming a city block",
+    "functionalityId": "navigates to a buildings directory or property list; displays a multi-building campus or organization view",
+    "intentId": "browse a list of facilities or office buildings; view multiple properties or locations at once"
+  },
+  "fa-bulldozer": {
+    "appearanceId": "heavy construction vehicle silhouette with a wide flat blade at the front and large tracks at the base; side-view earth-moving machine with a front shovel",
+    "functionalityId": "marks construction or demolition activity; indicates heavy machinery or site preparation work",
+    "intentId": "track construction or land-clearing activity; identify a site that involves heavy earthmoving work"
+  },
+  "fa-bullhorn": {
+    "appearanceId": "conical megaphone or loudspeaker silhouette with a wide open end and a handle; tapered horn shape with a grip",
+    "functionalityId": "broadcasts or publishes a public announcement; sends a mass notification or alert to an audience",
+    "intentId": "make a public or group-wide announcement; reach a broad audience with an urgent message"
+  },
+  "fa-bullseye": {
+    "appearanceId": "concentric circle target with alternating rings and a filled center dot; nested ring pattern forming a shooting target",
+    "functionalityId": "sets or highlights a goal or target metric; focuses a view on a primary objective",
+    "intentId": "define a specific goal or accuracy target; indicate precision or achievement of an objective"
+  },
+  "fa-bullseye-arrow": {
+    "appearanceId": "concentric ring target with an arrow piercing the center dot; nested circle target with a shaft and fletching embedded in the middle",
+    "functionalityId": "marks a precise hit or achieved target; navigates directly to a goal or pinpointed result",
+    "intentId": "confirm an accurate hit or goal achievement; indicate precise targeting or on-target performance"
+  },
+  "fa-bullseye-pointer": {
+    "appearanceId": "concentric ring target with a cursor pointer arrow overlaid at the center; nested circle target with a mouse pointer in the middle",
+    "functionalityId": "activates a precision click or selection tool; focuses cursor interaction on a target point",
+    "intentId": "select or click a precise UI target; enable accurate pointer-based interaction with a focal point"
+  },
+  "fa-buoy": {
+    "appearanceId": "rounded spherical or cylindrical floating marker with a top point or dome; bobbing water navigation marker silhouette",
+    "functionalityId": "marks a nautical waypoint or water hazard location; indicates a floating reference point on a map",
+    "intentId": "navigate using a water marker or buoy position; identify a maritime safety or navigation point"
+  },
+  "fa-buoy-mooring": {
+    "appearanceId": "rounded buoy shape with a ring or anchor attachment at the base; floating marker silhouette with a mooring loop or chain",
+    "functionalityId": "marks a mooring or docking position on a waterway; indicates a designated vessel tie-up point",
+    "intentId": "find or reserve a mooring spot for a boat; identify a designated anchoring location on the water"
+  },
+  "fa-burger": {
+    "appearanceId": "stacked layers of a rounded top bun, circular patty, and flat bottom bun; tall layered sandwich silhouette with a domed lid",
+    "functionalityId": "tags content or a venue as serving burgers; navigates to a burger or fast food menu",
+    "intentId": "find a burger restaurant or menu item; browse fast food or burger-related content"
+  },
+  "fa-burger-fries": {
+    "appearanceId": "stacked burger silhouette beside a tall rectangular container of vertical fry sticks; hamburger shape next to a box of french fries",
+    "functionalityId": "marks a fast food combo meal option; navigates to burger and fries menu items",
+    "intentId": "order a burger and fries combo; browse fast food combo meal offerings"
+  },
+  "fa-burger-glass": {
+    "appearanceId": "stacked burger bun and patty layers beside a tall drinking glass with a straw; hamburger silhouette next to a beverage cup",
+    "functionalityId": "marks a burger and drink combo on a menu; links to a meal deal including a burger and beverage",
+    "intentId": "order a burger meal with a drink; browse combo deals that include a burger and beverage"
+  },
+  "fa-burger-lettuce": {
+    "appearanceId": "stacked burger silhouette with a ruffled or wavy lettuce leaf visible between the layers; layered sandwich showing leafy greens between bun and patty",
+    "functionalityId": "marks a burger containing lettuce or fresh toppings; filters menu items to include vegetable toppings",
+    "intentId": "find a fresh or veggie-topped burger option; indicate a preference for salad toppings on a burger"
+  },
+  "fa-burger-soda": {
+    "appearanceId": "stacked burger silhouette beside a soda cup with a straw and domed lid; hamburger shape next to a capped fountain drink cup",
+    "functionalityId": "marks a burger and soda combo meal; navigates to fast food combo menu options",
+    "intentId": "order a burger and soft drink combo; browse fast food value meal pairings"
+  },
+  "fa-burn": {
+    "appearanceId": "upward-pointing flame silhouette with a tapered tip and flowing base; flickering fire shape with curving sides",
+    "functionalityId": "burns or destroys data on a disc; marks content as high-intensity or trending",
+    "intentId": "write data to an optical disc; indicate a hot or high-energy activity"
+  },
+  "fa-burrito": {
+    "appearanceId": "cylindrical wrapped tortilla roll with twisted or folded ends; oblong wrapped food bundle silhouette",
+    "functionalityId": "tags content or a venue as serving burritos; navigates to a Mexican food or wrap menu",
+    "intentId": "find a burrito or Mexican food option; browse wrapped food or Tex-Mex menu items"
+  },
+  "fa-burst": {
+    "appearanceId": "starburst or explosion shape with multiple outward-pointing spikes radiating from a central point; jagged multi-point radial star silhouette",
+    "functionalityId": "highlights a new or featured item with an attention-grabbing burst; triggers an animated emphasis effect",
+    "intentId": "draw attention to a new feature or special offer; indicate an exciting or newly added item"
+  },
+  "fa-bus": {
+    "appearanceId": "side-view rectangular bus silhouette with multiple windows and large wheels; boxy public transit vehicle profile with a flat roof",
+    "functionalityId": "shows bus routes or nearby bus stops; indicates public transportation options",
+    "intentId": "find a bus route or stop nearby; plan a journey using public bus transport"
+  },
+  "fa-bus-alt": {
+    "appearanceId": "side-view bus silhouette with a slightly rounded front and rows of windows; alternative transit vehicle profile with a curved nose",
+    "functionalityId": "displays alternative bus service options; indicates a different bus line or transit route",
+    "intentId": "find an alternative bus route or service; explore different public transit bus options"
+  },
+  "fa-bus-school": {
+    "appearanceId": "side-view rounded school bus silhouette with a flat nose, multiple windows, and large wheels; classic yellow transit vehicle profile with a boxy body",
+    "functionalityId": "marks school bus routes or pickup locations; indicates student transportation services",
+    "intentId": "find a school bus stop or route; manage student transportation logistics"
+  },
+  "fa-business-time": {
+    "appearanceId": "briefcase silhouette with a clock face overlaid or embedded; rectangular business bag with a circular timepiece dial",
+    "functionalityId": "opens business hours or work schedule settings; displays time-related business or productivity tools",
+    "intentId": "check or set business operating hours; manage a work schedule or professional timetable"
+  },
+  "fa-butter": {
+    "appearanceId": "rectangular block or stick of butter with a flat top and slightly rounded corners; oblong solid block silhouette representing a dairy pat",
+    "functionalityId": "tags content or a recipe as containing butter; marks a food item with a dairy ingredient",
+    "intentId": "indicate a recipe uses butter; filter food items by dairy content"
+  },
+  "fa-c": {
+    "appearanceId": "bold uppercase letter C with an open curved right side; single arc-shaped alphabetic glyph",
+    "functionalityId": "inserts or labels the letter C; selects or navigates to a C-categorized item",
+    "intentId": "represent the third letter of the alphabet; identify something indexed or labeled C"
+  },
+  "fa-cab": {
+    "appearanceId": "side-view taxi cab silhouette with a rectangular roof sign on top; sedan vehicle profile with a cab indicator light",
+    "functionalityId": "requests or hails a taxi or cab ride; shows nearby cab or ride-hailing options",
+    "intentId": "get a taxi or cab to a destination; find nearby ride-for-hire transportation"
+  },
+  "fa-cabin": {
+    "appearanceId": "small house silhouette with a steeply pitched triangular roof and simple square body; compact rustic dwelling profile with a peaked gable",
+    "functionalityId": "marks or books a cabin or lodge accommodation; navigates to rustic rental listings",
+    "intentId": "find or reserve a cabin or wilderness lodge; browse rustic or nature retreat accommodations"
+  },
+  "fa-cabinet-filing": {
+    "appearanceId": "tall rectangular filing cabinet with two or three horizontal drawer fronts and small handle tabs; upright multi-drawer storage unit silhouette",
+    "functionalityId": "opens the file cabinet or document archive; accesses stored files or organized records",
+    "intentId": "retrieve stored documents or archived files; manage physical or digital file organization"
+  },
+  "fa-cactus": {
+    "appearanceId": "upright cactus silhouette with a tall central column and two shorter side arms curving upward; desert plant with rounded branches and spine bumps",
+    "functionalityId": "tags content as desert-themed or southwestern; marks a location with an arid or desert environment",
+    "intentId": "indicate a desert setting or southwestern theme; apply a cactus or dry-climate label to content"
+  },
+  "fa-caduceus": {
+    "appearanceId": "vertical staff with two serpents spiraling upward around it and a pair of wings at the top; winged rod entwined with two snakes",
+    "functionalityId": "marks content as medical or healthcare related; navigates to health or medicine category",
+    "intentId": "identify medical or healthcare services; access health-related information or resources"
+  },
+  "fa-cake": {
+    "appearanceId": "round layered cake with a lit candle on top and horizontal frosting lines around the side; tiered birthday dessert silhouette with a single flame",
+    "functionalityId": "marks a birthday event or celebration; adds a cake or party symbol to a date or event",
+    "intentId": "celebrate a birthday or anniversary; indicate a festive dessert or party event"
+  },
+  "fa-calculator": {
+    "appearanceId": "rectangular device body with a small display screen at the top and rows of square buttons below; handheld calculator silhouette with grid keypad",
+    "functionalityId": "opens a calculator or numeric computation tool; performs arithmetic or math operations",
+    "intentId": "calculate a numeric value or expression; access a quick math tool for computations"
+  },
+  "fa-calculator-alt": {
+    "appearanceId": "rectangular calculator body with a wider display and slightly different button arrangement; alternate handheld calculator silhouette with a spacious screen area",
+    "functionalityId": "opens an alternative or scientific calculator; accesses extended math or conversion functions",
+    "intentId": "perform more complex or extended calculations; access a calculator with additional functions"
+  },
+  "fa-calendar": {
+    "appearanceId": "rectangular calendar page with two top hanging rings and a grid of date rows below a header band; monthly planner silhouette with row-and-column date grid",
+    "functionalityId": "opens the calendar or date picker; navigates to a monthly or weekly schedule view",
+    "intentId": "view or select a date on a calendar; manage appointments or scheduled events"
+  },
+  "fa-calendar-alt": {
+    "appearanceId": "rectangular calendar with two top rings and a simplified date grid showing a few rows of day cells; alternative monthly planner silhouette with sparse grid lines",
+    "functionalityId": "opens an alternate calendar or schedule view; switches to a different calendar layout or format",
+    "intentId": "view a schedule in a different calendar format; access an alternative date or event view"
+  },
+  "fa-calendar-check": {
+    "appearanceId": "rectangular calendar grid with a checkmark symbol overlaid on the date area; monthly planner silhouette with a confirmation tick on a date cell",
+    "functionalityId": "marks an event or date as completed or confirmed; checks off a scheduled item from the calendar",
+    "intentId": "confirm attendance or completion of a scheduled event; mark a calendar date as done or verified"
+  },
+  "fa-calendar-circle": {
+    "appearanceId": "rectangular calendar grid with a filled circle badge overlaid at the corner; monthly planner silhouette with a round indicator dot",
+    "functionalityId": "marks a calendar date with a circular status indicator; highlights a specific date or event on the calendar",
+    "intentId": "flag a particular date with a status marker; highlight an important day on the calendar"
+  },
+  "fa-calendar-circle-exclamation": {
+    "appearanceId": "rectangular calendar grid with a filled circle containing an exclamation mark badge at the corner; monthly planner silhouette with a warning dot indicator",
+    "functionalityId": "flags a calendar event or date with an urgent warning; alerts the user to a critical scheduling conflict or deadline",
+    "intentId": "draw attention to a high-priority date or event; acknowledge an urgent calendar alert"
+  },
+  "fa-calendar-circle-minus": {
+    "appearanceId": "rectangular calendar grid with a filled circle containing a minus symbol badge at the corner; monthly planner silhouette with a removal indicator dot",
+    "functionalityId": "removes or cancels an event from the calendar; deletes a scheduled entry from a date",
+    "intentId": "cancel or remove a scheduled event; clear a date from the calendar"
+  }
+}

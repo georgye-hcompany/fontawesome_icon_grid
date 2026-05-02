@@ -1,0 +1,242 @@
+{
+  "fa-car-garage": {
+    "appearanceId": "car silhouette inside an arched or rectangular garage opening; automobile shape framed by a building entrance",
+    "functionalityId": "navigates to garage or parking management features; opens vehicle storage or home garage settings",
+    "intentId": "manage a home garage or vehicle storage space; access parking or garage-related controls"
+  },
+  "fa-car-mirrors": {
+    "appearanceId": "front-facing car outline with two side mirror arms extending outward; vehicle profile highlighting the wing mirror pair",
+    "functionalityId": "opens vehicle mirror adjustment or safety settings; indicates side-mirror or driver-assistance features",
+    "intentId": "adjust or check vehicle mirror configuration; access driving visibility or safety settings"
+  },
+  "fa-car-on": {
+    "appearanceId": "side-profile car silhouette with a power or activation indicator; automobile outline with a small on-state symbol",
+    "functionalityId": "activates or starts a connected vehicle remotely; turns on car ignition or vehicle system",
+    "intentId": "remotely start or power on a vehicle; enable a car or fleet device"
+  },
+  "fa-car-side": {
+    "appearanceId": "flat side-profile silhouette of a sedan with four wheels and a curved roofline; lateral outline of a passenger automobile",
+    "functionalityId": "indicates vehicle type or transportation mode; selects a car or driving option",
+    "intentId": "choose a car travel mode or vehicle option; represent general automobile transportation"
+  },
+  "fa-car-side-bolt": {
+    "appearanceId": "side-profile car silhouette with a lightning bolt overlaid or alongside; automobile outline combined with an electric flash symbol",
+    "functionalityId": "indicates an electric vehicle option; selects or filters for electric car features",
+    "intentId": "find or manage an electric vehicle; access EV charging or range information"
+  },
+  "fa-car-tilt": {
+    "appearanceId": "car silhouette depicted at an angle as if tipped sideways or on a tow tilt; automobile outline rotated or leaning on one side",
+    "functionalityId": "indicates a vehicle breakdown or towing situation; marks a roadside assistance or tilt-sensor event",
+    "intentId": "request towing or roadside assistance; report a tilted or overturned vehicle"
+  },
+  "fa-car-tunnel": {
+    "appearanceId": "car silhouette entering a curved tunnel arch opening; automobile outline inside a semicircular passage",
+    "functionalityId": "indicates a tunnel route or underground passage; marks a toll or tunnel navigation point",
+    "intentId": "navigate through a road tunnel; identify a tunnel on a route or map"
+  },
+  "fa-car-wash": {
+    "appearanceId": "car silhouette with droplets or vertical spray lines around it; automobile outline surrounded by water spray marks",
+    "functionalityId": "locates or opens a car wash service; indicates a vehicle cleaning station",
+    "intentId": "find a nearby car wash facility; schedule or access a vehicle cleaning service"
+  },
+  "fa-car-wrench": {
+    "appearanceId": "car silhouette with a wrench tool overlaid or adjacent; automobile outline combined with a repair spanner shape",
+    "functionalityId": "opens vehicle maintenance or repair tracking; schedules a car service appointment",
+    "intentId": "manage vehicle service or repair needs; find a mechanic or auto-repair resource"
+  },
+  "fa-caravan": {
+    "appearanceId": "side-profile of a box-shaped trailer with a rounded roof, windows, and a tow hitch; recreational travel trailer outline with axle and wheels",
+    "functionalityId": "indicates a caravan or RV campsite option; marks a towable accommodation or camping vehicle",
+    "intentId": "find or manage a caravan or camping trailer; plan a road trip with a towed living unit"
+  },
+  "fa-caravan-alt": {
+    "appearanceId": "side-profile travel trailer with a slightly different roofline or window arrangement than the standard caravan; alternate towable home outline",
+    "functionalityId": "selects an alternative caravan style or variant; marks a different type of towed camping vehicle",
+    "intentId": "choose a specific caravan design or model; compare alternate towed accommodation options"
+  },
+  "fa-card-club": {
+    "appearanceId": "playing card outline containing a three-lobed club suit symbol; rectangular card face showing the trefoil club shape",
+    "functionalityId": "selects the clubs suit in a card game action; indicates a club-card category or filter",
+    "intentId": "play or identify a clubs-suited card; navigate to a clubs category in a card game"
+  },
+  "fa-card-diamond": {
+    "appearanceId": "playing card outline containing a four-pointed diamond rhombus; rectangular card face showing a rotated square suit symbol",
+    "functionalityId": "selects the diamonds suit in a card game action; indicates a diamond-card category or filter",
+    "intentId": "play or identify a diamonds-suited card; navigate to a diamonds category in a card game"
+  },
+  "fa-card-heart": {
+    "appearanceId": "playing card outline containing a heart suit symbol with two rounded lobes and a downward point; rectangular card face showing the heart shape",
+    "functionalityId": "selects the hearts suit in a card game action; indicates a heart-card category or filter",
+    "intentId": "play or identify a hearts-suited card; navigate to a hearts category in a card game"
+  },
+  "fa-card-spade": {
+    "appearanceId": "playing card outline containing a spade suit symbol with an inverted heart top and a small stem; rectangular card face showing the spade shape",
+    "functionalityId": "selects the spades suit in a card game action; indicates a spade-card category or filter",
+    "intentId": "play or identify a spades-suited card; navigate to a spades category in a card game"
+  },
+  "fa-cards": {
+    "appearanceId": "two overlapping playing cards fanned slightly showing their faces; pair of rectangular card shapes stacked at an angle",
+    "functionalityId": "opens a card game or deck management view; displays a hand of playing cards",
+    "intentId": "access a card game or card-based feature; manage a deck or hand of playing cards"
+  },
+  "fa-cards-blank": {
+    "appearanceId": "two overlapping cards fanned slightly with blank unprinted faces; pair of plain white rectangular card shapes",
+    "functionalityId": "creates or selects blank or custom playing cards; opens a card template for editing",
+    "intentId": "design or customize a blank playing card; start with an empty card template"
+  },
+  "fa-caret-circle-down": {
+    "appearanceId": "downward-pointing solid triangle centered inside a full circle outline; filled downward arrowhead enclosed in a circular border",
+    "functionalityId": "expands a collapsed section or dropdown menu downward; scrolls or moves content downward",
+    "intentId": "reveal more content below; open a dropdown or expand a folded section"
+  },
+  "fa-caret-circle-left": {
+    "appearanceId": "leftward-pointing solid triangle centered inside a full circle outline; filled left arrowhead enclosed in a circular border",
+    "functionalityId": "navigates to the previous item or page; moves focus or content to the left",
+    "intentId": "go back to the previous view or item; shift content or selection leftward"
+  },
+  "fa-caret-circle-right": {
+    "appearanceId": "rightward-pointing solid triangle centered inside a full circle outline; filled right arrowhead enclosed in a circular border",
+    "functionalityId": "navigates to the next item or page; moves focus or content to the right",
+    "intentId": "advance to the next view or item; shift content or selection rightward"
+  },
+  "fa-caret-circle-up": {
+    "appearanceId": "upward-pointing solid triangle centered inside a full circle outline; filled upward arrowhead enclosed in a circular border",
+    "functionalityId": "collapses an expanded section or scrolls upward; moves content or focus upward",
+    "intentId": "hide or collapse expanded content above; scroll back to the top of a section"
+  },
+  "fa-caret-down": {
+    "appearanceId": "small solid downward-pointing triangle standing alone; compact filled wedge pointing toward the bottom",
+    "functionalityId": "opens a dropdown menu or selector; expands a collapsible list or panel downward",
+    "intentId": "reveal additional options or choices below; open a menu or expand a section"
+  },
+  "fa-caret-left": {
+    "appearanceId": "small solid leftward-pointing triangle standing alone; compact filled wedge pointing toward the left",
+    "functionalityId": "navigates to the previous item or collapses a panel to the left; moves a cursor or selection leftward",
+    "intentId": "go back or move to the previous item; collapse a side panel or navigate left"
+  },
+  "fa-caret-right": {
+    "appearanceId": "small solid rightward-pointing triangle standing alone; compact filled wedge pointing toward the right",
+    "functionalityId": "navigates to the next item or expands a panel to the right; moves a cursor or selection rightward",
+    "intentId": "proceed forward or move to the next item; expand a side panel or navigate right"
+  },
+  "fa-caret-square-down": {
+    "appearanceId": "downward-pointing solid triangle centered inside a square outline; filled downward arrowhead enclosed in a rectangular border",
+    "functionalityId": "opens a dropdown or expands content downward within a box container; collapses upward to reveal lower content",
+    "intentId": "expand or reveal content below within a boxed area; open a square-framed dropdown"
+  },
+  "fa-caret-square-left": {
+    "appearanceId": "leftward-pointing solid triangle centered inside a square outline; filled left arrowhead enclosed in a rectangular border",
+    "functionalityId": "navigates back or collapses content to the left within a box container; moves selection leftward in a panel",
+    "intentId": "go to the previous item within a boxed interface; collapse or shift content left"
+  },
+  "fa-caret-square-right": {
+    "appearanceId": "rightward-pointing solid triangle centered inside a square outline; filled right arrowhead enclosed in a rectangular border",
+    "functionalityId": "navigates forward or expands content to the right within a box container; moves selection rightward in a panel",
+    "intentId": "advance to the next item within a boxed interface; expand or shift content right"
+  },
+  "fa-caret-square-up": {
+    "appearanceId": "upward-pointing solid triangle centered inside a square outline; filled upward arrowhead enclosed in a rectangular border",
+    "functionalityId": "collapses expanded content upward within a box container; scrolls or moves selection upward in a panel",
+    "intentId": "collapse or hide content below within a boxed area; scroll upward in a square-framed section"
+  },
+  "fa-caret-up": {
+    "appearanceId": "small solid upward-pointing triangle standing alone; compact filled wedge pointing toward the top",
+    "functionalityId": "collapses a dropdown menu or expanded section upward; moves a cursor or selection upward",
+    "intentId": "close an open menu or collapse an expanded panel; move focus upward in a list"
+  },
+  "fa-carpool": {
+    "appearanceId": "car silhouette with multiple person figures inside or alongside; vehicle outline containing two or more passenger shapes",
+    "functionalityId": "activates or joins a carpool or ride-sharing option; matches a user with shared-ride passengers",
+    "intentId": "share a car ride with others to save cost or reduce emissions; find or offer a carpool arrangement"
+  },
+  "fa-carrot": {
+    "appearanceId": "tapered orange root vegetable with leafy green tops sprouting from the narrow end; elongated cone shape with feathery stems",
+    "functionalityId": "tags content as vegetable or food-related; labels a recipe or grocery item as a carrot",
+    "intentId": "find or categorize carrot-based recipes or food items; represent vegetable or healthy-eating content"
+  },
+  "fa-cars": {
+    "appearanceId": "two car silhouettes side by side or slightly overlapping; pair of automobile outlines grouped together",
+    "functionalityId": "displays a fleet or multiple vehicle listing; filters or browses multiple car options",
+    "intentId": "compare or manage multiple vehicles; browse a fleet or car inventory"
+  },
+  "fa-cart-arrow-down": {
+    "appearanceId": "shopping cart body with a downward-pointing arrow overlaid on the basket area; wheeled cart outline with a downward chevron inside",
+    "functionalityId": "downloads or pulls items into the shopping cart; adds a product to the cart from a remote source",
+    "intentId": "import or save items into the cart; retrieve products for purchase"
+  },
+  "fa-cart-arrow-up": {
+    "appearanceId": "shopping cart body with an upward-pointing arrow overlaid on the basket area; wheeled cart outline with an upward chevron inside",
+    "functionalityId": "exports or pushes items out of the shopping cart; submits or uploads cart contents",
+    "intentId": "submit cart items for processing or checkout; send or upload selected products"
+  },
+  "fa-cart-circle-arrow-down": {
+    "appearanceId": "shopping cart body with a circle badge containing a downward arrow in the lower corner; wheeled cart outline with a circular down-arrow overlay",
+    "functionalityId": "downloads or imports items into the cart via a circular action badge; adds products to the cart from a source",
+    "intentId": "pull items into the cart from an external list; save products to the cart for later"
+  },
+  "fa-cart-circle-arrow-up": {
+    "appearanceId": "shopping cart body with a circle badge containing an upward arrow in the lower corner; wheeled cart outline with a circular up-arrow overlay",
+    "functionalityId": "uploads or submits cart contents via a circular action badge; sends items from the cart to checkout",
+    "intentId": "push cart items to a next step or external system; submit or export the current cart"
+  },
+  "fa-cart-circle-check": {
+    "appearanceId": "shopping cart body with a circle badge containing a checkmark in the lower corner; wheeled cart outline with a circular tick overlay",
+    "functionalityId": "confirms or validates the shopping cart contents; marks the cart as reviewed and approved",
+    "intentId": "confirm items in the cart are ready for purchase; verify cart contents before proceeding"
+  },
+  "fa-cart-circle-exclamation": {
+    "appearanceId": "shopping cart body with a circle badge containing an exclamation mark in the lower corner; wheeled cart outline with a circular warning overlay",
+    "functionalityId": "alerts the user to a cart issue or error; warns about a problem with an item in the cart",
+    "intentId": "resolve a cart warning or product issue; address an alert before completing the purchase"
+  },
+  "fa-cart-circle-plus": {
+    "appearanceId": "shopping cart body with a circle badge containing a plus sign in the lower corner; wheeled cart outline with a circular add overlay",
+    "functionalityId": "adds a new item to the shopping cart; creates or expands the cart with an additional product",
+    "intentId": "add more products to the cart; build up a shopping cart with new items"
+  },
+  "fa-cart-circle-xmark": {
+    "appearanceId": "shopping cart body with a circle badge containing an X mark in the lower corner; wheeled cart outline with a circular remove overlay",
+    "functionalityId": "removes all items from or deletes the shopping cart; cancels the current cart session",
+    "intentId": "clear or discard the shopping cart; cancel the current product selection"
+  },
+  "fa-cart-flatbed": {
+    "appearanceId": "flat platform cart with a low rectangular deck and small wheels underneath; open-decked dolly or pallet trolley silhouette",
+    "functionalityId": "indicates a flatbed cart or pallet-moving tool; marks a logistics or warehouse transport item",
+    "intentId": "manage or track items on a flatbed or pallet cart; access warehouse or logistics cart features"
+  },
+  "fa-cart-flatbed-empty": {
+    "appearanceId": "flat platform cart with an empty rectangular deck and no load on top; bare open-decked dolly silhouette with no cargo",
+    "functionalityId": "indicates an available or unloaded flatbed cart; marks an empty pallet or logistics carrier",
+    "intentId": "identify an available flatbed cart for loading; check if a logistics cart is ready for use"
+  },
+  "fa-cart-minus": {
+    "appearanceId": "shopping cart body with a minus sign overlaid on or beside the basket; wheeled cart outline combined with a subtraction symbol",
+    "functionalityId": "removes one item from the shopping cart; decreases the quantity of a product in the cart",
+    "intentId": "take a product out of the cart; reduce the number of items selected for purchase"
+  },
+  "fa-cart-plus": {
+    "appearanceId": "shopping cart body with a plus sign overlaid on or beside the basket; wheeled cart outline combined with an addition symbol",
+    "functionalityId": "adds an item to the shopping cart; increases the quantity of a product in the cart",
+    "intentId": "place a product into the cart; expand the cart with an additional item"
+  },
+  "fa-cart-shopping": {
+    "appearanceId": "side-view shopping cart with a wire basket body, angled handle, and two small wheels; wheeled retail cart outline with a basket frame",
+    "functionalityId": "opens the shopping cart page; displays all items selected for purchase",
+    "intentId": "review products added to the cart; proceed toward completing a purchase"
+  },
+  "fa-cart-shopping-fast": {
+    "appearanceId": "shopping cart silhouette with motion speed lines trailing behind it; wheeled cart outline with horizontal dash marks indicating velocity",
+    "functionalityId": "triggers a quick checkout or express purchase flow; initiates a fast-order or one-click buy action",
+    "intentId": "complete a purchase quickly with minimal steps; use express checkout for a faster buying experience"
+  },
+  "fa-cart-xmark": {
+    "appearanceId": "shopping cart body with an X mark overlaid on or inside the basket; wheeled cart outline combined with a cancel or close symbol",
+    "functionalityId": "clears or cancels the entire shopping cart; removes all selected items from the purchase",
+    "intentId": "discard the current cart and start over; cancel all items selected for purchase"
+  },
+  "fa-cash-register": {
+    "appearanceId": "boxy machine with a drawer at the base, a display screen or keys panel on the body, and a receipt printout at the top; classic point-of-sale terminal silhouette with a cash drawer",
+    "functionalityId": "opens the point-of-sale or checkout terminal; processes a cash or payment transaction",
+    "intentId": "complete a retail transaction at checkout; access the payment or sales register system"
+  }
+}

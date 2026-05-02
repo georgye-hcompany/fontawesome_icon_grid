@@ -1,0 +1,242 @@
+{
+  "fa-arrow-up-left": {
+    "appearanceId": "diagonal arrow pointing toward upper-left corner; angled shaft with arrowhead aimed at top-left",
+    "functionalityId": "navigates or moves content toward the upper-left; returns focus to the previous upper-left position",
+    "intentId": "go back or return to a prior upper-left location; reposition content diagonally toward the top-left"
+  },
+  "fa-arrow-up-left-from-circle": {
+    "appearanceId": "circle with a diagonal arrow exiting toward the upper-left; enclosed ring with outward-pointing upper-left arrow",
+    "functionalityId": "extracts or exports content out of a container toward the upper-left; dismisses or collapses an element away from center",
+    "intentId": "exit or leave an enclosing area toward the upper-left; detach an item from its current context"
+  },
+  "fa-arrow-up-long": {
+    "appearanceId": "tall straight arrow with a single arrowhead pointing straight up; elongated vertical upward-pointing shaft",
+    "functionalityId": "scrolls or moves content upward; increases or promotes a value in an upward direction",
+    "intentId": "move to the top of a list or page; increase a numeric or ranked value"
+  },
+  "fa-arrow-up-right": {
+    "appearanceId": "diagonal arrow pointing toward upper-right corner; angled shaft with arrowhead aimed at top-right",
+    "functionalityId": "navigates or opens content in the upper-right direction; links to an external page or expanded view",
+    "intentId": "open a link or resource in a new context; move content diagonally toward the upper-right"
+  },
+  "fa-arrow-up-right-and-arrow-down-left-from-center": {
+    "appearanceId": "two arrows diverging from center — one pointing upper-right and one pointing lower-left; outward-expanding diagonal arrow pair",
+    "functionalityId": "expands a panel or modal to full screen; enlarges a view by pushing content outward from center",
+    "intentId": "enter full-screen or maximize a view; spread content to occupy more space"
+  },
+  "fa-arrow-up-right-dots": {
+    "appearanceId": "upward-right arrow accompanied by small dots along its path; ascending diagonal arrow with scattered dot markers",
+    "functionalityId": "indicates growth trend or rising data points; navigates to an increasing or expanding dataset",
+    "intentId": "view an upward trend or growth chart; track increasing progress over time"
+  },
+  "fa-arrow-up-to-arc": {
+    "appearanceId": "vertical arrow pointing up toward a curved arc at the top; upward shaft meeting a convex curved boundary",
+    "functionalityId": "uploads or sends content up to a bounded limit; scrolls content up to a defined ceiling or arc boundary",
+    "intentId": "submit or push data up to a cap or threshold; reach the upper boundary of a contained area"
+  },
+  "fa-arrow-up-to-bracket": {
+    "appearanceId": "upward arrow pointing into an open bracket or tray shape at the top; vertical shaft aimed at a horizontal shelf",
+    "functionalityId": "uploads a file or item to a storage location; submits content into a designated slot or container",
+    "intentId": "upload a file to the cloud or server; save content into a holding area"
+  },
+  "fa-arrow-up-to-dotted-line": {
+    "appearanceId": "upward arrow whose tip meets a horizontal dotted line; vertical arrow pointing to a dashed boundary above",
+    "functionalityId": "moves content up to a defined boundary or limit; aligns or snaps an element to a dotted guideline above",
+    "intentId": "snap content to an upper boundary or threshold; align an item precisely to a dotted guide"
+  },
+  "fa-arrow-up-z-a": {
+    "appearanceId": "upward arrow beside descending letters Z and A; vertical arrow with Z-to-A letter labels",
+    "functionalityId": "sorts a list in reverse alphabetical order from Z to A; applies descending alphabetical sorting",
+    "intentId": "sort items from Z to A in descending order; reverse the alphabetical sort of a list"
+  },
+  "fa-arrows": {
+    "appearanceId": "four arrows pointing outward in the four cardinal directions forming a cross; cross-shaped four-way directional arrows",
+    "functionalityId": "enables dragging or repositioning an element in any direction; activates a move or pan interaction",
+    "intentId": "move or drag an element to a new position; reposition an object freely on the canvas"
+  },
+  "fa-arrows-alt": {
+    "appearanceId": "four diagonal arrows pointing toward each corner of a square; outward-pointing arrows at all four corners",
+    "functionalityId": "expands content to full screen or maximum size; enlarges a view or modal in all diagonal directions",
+    "intentId": "maximize or go full screen; expand a view to fill available space"
+  },
+  "fa-arrows-cross": {
+    "appearanceId": "four arrows meeting at a central cross point, each pointing outward along cardinal axes; plus-shaped arrow cluster",
+    "functionalityId": "enables free movement or panning of an element; triggers a drag-and-drop or repositioning mode",
+    "intentId": "reposition an element freely in any cardinal direction; enter a move or pan mode"
+  },
+  "fa-arrows-down-to-line": {
+    "appearanceId": "two downward arrows converging toward a horizontal line at the bottom; paired arrows pointing down to a baseline",
+    "functionalityId": "collapses or docks content downward to a baseline; aligns multiple items to a bottom edge",
+    "intentId": "anchor or align content to the bottom boundary; collapse items down to a lower limit"
+  },
+  "fa-arrows-down-to-people": {
+    "appearanceId": "downward arrows pointing toward person silhouettes below; arrows descending onto human figure icons",
+    "functionalityId": "assigns or distributes resources down to team members; delegates tasks or content to listed people",
+    "intentId": "distribute or assign items to individual people; push resources or tasks down to team members"
+  },
+  "fa-arrows-from-dotted-line": {
+    "appearanceId": "arrows pointing outward away from a central dotted line; diverging arrows expanding from a dashed midpoint",
+    "functionalityId": "expands content outward from a reference line; spreads or separates elements away from a guide",
+    "intentId": "spread items apart from a central reference; expand content outward from a dividing line"
+  },
+  "fa-arrows-from-line": {
+    "appearanceId": "arrows pointing outward in both directions from a solid horizontal line; bidirectional arrows diverging from a baseline",
+    "functionalityId": "expands or separates content away from a fixed line; increases spacing outward from a reference point",
+    "intentId": "increase spacing or margins away from a boundary; expand elements outward from a dividing line"
+  },
+  "fa-arrows-h": {
+    "appearanceId": "two horizontal arrows pointing in opposite directions forming a left-right span; bidirectional horizontal arrow",
+    "functionalityId": "resizes or stretches an element horizontally; adjusts the width of a panel or column",
+    "intentId": "resize content horizontally; adjust the width of an element or column"
+  },
+  "fa-arrows-left-right-to-line": {
+    "appearanceId": "left and right arrows pointing toward a central vertical line; inward-pointing horizontal arrows meeting a midline",
+    "functionalityId": "collapses or centers content to a vertical midline; snaps left and right edges to a central guide",
+    "intentId": "center or collapse content to a vertical axis; align left and right boundaries to a midpoint"
+  },
+  "fa-arrows-minimize": {
+    "appearanceId": "four arrows pointing inward toward the center from each corner; converging diagonal arrows aimed at the center",
+    "functionalityId": "collapses or minimizes a panel or modal to a smaller size; contracts a view inward to reduce its footprint",
+    "intentId": "minimize or shrink a view to a smaller state; collapse an expanded panel back to compact size"
+  },
+  "fa-arrows-rotate-reverse": {
+    "appearanceId": "circular arrow arc rotating in a counterclockwise direction; curved arrow loop with tail pointing counterclockwise",
+    "functionalityId": "undoes the last rotation or reverses a spinning action; re-syncs or refreshes content in the reverse direction",
+    "intentId": "undo a rotation or reverse a recent action; refresh data by cycling in the opposite direction"
+  },
+  "fa-arrows-spin": {
+    "appearanceId": "four arrows arranged in a circular spinning pattern; rotating loop of four outward-curving arrows",
+    "functionalityId": "triggers a reload or continuous refresh cycle; indicates an ongoing spinning or loading process",
+    "intentId": "refresh or reload content continuously; indicate a recurring or looping process"
+  },
+  "fa-arrows-split-up-and-left": {
+    "appearanceId": "a single arrow forking into two branches — one pointing up and one pointing left; Y-shaped arrow split going upward and leftward",
+    "functionalityId": "splits or routes content into two separate upward and leftward paths; forks a flow or navigation into two directions",
+    "intentId": "branch a workflow into two separate directions; split content or routing into upward and leftward paths"
+  },
+  "fa-arrows-to-circle": {
+    "appearanceId": "multiple arrows pointing inward toward a central circle; converging arrows aimed at an enclosed ring",
+    "functionalityId": "consolidates or gathers content toward a central point; focuses multiple inputs into a single target",
+    "intentId": "consolidate or merge items toward a central hub; focus multiple sources into one destination"
+  },
+  "fa-arrows-to-dot": {
+    "appearanceId": "four arrows pointing inward toward a central dot; converging cardinal arrows aimed at a small center point",
+    "functionalityId": "centers or collapses content toward a single focal point; aligns multiple elements to converge on one spot",
+    "intentId": "center all elements on a single focal point; converge multiple items toward one location"
+  },
+  "fa-arrows-to-dotted-line": {
+    "appearanceId": "arrows pointing inward toward a central dotted horizontal line; converging arrows meeting a dashed midline",
+    "functionalityId": "snaps or aligns elements to a dotted center guide; collapses content inward toward a reference boundary",
+    "intentId": "align content to a dotted guideline; snap items to a dashed reference line"
+  },
+  "fa-arrows-to-eye": {
+    "appearanceId": "arrows pointing inward toward an eye symbol at center; converging arrows aimed at an eyeball focal point",
+    "functionalityId": "focuses the view or zooms into a point of interest; centers the display around a highlighted element",
+    "intentId": "focus the camera or viewport on a specific target; zoom in to inspect a point of interest"
+  },
+  "fa-arrows-to-line": {
+    "appearanceId": "arrows pointing inward toward a central solid horizontal line; converging arrows meeting a midline baseline",
+    "functionalityId": "aligns or snaps content to a center line; collapses elements inward to a shared horizontal axis",
+    "intentId": "align multiple items to a shared horizontal baseline; snap content to a center guideline"
+  },
+  "fa-arrows-turn-right": {
+    "appearanceId": "arrow path that turns and redirects to the right; bent arrow making a right-angle turn to the right",
+    "functionalityId": "redirects a flow or route to the right; indicates a turn or navigation step toward the right",
+    "intentId": "follow a turn or redirect to the right; change the direction of a flow or route rightward"
+  },
+  "fa-arrows-turn-to-dots": {
+    "appearanceId": "arrows curving and terminating at dot endpoints; bent arrows whose tips end in small filled circles",
+    "functionalityId": "maps or routes content between defined waypoint markers; connects directional paths to specific target dots",
+    "intentId": "navigate between waypoints or route stops; connect a path to specific marked destinations"
+  },
+  "fa-arrows-up-to-line": {
+    "appearanceId": "two upward arrows pointing toward a horizontal line at the top; paired arrows rising to a ceiling baseline",
+    "functionalityId": "scrolls or moves content upward to a defined ceiling; aligns multiple elements to a top edge boundary",
+    "intentId": "anchor or align content to the top boundary; raise items up to an upper limit"
+  },
+  "fa-arrows-v": {
+    "appearanceId": "two vertical arrows pointing in opposite directions — one up and one down; bidirectional vertical arrow",
+    "functionalityId": "resizes or stretches an element vertically; adjusts the height of a panel or row",
+    "intentId": "resize content vertically; adjust the height of an element or row"
+  },
+  "fa-asl-interpreting": {
+    "appearanceId": "two hands in signing gesture positions representing sign language; a pair of hand shapes arranged in an ASL pose",
+    "functionalityId": "enables ASL or sign language interpretation support; activates accessibility features for hearing-impaired users",
+    "intentId": "access sign language interpretation services; enable deaf or hard-of-hearing accessibility support"
+  },
+  "fa-asterisk": {
+    "appearanceId": "six-pointed star-like symbol with thin radiating lines from center; a small starburst with symmetric spokes",
+    "functionalityId": "marks a field as required or adds a footnote annotation; flags important or mandatory content with a symbol",
+    "intentId": "indicate a required field or footnote reference; highlight special or mandatory information"
+  },
+  "fa-at": {
+    "appearanceId": "letter A enclosed inside a circular looping tail; at-sign symbol with a curled encircling stroke",
+    "functionalityId": "composes or addresses an email message; mentions or tags a user in a message or post",
+    "intentId": "send an email or mention someone directly; tag a person or address in a message"
+  },
+  "fa-atlas": {
+    "appearanceId": "open book with a world map or globe depicted on the pages; bound volume displaying geographic imagery",
+    "functionalityId": "opens a geographic reference or map collection; browses world or regional map content",
+    "intentId": "explore geographic maps or world reference material; navigate to a location-based knowledge resource"
+  },
+  "fa-atom": {
+    "appearanceId": "three elliptical orbits crossing around a central nucleus dot; intersecting oval rings encircling a small center point",
+    "functionalityId": "opens a science, chemistry, or physics section; represents atomic or molecular data content",
+    "intentId": "explore scientific or atomic data; navigate to chemistry or physics-related content"
+  },
+  "fa-atom-alt": {
+    "appearanceId": "three elliptical orbits with electron dots shown along the paths around a nucleus; orbital rings with visible electron markers",
+    "functionalityId": "opens a detailed atomic structure or science reference; displays atomic model with electron positions",
+    "intentId": "view a detailed atomic or molecular model; access advanced science or chemistry content"
+  },
+  "fa-audio-description": {
+    "appearanceId": "letters AD enclosed in or beside a speaker or waveform shape; text label AD with an audio broadcast symbol",
+    "functionalityId": "enables audio description track for visual media; toggles narrated descriptions for visually impaired users",
+    "intentId": "turn on audio descriptions for accessibility; support visually impaired users with narrated media"
+  },
+  "fa-audio-description-slash": {
+    "appearanceId": "letters AD with a diagonal slash line crossing through them; audio description symbol with a strikethrough",
+    "functionalityId": "disables or mutes the audio description track; turns off narrated accessibility descriptions for media",
+    "intentId": "turn off audio descriptions for media playback; disable the accessibility narration track"
+  },
+  "fa-austral-sign": {
+    "appearanceId": "uppercase letter A with two horizontal crossbars through the middle; currency symbol resembling a barred letter A",
+    "functionalityId": "displays or selects the Argentine austral currency; labels a price or amount in austral denomination",
+    "intentId": "indicate a value in Argentine austral currency; select or display austral-denominated pricing"
+  },
+  "fa-avocado": {
+    "appearanceId": "pear-shaped fruit with a large pit visible inside and green outer layer; halved avocado showing brown seed and flesh",
+    "functionalityId": "browses healthy food or nutrition options; filters menu items by avocado or plant-based ingredient",
+    "intentId": "find avocado-based dishes or healthy food options; log or select an avocado ingredient in a meal"
+  },
+  "fa-award": {
+    "appearanceId": "circular medallion badge with a ribbon or star at top and a hanging ribbon streamer below; round medal with decorative ribbon",
+    "functionalityId": "grants or displays an achievement badge or recognition; highlights a top-rated or awarded item",
+    "intentId": "recognize or celebrate an achievement or accomplishment; view awarded or top-ranked items"
+  },
+  "fa-award-simple": {
+    "appearanceId": "simple circular medallion with a small ribbon at top and no detailed decoration; plain round badge with minimal ribbon detail",
+    "functionalityId": "marks or displays a basic award or recognition badge; assigns a simple achievement indicator",
+    "intentId": "acknowledge a basic accomplishment or milestone; mark an item as recognized or rewarded"
+  },
+  "fa-axe": {
+    "appearanceId": "single-bladed axe with a long handle and curved cutting head; a wood-chopping hatchet with elongated grip",
+    "functionalityId": "selects or equips an axe tool in a game or simulation; accesses a logging or crafting action",
+    "intentId": "perform a cutting or chopping action; equip or use an axe tool in a game or utility context"
+  },
+  "fa-axe-battle": {
+    "appearanceId": "broad double-bladed battle axe with a thick wide head and short handle; large symmetrical war axe with dual cutting edges",
+    "functionalityId": "equips or selects a battle axe weapon in a game; triggers a combat or attack action",
+    "intentId": "engage in combat using a battle axe; select a heavy weapon for a fighting or role-play action"
+  },
+  "fa-b": {
+    "appearanceId": "bold uppercase letter B; a single large capital B character",
+    "functionalityId": "applies bold formatting to selected text; inserts or labels the letter B",
+    "intentId": "make text bold or emphasize content; represent the letter B in a label or input"
+  },
+  "fa-baby": {
+    "appearanceId": "small infant figure with round head and simplified seated or swaddled body; a tiny human silhouette representing a newborn",
+    "functionalityId": "filters content for baby or infant categories; navigates to parenting or childcare sections",
+    "intentId": "find baby or infant products and resources; access parenting or childcare-related content"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-plane-prop": {
+    "appearanceId": "side-view propeller aircraft with spinning front prop and tail fin",
+    "functionalityId": "indicate propeller aircraft or flight",
+    "intentId": "select or track a prop-plane route"
+  },
+  "fa-plane-slash": {
+    "appearanceId": "side-view aircraft with diagonal slash line crossing through it",
+    "functionalityId": "cancel or disable flight status",
+    "intentId": "mark a flight as cancelled or unavailable"
+  },
+  "fa-plane-tail": {
+    "appearanceId": "rear view of aircraft tail fin and horizontal stabilizers",
+    "functionalityId": "identify aircraft tail or airline livery",
+    "intentId": "view or track aircraft by tail number"
+  },
+  "fa-plane-up": {
+    "appearanceId": "side-view aircraft angled upward in a climbing attitude",
+    "functionalityId": "indicate departing or ascending flight",
+    "intentId": "track a flight taking off or climbing"
+  },
+  "fa-plane-up-slash": {
+    "appearanceId": "upward-angled aircraft with diagonal slash crossing through it",
+    "functionalityId": "cancel or block a departing flight",
+    "intentId": "mark an outbound flight as unavailable"
+  },
+  "fa-planet-moon": {
+    "appearanceId": "large circle representing a planet with a smaller crescent moon orbiting nearby",
+    "functionalityId": "browse space or astronomy content",
+    "intentId": "explore planetary or celestial body data"
+  },
+  "fa-plate-utensils": {
+    "appearanceId": "round dinner plate with fork on left and knife on right",
+    "functionalityId": "open meal or dining options",
+    "intentId": "find a restaurant or log a meal"
+  },
+  "fa-plate-wheat": {
+    "appearanceId": "round dinner plate with a wheat stalk laid across it",
+    "functionalityId": "browse grain or dietary meal options",
+    "intentId": "indicate a wheat-based or grain food item"
+  },
+  "fa-play": {
+    "appearanceId": "right-pointing solid triangle",
+    "functionalityId": "start or resume media playback",
+    "intentId": "play a video, audio, or animation"
+  },
+  "fa-plug": {
+    "appearanceId": "electrical plug with two prongs",
+    "functionalityId": "connect or pair a device or service",
+    "intentId": "establish a connection or integration"
+  },
+  "fa-podcast": {
+    "appearanceId": "upward broadcast arcs above a microphone base",
+    "functionalityId": "open or subscribe to a podcast feed",
+    "intentId": "listen to or browse podcast episodes"
+  },
+  "fa-power-off": {
+    "appearanceId": "circle with a vertical line gap at top forming a power symbol",
+    "functionalityId": "toggle power or shut down a device",
+    "intentId": "turn a device or session on or off"
+  },
+  "fa-pretzel": {
+    "appearanceId": "knotted twisted pretzel with looped cross shape",
+    "functionalityId": "browse snack or bakery food items",
+    "intentId": "select or label a pretzel food option"
+  },
+  "fa-print": {
+    "appearanceId": "printer device body with paper sheet emerging from top",
+    "functionalityId": "send document to printer",
+    "intentId": "produce a physical copy of content"
+  },
+  "fa-q": {
+    "appearanceId": "bold uppercase letter Q",
+    "functionalityId": "insert or label letter Q",
+    "intentId": "represent the letter Q"
+  },
+  "fa-question": {
+    "appearanceId": "question mark symbol with curved top stroke and dot below",
+    "functionalityId": "open help or FAQ content",
+    "intentId": "get assistance or clarification on a topic"
+  },
+  "fa-quote-left": {
+    "appearanceId": "two raised left-facing curved quotation marks",
+    "functionalityId": "insert or format a block quotation",
+    "intentId": "attribute or highlight a quoted passage"
+  },
+  "fa-r": {
+    "appearanceId": "bold uppercase letter R",
+    "functionalityId": "insert or label letter R",
+    "intentId": "represent the letter R"
+  },
+  "fa-rainbow": {
+    "appearanceId": "arcing rainbow with multiple band layers",
+    "functionalityId": "indicate weather clearing or diversity theme",
+    "intentId": "celebrate positivity or show post-rain conditions"
+  },
+  "fa-receipt": {
+    "appearanceId": "rectangular receipt paper with line items and serrated bottom edge",
+    "functionalityId": "view or download a transaction receipt",
+    "intentId": "review purchase details or proof of payment"
+  },
+  "fa-repeat": {
+    "appearanceId": "two arrows forming a rectangular loop with one pointing right and one pointing left",
+    "functionalityId": "enable looped or repeated playback",
+    "intentId": "replay content continuously in a loop"
+  },
+  "fa-reply": {
+    "appearanceId": "leftward-pointing arrow curving back from a stem",
+    "functionalityId": "reply to a message or comment",
+    "intentId": "respond to a received communication"
+  },
+  "fa-rocket": {
+    "appearanceId": "side-view rocket with pointed nose cone and fins",
+    "functionalityId": "launch or deploy an application or feature",
+    "intentId": "start something new or accelerate a process"
+  },
+  "fa-rocket-launch": {
+    "appearanceId": "rocket with pointed nose cone angled upward and exhaust flame below",
+    "functionalityId": "trigger a launch or deployment event",
+    "intentId": "initiate a major release or startup action"
+  },
+  "fa-rod-snake": {
+    "appearanceId": "vertical staff rod with a snake coiled and wrapping upward around it",
+    "functionalityId": "access medical or health-related content",
+    "intentId": "navigate to healthcare or pharmacy information"
+  },
+  "fa-rotate": {
+    "appearanceId": "two curved arrows forming a circular rotation",
+    "functionalityId": "refresh or reload current content",
+    "intentId": "update or cycle through content again"
+  },
+  "fa-route": {
+    "appearanceId": "winding path with two circular endpoints connected by a curved line",
+    "functionalityId": "display or plan a navigation route",
+    "intentId": "find or follow a path between two locations"
+  },
+  "fa-rss": {
+    "appearanceId": "signal broadcast arc with dot at base",
+    "functionalityId": "subscribe to an RSS or news feed",
+    "intentId": "follow updates from a content source"
+  },
+  "fa-ruler": {
+    "appearanceId": "diagonal ruler with measurement markings",
+    "functionalityId": "measure or resize an element",
+    "intentId": "check or adjust dimensions of content"
+  },
+  "fa-ruler-combined": {
+    "appearanceId": "two rulers joined at a right angle with tick marks on both edges",
+    "functionalityId": "measure both width and height together",
+    "intentId": "set or verify two-dimensional dimensions"
+  },
+  "fa-ruler-horizontal": {
+    "appearanceId": "horizontal ruler with tick marks along edge",
+    "functionalityId": "measure or adjust horizontal dimensions",
+    "intentId": "check or set the width of an element"
+  },
+  "fa-ruler-triangle": {
+    "appearanceId": "right-angle triangle ruler with tick marks along two edges",
+    "functionalityId": "measure angles or align to a corner",
+    "intentId": "set precise angular or geometric dimensions"
+  },
+  "fa-ruler-vertical": {
+    "appearanceId": "vertical ruler with tick marks along edge",
+    "functionalityId": "measure or adjust vertical dimensions",
+    "intentId": "check or set the height of an element"
+  },
+  "fa-running": {
+    "appearanceId": "human figure in mid-stride running pose with one leg forward and arms swinging",
+    "functionalityId": "start a running or fitness activity",
+    "intentId": "log a run or access fitness tracking"
+  },
+  "fa-s": {
+    "appearanceId": "bold uppercase letter S",
+    "functionalityId": "insert or label letter S",
+    "intentId": "represent the letter S"
+  },
+  "fa-sailboat": {
+    "appearanceId": "side-view sailboat with mast and triangular sail",
+    "functionalityId": "browse sailing or nautical content",
+    "intentId": "plan or track a sailing trip"
+  },
+  "fa-salad": {
+    "appearanceId": "bowl filled with leafy greens and vegetables",
+    "functionalityId": "browse healthy meal or salad options",
+    "intentId": "select or log a salad or vegetable dish"
+  },
+  "fa-save-circle-arrow-right": {
+    "appearanceId": "floppy disk with a small circle containing a right-pointing arrow as a badge",
+    "functionalityId": "save and advance to next step",
+    "intentId": "store current work and continue forward"
+  },
+  "fa-screwdriver": {
+    "appearanceId": "diagonal screwdriver with flat-head tip",
+    "functionalityId": "open settings or developer tools",
+    "intentId": "configure or repair an application or system"
+  },
+  "fa-sensor-cloud": {
+    "appearanceId": "sensor base device with cloud shape above it indicating wireless data upload",
+    "functionalityId": "connect sensor data to cloud service",
+    "intentId": "monitor or sync environmental sensor readings"
+  },
+  "fa-server": {
+    "appearanceId": "stacked horizontal server rack panels with indicator lights",
+    "functionalityId": "manage or configure server infrastructure",
+    "intentId": "access backend hosting or database settings"
+  },
+  "fa-share": {
+    "appearanceId": "arrow pointing right with two small branching arrows",
+    "functionalityId": "share content with others",
+    "intentId": "send or distribute an item to other people"
+  },
+  "fa-shield": {
+    "appearanceId": "downward-pointed shield outline",
+    "functionalityId": "enable protection or security features",
+    "intentId": "safeguard data or enable account security"
+  },
+  "fa-shield-cat": {
+    "appearanceId": "downward-pointed shield with a cat face silhouette badge in the center",
+    "functionalityId": "enable pet protection or cat-related security",
+    "intentId": "manage safety settings for a cat or pet profile"
+  },
+  "fa-shield-dog": {
+    "appearanceId": "downward-pointed shield with a dog face silhouette badge in the center",
+    "functionalityId": "enable pet protection or dog-related security",
+    "intentId": "manage safety settings for a dog or pet profile"
+  },
+  "fa-ship": {
+    "appearanceId": "side-view cargo ship with hull, deck, and superstructure above waterline",
+    "functionalityId": "browse shipping or maritime transport options",
+    "intentId": "track or schedule a sea freight shipment"
+  },
+  "fa-shirt-running": {
+    "appearanceId": "athletic shirt with a running figure printed on the chest",
+    "functionalityId": "browse running apparel or athletic gear",
+    "intentId": "select or purchase running clothing"
+  },
+  "fa-shovel-snow": {
+    "appearanceId": "wide-blade snow shovel angled diagonally with a long handle",
+    "functionalityId": "log or request snow removal activity",
+    "intentId": "clear snow or manage winter weather tasks"
+  }
+}

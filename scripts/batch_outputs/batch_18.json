@@ -1,0 +1,242 @@
+{
+  "fa-shrimp": {
+    "appearanceId": "curved shrimp with segmented body, tail fan, and antennae",
+    "functionalityId": "browse seafood or shrimp dishes",
+    "intentId": "select a shrimp or shellfish item"
+  },
+  "fa-sign-posts-wrench": {
+    "appearanceId": "two directional signpost arrows on a pole with a wrench overlaid",
+    "functionalityId": "configure or repair routing or directions",
+    "intentId": "manage or fix navigation or signage settings"
+  },
+  "fa-signal-1": {
+    "appearanceId": "five signal bars with one bar filled",
+    "functionalityId": "indicate very weak signal strength",
+    "intentId": "show network or connectivity is nearly absent"
+  },
+  "fa-signal-2": {
+    "appearanceId": "five signal bars with two bars filled",
+    "functionalityId": "indicate weak signal strength",
+    "intentId": "show network or connectivity is poor"
+  },
+  "fa-signal-3": {
+    "appearanceId": "five signal bars with three bars filled",
+    "functionalityId": "indicate moderate signal strength",
+    "intentId": "show network or connectivity is fair"
+  },
+  "fa-signal-4": {
+    "appearanceId": "five signal bars with four bars filled",
+    "functionalityId": "indicate strong signal strength",
+    "intentId": "show network or connectivity is good"
+  },
+  "fa-signal-alt-1": {
+    "appearanceId": "four signal bars with one bar filled",
+    "functionalityId": "indicate very weak alternate signal",
+    "intentId": "show minimal connectivity on alternate meter"
+  },
+  "fa-signal-alt-2": {
+    "appearanceId": "four signal bars with two bars filled",
+    "functionalityId": "indicate weak alternate signal strength",
+    "intentId": "show low connectivity on alternate meter"
+  },
+  "fa-signal-alt-3": {
+    "appearanceId": "four signal bars with three bars filled",
+    "functionalityId": "indicate moderate alternate signal strength",
+    "intentId": "show fair connectivity on alternate meter"
+  },
+  "fa-sitemap": {
+    "appearanceId": "hierarchical tree diagram with top node branching to lower connected nodes",
+    "functionalityId": "view or manage site or org structure",
+    "intentId": "navigate or plan a hierarchical layout"
+  },
+  "fa-ski-boot": {
+    "appearanceId": "side-view rigid ski boot with buckle straps and cuff",
+    "functionalityId": "browse ski boot or winter gear options",
+    "intentId": "select or rent ski boot equipment"
+  },
+  "fa-ski-boot-ski": {
+    "appearanceId": "side-view ski boot attached to a flat ski base",
+    "functionalityId": "browse ski and boot combo equipment",
+    "intentId": "select or rent skis with attached boots"
+  },
+  "fa-ski-jump": {
+    "appearanceId": "skier in aerodynamic forward-lean position on a jump ramp",
+    "functionalityId": "browse ski jumping or winter sports events",
+    "intentId": "access ski jump activity or competition info"
+  },
+  "fa-ski-lift": {
+    "appearanceId": "chairlift gondola hanging from an overhead cable line",
+    "functionalityId": "browse ski lift or mountain access options",
+    "intentId": "find or board a ski lift at a resort"
+  },
+  "fa-skull-cow": {
+    "appearanceId": "front-facing cow skull with horns and hollow eye sockets",
+    "functionalityId": "indicate danger, death, or western theme",
+    "intentId": "mark a hazard or western-themed element"
+  },
+  "fa-sliders": {
+    "appearanceId": "three horizontal lines with offset adjustment handles",
+    "functionalityId": "open settings or adjustment controls",
+    "intentId": "fine-tune preferences or filter parameters"
+  },
+  "fa-snake": {
+    "appearanceId": "coiled snake with raised head and forked tongue",
+    "functionalityId": "browse reptile or nature-themed content",
+    "intentId": "identify or select a snake-related item"
+  },
+  "fa-snow-blowing": {
+    "appearanceId": "cloud with horizontal wind lines and snowflake particles blowing sideways",
+    "functionalityId": "indicate blowing snow or winter storm conditions",
+    "intentId": "check or warn about blizzard or snow squall weather"
+  },
+  "fa-sort": {
+    "appearanceId": "two vertical opposing arrows, one up and one down",
+    "functionalityId": "toggle or change sort order",
+    "intentId": "reorder a list ascending or descending"
+  },
+  "fa-space-station-moon": {
+    "appearanceId": "circular station structure with a large dish and crescent moon shape cut out",
+    "functionalityId": "browse space station or sci-fi themed content",
+    "intentId": "access orbital station or science fiction features"
+  },
+  "fa-space-station-moon-alt": {
+    "appearanceId": "circular space station with segmented panels and a central crescent cutout",
+    "functionalityId": "browse alternate space station or sci-fi content",
+    "intentId": "access alternate orbital station or fantasy features"
+  },
+  "fa-spell-check": {
+    "appearanceId": "text letter A with a checkmark below it",
+    "functionalityId": "run or enable spell check on text",
+    "intentId": "catch and correct spelling errors in content"
+  },
+  "fa-spider": {
+    "appearanceId": "spider body with eight legs spread out",
+    "functionalityId": "browse spider or Halloween-themed content",
+    "intentId": "indicate a spider or creepy crawly element"
+  },
+  "fa-spider-black-widow": {
+    "appearanceId": "round spider body with eight legs and red hourglass marking on abdomen",
+    "functionalityId": "browse black widow or danger-themed content",
+    "intentId": "indicate a venomous or warning spider element"
+  },
+  "fa-spider-web": {
+    "appearanceId": "circular web with radiating and connecting silk threads",
+    "functionalityId": "browse spider web or Halloween-themed content",
+    "intentId": "indicate a trap, network, or spooky element"
+  },
+  "fa-square-0": {
+    "appearanceId": "square containing the numeral 0",
+    "functionalityId": "select or label item zero",
+    "intentId": "identify or navigate to zero-indexed item"
+  },
+  "fa-square-1": {
+    "appearanceId": "square containing the numeral 1",
+    "functionalityId": "select or label item one",
+    "intentId": "identify or navigate to first item"
+  },
+  "fa-square-2": {
+    "appearanceId": "square containing the numeral 2",
+    "functionalityId": "select or label item two",
+    "intentId": "identify or navigate to second item"
+  },
+  "fa-square-3": {
+    "appearanceId": "square containing the numeral 3",
+    "functionalityId": "select or label item three",
+    "intentId": "identify or navigate to third item"
+  },
+  "fa-square-4": {
+    "appearanceId": "square containing the numeral 4",
+    "functionalityId": "select or label item four",
+    "intentId": "identify or navigate to fourth item"
+  },
+  "fa-square-5": {
+    "appearanceId": "square containing the numeral 5",
+    "functionalityId": "select or label item five",
+    "intentId": "identify or navigate to fifth item"
+  },
+  "fa-square-6": {
+    "appearanceId": "square containing the numeral 6",
+    "functionalityId": "select or label item six",
+    "intentId": "identify or navigate to sixth item"
+  },
+  "fa-square-7": {
+    "appearanceId": "square containing the numeral 7",
+    "functionalityId": "select or label item seven",
+    "intentId": "identify or navigate to seventh item"
+  },
+  "fa-square-8": {
+    "appearanceId": "square containing the numeral 8",
+    "functionalityId": "select or label item eight",
+    "intentId": "identify or navigate to eighth item"
+  },
+  "fa-square-9": {
+    "appearanceId": "square containing the numeral 9",
+    "functionalityId": "select or label item nine",
+    "intentId": "identify or navigate to ninth item"
+  },
+  "fa-square-a": {
+    "appearanceId": "square containing the uppercase letter A",
+    "functionalityId": "select or label category A item",
+    "intentId": "identify or navigate to A-labeled option"
+  },
+  "fa-square-a-lock": {
+    "appearanceId": "square containing the uppercase letter A with a padlock overlay",
+    "functionalityId": "indicate a locked or restricted A option",
+    "intentId": "show that letter-A access is protected or locked"
+  },
+  "fa-square-ampersand": {
+    "appearanceId": "square containing an ampersand symbol",
+    "functionalityId": "insert or select an ampersand character",
+    "intentId": "add a conjunction or and-symbol to content"
+  },
+  "fa-square-arrow-down-left": {
+    "appearanceId": "square containing a diagonal arrow pointing down and to the left",
+    "functionalityId": "move or export content down-left",
+    "intentId": "redirect or collapse an item to lower-left"
+  },
+  "fa-square-arrow-down-right": {
+    "appearanceId": "square containing a diagonal arrow pointing down and to the right",
+    "functionalityId": "move or export content down-right",
+    "intentId": "redirect or collapse an item to lower-right"
+  },
+  "fa-square-arrow-up-left": {
+    "appearanceId": "square containing a diagonal arrow pointing up and to the left",
+    "functionalityId": "move or export content up-left",
+    "intentId": "redirect or expand an item to upper-left"
+  },
+  "fa-square-b": {
+    "appearanceId": "square containing the uppercase letter B",
+    "functionalityId": "select or label category B item",
+    "intentId": "identify or navigate to B-labeled option"
+  },
+  "fa-square-binary": {
+    "appearanceId": "square containing the characters 0 and 1 arranged as binary digits",
+    "functionalityId": "toggle or indicate a binary or raw data mode",
+    "intentId": "access binary data or developer encoding options"
+  },
+  "fa-square-bolt": {
+    "appearanceId": "square containing a lightning bolt",
+    "functionalityId": "trigger a quick action or power feature",
+    "intentId": "activate a fast or high-energy function"
+  },
+  "fa-square-c": {
+    "appearanceId": "square containing the uppercase letter C",
+    "functionalityId": "select or label category C item",
+    "intentId": "identify or navigate to C-labeled option"
+  },
+  "fa-square-code": {
+    "appearanceId": "square containing angle-bracket code symbols",
+    "functionalityId": "open or embed a code block",
+    "intentId": "insert or view source code in content"
+  },
+  "fa-square-d": {
+    "appearanceId": "square containing the uppercase letter D",
+    "functionalityId": "select or label category D item",
+    "intentId": "identify or navigate to D-labeled option"
+  },
+  "fa-square-dashed": {
+    "appearanceId": "square outlined with a dashed or dotted border",
+    "functionalityId": "mark a placeholder or droppable zone",
+    "intentId": "indicate an empty slot or selectable region"
+  }
+}

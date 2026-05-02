@@ -1,0 +1,242 @@
+{
+  "fa-mango": {
+    "appearanceId": "a rounded teardrop-shaped tropical fruit silhouette with a small stem at the top and a slightly flattened base; oval stone-fruit outline with a short curved stem nub",
+    "functionalityId": "marks a mango item in a food or produce catalog; represents a tropical fruit in a grocery or recipe app",
+    "intentId": "find or select mango as an ingredient or food item; browse tropical fruit options in a recipe or shopping list"
+  },
+  "fa-manhole": {
+    "appearanceId": "a circular or slightly oval utility cover shape with a hatched or grid pattern of raised lines across the surface; round street cover outline with a crosshatch or ribbed tread pattern",
+    "functionalityId": "marks an underground utility access point or maintenance entry; represents a sewer or infrastructure access hatch on a map",
+    "intentId": "identify an underground utility access point on a map; locate or report a manhole in a city infrastructure system"
+  },
+  "fa-map": {
+    "appearanceId": "a folded paper map shape showing two or three vertical fold panels with wavy or jagged lines suggesting roads and terrain; rectangular map sheet outline with visible fold creases and simplified geographic markings",
+    "functionalityId": "opens a map view or geographic navigation interface; displays a route or area map in an app",
+    "intentId": "navigate to a destination using a map; view geographic information or plan a route"
+  },
+  "fa-map-marked": {
+    "appearanceId": "a folded paper map with fold panel creases and a solid teardrop location pin shape overlaid on the surface; map sheet outline with a filled map marker pinned at a specific spot",
+    "functionalityId": "marks a specific location on a folded map; pins a geographic point of interest on a map view",
+    "intentId": "save or share a specific location on a map; mark a point of interest for navigation or reference"
+  },
+  "fa-map-marked-alt": {
+    "appearanceId": "a folded paper map with fold panel creases and a hollow or outlined teardrop location pin shape overlaid on the surface; map sheet outline with a stroked map marker at a specific position",
+    "functionalityId": "marks an alternate or secondary location on a folded map; pins an outlined location indicator on a map display",
+    "intentId": "indicate a secondary or alternate point of interest on a map; mark a location with a lighter or alternate style pin"
+  },
+  "fa-map-marker": {
+    "appearanceId": "a solid teardrop-shaped location pin with a circular head at the top and a pointed base tapering downward; filled drop-pin silhouette with a round bulb and sharp lower tip",
+    "functionalityId": "marks a specific geographic location on a map; drops a location pin at a point of interest",
+    "intentId": "identify or save a location on a map; drop a pin to mark a destination or point of interest"
+  },
+  "fa-map-marker-slash": {
+    "appearanceId": "a teardrop-shaped location pin silhouette with a diagonal slash line crossing through it; drop-pin outline with a cancellation stroke running from corner to corner",
+    "functionalityId": "removes or disables a location marker on a map; indicates a location pin is unavailable or turned off",
+    "intentId": "remove a saved map marker or location pin; disable location marking in a mapping application"
+  },
+  "fa-map-pin": {
+    "appearanceId": "a slender pin shape with a small circular or diamond head at the top and a thin pointed shaft tapering to a fine tip at the bottom; pushpin silhouette with a compact round head and elongated needle body",
+    "functionalityId": "pins a location or item onto a map or board; marks a specific point with a thin pin indicator",
+    "intentId": "mark a location or item with a pin on a map or pinboard; save a point of interest using a pin marker"
+  },
+  "fa-map-signs": {
+    "appearanceId": "two or more rectangular road sign shapes mounted on a vertical pole at different heights and pointing in different directions; directional signpost silhouette with multiple horizontal arrow-tipped plaques on a single post",
+    "functionalityId": "indicates a directional signpost or wayfinding intersection; displays multiple route or destination options on a sign",
+    "intentId": "navigate to one of several directions or destinations; find wayfinding information at a route intersection"
+  },
+  "fa-marker": {
+    "appearanceId": "a cylindrical felt-tip marker pen silhouette shown at a slight diagonal angle with a tapered or chisel tip at one end; tube-shaped marker outline with a pointed writing nib",
+    "functionalityId": "activates a highlight or annotation marker tool; marks up or annotates content with a marker pen",
+    "intentId": "annotate or highlight content using a marker tool; draw attention to specific text or areas in a document"
+  },
+  "fa-mars": {
+    "appearanceId": "a circle with a single straight arrow pointing diagonally upward and to the right from the upper edge; male gender symbol outline with a rightward-upward arrow extending from the circle",
+    "functionalityId": "represents the male gender symbol in a form or profile; filters or labels content as male",
+    "intentId": "indicate or select the male gender in a profile or filter; label content associated with male or masculine identity"
+  },
+  "fa-mars-and-venus": {
+    "appearanceId": "a circle with an upward-right arrow on one side merged with a circle with a cross hanging below on the other side; male and female gender symbols interlocked side by side sharing a combined form",
+    "functionalityId": "represents a male and female pairing or heterosexual gender combination; indicates mixed-gender content or a couples category",
+    "intentId": "indicate a male-female pairing or relationship; label mixed-gender or couples-oriented content"
+  },
+  "fa-mars-and-venus-burst": {
+    "appearanceId": "interlocked male and female gender symbols with radiating burst lines or spikes emanating outward around the combined form; merged mars-and-venus circle with explosive rays surrounding the pair",
+    "functionalityId": "represents an intense or dynamic male-female interaction or relationship event; signals a significant gender-related event or alert",
+    "intentId": "highlight a significant relationship event or gender interaction; indicate an urgent or high-impact gender-related situation"
+  },
+  "fa-mars-double": {
+    "appearanceId": "two side-by-side circles each with an upward-right diagonal arrow, sharing or overlapping their circle bodies; double male gender symbol with two rightward-upward arrows emerging from adjoined circles",
+    "functionalityId": "represents a male-male pairing or same-sex male gender combination; indicates content or relationships involving two males",
+    "intentId": "indicate a male-male relationship or same-sex male pairing; label content associated with two males or gay male identity"
+  },
+  "fa-mars-stroke": {
+    "appearanceId": "a circle with an upward-right diagonal arrow and an additional short horizontal or vertical stroke crossing the arrow shaft; male gender symbol with a secondary bar intersecting the arrow",
+    "functionalityId": "represents a transgender male or non-binary gender variant symbol; indicates a modified or alternate male gender identity",
+    "intentId": "indicate a transgender male or gender-variant identity; label content associated with modified male gender symbols"
+  },
+  "fa-mars-stroke-h": {
+    "appearanceId": "a circle with an upward-right arrow and a horizontal crossbar striking through the arrow shaft horizontally; male gender symbol with a perpendicular horizontal stroke intersecting the diagonal arrow",
+    "functionalityId": "represents a horizontally stroked male gender variant symbol; indicates a specific non-binary or transgender gender identity variant",
+    "intentId": "indicate a horizontally stroked gender variant identity; label content with a specific alternate male gender symbol"
+  },
+  "fa-mars-stroke-v": {
+    "appearanceId": "a circle with an upward-right arrow and a vertical stroke bisecting the arrow shaft downward; male gender symbol with a perpendicular vertical line crossing the diagonal arrow",
+    "functionalityId": "represents a vertically stroked male gender variant symbol; indicates a specific non-binary or transgender gender identity variant",
+    "intentId": "indicate a vertically stroked gender variant identity; label content with a specific alternate male gender symbol"
+  },
+  "fa-martini-glass": {
+    "appearanceId": "a wide inverted triangular bowl on a long slender stem with a flat circular base; cocktail glass silhouette with a v-shaped wide top and narrow stem and foot",
+    "functionalityId": "marks a cocktail, bar, or alcoholic beverage item in a menu or app; represents a drinks or nightlife category",
+    "intentId": "find cocktail options or bar-related content; browse drink menus or nightlife venues"
+  },
+  "fa-mask": {
+    "appearanceId": "an ornate theatrical mask shape with a curved oval face, dramatic eye openings, and decorative features suggesting a comedy or tragedy drama mask; stylized performance mask outline with elongated eye cutouts and theatrical flourishes",
+    "functionalityId": "represents theater, performance art, or drama categories; marks content related to performing arts or masquerade",
+    "intentId": "access theater or performing arts content; browse drama, masquerade, or performance-related topics"
+  },
+  "fa-mask-face": {
+    "appearanceId": "a flat rectangular or contoured cloth surgical or face-covering mask shape with ear loop straps on each side; fabric face mask outline with ear bands and horizontal pleated folds across the front",
+    "functionalityId": "represents a face covering or surgical mask for health protection; indicates a mask-required or health safety guideline",
+    "intentId": "indicate a face mask requirement or health safety measure; find or select face covering items in a health or safety context"
+  },
+  "fa-mask-snorkel": {
+    "appearanceId": "a diving or snorkel mask shape covering eyes and nose with a wide lens frame and a curved breathing tube or snorkel extending upward from one side; underwater goggles outline with a side-mounted curved air tube",
+    "functionalityId": "represents snorkeling or underwater diving equipment; marks a water sports or dive activity category",
+    "intentId": "find snorkeling or diving gear and activity options; browse underwater sports equipment or dive site listings"
+  },
+  "fa-mask-ventilator": {
+    "appearanceId": "a medical respiratory mask with a contoured face cup shape and a corrugated or ribbed tube extending from the front center; ventilator mask outline with a breathing circuit hose attached at the mouthpiece",
+    "functionalityId": "represents a medical ventilator or respiratory support device; indicates mechanical breathing assistance in a healthcare context",
+    "intentId": "manage or indicate ventilator or respiratory support equipment; access critical care or breathing assistance device information"
+  },
+  "fa-masks-theater": {
+    "appearanceId": "two overlapping or side-by-side theatrical masks with one showing a happy expression and the other a sad expression; comedy and tragedy mask pair silhouettes with contrasting curved mouth lines",
+    "functionalityId": "represents the performing arts, theater, or drama categories; marks content related to stage shows or theatrical productions",
+    "intentId": "find theater shows or performing arts events; browse drama or stage production content"
+  },
+  "fa-mattress-pillow": {
+    "appearanceId": "a flat rectangular mattress shape with a rounded rectangular pillow placed on top at one end; bed surface outline with a thick horizontal pad and a smaller cushion block resting on the upper portion",
+    "functionalityId": "represents a sleeping surface, bed, or rest area; marks a bedroom, accommodation, or sleep product category",
+    "intentId": "find mattress or bedding products; browse sleeping accommodation options or bedroom furnishing content"
+  },
+  "fa-maximize": {
+    "appearanceId": "a square or rectangle outline with four outward-pointing arrows at each corner indicating expansion; window frame shape with diagonal or axis-aligned expand arrows at all four corners",
+    "functionalityId": "expands a window, panel, or view to full screen; maximizes the size of a content area or modal",
+    "intentId": "enlarge a window or view to fill the available screen space; maximize a panel or media player for full-screen viewing"
+  },
+  "fa-meat": {
+    "appearanceId": "a bone-shaped piece of meat with a rounded flesh portion and a protruding bone end on one or both sides; ham or drumstick silhouette with a meaty oval body and a thin bone handle",
+    "functionalityId": "marks a meat, protein, or carnivore food item in a recipe or menu app; represents a meat category in a grocery or nutrition context",
+    "intentId": "find meat or protein food options in a recipe or shopping app; browse carnivore or meat-based menu items"
+  },
+  "fa-medal": {
+    "appearanceId": "a circular medallion shape hanging from a ribbon or bar at the top; round award disk outline suspended from a short horizontal band or ribbon drape",
+    "functionalityId": "represents an achievement, award, or ranking badge; marks a leaderboard position or earned credential",
+    "intentId": "display or award a medal for an achievement or competition; indicate a top ranking or earned accomplishment"
+  },
+  "fa-medkit": {
+    "appearanceId": "a rectangular box or case with a handle on top and a plus or cross symbol on the front face; first aid kit suitcase outline with a medical cross emblem on the lid",
+    "functionalityId": "represents a first aid kit or medical supply case; accesses health and emergency medical resources",
+    "intentId": "locate first aid supplies or emergency medical equipment; access health kit or medical resource information"
+  },
+  "fa-megaphone": {
+    "appearanceId": "a cone-shaped loudspeaker or bullhorn with a wide flared mouth opening and a narrow handle end; tapered megaphone silhouette with a wide bell on one end and a grip on the other",
+    "functionalityId": "broadcasts an announcement or alert to a wide audience; amplifies a message or notification in a communication app",
+    "intentId": "send a broadcast announcement or public alert; amplify a message to reach a large group or audience"
+  },
+  "fa-meh": {
+    "appearanceId": "a round face outline with two simple dot eyes and a flat or slightly downturned horizontal mouth line; circular face silhouette expressing a neutral or unimpressed expression",
+    "functionalityId": "represents a neutral, indifferent, or unimpressed reaction; submits a mediocre or average user sentiment rating",
+    "intentId": "express a neutral or indifferent reaction to content; submit an average or underwhelming satisfaction rating"
+  },
+  "fa-meh-blank": {
+    "appearanceId": "a round face outline with two simple dot eyes and no mouth line at all; circular face silhouette with eyes but a completely blank lower face area",
+    "functionalityId": "represents a blank, expressionless, or unresponsive reaction; indicates an empty or undefined emotional state",
+    "intentId": "express a completely neutral or blank emotional response; indicate an absence of reaction or undefined sentiment"
+  },
+  "fa-meh-rolling-eyes": {
+    "appearanceId": "a round face outline with two eyes containing upward-turned pupils as if rolling and a flat or slightly downturned mouth; circular face silhouette with eyes rolled upward in an exasperated expression",
+    "functionalityId": "represents an eye-rolling or exasperated reaction; expresses annoyance or disbelief in a sentiment or emoji context",
+    "intentId": "convey an eye-rolling or exasperated reaction to content; express annoyance or skeptical disbelief in a feedback system"
+  },
+  "fa-melon": {
+    "appearanceId": "a round or slightly oval whole fruit shape with a textured or smooth rind surface and a small stem at the top; spherical melon silhouette with a short curved stem nub and light surface line detail",
+    "functionalityId": "marks a melon item in a fruit or produce catalog; represents a round fruit category in a grocery or recipe app",
+    "intentId": "find or select melon as an ingredient or food item; browse round fruit options in a recipe or shopping list"
+  },
+  "fa-melon-slice": {
+    "appearanceId": "a wedge-shaped slice of melon with a curved rind edge on the outer arc, flat cut faces on the two straight sides, and small seed shapes along the inner flesh; triangular fruit wedge outline with a rind border and visible seeds",
+    "functionalityId": "marks a melon slice or cut fruit item in a food or menu app; represents a fresh fruit serving in a nutrition or recipe context",
+    "intentId": "select a melon slice as a food or recipe ingredient; browse fresh-cut fruit options in a menu or shopping app"
+  },
+  "fa-memo": {
+    "appearanceId": "a rectangular document or note shape with horizontal text lines across the surface; flat paper sheet outline with multiple parallel line strokes suggesting written content",
+    "functionalityId": "creates or opens a text memo or note; represents a written document or note entry in a productivity app",
+    "intentId": "write or view a short text memo or note; create or access a document note in a productivity or notes app"
+  },
+  "fa-memo-circle-check": {
+    "appearanceId": "a rectangular document or note shape with horizontal text lines and a small filled circle containing a checkmark badge overlaid at the corner; paper sheet outline with multiple line strokes and a verification badge",
+    "functionalityId": "marks a memo or document as reviewed and approved; confirms a note or task item has been completed",
+    "intentId": "confirm a memo or document has been reviewed or completed; mark a note as approved or verified in a task system"
+  },
+  "fa-memo-circle-info": {
+    "appearanceId": "a rectangular document or note shape with horizontal text lines and a small filled circle containing an information letter i badge overlaid at the corner; paper sheet outline with line strokes and an info badge",
+    "functionalityId": "attaches additional information or details to a memo or note; indicates that a document has supplementary info available",
+    "intentId": "view additional information linked to a memo or document; access supplementary details attached to a note"
+  },
+  "fa-memo-pad": {
+    "appearanceId": "a rectangular notepad shape with horizontal ruled lines and a bound top edge suggesting a spiral or pad binding; lined paper pad outline with a top margin strip indicating a pad or binding",
+    "functionalityId": "represents a physical or digital notepad for writing notes; opens a lined memo pad for quick text entry",
+    "intentId": "write or review notes on a memo pad; access a lined notepad for quick jottings in a productivity app"
+  },
+  "fa-memory": {
+    "appearanceId": "a long narrow rectangular RAM module or memory stick shape with small square chip bumps along the top edge; computer memory card outline with a row of rectangular chip contacts on the upper border",
+    "functionalityId": "represents system RAM or computer memory hardware; indicates a memory or storage specification in a device context",
+    "intentId": "check or manage computer memory or RAM specifications; view or upgrade system memory in a hardware or tech context"
+  },
+  "fa-menorah": {
+    "appearanceId": "a seven-branched candelabrum with a central vertical stem and three curved arms branching outward on each side each topped with a candle shape; traditional Jewish menorah silhouette with seven candle holders on curved branches",
+    "functionalityId": "represents the Jewish menorah or Hanukkah celebration; marks Judaic religious content or a holiday observance",
+    "intentId": "indicate a Jewish religious context or Hanukkah holiday event; access Judaic cultural or religious content"
+  },
+  "fa-mercury": {
+    "appearanceId": "a circle with a downward-hanging cross below and a small upward-curved horn or crescent arc at the top of the circle; combined male and female gender symbol with an additional arc crown on top representing the Mercury or non-binary glyph",
+    "functionalityId": "represents the Mercury or non-binary gender symbol in a profile or form; indicates a non-binary or intersex gender identity",
+    "intentId": "indicate a non-binary or intersex gender identity in a profile; label content associated with the Mercury gender symbol"
+  },
+  "fa-merge": {
+    "appearanceId": "two diagonal lines converging from the upper left and upper right downward into a single vertical line at the bottom; forking path or branch lines joining into one unified line below",
+    "functionalityId": "merges two branches, streams, or data sets into one; combines separate paths or items into a unified result",
+    "intentId": "combine two data branches or workflows into one; merge separate code branches or content streams"
+  },
+  "fa-message": {
+    "appearanceId": "a rounded rectangle speech bubble shape with a small triangular or curved callout tail pointing downward at the lower left corner; chat bubble outline with a pointed lower-left tail",
+    "functionalityId": "opens a text message or chat conversation; represents a messaging or communication function",
+    "intentId": "send or read a chat message or text; access a messaging or conversation interface"
+  },
+  "fa-message-arrow-down": {
+    "appearanceId": "a rounded rectangle speech bubble with a callout tail at the lower left and a downward-pointing arrow inside the bubble body; chat bubble outline with a downward arrow glyph in the message area",
+    "functionalityId": "downloads or scrolls down within a message thread; indicates an incoming or descending message action",
+    "intentId": "scroll down or download content within a message thread; receive or retrieve a message from a downward direction"
+  },
+  "fa-message-arrow-up": {
+    "appearanceId": "a rounded rectangle speech bubble with a callout tail at the lower left and an upward-pointing arrow inside the bubble body; chat bubble outline with an upward arrow glyph in the message area",
+    "functionalityId": "uploads or scrolls up within a message thread; sends or escalates a message upward in a conversation",
+    "intentId": "scroll up or upload content within a message thread; send or escalate a message upward in a conversation flow"
+  },
+  "fa-message-arrow-up-right": {
+    "appearanceId": "a rounded rectangle speech bubble with a callout tail at the lower left and a diagonal arrow pointing upward and to the right inside the bubble body; chat bubble outline with an upper-right diagonal arrow glyph in the message area",
+    "functionalityId": "shares or forwards a message to an external destination; sends a message to another app or contact via an outgoing action",
+    "intentId": "share or forward a message to an external app or contact; send a message outward to a different destination"
+  },
+  "fa-message-bot": {
+    "appearanceId": "a rounded rectangle speech bubble with a callout tail at the lower left and a small robot or mechanical face shape inside the bubble body; chat bubble outline with a robot head glyph in the message area",
+    "functionalityId": "indicates a message from a chatbot or automated assistant; opens an AI or bot-driven chat conversation",
+    "intentId": "interact with a chatbot or automated messaging assistant; indicate that a message was generated by a bot or AI agent"
+  },
+  "fa-message-captions": {
+    "appearanceId": "a rounded rectangle speech bubble with a callout tail at the lower left and two or three short horizontal text lines inside the bubble body; chat bubble outline with caption or subtitle line strokes in the message area",
+    "functionalityId": "displays captions or subtitles within a message or media player; indicates captioned or transcribed text content in a conversation",
+    "intentId": "enable captions or subtitles in a message or media context; view transcribed or captioned content within a chat or video"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-circle-sort": {
+    "appearanceId": "circle with two opposing vertical arrows",
+    "functionalityId": "sort or reorder a list",
+    "intentId": "change the order of items"
+  },
+  "fa-circle-sort-down": {
+    "appearanceId": "circle with a downward-pointing arrow and a static upward arrow inside",
+    "functionalityId": "sort a list in descending order",
+    "intentId": "arrange items from highest to lowest"
+  },
+  "fa-circle-sort-up": {
+    "appearanceId": "circle with an upward-pointing arrow and a static downward arrow inside",
+    "functionalityId": "sort a list in ascending order",
+    "intentId": "arrange items from lowest to highest"
+  },
+  "fa-circle-star": {
+    "appearanceId": "circle containing a five-pointed star",
+    "functionalityId": "mark or rate as a favorite",
+    "intentId": "highlight a top-rated or starred item"
+  },
+  "fa-circle-sterling": {
+    "appearanceId": "circle containing a pound sterling currency symbol",
+    "functionalityId": "view or select pound sterling currency",
+    "intentId": "indicate or apply GBP-denominated pricing"
+  },
+  "fa-circle-stop": {
+    "appearanceId": "circle with a solid square inside",
+    "functionalityId": "stop current playback or process",
+    "intentId": "halt audio, video, or a running task"
+  },
+  "fa-circle-t": {
+    "appearanceId": "circle containing uppercase letter T",
+    "functionalityId": "filter or label with letter T",
+    "intentId": "access or mark a T-categorized item"
+  },
+  "fa-circle-three-quarters": {
+    "appearanceId": "circle with three-quarters filled, one quarter empty",
+    "functionalityId": "indicate a 75% or three-quarter state",
+    "intentId": "represent a nearly complete level or value"
+  },
+  "fa-circle-three-quarters-stroke": {
+    "appearanceId": "circle outline with three-quarter arc segment stroked or highlighted, one quarter gap",
+    "functionalityId": "indicate three-quarter progress or partial state",
+    "intentId": "show 75% completion or a three-quarter segment"
+  },
+  "fa-circle-trash": {
+    "appearanceId": "circle containing a trash can shape",
+    "functionalityId": "delete or discard an item",
+    "intentId": "permanently remove selected content"
+  },
+  "fa-circle-u": {
+    "appearanceId": "circle containing uppercase letter U",
+    "functionalityId": "filter or label with letter U",
+    "intentId": "access or mark a U-categorized item"
+  },
+  "fa-circle-up": {
+    "appearanceId": "circle with an upward-pointing arrow inside",
+    "functionalityId": "upload or scroll content upward",
+    "intentId": "move or send content in the upward direction"
+  },
+  "fa-circle-up-left": {
+    "appearanceId": "circle with a diagonal arrow pointing up and to the left inside",
+    "functionalityId": "navigate or move content up-left",
+    "intentId": "direct action toward the upper-left position"
+  },
+  "fa-circle-up-right": {
+    "appearanceId": "circle with a diagonal arrow pointing up and to the right inside",
+    "functionalityId": "navigate or move content up-right",
+    "intentId": "direct action toward the upper-right position"
+  },
+  "fa-circle-user": {
+    "appearanceId": "circle containing a person silhouette with head and shoulders",
+    "functionalityId": "open user profile or account settings",
+    "intentId": "view or manage the current user account"
+  },
+  "fa-circle-v": {
+    "appearanceId": "circle containing uppercase letter V",
+    "functionalityId": "filter or label with letter V",
+    "intentId": "access or mark a V-categorized item"
+  },
+  "fa-circle-video": {
+    "appearanceId": "circle containing a video camera shape",
+    "functionalityId": "start or access a video stream",
+    "intentId": "record or view video content"
+  },
+  "fa-circle-w": {
+    "appearanceId": "circle containing uppercase letter W",
+    "functionalityId": "filter or label with letter W",
+    "intentId": "access or mark a W-categorized item"
+  },
+  "fa-circle-wifi": {
+    "appearanceId": "circle containing a wifi signal arc symbol with dot at base",
+    "functionalityId": "view or manage wifi connection",
+    "intentId": "connect to or check a wireless network"
+  },
+  "fa-circle-wifi-group": {
+    "appearanceId": "circle containing multiple wifi signal arc symbols grouped together",
+    "functionalityId": "manage multiple wifi networks or group",
+    "intentId": "select or configure a set of wireless networks"
+  },
+  "fa-circle-x": {
+    "appearanceId": "circle containing uppercase letter X",
+    "functionalityId": "filter or label with letter X",
+    "intentId": "access or mark an X-categorized item"
+  },
+  "fa-circle-xmark": {
+    "appearanceId": "circle with an X mark inside",
+    "functionalityId": "close, dismiss, or remove an item",
+    "intentId": "cancel or clear a selection or dialog"
+  },
+  "fa-circle-y": {
+    "appearanceId": "circle containing uppercase letter Y",
+    "functionalityId": "filter or label with letter Y",
+    "intentId": "access or mark a Y-categorized item"
+  },
+  "fa-circle-yen": {
+    "appearanceId": "circle containing a yen currency symbol",
+    "functionalityId": "view or select yen currency",
+    "intentId": "indicate or apply JPY-denominated pricing"
+  },
+  "fa-circle-z": {
+    "appearanceId": "circle containing uppercase letter Z",
+    "functionalityId": "filter or label with letter Z",
+    "intentId": "access or mark a Z-categorized item"
+  },
+  "fa-city": {
+    "appearanceId": "row of multiple buildings with varying heights and windows",
+    "functionalityId": "browse or select a city location",
+    "intentId": "identify or navigate to an urban area"
+  },
+  "fa-clipboard": {
+    "appearanceId": "rectangular board with a clip at the top center",
+    "functionalityId": "view or paste clipboard contents",
+    "intentId": "access copied or saved content"
+  },
+  "fa-clipboard-check": {
+    "appearanceId": "rectangular clipboard with a clip at top and a checkmark on the board",
+    "functionalityId": "mark a task or checklist as complete",
+    "intentId": "confirm items on a list are done"
+  },
+  "fa-clock": {
+    "appearanceId": "circle with clock face showing hour and minute hands",
+    "functionalityId": "view or set a time value",
+    "intentId": "check the current time or schedule an event"
+  },
+  "fa-cloud": {
+    "appearanceId": "rounded cloud shape with bumpy upper edge and flat bottom",
+    "functionalityId": "access cloud storage or services",
+    "intentId": "upload, store, or retrieve cloud data"
+  },
+  "fa-cloud-binary": {
+    "appearanceId": "cloud shape with binary digits 0 and 1 overlaid",
+    "functionalityId": "transfer or process binary data in cloud",
+    "intentId": "store or sync raw data to the cloud"
+  },
+  "fa-cloud-bolt": {
+    "appearanceId": "cloud shape with a lightning bolt below or attached",
+    "functionalityId": "indicate a thunderstorm weather condition",
+    "intentId": "view severe weather or storm alerts"
+  },
+  "fa-cloud-bolt-moon": {
+    "appearanceId": "cloud shape with a lightning bolt and a crescent moon",
+    "functionalityId": "show nighttime thunderstorm forecast",
+    "intentId": "check overnight storm or lightning conditions"
+  },
+  "fa-cloud-bolt-sun": {
+    "appearanceId": "cloud shape with a lightning bolt and a sun with rays",
+    "functionalityId": "show daytime thunderstorm forecast",
+    "intentId": "check daytime storm or lightning conditions"
+  },
+  "fa-cloud-check": {
+    "appearanceId": "cloud shape with a checkmark below or overlaid",
+    "functionalityId": "confirm a successful cloud sync or upload",
+    "intentId": "verify that cloud data is saved or current"
+  },
+  "fa-cloud-download": {
+    "appearanceId": "cloud shape with a downward arrow below",
+    "functionalityId": "download a file from the cloud",
+    "intentId": "retrieve and save cloud content locally"
+  },
+  "fa-cloud-drizzle": {
+    "appearanceId": "cloud shape with small light rain droplets falling below",
+    "functionalityId": "show light drizzle weather condition",
+    "intentId": "check light rain or drizzle forecast"
+  },
+  "fa-cloud-exclamation": {
+    "appearanceId": "cloud shape with an exclamation mark below or overlaid",
+    "functionalityId": "alert about a cloud error or warning",
+    "intentId": "investigate a cloud sync or storage issue"
+  },
+  "fa-cloud-hail": {
+    "appearanceId": "cloud shape with solid circular hailstone pellets falling below",
+    "functionalityId": "show hail weather condition",
+    "intentId": "check hail storm forecast or alerts"
+  },
+  "fa-cloud-hail-mixed": {
+    "appearanceId": "cloud shape with a mix of hailstone pellets and rain droplets falling below",
+    "functionalityId": "show mixed hail and rain weather condition",
+    "intentId": "check mixed precipitation forecast"
+  },
+  "fa-cloud-meatball": {
+    "appearanceId": "cloud shape with a round ball shape falling below",
+    "functionalityId": "indicate unusual or novelty weather condition",
+    "intentId": "view a whimsical or special weather event"
+  },
+  "fa-cloud-minus": {
+    "appearanceId": "cloud shape with a horizontal minus bar below or overlaid",
+    "functionalityId": "remove or reduce cloud storage or data",
+    "intentId": "delete or free up cloud space"
+  },
+  "fa-cloud-moon": {
+    "appearanceId": "cloud shape partially overlapping a crescent moon",
+    "functionalityId": "show partly cloudy nighttime forecast",
+    "intentId": "check overnight cloud cover conditions"
+  },
+  "fa-cloud-moon-rain": {
+    "appearanceId": "cloud shape with a crescent moon and rain droplets falling below",
+    "functionalityId": "show rainy nighttime weather forecast",
+    "intentId": "check overnight rain conditions"
+  },
+  "fa-cloud-music": {
+    "appearanceId": "cloud shape with a musical note below or overlaid",
+    "functionalityId": "access cloud-based music streaming",
+    "intentId": "play or manage music stored in the cloud"
+  },
+  "fa-cloud-plus": {
+    "appearanceId": "cloud shape with a plus sign below or overlaid",
+    "functionalityId": "upload or add content to the cloud",
+    "intentId": "save a new file or item to cloud storage"
+  },
+  "fa-cloud-question": {
+    "appearanceId": "cloud shape with a question mark below or overlaid",
+    "functionalityId": "get help about cloud status or service",
+    "intentId": "investigate unknown cloud condition or error"
+  },
+  "fa-cloud-rain": {
+    "appearanceId": "cloud shape with rain droplets falling below",
+    "functionalityId": "show rainy weather condition",
+    "intentId": "check rain forecast or precipitation levels"
+  }
+}

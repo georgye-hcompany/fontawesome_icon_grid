@@ -1,0 +1,242 @@
+{
+  "fa-anchor": {
+    "appearanceId": "nautical anchor with ring at top and horizontal cross arm with curved flukes; T-shaped anchor with loop top and downward curved ends",
+    "functionalityId": "pins or anchors a navigation link to a fixed position; marks a fixed reference point in a document",
+    "intentId": "create a stable link that stays in place; anchor content to a specific position"
+  },
+  "fa-anchor-circle-check": {
+    "appearanceId": "nautical anchor with a small circle containing a checkmark overlaid at bottom right; anchor shape paired with a circular tick badge",
+    "functionalityId": "confirms an anchor or fixed reference is valid and verified; marks a pinned location as approved",
+    "intentId": "verify that a fixed link or anchor point is correct; confirm a docked or anchored status"
+  },
+  "fa-anchor-circle-exclamation": {
+    "appearanceId": "nautical anchor with a small circle containing an exclamation mark overlaid at bottom right; anchor shape paired with a circular warning badge",
+    "functionalityId": "flags a pinned reference point with a warning or alert; highlights an anchor with an issue requiring attention",
+    "intentId": "alert the user to a problem with a fixed link or anchor; draw attention to a flagged docked item"
+  },
+  "fa-anchor-circle-xmark": {
+    "appearanceId": "nautical anchor with a small circle containing an X mark overlaid at bottom right; anchor shape paired with a circular removal badge",
+    "functionalityId": "removes or invalidates an anchor or fixed reference point; cancels a pinned link or docked position",
+    "intentId": "delete or deactivate a fixed anchor link; unpin a docked or anchored item"
+  },
+  "fa-anchor-lock": {
+    "appearanceId": "nautical anchor with a padlock overlaid at bottom right; anchor shape combined with a closed lock symbol",
+    "functionalityId": "locks or secures a pinned reference point in place; prevents modification of an anchored link",
+    "intentId": "secure a fixed anchor so it cannot be moved or edited; lock down a pinned navigation reference"
+  },
+  "fa-angel": {
+    "appearanceId": "human figure with wings spread outward and a circular halo above the head; winged person silhouette topped with a floating ring",
+    "functionalityId": "represents a saintly or benevolent character in a scene; labels angelic or spiritual content",
+    "intentId": "indicate a heavenly or benevolent theme; mark content related to spiritual or celestial subjects"
+  },
+  "fa-angle": {
+    "appearanceId": "two straight lines meeting at a point forming a partial V shape open at the top; single open chevron with two converging lines",
+    "functionalityId": "indicates a directional cue or angular measurement; collapses or expands a section by pointing",
+    "intentId": "show directional or angular context in a geometric diagram; indicate expandable or collapsible content"
+  },
+  "fa-angle-90": {
+    "appearanceId": "two lines meeting at a perfect right angle forming an L shape; corner bracket shape with two perpendicular lines",
+    "functionalityId": "indicates a 90-degree rotation or right-angle constraint; snaps or rotates an element to a perpendicular position",
+    "intentId": "apply a right-angle transform to an object; constrain a shape or layout to 90-degree increments"
+  },
+  "fa-angle-down": {
+    "appearanceId": "single downward-pointing chevron formed by two short diagonal lines meeting at a bottom point; open V shape pointing downward",
+    "functionalityId": "expands a collapsed section or dropdown menu; reveals hidden content below",
+    "intentId": "open a dropdown or accordion panel; show more items beneath the current view"
+  },
+  "fa-angle-left": {
+    "appearanceId": "single leftward-pointing chevron formed by two short diagonal lines meeting at a left point; open angle bracket pointing left",
+    "functionalityId": "navigates to the previous item, page, or slide; moves focus or selection leftward",
+    "intentId": "go back to the previous step or view; shift selection to the left"
+  },
+  "fa-angle-right": {
+    "appearanceId": "single rightward-pointing chevron formed by two short diagonal lines meeting at a right point; open angle bracket pointing right",
+    "functionalityId": "navigates to the next item, page, or slide; moves focus or selection rightward",
+    "intentId": "go forward to the next step or view; shift selection to the right"
+  },
+  "fa-angle-up": {
+    "appearanceId": "single upward-pointing chevron formed by two short diagonal lines meeting at a top point; open inverted V shape pointing upward",
+    "functionalityId": "collapses an expanded section or dropdown menu; scrolls or moves content upward",
+    "intentId": "close or hide an open panel; return to the top of a list or section"
+  },
+  "fa-angles-down": {
+    "appearanceId": "two stacked downward-pointing chevrons one above the other; double open V shapes both pointing downward",
+    "functionalityId": "scrolls quickly to the bottom or jumps to the last item; fast-forwards through content downward",
+    "intentId": "jump to the end of a list or page; skip ahead quickly through content"
+  },
+  "fa-angles-left": {
+    "appearanceId": "two side-by-side leftward-pointing chevrons; double open angle brackets both pointing left",
+    "functionalityId": "navigates to the first item or beginning of a list; fast-rewinds or jumps back multiple steps",
+    "intentId": "jump to the very beginning or first page; skip backward quickly through content"
+  },
+  "fa-angles-right": {
+    "appearanceId": "two side-by-side rightward-pointing chevrons; double open angle brackets both pointing right",
+    "functionalityId": "navigates to the last item or end of a list; fast-forwards or jumps ahead multiple steps",
+    "intentId": "jump to the very end or last page; skip forward quickly through content"
+  },
+  "fa-angles-up": {
+    "appearanceId": "two stacked upward-pointing chevrons one below the other; double open inverted V shapes both pointing upward",
+    "functionalityId": "scrolls quickly to the top or jumps to the first item; fast-rewinds content upward",
+    "intentId": "jump to the very top of a list or page; skip quickly back to the beginning"
+  },
+  "fa-angles-up-down": {
+    "appearanceId": "two chevrons pointing in opposite vertical directions, one up and one down stacked; upward and downward angle brackets arranged vertically back to back",
+    "functionalityId": "toggles or sorts a column between ascending and descending order; expands or collapses a vertically scrollable region",
+    "intentId": "switch between ascending and descending sort; show that content can be expanded or collapsed vertically"
+  },
+  "fa-angry": {
+    "appearanceId": "circular face with furrowed inward-angled eyebrows and a downturned frowning mouth; round emoji face with angry eyebrows and scowling expression",
+    "functionalityId": "reacts to content with an angry or upset emotion; submits a negative emotional reaction",
+    "intentId": "express frustration or anger in response to content; leave a strongly negative reaction"
+  },
+  "fa-ankh": {
+    "appearanceId": "cross with a teardrop-shaped loop at the top instead of a vertical arm; T-shaped cross topped with an oval loop",
+    "functionalityId": "marks or labels content with an Egyptian or spiritual symbol; represents life or eternal themes",
+    "intentId": "indicate ancient Egyptian or spiritual symbolism; tag content with a life or eternity theme"
+  },
+  "fa-ant": {
+    "appearanceId": "small six-legged insect silhouette with segmented oval body, antennae, and legs splayed outward; top-down view of an ant with three body segments and multiple legs",
+    "functionalityId": "labels or categorizes content related to insects or biology; represents a small task worker in a system metaphor",
+    "intentId": "indicate entomology or nature-related content; represent a worker process or micro-task in a pipeline"
+  },
+  "fa-apartment": {
+    "appearanceId": "rectangular multi-story building facade with rows of evenly spaced windows and a centered entrance; tall block building outline with grid-like window pattern",
+    "functionalityId": "navigates to or represents residential or multi-unit housing content; labels apartment or building-related listings",
+    "intentId": "find or manage apartment or residential property information; access building or housing-related content"
+  },
+  "fa-aperture": {
+    "appearanceId": "circular lens opening formed by multiple overlapping blade-shaped segments arranged in a flower-like pattern; camera iris with several curved blades radiating from the center",
+    "functionalityId": "opens camera or photography settings; adjusts or represents lens aperture and exposure controls",
+    "intentId": "configure camera aperture or photo capture settings; access photography or imaging options"
+  },
+  "fa-apostrophe": {
+    "appearanceId": "single small raised comma-shaped mark; a lone curved punctuation mark floating at the upper right",
+    "functionalityId": "inserts an apostrophe character into text; marks a contraction or possessive in a text editor",
+    "intentId": "add a punctuation apostrophe to written content; indicate possession or contraction in text"
+  },
+  "fa-apple-alt": {
+    "appearanceId": "stylized apple fruit silhouette with a leaf on top and a small stem; rounded fruit shape with a bite notch and single leaf",
+    "functionalityId": "represents food, health, or nutrition-related content; labels an apple or fruit category",
+    "intentId": "access health, diet, or nutrition information; indicate fruit or food-related content"
+  },
+  "fa-apple-core": {
+    "appearanceId": "apple core silhouette with the central fibrous column and remnant top and bottom crowns visible; fruit remnant shape showing seeds and core after eating",
+    "functionalityId": "represents waste, consumed content, or leftover items; labels a trash or remainder state",
+    "intentId": "indicate a depleted or consumed resource; mark something as used up or discarded"
+  },
+  "fa-apple-crate": {
+    "appearanceId": "rectangular wooden crate filled with several apple shapes visible above the rim; slatted box container with round fruits piled inside",
+    "functionalityId": "represents bulk produce, inventory, or storage of items; labels a crate or container of goods",
+    "intentId": "manage or browse a collection of stored items or produce; access inventory or bulk goods content"
+  },
+  "fa-archive": {
+    "appearanceId": "rectangular box with a horizontal lid raised at the top and a smaller flap panel on the front; flat-lidded storage box outline with a front label panel",
+    "functionalityId": "archives or stores selected items for long-term retention; moves content into an archive folder",
+    "intentId": "store old or inactive content out of the main view; archive a record or document for future reference"
+  },
+  "fa-archway": {
+    "appearanceId": "symmetrical stone arch shape with two vertical pillars and a curved semicircular top span; gate-like opening with rounded arch and flanking columns",
+    "functionalityId": "represents an entrance, gateway, or passage in a map or navigation context; labels architectural or location content",
+    "intentId": "indicate an entrance or gateway to a location; mark architectural or landmark content"
+  },
+  "fa-area-chart": {
+    "appearanceId": "line graph with the area beneath the line filled in, rising and falling across a horizontal axis; stepped filled polygon above a baseline representing data over time",
+    "functionalityId": "opens or displays an area chart visualization of data trends; toggles to an area chart view",
+    "intentId": "view cumulative or trend data as a filled area graph; analyze data changes over a time period"
+  },
+  "fa-arrow-circle-down": {
+    "appearanceId": "circle with a downward-pointing arrow inside it; round button shape enclosing a centered downward arrow",
+    "functionalityId": "downloads or moves content downward within a circular action button; scrolls down to the next section",
+    "intentId": "download a file or move an item to a lower position; scroll down to see more content"
+  },
+  "fa-arrow-circle-left": {
+    "appearanceId": "circle with a leftward-pointing arrow inside it; round button shape enclosing a centered leftward arrow",
+    "functionalityId": "navigates to the previous page or moves selection leftward via a circular button; goes back one step",
+    "intentId": "go back to the previous view or step; move selected content to the left"
+  },
+  "fa-arrow-circle-right": {
+    "appearanceId": "circle with a rightward-pointing arrow inside it; round button shape enclosing a centered rightward arrow",
+    "functionalityId": "navigates to the next page or moves selection rightward via a circular button; advances one step",
+    "intentId": "go forward to the next view or step; move selected content to the right"
+  },
+  "fa-arrow-circle-up": {
+    "appearanceId": "circle with an upward-pointing arrow inside it; round button shape enclosing a centered upward arrow",
+    "functionalityId": "uploads or moves content upward via a circular action button; scrolls up to the top",
+    "intentId": "upload a file or move an item to a higher position; scroll up to see previous content"
+  },
+  "fa-arrow-down": {
+    "appearanceId": "single straight arrow pointing downward with a triangular head and vertical shaft; bold downward-pointing arrow",
+    "functionalityId": "moves content downward or downloads a file; sorts a column in descending order",
+    "intentId": "download or move an item down; indicate a downward direction or descending sort"
+  },
+  "fa-arrow-down-1-9": {
+    "appearanceId": "downward arrow alongside the numerals 1 at top and 9 at bottom; directional arrow with numeric sequence from low to high going down",
+    "functionalityId": "sorts items numerically in ascending order from 1 to 9; arranges a list by number lowest first",
+    "intentId": "organize a list in ascending numerical order; sort numbers from smallest to largest"
+  },
+  "fa-arrow-down-9-1": {
+    "appearanceId": "downward arrow alongside the numerals 9 at top and 1 at bottom; directional arrow with numeric sequence from high to low going down",
+    "functionalityId": "sorts items numerically in descending order from 9 to 1; arranges a list by number highest first",
+    "intentId": "organize a list in descending numerical order; sort numbers from largest to smallest"
+  },
+  "fa-arrow-down-a-z": {
+    "appearanceId": "downward arrow alongside the letter A at top and letter Z at bottom; directional arrow with alphabetic sequence A to Z going down",
+    "functionalityId": "sorts items alphabetically in ascending A-to-Z order; arranges a list from A to Z",
+    "intentId": "organize a list in standard alphabetical order; sort text items from A to Z"
+  },
+  "fa-arrow-down-from-arc": {
+    "appearanceId": "downward arrow descending from the lower edge of a curved arc above; arrow exiting out of the bottom of a semicircle",
+    "functionalityId": "exports or downloads content out of a curved or looped context; extracts an item from an arc-shaped boundary",
+    "intentId": "pull content out of a loop or curved region; download from a circular or arced source"
+  },
+  "fa-arrow-down-from-bracket": {
+    "appearanceId": "downward arrow descending from the bottom of a horizontal bracket or shelf above; arrow dropping out of a top-mounted bracket",
+    "functionalityId": "downloads or exports content out of a bracketed or shelved container; pulls an item down from a header region",
+    "intentId": "download or extract an item from a top container or menu; pull content down from a bounded header"
+  },
+  "fa-arrow-down-from-dotted-line": {
+    "appearanceId": "downward arrow pointing away from a horizontal dotted or dashed line above it; arrow descending below a dashed boundary",
+    "functionalityId": "moves content below a defined boundary or threshold marker; drops an element past a dashed divider line",
+    "intentId": "push or export content past a boundary into a lower zone; move an item below a marked threshold"
+  },
+  "fa-arrow-down-left": {
+    "appearanceId": "single diagonal arrow pointing toward the lower-left corner; arrow shaft running from upper-right to lower-left",
+    "functionalityId": "moves or resizes content toward the lower-left; navigates diagonally down and left",
+    "intentId": "shift or reposition an item to the lower-left; indicate downward-left directional movement"
+  },
+  "fa-arrow-down-left-and-arrow-up-right-to-center": {
+    "appearanceId": "two arrows pointing toward a center point, one from upper-right heading down-left and one from lower-left heading up-right; a pair of inward-converging diagonal arrows meeting in the middle",
+    "functionalityId": "collapses or compresses content inward to the center; exits fullscreen or shrinks a panel to normal size",
+    "intentId": "exit fullscreen or reduce an expanded view to default size; compress two panels into a centered focal point"
+  },
+  "fa-arrow-down-long": {
+    "appearanceId": "long straight arrow pointing downward with an extended vertical shaft; tall downward-pointing arrow with a full-length stem",
+    "functionalityId": "scrolls far down or navigates to the bottom of a long list; indicates a significant downward movement",
+    "intentId": "jump to the bottom of a long page or document; indicate a large or extended downward navigation"
+  },
+  "fa-arrow-down-right": {
+    "appearanceId": "single diagonal arrow pointing toward the lower-right corner; arrow shaft running from upper-left to lower-right",
+    "functionalityId": "moves or resizes content toward the lower-right; navigates diagonally down and right",
+    "intentId": "shift or reposition an item to the lower-right; indicate downward-right directional movement"
+  },
+  "fa-arrow-down-to-arc": {
+    "appearanceId": "downward arrow entering into the top of a curved arc below; arrow tip touching and entering the interior of a semicircle",
+    "functionalityId": "imports or downloads content into a curved or looped container; inserts an item into an arc-shaped region",
+    "intentId": "load or pull content into a looped or curved destination; download into a circular or arced target"
+  },
+  "fa-arrow-down-to-bracket": {
+    "appearanceId": "downward arrow pointing into a horizontal bracket or shelf at the bottom; arrow descending into a bottom-mounted container bracket",
+    "functionalityId": "downloads or saves content into a bottom container or shelf; imports an item into a bracketed destination",
+    "intentId": "save or download a file into a specific container; store an item in a designated bottom slot"
+  },
+  "fa-arrow-down-to-dotted-line": {
+    "appearanceId": "downward arrow with its tip landing on a horizontal dotted or dashed line below; arrow pointing down to a dashed boundary",
+    "functionalityId": "moves content down to a defined boundary marker; snaps or aligns an element to a dashed threshold line",
+    "intentId": "align or snap content to a lower boundary or guide; move an item precisely to a marked line"
+  },
+  "fa-arrow-down-to-square": {
+    "appearanceId": "downward arrow pointing into the top opening of a square or box outline below; arrow descending into a rectangular container",
+    "functionalityId": "downloads or imports content into a box or container; saves a file into a designated square area",
+    "intentId": "save or download an item into a specific box or slot; place content into a defined rectangular container"
+  }
+}

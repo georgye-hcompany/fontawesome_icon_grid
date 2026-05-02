@@ -1,0 +1,187 @@
+{
+  "fa-user-plus": {
+    "appearanceId": "person silhouette with plus sign overlay to the right",
+    "functionalityId": "add a new user or contact",
+    "intentId": "invite or register a new person"
+  },
+  "fa-users": {
+    "appearanceId": "two person silhouettes side by side",
+    "functionalityId": "view or manage a group of users",
+    "intentId": "access team members or community list"
+  },
+  "fa-utensils-slash": {
+    "appearanceId": "fork and knife crossed with a diagonal slash line through them",
+    "functionalityId": "indicate no food or dining unavailable",
+    "intentId": "mark a location as closed or food-free"
+  },
+  "fa-v": {
+    "appearanceId": "bold uppercase letter V",
+    "functionalityId": "label or select a V-keyed item",
+    "intentId": "identify a V-designated option or shortcut"
+  },
+  "fa-video": {
+    "appearanceId": "rectangle camera body with triangular lens pointing right",
+    "functionalityId": "start or access a video stream",
+    "intentId": "launch or view a video call or recording"
+  },
+  "fa-video-arrow-down-left": {
+    "appearanceId": "rectangle video camera body with an arrow pointing down and to the left",
+    "functionalityId": "download or receive an incoming video",
+    "intentId": "save or accept a video to local storage"
+  },
+  "fa-video-arrow-up-right": {
+    "appearanceId": "rectangle video camera body with an arrow pointing up and to the right",
+    "functionalityId": "upload or send an outgoing video",
+    "intentId": "share or publish a video to a remote destination"
+  },
+  "fa-video-slash": {
+    "appearanceId": "video camera shape with diagonal slash line through it",
+    "functionalityId": "disable or mute video camera",
+    "intentId": "turn off camera during a call or session"
+  },
+  "fa-volcano": {
+    "appearanceId": "mountain peak with eruption plume rising from the summit",
+    "functionalityId": "indicate volcanic activity or geological hazard",
+    "intentId": "mark or warn about an eruption or natural disaster"
+  },
+  "fa-volleyball": {
+    "appearanceId": "spherical ball with curved panel seam lines",
+    "functionalityId": "browse volleyball sport or activity content",
+    "intentId": "access volleyball game or team information"
+  },
+  "fa-volume-low": {
+    "appearanceId": "speaker cone with a single small sound arc",
+    "functionalityId": "set or indicate low volume level",
+    "intentId": "reduce audio output to a quiet level"
+  },
+  "fa-w": {
+    "appearanceId": "bold uppercase letter W",
+    "functionalityId": "label or select a W-keyed item",
+    "intentId": "identify a W-designated option or shortcut"
+  },
+  "fa-warehouse": {
+    "appearanceId": "wide low building with arched front loading facade",
+    "functionalityId": "access warehouse or storage facility info",
+    "intentId": "manage or navigate to an inventory storage location"
+  },
+  "fa-warehouse-alt": {
+    "appearanceId": "wide low building with a flat front facade and door opening",
+    "functionalityId": "access alternate warehouse or storage location",
+    "intentId": "manage a secondary storage or fulfillment facility"
+  },
+  "fa-watch-apple": {
+    "appearanceId": "rounded square smartwatch face on a strap with an apple logo",
+    "functionalityId": "connect or manage an Apple Watch device",
+    "intentId": "pair or view Apple Watch health and notification data"
+  },
+  "fa-whale": {
+    "appearanceId": "side-view whale with tail fin and water spout",
+    "functionalityId": "browse ocean wildlife or marine content",
+    "intentId": "identify or access whale-related information"
+  },
+  "fa-wheat": {
+    "appearanceId": "wheat stalk with grain head and leaves",
+    "functionalityId": "browse wheat or grain-related content",
+    "intentId": "indicate a wheat ingredient or agricultural item"
+  },
+  "fa-wheat-alt": {
+    "appearanceId": "wheat stalk with alternate grain head arrangement and leaves",
+    "functionalityId": "browse alternate wheat or grain content",
+    "intentId": "indicate a grain variant or crop-related item"
+  },
+  "fa-wheat-awn-circle-exclamation": {
+    "appearanceId": "wheat awn stalk with a circle containing an exclamation mark badge",
+    "functionalityId": "warn about wheat allergen or grain issue",
+    "intentId": "alert user to a gluten or wheat-related caution"
+  },
+  "fa-wheat-awn-slash": {
+    "appearanceId": "wheat awn stalk with a diagonal slash line through it",
+    "functionalityId": "indicate gluten-free or no wheat content",
+    "intentId": "filter out or exclude wheat or gluten items"
+  },
+  "fa-wheat-slash": {
+    "appearanceId": "wheat stalk with grain head crossed by a diagonal slash line",
+    "functionalityId": "indicate no wheat or gluten-free option",
+    "intentId": "exclude wheat allergen from a selection or menu"
+  },
+  "fa-wheelchair": {
+    "appearanceId": "person seated in wheelchair side view",
+    "functionalityId": "indicate wheelchair accessibility or disability info",
+    "intentId": "access or filter for accessible facilities or services"
+  },
+  "fa-wifi": {
+    "appearanceId": "three concentric arcs with dot at base, signal broadcast shape",
+    "functionalityId": "connect to or manage a wireless network",
+    "intentId": "join or check a WiFi or wireless connection"
+  },
+  "fa-wifi-1": {
+    "appearanceId": "three wifi arcs with only the smallest arc filled",
+    "functionalityId": "indicate very weak wireless signal",
+    "intentId": "show minimal or nearly absent WiFi connectivity"
+  },
+  "fa-wifi-2": {
+    "appearanceId": "three wifi arcs with two arcs filled",
+    "functionalityId": "indicate moderate wireless signal strength",
+    "intentId": "show partial WiFi connectivity level"
+  },
+  "fa-wind": {
+    "appearanceId": "three wavy horizontal lines suggesting airflow",
+    "functionalityId": "display wind speed or air movement data",
+    "intentId": "check current wind conditions or forecast"
+  },
+  "fa-wind-turbine": {
+    "appearanceId": "vertical pole with three-bladed rotor at the top",
+    "functionalityId": "browse wind energy or turbine information",
+    "intentId": "access renewable wind power or energy stats"
+  },
+  "fa-wind-warning": {
+    "appearanceId": "three wavy wind lines with a triangle exclamation warning badge",
+    "functionalityId": "alert user to dangerous wind conditions",
+    "intentId": "warn about high wind or storm wind hazard"
+  },
+  "fa-wine-bottle": {
+    "appearanceId": "tall narrow wine bottle with label",
+    "functionalityId": "browse wine selection or bottle inventory",
+    "intentId": "choose or view a specific wine bottle option"
+  },
+  "fa-wine-glass": {
+    "appearanceId": "tall stemmed wine glass shape",
+    "functionalityId": "browse wine or beverage menu options",
+    "intentId": "select a wine or fine dining drink item"
+  },
+  "fa-wine-glass-alt": {
+    "appearanceId": "tall stemmed wine glass with wider bowl and narrower stem",
+    "functionalityId": "browse alternate wine glass or beverage options",
+    "intentId": "select a different style of wine or drink vessel"
+  },
+  "fa-worm": {
+    "appearanceId": "curved segmented worm body",
+    "functionalityId": "browse worm or composting-related content",
+    "intentId": "identify or select a worm or soil organism item"
+  },
+  "fa-wrench": {
+    "appearanceId": "wrench with open-end head and handle",
+    "functionalityId": "open settings or configuration tools",
+    "intentId": "adjust or repair a system or application setting"
+  },
+  "fa-wrench-simple": {
+    "appearanceId": "simplified wrench silhouette with minimal open-end head",
+    "functionalityId": "open basic settings or quick configuration",
+    "intentId": "make a simple adjustment or fix a setting"
+  },
+  "fa-x": {
+    "appearanceId": "bold uppercase letter X",
+    "functionalityId": "label or select an X-keyed item",
+    "intentId": "identify an X-designated option or shortcut"
+  },
+  "fa-y": {
+    "appearanceId": "bold uppercase letter Y",
+    "functionalityId": "label or select a Y-keyed item",
+    "intentId": "identify a Y-designated option or shortcut"
+  },
+  "fa-z": {
+    "appearanceId": "bold uppercase letter Z",
+    "functionalityId": "label or select a Z-keyed item",
+    "intentId": "identify a Z-designated option or shortcut"
+  }
+}

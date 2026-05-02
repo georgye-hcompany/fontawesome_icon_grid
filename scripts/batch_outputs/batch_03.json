@@ -1,0 +1,242 @@
+{
+  "fa-arrow-up-long": {
+    "appearanceId": "single long vertical arrow pointing upward with full shaft",
+    "functionalityId": "scrolls or navigates to top",
+    "intentId": "jump back to the beginning"
+  },
+  "fa-arrow-up-right": {
+    "appearanceId": "diagonal arrow pointing up and to the right at 45 degrees",
+    "functionalityId": "opens link or expands to external view",
+    "intentId": "navigate to an external destination"
+  },
+  "fa-arrow-up-right-and-arrow-down-left-from-center": {
+    "appearanceId": "two arrows diverging outward from center, one up-right and one down-left",
+    "functionalityId": "expands or maximizes content to full screen",
+    "intentId": "see content in a larger view"
+  },
+  "fa-arrow-up-right-dots": {
+    "appearanceId": "arrow pointing up-right with three dots arranged below-left along the shaft",
+    "functionalityId": "exports or escalates items with pending status",
+    "intentId": "send queued items to an external destination"
+  },
+  "fa-arrow-up-to-arc": {
+    "appearanceId": "upward arrow with tip meeting a curved arc line at the top",
+    "functionalityId": "uploads content up to a limit or boundary",
+    "intentId": "send data up to a defined threshold"
+  },
+  "fa-arrow-up-to-bracket": {
+    "appearanceId": "upward arrow with tip pointing into an open bracket at the top",
+    "functionalityId": "uploads or imports a file into a container",
+    "intentId": "push content into a designated slot or storage"
+  },
+  "fa-arrow-up-to-dotted-line": {
+    "appearanceId": "upward arrow with tip touching a horizontal dotted line above it",
+    "functionalityId": "moves or uploads content to a marked boundary",
+    "intentId": "position item at a defined upper limit"
+  },
+  "fa-arrow-up-z-a": {
+    "appearanceId": "upward arrow beside letters Z on top and A on bottom",
+    "functionalityId": "sorts list in reverse alphabetical Z to A order",
+    "intentId": "reorder items from Z down to A"
+  },
+  "fa-atom": {
+    "appearanceId": "central nucleus with three elliptical electron orbits",
+    "functionalityId": "opens science or atomic structure reference",
+    "intentId": "explore chemistry or physics content"
+  },
+  "fa-award": {
+    "appearanceId": "circular medallion with a ribbon or banner below it",
+    "functionalityId": "grants or displays an achievement award",
+    "intentId": "recognize or view earned accomplishments"
+  },
+  "fa-axe": {
+    "appearanceId": "single-headed axe with curved blade and straight handle",
+    "functionalityId": "equips or selects an axe tool in a game or app",
+    "intentId": "chop, cut, or select a melee weapon"
+  },
+  "fa-axe-battle": {
+    "appearanceId": "double-headed battle axe with two curved blades and long handle",
+    "functionalityId": "equips or selects a battle axe weapon",
+    "intentId": "choose a heavy combat or fantasy weapon"
+  },
+  "fa-b": {
+    "appearanceId": "uppercase letter B",
+    "functionalityId": "inserts or labels a B category or item",
+    "intentId": "mark or navigate to a B-labeled section"
+  },
+  "fa-backward": {
+    "appearanceId": "two triangles pointing left side by side forming a rewind symbol",
+    "functionalityId": "rewinds or skips backward in media playback",
+    "intentId": "go back to an earlier point in audio or video"
+  },
+  "fa-bacon": {
+    "appearanceId": "wavy horizontal strip with irregular wavy edges suggesting cooked bacon",
+    "functionalityId": "tags or filters food items as bacon",
+    "intentId": "indicate or select bacon as a food option"
+  },
+  "fa-bag-seedling": {
+    "appearanceId": "shopping bag shape with a small seedling sprout visible on the front",
+    "functionalityId": "shops for or marks eco-friendly or plant products",
+    "intentId": "buy or browse sustainable or gardening items"
+  },
+  "fa-bag-shopping": {
+    "appearanceId": "simple shopping bag outline with two loop handles at the top",
+    "functionalityId": "opens shopping cart or bag view",
+    "intentId": "review or proceed to purchase selected items"
+  },
+  "fa-ban": {
+    "appearanceId": "circle with diagonal line through center",
+    "functionalityId": "blocks, bans, or disables a selected item",
+    "intentId": "prevent access or mark something as forbidden"
+  },
+  "fa-bar-chart": {
+    "appearanceId": "three vertical bars of ascending heights arranged side by side",
+    "functionalityId": "opens analytics or chart data view",
+    "intentId": "visualize or compare data values over time"
+  },
+  "fa-bars": {
+    "appearanceId": "three horizontal parallel lines of equal length",
+    "functionalityId": "opens navigation menu or sidebar",
+    "intentId": "access main menu or app navigation"
+  },
+  "fa-baseball": {
+    "appearanceId": "round ball with curved stitching seam lines on both sides",
+    "functionalityId": "tags or filters baseball-related content",
+    "intentId": "browse or select baseball sports category"
+  },
+  "fa-baseball-bat-ball": {
+    "appearanceId": "round ball with a cylindrical bat crossing behind it diagonally",
+    "functionalityId": "opens baseball game stats or sports section",
+    "intentId": "view or interact with baseball game content"
+  },
+  "fa-basketball": {
+    "appearanceId": "round ball with curved seam lines forming panels across the surface",
+    "functionalityId": "tags or filters basketball-related content",
+    "intentId": "browse or select basketball sports category"
+  },
+  "fa-basketball-hoop": {
+    "appearanceId": "circular hoop ring with a short net hanging below it",
+    "functionalityId": "opens basketball court or scoring section",
+    "intentId": "track basketball game or hoop activity"
+  },
+  "fa-battery-0": {
+    "appearanceId": "rectangular battery outline completely empty",
+    "functionalityId": "displays critically low or empty battery status",
+    "intentId": "warn that device power is fully depleted"
+  },
+  "fa-battery-1": {
+    "appearanceId": "rectangular battery outline one-fifth filled",
+    "functionalityId": "displays very low battery level indicator",
+    "intentId": "alert user that battery charge is nearly gone"
+  },
+  "fa-battery-2": {
+    "appearanceId": "rectangular battery outline two-fifths filled",
+    "functionalityId": "displays low battery level indicator",
+    "intentId": "notify user that battery is running low"
+  },
+  "fa-battery-3": {
+    "appearanceId": "rectangular battery outline three-fifths filled",
+    "functionalityId": "displays medium battery level indicator",
+    "intentId": "show that battery has moderate charge remaining"
+  },
+  "fa-battery-4": {
+    "appearanceId": "rectangular battery outline almost fully filled",
+    "functionalityId": "displays high battery level indicator",
+    "intentId": "confirm that battery is nearly fully charged"
+  },
+  "fa-battery-car": {
+    "appearanceId": "wide rectangular battery with a plus terminal on left and minus on right",
+    "functionalityId": "opens car battery or vehicle power status",
+    "intentId": "check or manage automotive battery health"
+  },
+  "fa-beer": {
+    "appearanceId": "mug silhouette with side handle and foam overflowing from the top",
+    "functionalityId": "marks or filters beer or bar-related content",
+    "intentId": "find or tag a beer or pub location"
+  },
+  "fa-beer-mug": {
+    "appearanceId": "tall mug with a side handle and horizontal ridges around the body",
+    "functionalityId": "marks or filters beer mug or brewery content",
+    "intentId": "select or browse beer and beverage options"
+  },
+  "fa-bell": {
+    "appearanceId": "rounded bell shape with small clapper at base",
+    "functionalityId": "opens notifications or alerts panel",
+    "intentId": "view or manage incoming alerts and messages"
+  },
+  "fa-bell-slash": {
+    "appearanceId": "rounded bell shape with a diagonal line crossing through it",
+    "functionalityId": "mutes or disables notifications",
+    "intentId": "stop receiving alerts or silence reminders"
+  },
+  "fa-bicycle": {
+    "appearanceId": "side-view bicycle with two wheels and frame",
+    "functionalityId": "filters or tags cycling or bike-related content",
+    "intentId": "find cycling routes or bike-related options"
+  },
+  "fa-biking-mountain": {
+    "appearanceId": "side-view cyclist on a bicycle riding down a mountain slope",
+    "functionalityId": "filters mountain biking trails or activities",
+    "intentId": "find or log a mountain biking route"
+  },
+  "fa-bird": {
+    "appearanceId": "small bird silhouette with wings slightly spread in a perched or flying pose",
+    "functionalityId": "tags bird-related content or nature category",
+    "intentId": "browse wildlife or bird-watching content"
+  },
+  "fa-bold": {
+    "appearanceId": "thick uppercase letter B with wide strokes",
+    "functionalityId": "applies bold formatting to selected text",
+    "intentId": "make text heavier and more prominent"
+  },
+  "fa-book": {
+    "appearanceId": "closed book with visible spine on left and pages fanned on right",
+    "functionalityId": "opens a book, document, or reading section",
+    "intentId": "read or access written content or documentation"
+  },
+  "fa-book-arrow-right": {
+    "appearanceId": "closed book with a right-pointing arrow overlaid or attached to the right side",
+    "functionalityId": "exports or shares a book or document",
+    "intentId": "send or forward reading content to another location"
+  },
+  "fa-book-arrow-up": {
+    "appearanceId": "closed book with an upward-pointing arrow overlaid or rising from the top",
+    "functionalityId": "uploads or publishes a book or document",
+    "intentId": "submit or push written content to a repository"
+  },
+  "fa-book-circle-arrow-right": {
+    "appearanceId": "closed book inside a circle with a right-pointing arrow on the circle edge",
+    "functionalityId": "shares or forwards a book within a circular workflow",
+    "intentId": "pass along a document in a review or approval cycle"
+  },
+  "fa-book-circle-arrow-up": {
+    "appearanceId": "closed book inside a circle with an upward-pointing arrow on the circle edge",
+    "functionalityId": "uploads or escalates a book within a circular workflow",
+    "intentId": "promote or submit a document through a process"
+  },
+  "fa-book-open": {
+    "appearanceId": "open book with two pages spread flat and a central spine visible",
+    "functionalityId": "opens or displays reading or documentation content",
+    "intentId": "read or study an open document or guide"
+  },
+  "fa-bookmark": {
+    "appearanceId": "rectangular shape with V-notch cut from bottom",
+    "functionalityId": "saves or bookmarks the current page or item",
+    "intentId": "mark content to return to it later"
+  },
+  "fa-bow-arrow": {
+    "appearanceId": "curved bow with a horizontal arrow drawn across the string",
+    "functionalityId": "selects or equips a bow and arrow weapon",
+    "intentId": "choose a ranged weapon or archery activity"
+  },
+  "fa-bowl-chopsticks": {
+    "appearanceId": "round bowl with two chopsticks resting across the top rim",
+    "functionalityId": "tags or filters Asian food or dining content",
+    "intentId": "find or select Asian cuisine or restaurant options"
+  },
+  "fa-bowl-chopsticks-noodles": {
+    "appearanceId": "round bowl with wavy noodle strands inside and two chopsticks across the top",
+    "functionalityId": "tags or filters noodle or ramen dish content",
+    "intentId": "select or browse noodle-based food options"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-message-check": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a small checkmark overlaid in the lower-right corner; chat bubble outline with a tick or checkmark badge",
+    "functionalityId": "confirms a message has been received or approved; marks a chat message as verified or completed",
+    "intentId": "verify or confirm a message was delivered or acknowledged; mark a conversation item as approved"
+  },
+  "fa-message-code": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and small angled bracket symbols (less-than and greater-than) overlaid inside; chat bubble outline with code bracket glyphs",
+    "functionalityId": "represents a message containing code or a code snippet; sends or displays a programming code block within a chat",
+    "intentId": "share or display code content in a chat message; indicate a message thread used for technical or developer communication"
+  },
+  "fa-message-dollar": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a dollar sign symbol overlaid inside the bubble body; chat bubble outline with a currency glyph badge",
+    "functionalityId": "represents a financial or payment-related message; sends or displays a monetary amount or transaction in a chat",
+    "intentId": "communicate a price, payment, or financial request via message; indicate a chat thread related to billing or money transfer"
+  },
+  "fa-message-exclamation": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a bold exclamation mark glyph centered inside the bubble body; chat bubble outline with an alert punctuation mark",
+    "functionalityId": "flags a message as urgent or requiring immediate attention; sends an alert or warning notification via chat",
+    "intentId": "alert a recipient to an urgent or important message; highlight a critical notification in a messaging interface"
+  },
+  "fa-message-heart": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a heart shape overlaid inside the bubble body; chat bubble outline with a love or like symbol inside",
+    "functionalityId": "represents a message expressing affection or a like reaction; sends a heart or love emoji in a chat conversation",
+    "intentId": "express affection or appreciation through a chat message; react to a message with a heart or favorite gesture"
+  },
+  "fa-message-image": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a small image frame or picture rectangle with a landscape-mountain thumbnail inside the bubble; chat bubble outline with a photo placeholder badge",
+    "functionalityId": "represents a message containing an image or photo attachment; sends or previews a picture within a chat thread",
+    "intentId": "share or view an image file within a chat message; indicate a message thread that contains photo content"
+  },
+  "fa-message-lines": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and two or three short horizontal lines stacked inside the bubble body; chat bubble outline with text line strokes",
+    "functionalityId": "represents a text-based or multi-line message; indicates a chat bubble containing body text or a written note",
+    "intentId": "compose or view a text message with multiple lines of content; access a chat thread containing a written message"
+  },
+  "fa-message-medical": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a medical cross or plus sign overlaid inside the bubble body; chat bubble outline with a healthcare cross badge",
+    "functionalityId": "represents a medical or health-related message or consultation; sends or displays a healthcare inquiry in a chat",
+    "intentId": "communicate a medical question or health update via message; access a telemedicine or health chat interface"
+  },
+  "fa-message-middle": {
+    "appearanceId": "rounded rectangular speech bubble with a center-bottom tail pointing straight down from the middle of the base; chat bubble outline with a centrally positioned downward tail",
+    "functionalityId": "represents a message callout anchored to a central element; positions a speech bubble indicator at the midpoint below a target",
+    "intentId": "display a tooltip or callout bubble pointing to the center of a referenced item; annotate a central element with a speech bubble"
+  },
+  "fa-message-middle-top": {
+    "appearanceId": "rounded rectangular speech bubble with a center-top tail pointing straight up from the middle of the top edge; chat bubble outline with a centrally positioned upward tail",
+    "functionalityId": "represents a message callout anchored above a central element; positions a speech bubble indicator pointing upward from the center",
+    "intentId": "display a tooltip or callout bubble pointing upward to the center of a referenced item; annotate an element below with a speech bubble"
+  },
+  "fa-message-minus": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a short horizontal minus or dash symbol overlaid inside the bubble body; chat bubble outline with a subtraction or remove glyph",
+    "functionalityId": "removes a message or decrements a message count; marks a chat item for deletion or mutes a conversation",
+    "intentId": "delete or remove a message from a thread; reduce the number of active messages or mute a chat"
+  },
+  "fa-message-music": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a small musical note glyph overlaid inside the bubble body; chat bubble outline with a single eighth note or beamed notes badge",
+    "functionalityId": "represents a message containing an audio track or music sharing; sends or displays a song or audio clip within a chat",
+    "intentId": "share music or an audio file via a chat message; indicate a conversation thread related to music playback"
+  },
+  "fa-message-pen": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a diagonal pen or pencil shape overlaid inside or at the corner of the bubble; chat bubble outline with an edit instrument badge",
+    "functionalityId": "enables editing or composing a message; opens a chat message for writing or modification",
+    "intentId": "compose, draft, or edit a message in a chat interface; open a message editor within a conversation thread"
+  },
+  "fa-message-plus": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a plus sign overlaid inside the bubble body; chat bubble outline with an addition or new-item glyph",
+    "functionalityId": "creates a new message or adds a message to a conversation; initiates a new chat thread or adds a reply",
+    "intentId": "start a new message or add a message to an existing thread; create or expand a conversation in a messaging interface"
+  },
+  "fa-message-question": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a question mark glyph centered inside the bubble body; chat bubble outline with an inquiry punctuation mark",
+    "functionalityId": "represents a question or inquiry sent via message; opens a help or FAQ chat interface",
+    "intentId": "ask a question or request help through a chat message; access a Q&A or support conversation thread"
+  },
+  "fa-message-quote": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and two small curved quotation mark glyphs overlaid inside the bubble body; chat bubble outline with opening-and-closing quote symbols",
+    "functionalityId": "represents a quoted reply or cited message in a conversation; inserts or displays a quotation within a chat thread",
+    "intentId": "quote or reference a prior message in a reply; attribute a statement or display a cited text within a chat"
+  },
+  "fa-message-slash": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a diagonal slash line drawn through the bubble body; chat bubble outline with a forward-slash strikethrough",
+    "functionalityId": "disables or mutes a message channel; indicates that messaging is blocked or unavailable",
+    "intentId": "mute, block, or disable a chat or messaging feature; indicate that a message thread is inactive or restricted"
+  },
+  "fa-message-smile": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and a simple smiley face or circular emoji outline with curved smile inside the bubble body; chat bubble outline with a happy face glyph",
+    "functionalityId": "represents a friendly or positive emoji message; sends a smiley face or expresses happiness in a chat",
+    "intentId": "send a positive or friendly reaction in a chat message; express happiness or approval via an emoji in a conversation"
+  },
+  "fa-message-sms": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and the uppercase text label SMS overlaid inside the bubble body; chat bubble outline with a three-letter SMS acronym badge",
+    "functionalityId": "represents an SMS text message or triggers an SMS send action; indicates a short message service channel in a communication interface",
+    "intentId": "send or receive an SMS text message; access or configure the SMS messaging channel for a contact"
+  },
+  "fa-message-text": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and one or two short horizontal text-line strokes inside the upper portion of the bubble; chat bubble outline with small ruled text lines",
+    "functionalityId": "represents a plain text message or chat entry; displays the body text content of a conversation message",
+    "intentId": "view or send a plain text message in a chat thread; access a text-based conversation entry"
+  },
+  "fa-message-times": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail and an X mark or times glyph overlaid inside the bubble body; chat bubble outline with a cross or close symbol badge",
+    "functionalityId": "deletes or closes a message; dismisses or rejects a chat notification",
+    "intentId": "delete, dismiss, or reject a message in a chat interface; close or remove a conversation entry"
+  },
+  "fa-messages": {
+    "appearanceId": "two overlapping rounded rectangular speech bubbles with tails on opposite corners, one in front of the other; stacked chat bubble pair indicating multiple conversations",
+    "functionalityId": "opens or accesses multiple conversations or a messaging inbox; represents a multi-thread chat interface",
+    "intentId": "view or manage multiple chat conversations; access a messaging inbox or multi-user communication interface"
+  },
+  "fa-messages-dollar": {
+    "appearanceId": "two overlapping rounded rectangular speech bubbles with tails on opposite corners and a dollar sign badge overlaid on the front bubble; stacked chat pair with a currency symbol",
+    "functionalityId": "represents financial messaging or payment conversations; sends or tracks monetary transactions via a multi-chat interface",
+    "intentId": "manage financial communications or payment-related chat threads; access a billing or money-transfer messaging interface"
+  },
+  "fa-messages-question": {
+    "appearanceId": "two overlapping rounded rectangular speech bubbles with tails on opposite corners and a question mark glyph overlaid on the front bubble; stacked chat pair with an inquiry symbol",
+    "functionalityId": "opens a multi-conversation help or FAQ interface; represents a support thread with multiple question-and-answer exchanges",
+    "intentId": "access a multi-conversation Q&A or support chat; seek help or answers across multiple message threads"
+  },
+  "fa-messaging": {
+    "appearanceId": "rounded rectangular speech bubble with a bottom-left tail alongside a smaller overlapping bubble or a single prominent chat bubble with ellipsis dots inside; messaging activity indicator",
+    "functionalityId": "opens or represents a general messaging or chat interface; accesses a real-time communication or instant messaging feature",
+    "intentId": "access a general-purpose chat or messaging platform; initiate real-time communication with another user"
+  },
+  "fa-meteor": {
+    "appearanceId": "a solid rounded rock or asteroid shape with a long diagonal streak or flame trail extending behind it toward the lower-left; blazing space rock with a comet-like tail",
+    "functionalityId": "represents a meteor, shooting star, or fast-moving celestial object; indicates a rapid or impactful event in a space or game context",
+    "intentId": "visualize a meteor or shooting star event; represent speed, impact, or an astronomical phenomenon"
+  },
+  "fa-meter": {
+    "appearanceId": "a rectangular gauge body with a horizontal level indicator bar or a half-circle dial with a needle, showing a measurement fill level; gauge or meter outline with a level display",
+    "functionalityId": "displays a measurement reading or current level on a gauge; indicates the value or status of a monitored metric",
+    "intentId": "monitor or read a measurement level on a gauge; track a resource or performance metric in real time"
+  },
+  "fa-meter-bolt": {
+    "appearanceId": "a rectangular gauge body with a level indicator bar and a small lightning bolt symbol overlaid as a badge; meter outline with an electrical or energy badge",
+    "functionalityId": "displays an electricity or energy usage reading on a gauge; monitors electrical power consumption or voltage level",
+    "intentId": "track or read an electricity or energy meter; monitor power consumption on a utility or smart home dashboard"
+  },
+  "fa-meter-droplet": {
+    "appearanceId": "a rectangular gauge body with a level indicator bar and a small water droplet shape overlaid as a badge; meter outline with a water or liquid drop symbol",
+    "functionalityId": "displays a water or fluid usage reading on a gauge; monitors water consumption or liquid flow level",
+    "intentId": "track or read a water meter; monitor water or fluid usage on a utility or building management dashboard"
+  },
+  "fa-meter-fire": {
+    "appearanceId": "a rectangular gauge body with a level indicator bar and a small flame shape overlaid as a badge; meter outline with a fire or heat symbol",
+    "functionalityId": "displays a gas or heat usage reading on a gauge; monitors fuel consumption or temperature level on a meter",
+    "intentId": "track or read a gas or heat meter; monitor fuel consumption or thermal output on a utility dashboard"
+  },
+  "fa-microchip": {
+    "appearanceId": "a small square integrated circuit chip body with rows of short pin lines extending outward from each side; silicon chip outline with evenly spaced connection pins",
+    "functionalityId": "represents a microprocessor, integrated circuit, or hardware component; indicates computing hardware or embedded systems",
+    "intentId": "identify or manage a hardware component or microprocessor; access settings or information related to a computing chip"
+  },
+  "fa-microchip-ai": {
+    "appearanceId": "a small square integrated circuit chip body with rows of short pin lines and an AI label or stylized letter badge overlaid on the chip surface; silicon chip outline with an artificial-intelligence identifier",
+    "functionalityId": "represents an AI-dedicated processor or neural processing unit; indicates artificial intelligence hardware acceleration",
+    "intentId": "identify or configure an AI chip or neural processing component; access AI hardware settings or machine-learning accelerator information"
+  },
+  "fa-microphone": {
+    "appearanceId": "an upright capsule or oval-shaped microphone head atop a short cylindrical body with a small base; dynamic mic silhouette with a rounded top and narrow neck",
+    "functionalityId": "activates or represents audio input or voice recording; enables or indicates microphone access in an application",
+    "intentId": "start voice recording or audio input; access microphone settings or enable speech capture"
+  },
+  "fa-microphone-alt": {
+    "appearanceId": "an upright condenser-style microphone with a slender cylindrical body, wider at the top capsule, on a short base with a horizontal stand arm; side-address or studio condenser mic silhouette",
+    "functionalityId": "represents a studio or condenser microphone for high-quality audio capture; activates an alternative or professional-grade microphone input",
+    "intentId": "enable or select a studio-quality microphone for recording; access professional audio input settings"
+  },
+  "fa-microphone-alt-slash": {
+    "appearanceId": "an upright condenser-style microphone silhouette with a diagonal slash line drawn through it; studio mic outline with a strikethrough indicating disabled state",
+    "functionalityId": "mutes or disables the alternative or condenser microphone input; indicates that audio capture from a studio mic is turned off",
+    "intentId": "mute or disable a studio microphone; indicate that professional audio input is currently inactive"
+  },
+  "fa-microphone-circle-alt": {
+    "appearanceId": "a filled circle containing a condenser-style microphone silhouette centered inside; circular badge with a studio mic shape in the foreground",
+    "functionalityId": "represents a microphone control housed in a circular button; activates or accesses voice input from a circular interface element",
+    "intentId": "tap a circular microphone button to enable voice input; access or toggle a mic function from a round control"
+  },
+  "fa-microphone-slash": {
+    "appearanceId": "an upright capsule microphone silhouette with a diagonal slash line drawn through it; standard mic outline with a strikethrough indicating muted state",
+    "functionalityId": "mutes or disables the primary microphone input; indicates that audio capture is turned off or unavailable",
+    "intentId": "mute a microphone or silence audio input; indicate that the microphone is currently disabled"
+  },
+  "fa-microphone-stand": {
+    "appearanceId": "an upright microphone on a tall vertical pole with an adjustable boom arm extending horizontally and a weighted tripod or flat circular base; full mic stand silhouette with a boom arm and base",
+    "functionalityId": "represents a microphone stand used in live performance or studio settings; indicates an audio input station or stage equipment",
+    "intentId": "set up or manage a microphone stand for a live event or studio session; represent stage or broadcast audio equipment"
+  },
+  "fa-microscope": {
+    "appearanceId": "a scientific optical microscope silhouette with a vertical eyepiece tube, rotating nosepiece with objective lenses, a horizontal stage platform, and a curved base arm; laboratory microscope outline",
+    "functionalityId": "represents scientific research, biology, or laboratory analysis; accesses or indicates microscopy or detailed scientific examination tools",
+    "intentId": "access laboratory or scientific analysis features; represent biology, research, or microscopy in an application interface"
+  },
+  "fa-microwave": {
+    "appearanceId": "a rectangular kitchen appliance body with a viewing window on the left side and a small control panel of buttons on the right; countertop microwave oven outline with door window and controls",
+    "functionalityId": "represents a microwave oven appliance or cooking function; controls or indicates a microwave in a smart home or kitchen interface",
+    "intentId": "control or monitor a microwave oven in a smart kitchen setup; identify a microwave appliance in a home management interface"
+  },
+  "fa-mill-sign": {
+    "appearanceId": "a stylized uppercase M-shaped glyph or mill monetary symbol with two vertical strokes crossed by a horizontal double bar; currency or unit-of-measure sign with decorative crossbars",
+    "functionalityId": "represents the mill monetary unit or a mill sign in financial or historical contexts; displays a fractional currency denomination marker",
+    "intentId": "display or input a mill monetary value in a financial interface; indicate a fractional currency or historical unit of measure"
+  },
+  "fa-mind-share": {
+    "appearanceId": "a human head profile or outline with radiating lines or arrows pointing outward from the brain area, suggesting thought sharing; silhouette of a head with diverging thought-wave lines",
+    "functionalityId": "represents knowledge sharing, brainstorming, or collaborative thinking; indicates an idea-sharing or group mindset feature",
+    "intentId": "facilitate knowledge sharing or collaborative ideation; access a brainstorming or shared thinking tool"
+  },
+  "fa-minimize": {
+    "appearanceId": "two small diagonal inward-pointing arrows facing each other at opposite corners, indicating a shrink or collapse action; converging corner arrows in a square or rectangular arrangement",
+    "functionalityId": "shrinks or collapses a window, panel, or element to a smaller size; reduces the displayed area of a UI component",
+    "intentId": "minimize or collapse a window or panel to save screen space; reduce the size of a visible interface element"
+  },
+  "fa-minus": {
+    "appearanceId": "a single short horizontal bar or line centered in the icon space; plain horizontal dash or subtraction stroke",
+    "functionalityId": "removes, subtracts, or decrements a value or item; collapses or hides a section in a UI",
+    "intentId": "subtract a value or remove an item from a list; collapse an expandable section or decrease a counter"
+  },
+  "fa-minus-octagon": {
+    "appearanceId": "a regular eight-sided octagon outline containing a short horizontal minus bar centered inside; octagonal border with a dash glyph in the middle",
+    "functionalityId": "represents a prohibited or restricted removal action with a strong warning shape; indicates a blocked or forbidden decrease operation",
+    "intentId": "block or restrict a subtraction or removal action; display a strong warning that a decrease operation is prohibited"
+  },
+  "fa-minus-square": {
+    "appearanceId": "a filled or outlined square shape containing a short horizontal minus bar centered inside; square container with a dash or subtraction glyph",
+    "functionalityId": "collapses or removes an item within a square control; decrements a value or hides content in a square UI element",
+    "intentId": "collapse a tree node or remove an item using a square button; decrease a quantity within a bounded square control"
+  },
+  "fa-mistletoe": {
+    "appearanceId": "two or three round berries clustered together with small oval leaves and a ribbon or bow at the base; holiday plant sprig with circular berry clusters and paired leaves",
+    "functionalityId": "represents a mistletoe decoration for holiday or Christmas themes; indicates a festive seasonal element in a design",
+    "intentId": "add a holiday or Christmas decoration element to a design; indicate a festive winter or seasonal theme"
+  },
+  "fa-mitten": {
+    "appearanceId": "a winter mitten glove silhouette with a rounded palm, a separate small thumb protrusion on the side, and a cuffed opening at the wrist; hand mitten outline with distinct thumb nub and cuff",
+    "functionalityId": "represents winter clothing, cold weather, or a hand covering accessory; indicates seasonal cold-weather gear in a fashion or weather interface",
+    "intentId": "browse or select winter cold-weather accessories; indicate cold weather conditions or a winter theme in an application"
+  }
+}

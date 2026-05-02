@@ -1,0 +1,242 @@
+{
+  "fa-file-circle-minus": {
+    "appearanceId": "a document page with a folded upper-right corner and a small circle containing a horizontal minus bar overlaid at the lower right; folded-corner rectangle combined with a circular minus badge",
+    "functionalityId": "removes or detaches a file from a collection or list; deletes a document entry from the current set",
+    "intentId": "remove a file from a group or document list; reduce the number of files in a managed collection"
+  },
+  "fa-file-circle-plus": {
+    "appearanceId": "a document page with a folded upper-right corner and a small circle containing a plus sign overlaid at the lower right; folded-corner rectangle combined with a circular add badge",
+    "functionalityId": "adds a new file or attaches a document to a collection; creates a new file entry within a set or folder",
+    "intentId": "add a new document to a group or file list; attach a file to an existing collection or record"
+  },
+  "fa-file-circle-question": {
+    "appearanceId": "a document page with a folded upper-right corner and a small circle containing a question mark overlaid at the lower right; folded-corner rectangle combined with a circular question badge",
+    "functionalityId": "opens help documentation or indicates an unknown or unrecognized file; flags a document whose type or status is unclear",
+    "intentId": "get help or more information about an unrecognized file; identify a document whose format or status is uncertain"
+  },
+  "fa-file-circle-xmark": {
+    "appearanceId": "a document page with a folded upper-right corner and a small circle containing an X mark overlaid at the lower right; folded-corner rectangle combined with a circular close or error badge",
+    "functionalityId": "deletes or rejects a file with an error or dismissal action; marks a document as invalid or permanently removed",
+    "intentId": "permanently delete or reject a file; dismiss or cancel a document that is no longer needed"
+  },
+  "fa-file-code": {
+    "appearanceId": "a document page with a folded upper-right corner and angled bracket symbols on its face resembling code syntax; folded-corner rectangle displaying less-than and greater-than angle bracket marks",
+    "functionalityId": "opens a source code or programming script file; navigates to a code editor or development file viewer",
+    "intentId": "view or edit a source code or script file; access a programming document in a code editor"
+  },
+  "fa-file-contract": {
+    "appearanceId": "a document page with a folded upper-right corner and several horizontal lines of text with a signature line or pen stroke near the bottom; folded-corner rectangle displaying stacked text lines and a handwritten signature mark",
+    "functionalityId": "opens or presents a contract or legal agreement document for review; navigates to a document requiring signature or formal acceptance",
+    "intentId": "review or sign a legal contract or formal agreement; manage a binding document that requires authorization"
+  },
+  "fa-file-csv": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label CSV printed on its face; folded-corner rectangle bearing a CSV format abbreviation",
+    "functionalityId": "opens or exports data as a CSV spreadsheet file; downloads or imports a comma-separated values document",
+    "intentId": "work with tabular data in a comma-separated file format; export or import structured data as a CSV file"
+  },
+  "fa-file-doc": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label DOC printed on its face; folded-corner rectangle bearing a DOC word processing format abbreviation",
+    "functionalityId": "opens or downloads a DOC word processing file; navigates to a document in Microsoft Word or compatible format",
+    "intentId": "view or edit a word processing document in DOC format; access a text document saved in the classic Word file format"
+  },
+  "fa-file-download": {
+    "appearanceId": "a document page with a folded upper-right corner and a downward-pointing arrow overlaid on its face; folded-corner rectangle with a vertical arrow pointing toward the bottom edge",
+    "functionalityId": "downloads a file to the local device or storage; saves a document from the server or cloud to the user's machine",
+    "intentId": "save a file locally by downloading it; retrieve a document from a remote source to the device"
+  },
+  "fa-file-eps": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label EPS printed on its face; folded-corner rectangle bearing an EPS vector format abbreviation",
+    "functionalityId": "opens or exports a file in EPS vector graphics format; processes an Encapsulated PostScript document",
+    "intentId": "work with a vector graphic or illustration saved in EPS format; export or share artwork as an Encapsulated PostScript file"
+  },
+  "fa-file-excel": {
+    "appearanceId": "a document page with a folded upper-right corner and an X-shaped or stylized letter X logo mark on its face resembling the Excel branding; folded-corner rectangle with a bold X emblem representing a spreadsheet application",
+    "functionalityId": "opens or exports data as a Microsoft Excel spreadsheet file; navigates to a workbook in XLSX or XLS format",
+    "intentId": "view or edit a spreadsheet in Microsoft Excel format; access a workbook document for data analysis or calculation"
+  },
+  "fa-file-exclamation": {
+    "appearanceId": "a document page with a folded upper-right corner and an exclamation mark symbol centered on its face; folded-corner rectangle displaying a vertical bar and dot alert punctuation",
+    "functionalityId": "flags a document with a warning or error requiring attention; marks a file as having a critical issue or important notice",
+    "intentId": "draw attention to a file that has a problem or requires review; alert the user that a document contains a warning or issue"
+  },
+  "fa-file-export": {
+    "appearanceId": "a document page with a folded upper-right corner and a rightward-pointing arrow departing from the page toward the right side; folded-corner rectangle with an outbound horizontal arrow exiting the document",
+    "functionalityId": "exports a file or document to an external format or destination; sends a document out of the current application to another system",
+    "intentId": "export a document to another format or external location; share or transfer a file out of the current application"
+  },
+  "fa-file-fragment": {
+    "appearanceId": "a document page shape that appears partially cut, broken, or segmented with a ragged or incomplete lower edge; folded-corner rectangle with a torn or fragmented bottom portion suggesting an incomplete file",
+    "functionalityId": "indicates a partial, fragmented, or incomplete file in a transfer or storage context; represents a document chunk or segment within a multi-part file",
+    "intentId": "manage or identify a file fragment or incomplete document; work with a partial file segment as part of a larger set"
+  },
+  "fa-file-gif": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label GIF printed on its face; folded-corner rectangle bearing a GIF animated image format abbreviation",
+    "functionalityId": "opens or previews a GIF animation or image file; processes a document saved in Graphics Interchange Format",
+    "intentId": "view or share an animated GIF image file; work with a document stored in GIF format"
+  },
+  "fa-file-half-dashed": {
+    "appearanceId": "a document page with a folded upper-right corner where the lower half of the page border is rendered as a dashed or dotted line; folded-corner rectangle with a solid upper border transitioning to a dashed lower outline",
+    "functionalityId": "represents a partially complete, draft, or pending file state; indicates a document that is not yet fully finalized or committed",
+    "intentId": "track or identify a file that is in a draft or incomplete state; manage a document that has not yet been fully processed or saved"
+  },
+  "fa-file-heart": {
+    "appearanceId": "a document page with a folded upper-right corner and a heart shape overlaid or centered on its face; folded-corner rectangle displaying a filled heart symbol",
+    "functionalityId": "marks a file as a favorite or loved document; saves a document to a favorites or liked items collection",
+    "intentId": "favorite or love a specific file or document; save a document to a personal favorites list"
+  },
+  "fa-file-image": {
+    "appearanceId": "a document page with a folded upper-right corner and a small mountain peak or landscape thumbnail with a circle representing a sun or image placeholder on its face; folded-corner rectangle displaying a photo thumbnail with a horizon line and circular shape",
+    "functionalityId": "opens or previews an image file such as a photo or graphic; navigates to a picture document in a supported image format",
+    "intentId": "view or manage an image or photo file; access a picture document for display or editing"
+  },
+  "fa-file-import": {
+    "appearanceId": "a document page with a folded upper-right corner and a leftward-pointing arrow entering the page from the right side; folded-corner rectangle with an inbound horizontal arrow pointing into the document",
+    "functionalityId": "imports a file or data from an external source into the current application; brings a document into the system from outside",
+    "intentId": "import a file or dataset into the current application; bring an external document into the working environment"
+  },
+  "fa-file-invoice": {
+    "appearanceId": "a document page with a folded upper-right corner and several horizontal lines of text plus a set of short parallel stubs suggesting line items; folded-corner rectangle with stacked text lines and itemized row marks resembling a billing document",
+    "functionalityId": "opens or generates an invoice or billing document; navigates to an itemized bill or payment record",
+    "intentId": "view or manage an invoice or billing statement; access financial charges listed in a formal document"
+  },
+  "fa-file-invoice-dollar": {
+    "appearanceId": "a document page with a folded upper-right corner, horizontal text lines, and a dollar sign symbol visible on its face; folded-corner rectangle displaying stacked lines and a currency symbol suggesting a financial invoice",
+    "functionalityId": "opens or generates a dollar-denominated invoice or payment bill; navigates to a financial document showing charges in USD",
+    "intentId": "view or process a financial invoice showing dollar amounts; manage a billing document with monetary line items"
+  },
+  "fa-file-jpg": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label JPG printed on its face; folded-corner rectangle bearing a JPG raster image format abbreviation",
+    "functionalityId": "opens or saves a file in JPEG or JPG image format; processes a raster photo document",
+    "intentId": "view or export a photo or image saved in JPG format; work with a compressed raster image file"
+  },
+  "fa-file-lock": {
+    "appearanceId": "a document page with a folded upper-right corner and a padlock shape overlaid on its face; folded-corner rectangle displaying a closed padlock symbol",
+    "functionalityId": "locks a file to prevent editing or unauthorized access; marks a document as protected or read-only",
+    "intentId": "protect a file from being edited or accessed without permission; secure a document with a lock to restrict modifications"
+  },
+  "fa-file-medical": {
+    "appearanceId": "a document page with a folded upper-right corner and a medical cross or plus symbol centered on its face; folded-corner rectangle displaying a bold cross or health symbol",
+    "functionalityId": "opens or manages a medical record, health report, or patient document; navigates to a clinical file or healthcare form",
+    "intentId": "access or manage a patient medical record or health document; view clinical data stored in a medical file"
+  },
+  "fa-file-minus": {
+    "appearanceId": "a document page with a folded upper-right corner and a horizontal minus line centered on its face; folded-corner rectangle displaying a single horizontal dash or minus bar",
+    "functionalityId": "removes a file from a list or decrements a document count; deletes or subtracts a file entry from the current view",
+    "intentId": "remove or reduce the number of files in a set; delete a document from a list or collection"
+  },
+  "fa-file-mov": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label MOV printed on its face; folded-corner rectangle bearing a MOV video format abbreviation",
+    "functionalityId": "opens or plays a MOV QuickTime video file; processes a document saved in Apple QuickTime movie format",
+    "intentId": "view or play a video file saved in MOV format; work with a QuickTime movie document"
+  },
+  "fa-file-mp3": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label MP3 printed on its face; folded-corner rectangle bearing an MP3 audio format abbreviation",
+    "functionalityId": "opens or plays an MP3 audio file; processes a document saved in MPEG Layer 3 audio format",
+    "intentId": "listen to or manage an audio file saved in MP3 format; work with a compressed audio document"
+  },
+  "fa-file-mp4": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label MP4 printed on its face; folded-corner rectangle bearing an MP4 video format abbreviation",
+    "functionalityId": "opens or plays an MP4 video file; processes a document saved in MPEG-4 video format",
+    "intentId": "view or play a video file saved in MP4 format; work with a compressed video document"
+  },
+  "fa-file-music": {
+    "appearanceId": "a document page with a folded upper-right corner and a musical note symbol overlaid on its face; folded-corner rectangle displaying an eighth note or quarter note music symbol",
+    "functionalityId": "opens or plays a music or audio file; navigates to a document containing sound or musical content",
+    "intentId": "access or play a music file or audio document; manage a sound recording stored as a file"
+  },
+  "fa-file-pdf": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label PDF printed on its face; folded-corner rectangle bearing a PDF portable document format abbreviation",
+    "functionalityId": "opens or downloads a PDF document; views or exports a file in Portable Document Format",
+    "intentId": "view or share a document saved in PDF format; access a portable file for reading or printing"
+  },
+  "fa-file-pen": {
+    "appearanceId": "a document page with a folded upper-right corner and a pen nib or pencil tip overlaid at the lower right corner; folded-corner rectangle combined with an angled pen or pencil writing instrument",
+    "functionalityId": "opens a file for editing or annotation; enables text editing or writing on an existing document",
+    "intentId": "edit or annotate a document by writing into it; open a file in edit or authoring mode"
+  },
+  "fa-file-plus": {
+    "appearanceId": "a document page with a folded upper-right corner and a plus sign centered on its face; folded-corner rectangle displaying a cross-shaped plus symbol",
+    "functionalityId": "creates a new file or adds a document to the current workspace; opens a blank document creation dialog",
+    "intentId": "create a new file or document; add a blank document to the current project or workspace"
+  },
+  "fa-file-plus-minus": {
+    "appearanceId": "a document page with a folded upper-right corner and both a plus sign and a minus sign displayed on its face; folded-corner rectangle displaying a combined plus and minus symbol indicating dual actions",
+    "functionalityId": "toggles between adding and removing a file or adjusts a document count up or down; manages file quantity with increment and decrement controls",
+    "intentId": "manage file quantities by adding or removing documents; control the count of files with combined add and remove actions"
+  },
+  "fa-file-png": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label PNG printed on its face; folded-corner rectangle bearing a PNG image format abbreviation",
+    "functionalityId": "opens or saves a file in PNG image format; processes a document saved in Portable Network Graphics format",
+    "intentId": "view or export an image saved in PNG format; work with a lossless raster image file"
+  },
+  "fa-file-powerpoint": {
+    "appearanceId": "a document page with a folded upper-right corner and a stylized P logo mark on its face resembling the PowerPoint branding; folded-corner rectangle with a bold letter P emblem representing a presentation application",
+    "functionalityId": "opens or exports a Microsoft PowerPoint presentation file; navigates to a slide deck in PPTX or PPT format",
+    "intentId": "view or edit a presentation in Microsoft PowerPoint format; access a slide deck document for presenting or editing"
+  },
+  "fa-file-ppt": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label PPT printed on its face; folded-corner rectangle bearing a PPT presentation format abbreviation",
+    "functionalityId": "opens or downloads a PPT presentation file; navigates to a slide deck saved in legacy PowerPoint format",
+    "intentId": "view or edit a presentation document saved in PPT format; access a slide deck in the legacy PowerPoint file format"
+  },
+  "fa-file-prescription": {
+    "appearanceId": "a document page with a folded upper-right corner and an Rx or prescription symbol centered on its face; folded-corner rectangle displaying the medical Rx abbreviation mark",
+    "functionalityId": "opens or manages a medical prescription document; navigates to a patient prescription record or pharmacy order form",
+    "intentId": "view or manage a medical prescription or pharmacy order; access a clinical prescription document for a patient"
+  },
+  "fa-file-search": {
+    "appearanceId": "a document page with a folded upper-right corner and a magnifying glass shape overlaid on its face; folded-corner rectangle combined with a circular lens and handle search symbol",
+    "functionalityId": "searches within a file or opens a document search interface; finds content inside a specific document or file repository",
+    "intentId": "search for content within a file or document collection; locate specific text or data inside a document"
+  },
+  "fa-file-shield": {
+    "appearanceId": "a document page with a folded upper-right corner and a shield shape overlaid on its face; folded-corner rectangle displaying a protective shield emblem",
+    "functionalityId": "marks a file as protected or securely governed; applies security or compliance protection to a document",
+    "intentId": "protect a document with security or compliance controls; mark a file as governed or shielded from unauthorized access"
+  },
+  "fa-file-signature": {
+    "appearanceId": "a document page with a folded upper-right corner and a flowing cursive signature line near the bottom of the page; folded-corner rectangle displaying a handwritten cursive stroke along a horizontal signature line",
+    "functionalityId": "requests or applies a digital or handwritten signature to a document; opens a document requiring formal sign-off",
+    "intentId": "sign a document digitally or formally; authorize a file with a signature for legal or approval purposes"
+  },
+  "fa-file-slash": {
+    "appearanceId": "a document page with a folded upper-right corner overlaid with a diagonal slash line crossing through the entire document shape; folded-corner rectangle bisected by a forward or backward diagonal strike-through",
+    "functionalityId": "indicates a file that is blocked, disabled, or unavailable; marks a document as inaccessible or not permitted",
+    "intentId": "communicate that a file is blocked, restricted, or unavailable; indicate that a document cannot be accessed or used"
+  },
+  "fa-file-spreadsheet": {
+    "appearanceId": "a document page with a folded upper-right corner and a grid of horizontal and vertical lines forming table cells on its face; folded-corner rectangle displaying a tabular grid or cell structure",
+    "functionalityId": "opens or creates a spreadsheet document with rows and columns; navigates to a tabular data file for editing or analysis",
+    "intentId": "work with a spreadsheet or tabular data document; access a grid-based file for organizing or calculating data"
+  },
+  "fa-file-svg": {
+    "appearanceId": "a document page with a folded upper-right corner and the text label SVG printed on its face; folded-corner rectangle bearing an SVG scalable vector format abbreviation",
+    "functionalityId": "opens or exports a file in SVG scalable vector graphics format; processes a document saved as Scalable Vector Graphics",
+    "intentId": "view or edit a vector graphic saved in SVG format; work with a scalable web-ready vector image file"
+  },
+  "fa-file-times": {
+    "appearanceId": "a document page with a folded upper-right corner and an X or times mark centered on its face; folded-corner rectangle displaying a bold X or multiplication sign",
+    "functionalityId": "closes or deletes a file with an X action; removes or dismisses a document from the current view",
+    "intentId": "close or delete a document using an X action; remove a file from a list or workspace"
+  },
+  "fa-file-upload": {
+    "appearanceId": "a document page with a folded upper-right corner and an upward-pointing arrow overlaid on its face; folded-corner rectangle with a vertical arrow pointing toward the top edge",
+    "functionalityId": "uploads a file to a server, cloud storage, or remote destination; sends a document from the local device to an online location",
+    "intentId": "upload a document to a server or cloud storage; transfer a local file to a remote location"
+  },
+  "fa-file-user": {
+    "appearanceId": "a document page with a folded upper-right corner and a person silhouette or user profile shape overlaid on its face; folded-corner rectangle displaying a rounded head and shoulders user figure",
+    "functionalityId": "opens a user profile document or personal record file; navigates to a file associated with a specific user or person",
+    "intentId": "access a personal profile or user-specific document; view or manage a file linked to an individual user"
+  },
+  "fa-file-vector": {
+    "appearanceId": "a document page with a folded upper-right corner and a vector path or bezier curve shape drawn on its face; folded-corner rectangle displaying anchor points and a curved or angular path line",
+    "functionalityId": "opens or exports a vector graphics or illustration file; navigates to a document containing scalable vector paths or artwork",
+    "intentId": "view or edit a vector illustration or graphic file; work with a document containing scalable path-based artwork"
+  },
+  "fa-file-video": {
+    "appearanceId": "a document page with a folded upper-right corner and a video play triangle or film frame shape overlaid on its face; folded-corner rectangle displaying a rightward-pointing play button or filmstrip mark",
+    "functionalityId": "opens or plays a video file stored as a document; navigates to a video media file for playback",
+    "intentId": "view or play a video document file; access a stored video recording for playback or editing"
+  }
+}

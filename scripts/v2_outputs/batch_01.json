@@ -1,0 +1,242 @@
+{
+  "fa-0": {
+    "appearanceId": "single round digit zero glyph; closed oval numeral character",
+    "functionalityId": "inserts or displays the numeral zero; labels a value as zero",
+    "intentId": "represent the numeric value zero; indicate a null or empty quantity"
+  },
+  "fa-00": {
+    "appearanceId": "two round digit zero glyphs side by side; double zero numeral pair",
+    "functionalityId": "inserts or displays a double-zero value; labels a quantity as double zero",
+    "intentId": "represent a double-zero quantity or code; indicate a secondary zero denomination"
+  },
+  "fa-1": {
+    "appearanceId": "single upright numeral one glyph; tall vertical digit character",
+    "functionalityId": "inserts or displays the numeral one; labels an item as number one",
+    "intentId": "represent the numeric value one; mark the first position or rank"
+  },
+  "fa-100": {
+    "appearanceId": "three-digit numeral one hundred; digits 1-0-0 in a row",
+    "functionalityId": "indicates a perfect or full score of one hundred; marks a value as completely full",
+    "intentId": "represent a perfect score or complete quantity; signal one hundred percent completion"
+  },
+  "fa-2": {
+    "appearanceId": "single curved numeral two glyph; digit with horizontal base and curved upper stroke",
+    "functionalityId": "inserts or displays the numeral two; labels an item as number two",
+    "intentId": "represent the numeric value two; mark the second position or rank"
+  },
+  "fa-3": {
+    "appearanceId": "single numeral three glyph with two curved bumps; open-curve digit facing right",
+    "functionalityId": "inserts or displays the numeral three; labels an item as number three",
+    "intentId": "represent the numeric value three; mark the third position or rank"
+  },
+  "fa-360-degrees": {
+    "appearanceId": "circular arrow forming a complete loop with degree symbol; full-circle rotation indicator",
+    "functionalityId": "activates a full 360-degree rotation view; rotates an element or panorama completely around",
+    "intentId": "view content from every angle; enable a full-circle or panoramic perspective"
+  },
+  "fa-4": {
+    "appearanceId": "numeral four with angled horizontal crossbar and vertical stroke; digit with open angular top",
+    "functionalityId": "inserts or displays the numeral four; labels an item as number four",
+    "intentId": "represent the numeric value four; mark the fourth position or rank"
+  },
+  "fa-5": {
+    "appearanceId": "numeral five with flat top and curved lower bowl; digit with horizontal cap and rounded base",
+    "functionalityId": "inserts or displays the numeral five; labels an item as number five",
+    "intentId": "represent the numeric value five; mark the fifth position or rank"
+  },
+  "fa-6": {
+    "appearanceId": "numeral six with descending curved stroke and closed lower loop; digit curling into a bottom circle",
+    "functionalityId": "inserts or displays the numeral six; labels an item as number six",
+    "intentId": "represent the numeric value six; mark the sixth position or rank"
+  },
+  "fa-7": {
+    "appearanceId": "numeral seven with horizontal top stroke and diagonal leg; angular digit slanting downward",
+    "functionalityId": "inserts or displays the numeral seven; labels an item as number seven",
+    "intentId": "represent the numeric value seven; mark the seventh position or rank"
+  },
+  "fa-8": {
+    "appearanceId": "numeral eight formed by two stacked circles; digit with upper and lower closed loops",
+    "functionalityId": "inserts or displays the numeral eight; labels an item as number eight",
+    "intentId": "represent the numeric value eight; mark the eighth position or rank"
+  },
+  "fa-9": {
+    "appearanceId": "numeral nine with closed upper loop and descending tail; digit with top circle and downward stroke",
+    "functionalityId": "inserts or displays the numeral nine; labels an item as number nine",
+    "intentId": "represent the numeric value nine; mark the ninth position or rank"
+  },
+  "fa-a": {
+    "appearanceId": "bold uppercase letter A with two diagonal legs and a horizontal crossbar; peaked triangular letter glyph",
+    "functionalityId": "inserts or labels the letter A; selects or navigates to an A-categorized item",
+    "intentId": "represent the first letter of the alphabet; identify something indexed or labeled A"
+  },
+  "fa-abacus": {
+    "appearanceId": "rectangular frame with horizontal rods strung with sliding beads; counting rack with bead rows",
+    "functionalityId": "opens a manual calculation or counting tool; navigates to arithmetic or math features",
+    "intentId": "perform a count or calculation manually; access math or educational tools"
+  },
+  "fa-accent-grave": {
+    "appearanceId": "single back-leaning diagonal tick mark; short leftward-slanting accent stroke",
+    "functionalityId": "inserts a grave accent character; opens or formats an inline code block",
+    "intentId": "compose an accented letter or typographic mark; switch to code formatting mode"
+  },
+  "fa-acorn": {
+    "appearanceId": "rounded oval nut body topped by a textured hatched cap; seed with ribbed dome hat",
+    "functionalityId": "inserts an acorn or autumn-season symbol; tags content with a nature or growth theme",
+    "intentId": "represent autumn, nature, or organic growth; indicate a small beginning or seed-stage concept"
+  },
+  "fa-ad": {
+    "appearanceId": "rectangle containing the bold letters A and D; compact labeled banner block",
+    "functionalityId": "toggles or views an advertisement placement; opens ad management settings",
+    "intentId": "manage or review advertising content; configure sponsored placements"
+  },
+  "fa-add": {
+    "appearanceId": "symmetric plus sign with equal horizontal and vertical strokes; four-armed cross shape",
+    "functionalityId": "creates a new item or entry; adds an element to the current list or collection",
+    "intentId": "introduce something new to the current context; expand a list or collection with a new item"
+  },
+  "fa-address-book": {
+    "appearanceId": "book with tabbed side edge and a person silhouette on the cover; bound contact ledger with profile graphic",
+    "functionalityId": "opens the contacts or address directory; navigates to the saved contacts list",
+    "intentId": "find or manage contact information; look up a person's address or details"
+  },
+  "fa-adjust": {
+    "appearanceId": "circle divided vertically with left half dark and right half light; half-filled split circle",
+    "functionalityId": "toggles or adjusts the display contrast setting; switches between light and dark theme modes",
+    "intentId": "control the contrast or brightness of the interface; change the visual theme to suit the environment"
+  },
+  "fa-air-conditioner": {
+    "appearanceId": "wide rectangular appliance unit with horizontal vent slats across the front; boxy HVAC panel with louver grille",
+    "functionalityId": "controls or toggles the air conditioning unit; opens climate control settings",
+    "intentId": "regulate indoor temperature through cooling; manage HVAC or smart home climate settings"
+  },
+  "fa-air-freshener": {
+    "appearanceId": "pine tree silhouette hanging from a small tag cutout; triangular tree shape on a dangling label",
+    "functionalityId": "indicates or toggles a fragrance or air freshener setting; opens scent or freshness controls",
+    "intentId": "represent a fresh scent or odor elimination feature; access fragrance or air quality settings"
+  },
+  "fa-airplay": {
+    "appearanceId": "rectangle screen with a small upward-pointing triangle centered at its base; monitor outline with a beaming triangle",
+    "functionalityId": "streams or mirrors content to an external display; casts the current media to a connected screen",
+    "intentId": "show content on a TV or larger external screen; wirelessly share the display to another device"
+  },
+  "fa-alarm-clock": {
+    "appearanceId": "round clock face with two small bells on top and a dial in the center; circular timepiece with twin top knobs",
+    "functionalityId": "opens or sets an alarm for a specific time; enables a timed reminder or scheduled alert",
+    "intentId": "schedule a wake-up or reminder event; be notified at a chosen time"
+  },
+  "fa-alarm-exclamation": {
+    "appearanceId": "round alarm clock with a bold exclamation mark overlaid; clock bell shape with an alert symbol",
+    "functionalityId": "triggers or highlights an urgent alarm notification; flags an alarm as high-priority",
+    "intentId": "draw attention to a critical time-sensitive alert; acknowledge an emergency or urgent reminder"
+  },
+  "fa-alarm-plus": {
+    "appearanceId": "round alarm clock with a small plus sign overlaid or adjacent; clock bell shape with an add symbol",
+    "functionalityId": "creates a new alarm or reminder; adds another scheduled alert",
+    "intentId": "set up a new timed reminder; add an additional alarm to the list"
+  },
+  "fa-alarm-snooze": {
+    "appearanceId": "round alarm clock with one or more Z letters beside it; sleeping clock with snooze symbol",
+    "functionalityId": "snoozes or delays an active alarm; postpones the current alert for a short interval",
+    "intentId": "get a brief extra rest before the alarm repeats; defer a reminder without fully dismissing it"
+  },
+  "fa-album": {
+    "appearanceId": "square record sleeve with a visible spine edge; flat album cover with side binding",
+    "functionalityId": "opens or plays a music album; navigates to the album detail view",
+    "intentId": "browse or listen to a specific album; view the tracks within a music release"
+  },
+  "fa-album-circle-plus": {
+    "appearanceId": "square album sleeve with a small circle-plus badge in the corner; record cover with an add indicator",
+    "functionalityId": "creates and adds a new music album; saves a new album to the library",
+    "intentId": "start building a new album collection; add a music release to the library"
+  },
+  "fa-album-circle-user": {
+    "appearanceId": "square album sleeve with a small circle-person badge in the corner; record cover with a user avatar indicator",
+    "functionalityId": "assigns or links an album to a specific user; opens the album associated with a user profile",
+    "intentId": "connect a music album to a user account; view albums belonging to a particular person"
+  },
+  "fa-album-collection": {
+    "appearanceId": "multiple square album sleeves fanned or stacked together; overlapping record covers forming a stack",
+    "functionalityId": "opens a grouped collection of music albums; browses the full album library view",
+    "intentId": "explore a curated set of music releases; manage or view multiple albums at once"
+  },
+  "fa-album-collection-circle-plus": {
+    "appearanceId": "stacked album sleeves with a circle-plus badge overlaid; fanned record covers with an add indicator",
+    "functionalityId": "adds a new album to the existing collection; expands the library with another release",
+    "intentId": "grow a music collection by adding more albums; create a new entry in a grouped album set"
+  },
+  "fa-album-collection-circle-user": {
+    "appearanceId": "stacked album sleeves with a circle-person badge overlaid; fanned record covers with a user avatar indicator",
+    "functionalityId": "assigns the album collection to a specific user; opens the collection linked to a user profile",
+    "intentId": "associate a set of albums with a person or account; view another user's full album library"
+  },
+  "fa-alicorn": {
+    "appearanceId": "horse figure with large spread wings and a single spiral horn on its forehead; winged unicorn silhouette",
+    "functionalityId": "inserts or selects a mythical alicorn creature symbol; tags content with a fantasy or magical theme",
+    "intentId": "represent a fantasy or magical context; use a whimsical creature motif in content"
+  },
+  "fa-alien": {
+    "appearanceId": "large oval head tapering to a pointed chin with oversized almond-shaped eyes; smooth extraterrestrial face silhouette",
+    "functionalityId": "inserts or selects an alien creature symbol; tags content with a sci-fi or otherworldly theme",
+    "intentId": "represent science fiction or extraterrestrial content; signal an out-of-this-world or unusual concept"
+  },
+  "fa-alien-8bit": {
+    "appearanceId": "blocky pixelated alien figure made of square tiles; retro sprite-style creature composed of grid blocks",
+    "functionalityId": "inserts or selects a retro pixel-art alien symbol; tags content with an arcade or video game theme",
+    "intentId": "represent a retro gaming or 8-bit aesthetic; evoke classic arcade or pixel-art culture"
+  },
+  "fa-align-center": {
+    "appearanceId": "three horizontal lines of alternating lengths centered on a shared vertical axis; stacked text lines symmetrically centered",
+    "functionalityId": "center-aligns selected text or content; sets paragraph alignment to centered",
+    "intentId": "visually center text within its container; apply centered text formatting to a selection"
+  },
+  "fa-align-justify": {
+    "appearanceId": "four horizontal lines of equal full width stacked evenly; text lines all stretching to both edges",
+    "functionalityId": "justifies selected text to fill the full line width; sets paragraph alignment to justified",
+    "intentId": "make text flush on both left and right margins; create even block text formatting"
+  },
+  "fa-align-left": {
+    "appearanceId": "three horizontal lines of varying length all starting from the same left edge; stacked text lines left-anchored",
+    "functionalityId": "left-aligns selected text or content; sets paragraph alignment to left",
+    "intentId": "anchor text to the left margin; apply standard left-aligned text formatting"
+  },
+  "fa-align-right": {
+    "appearanceId": "three horizontal lines of varying length all ending at the same right edge; stacked text lines right-anchored",
+    "functionalityId": "right-aligns selected text or content; sets paragraph alignment to right",
+    "intentId": "push text flush against the right margin; apply right-aligned text formatting to a selection"
+  },
+  "fa-align-slash": {
+    "appearanceId": "text alignment lines overlaid with a diagonal slash through them; stacked horizontal lines crossed by a strike-through diagonal",
+    "functionalityId": "removes or clears text alignment formatting; disables the current paragraph alignment setting",
+    "intentId": "reset text to its default or no-alignment state; remove an applied alignment from a block of text"
+  },
+  "fa-allergies": {
+    "appearanceId": "open hand with raised bump marks scattered across the skin; palm outline with hive welts on the surface",
+    "functionalityId": "flags or records an allergic reaction; opens allergy or sensitivity information",
+    "intentId": "document or view allergy and sensitivity details; warn about a potential allergic response"
+  },
+  "fa-alt": {
+    "appearanceId": "the three letters A, L, T displayed inline as a label; compact ALT text glyph",
+    "functionalityId": "triggers an alternate keyboard input mode; shows or uses an Alt key shortcut reference",
+    "intentId": "access alternate character or command options; invoke keyboard modifier shortcuts"
+  },
+  "fa-ambulance": {
+    "appearanceId": "boxy van silhouette with a cross emblem on the side and a beacon light on the roof; emergency vehicle with medical cross marking",
+    "functionalityId": "requests or dispatches emergency medical services; opens emergency contact or response tools",
+    "intentId": "call for urgent medical assistance; access emergency services quickly"
+  },
+  "fa-amp-guitar": {
+    "appearanceId": "rectangular box with a speaker grille mesh and control knobs on the front panel; boxy amplifier cabinet with round knobs",
+    "functionalityId": "opens or accesses guitar amplifier or audio equipment settings; navigates to music gear features",
+    "intentId": "manage or configure musical amplification equipment; represent guitar or music production tools"
+  },
+  "fa-ampersand": {
+    "appearanceId": "stylized curved glyph looping back on itself with a descending tail; flowing figure-eight-like conjunction symbol",
+    "functionalityId": "inserts an ampersand character into text; links or combines two items together",
+    "intentId": "join two terms or elements with an and-symbol; insert a typographic conjunction mark"
+  },
+  "fa-analytics": {
+    "appearanceId": "vertical bar chart with an upward-trending line graph overlaid; grouped columns beneath a rising data curve",
+    "functionalityId": "opens the analytics dashboard or metrics view; displays performance data and trends",
+    "intentId": "review data insights and performance trends; understand patterns through charts and statistics"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-circle-notch": {
+    "appearanceId": "thin arc forming most of a circle with a small open gap, like a loading spinner; incomplete ring with a notch break at one end",
+    "functionalityId": "indicates a loading or processing state in progress; spins to show that an operation is running",
+    "intentId": "wait for a background task to complete; see that the system is actively working on a request"
+  },
+  "fa-circle-o": {
+    "appearanceId": "circle containing an uppercase letter O centered inside; round border enclosing the fifteenth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter O; selects or navigates to an O-indexed item",
+    "intentId": "represent the letter O in a circular badge; identify something categorized or labeled with O"
+  },
+  "fa-circle-p": {
+    "appearanceId": "circle containing an uppercase letter P centered inside; round border enclosing the sixteenth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter P; selects or navigates to a P-indexed item",
+    "intentId": "represent the letter P in a circular badge; identify something categorized or labeled with P"
+  },
+  "fa-circle-parking": {
+    "appearanceId": "circle containing an uppercase letter P centered inside, styled as a parking domain symbol; round badge with a bold P used in parking contexts",
+    "functionalityId": "navigates to a parking area, lot, or garage; marks a location as a designated parking zone",
+    "intentId": "find or navigate to available parking; indicate that a location offers vehicle parking"
+  },
+  "fa-circle-pause": {
+    "appearanceId": "two vertical parallel bars centered inside a filled circle; round shape enclosing a pause symbol",
+    "functionalityId": "pauses currently playing media or audio; suspends an active process or animation",
+    "intentId": "temporarily stop media playback; hold an ongoing action to resume later"
+  },
+  "fa-circle-phone": {
+    "appearanceId": "handset receiver shape centered inside a filled circle; round badge enclosing a telephone receiver silhouette",
+    "functionalityId": "initiates a phone call or opens the dialer; navigates to calling or contact features",
+    "intentId": "start a voice call to a contact; access phone or calling functionality"
+  },
+  "fa-circle-play": {
+    "appearanceId": "rightward-pointing solid triangle centered inside a filled circle; round shape enclosing a play arrow",
+    "functionalityId": "starts or resumes media playback; launches a video or audio stream",
+    "intentId": "play a media file or stream; begin watching or listening to content"
+  },
+  "fa-circle-plus": {
+    "appearanceId": "plus sign centered inside a filled circle; round badge enclosing a symmetric add symbol",
+    "functionalityId": "creates a new item or adds an element to a list; opens an add or create action within a circular control",
+    "intentId": "add something new to the current context; expand a collection or list with an additional entry"
+  },
+  "fa-circle-q": {
+    "appearanceId": "circle containing an uppercase letter Q centered inside; round border enclosing the seventeenth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter Q; selects or navigates to a Q-indexed item",
+    "intentId": "represent the letter Q in a circular badge; identify something categorized or labeled with Q"
+  },
+  "fa-circle-quarter": {
+    "appearanceId": "circle with one quarter wedge segment filled and three quarters transparent; pie shape with a single ninety-degree filled slice",
+    "functionalityId": "indicates a twenty-five percent progress or fill level; represents a one-quarter fraction of a total",
+    "intentId": "show that a task or value is at twenty-five percent completion; represent a quarter portion of a whole"
+  },
+  "fa-circle-quarter-stroke": {
+    "appearanceId": "circle outline with a one-quarter arc segment drawn in a heavier stroke; ring with a ninety-degree arc portion emphasized",
+    "functionalityId": "indicates a twenty-five percent progress along the circle's stroke; represents a partial ring at quarter completion",
+    "intentId": "visualize a quarter-stage progress on a circular track; show a twenty-five percent status on a ring indicator"
+  },
+  "fa-circle-quarters": {
+    "appearanceId": "circle divided into four equal quadrant sections by two perpendicular lines; round shape segmented into four quarter wedges",
+    "functionalityId": "indicates a four-part division or segmentation; represents categories or sections split into four equal parts",
+    "intentId": "divide content into four equal sections; represent a four-way split or categorical breakdown"
+  },
+  "fa-circle-question": {
+    "appearanceId": "question mark centered inside a filled circle; round badge enclosing a bold query symbol",
+    "functionalityId": "opens a help dialog or FAQ section; provides contextual assistance or tooltip information",
+    "intentId": "get help or clarification about a feature; access support documentation or guidance"
+  },
+  "fa-circle-r": {
+    "appearanceId": "circle containing an uppercase letter R centered inside; round border enclosing the eighteenth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter R; selects or navigates to an R-indexed item",
+    "intentId": "represent the letter R in a circular badge; identify something categorized or labeled with R"
+  },
+  "fa-circle-right": {
+    "appearanceId": "rightward-pointing chevron or arrow centered inside a filled circle; round badge enclosing a right-pointing directional symbol",
+    "functionalityId": "navigates to the next item, page, or step; moves focus or selection to the right",
+    "intentId": "advance forward to the next item or view; proceed to the next step in a sequence"
+  },
+  "fa-circle-s": {
+    "appearanceId": "circle containing an uppercase letter S centered inside; round border enclosing the nineteenth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter S; selects or navigates to an S-indexed item",
+    "intentId": "represent the letter S in a circular badge; identify something categorized or labeled with S"
+  },
+  "fa-circle-small": {
+    "appearanceId": "small solid filled dot or compact circle shape; diminutive round filled disc",
+    "functionalityId": "marks a point, status indicator, or bullet position; acts as a small visual dot in a list or diagram",
+    "intentId": "indicate a status point or bullet position; mark a location or list item with a minimal dot"
+  },
+  "fa-circle-sort": {
+    "appearanceId": "circle containing two opposing vertical arrows, one pointing up and one pointing down; round badge enclosing an up-down sort arrow pair",
+    "functionalityId": "sorts a list or data set in either ascending or descending order; toggles sort direction on a column or dataset",
+    "intentId": "organize a list by reordering its items; change the sort order of displayed data"
+  },
+  "fa-circle-sort-down": {
+    "appearanceId": "circle containing a downward arrow paired with a smaller upward arrow, with the down arrow emphasized; round badge enclosing a sort pair weighted toward descending",
+    "functionalityId": "sorts a list or data set in descending order; applies a descending sort to the current column",
+    "intentId": "reorder a list from highest to lowest; apply a descending sort to view the largest values first"
+  },
+  "fa-circle-sort-up": {
+    "appearanceId": "circle containing an upward arrow paired with a smaller downward arrow, with the up arrow emphasized; round badge enclosing a sort pair weighted toward ascending",
+    "functionalityId": "sorts a list or data set in ascending order; applies an ascending sort to the current column",
+    "intentId": "reorder a list from lowest to highest; apply an ascending sort to view the smallest values first"
+  },
+  "fa-circle-star": {
+    "appearanceId": "five-pointed star shape centered inside a filled circle; round badge enclosing a star symbol",
+    "functionalityId": "marks an item as a favorite or top-rated; adds a star rating within a circular badge control",
+    "intentId": "save an item as a favorite; indicate that something is highly rated or preferred"
+  },
+  "fa-circle-sterling": {
+    "appearanceId": "circle containing a pound sterling currency symbol centered inside; round badge enclosing a stylized capital L with a crossbar",
+    "functionalityId": "indicates a British pound currency value or payment option; opens a GBP pricing or billing section",
+    "intentId": "represent a price or transaction in British pounds; access sterling currency payment details"
+  },
+  "fa-circle-stop": {
+    "appearanceId": "solid square centered inside a filled circle; round badge enclosing a stop square symbol",
+    "functionalityId": "stops currently playing media or an active process; halts a running task or stream",
+    "intentId": "end media playback or terminate an active operation; fully stop something that is running"
+  },
+  "fa-circle-t": {
+    "appearanceId": "circle containing an uppercase letter T centered inside; round border enclosing the twentieth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter T; selects or navigates to a T-indexed item",
+    "intentId": "represent the letter T in a circular badge; identify something categorized or labeled with T"
+  },
+  "fa-circle-three-quarters": {
+    "appearanceId": "circle with three quarter wedge segments filled and one quarter transparent; pie shape with a two-hundred-seventy-degree filled arc",
+    "functionalityId": "indicates a seventy-five percent progress or fill level; represents a three-quarter fraction of a total",
+    "intentId": "show that a task or value is at seventy-five percent completion; represent a three-quarter portion of a whole"
+  },
+  "fa-circle-three-quarters-stroke": {
+    "appearanceId": "circle outline with a three-quarter arc segment drawn in a heavier stroke; ring with a two-hundred-seventy-degree arc portion emphasized",
+    "functionalityId": "indicates a seventy-five percent progress along the circle's stroke; represents a partial ring at three-quarter completion",
+    "intentId": "visualize a three-quarter-stage progress on a circular track; show a seventy-five percent status on a ring indicator"
+  },
+  "fa-circle-trash": {
+    "appearanceId": "trash can silhouette centered inside a filled circle; round badge enclosing a waste bin with a lid",
+    "functionalityId": "deletes or removes the selected item; opens a delete confirmation within a circular action button",
+    "intentId": "permanently remove or discard an item; clean up unwanted content from the current collection"
+  },
+  "fa-circle-u": {
+    "appearanceId": "circle containing an uppercase letter U centered inside; round border enclosing the twenty-first letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter U; selects or navigates to a U-indexed item",
+    "intentId": "represent the letter U in a circular badge; identify something categorized or labeled with U"
+  },
+  "fa-circle-up": {
+    "appearanceId": "upward-pointing chevron or arrow centered inside a filled circle; round badge enclosing an upward directional symbol",
+    "functionalityId": "scrolls or moves content upward; navigates to a previous item or collapses a section",
+    "intentId": "return to a higher position or previous item; scroll back up within a list or page"
+  },
+  "fa-circle-up-left": {
+    "appearanceId": "diagonal arrow pointing toward the upper-left centered inside a filled circle; round badge enclosing an upper-left directional symbol",
+    "functionalityId": "navigates or moves content diagonally toward the upper-left; shifts focus or position to the upper-left corner",
+    "intentId": "move or return to the upper-left area of a layout; navigate diagonally back toward a starting corner"
+  },
+  "fa-circle-up-right": {
+    "appearanceId": "diagonal arrow pointing toward the upper-right centered inside a filled circle; round badge enclosing an upper-right directional symbol",
+    "functionalityId": "navigates or moves content diagonally toward the upper-right; shifts focus or position to the upper-right corner",
+    "intentId": "move or expand toward the upper-right area of a layout; navigate diagonally forward to a top corner"
+  },
+  "fa-circle-user": {
+    "appearanceId": "person silhouette with a round head and shoulders centered inside a filled circle; round badge enclosing a generic user avatar",
+    "functionalityId": "opens a user profile or account page; accesses identity or personal settings for the current user",
+    "intentId": "view or edit a personal account profile; identify the currently logged-in user"
+  },
+  "fa-circle-v": {
+    "appearanceId": "circle containing an uppercase letter V centered inside; round border enclosing the twenty-second letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter V; selects or navigates to a V-indexed item",
+    "intentId": "represent the letter V in a circular badge; identify something categorized or labeled with V"
+  },
+  "fa-circle-video": {
+    "appearanceId": "video camera or film shape centered inside a filled circle; round badge enclosing a camera or video symbol",
+    "functionalityId": "starts or opens a video recording or playback session; navigates to a video feature within a circular button",
+    "intentId": "record or watch a video; access video capture or streaming functionality"
+  },
+  "fa-circle-w": {
+    "appearanceId": "circle containing an uppercase letter W centered inside; round border enclosing the twenty-third letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter W; selects or navigates to a W-indexed item",
+    "intentId": "represent the letter W in a circular badge; identify something categorized or labeled with W"
+  },
+  "fa-circle-wifi": {
+    "appearanceId": "stacked arc waves of a wifi signal centered inside a filled circle; round badge enclosing a wireless signal symbol",
+    "functionalityId": "opens wifi settings or a wireless network connection panel; indicates wireless network status within a circle button",
+    "intentId": "connect to or manage a wireless network; check or configure wifi settings"
+  },
+  "fa-circle-wifi-group": {
+    "appearanceId": "multiple circles each containing a wifi arc symbol, grouped or stacked together; cluster of round wifi-signal badges",
+    "functionalityId": "manages or displays multiple wireless networks or access points; groups wifi connections into a single view",
+    "intentId": "oversee multiple wifi networks or hotspots; select from a group of available wireless connections"
+  },
+  "fa-circle-x": {
+    "appearanceId": "circle containing an uppercase letter X centered inside; round border enclosing the twenty-fourth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter X; selects or navigates to an X-indexed item",
+    "intentId": "represent the letter X in a circular badge; identify something categorized or labeled with X"
+  },
+  "fa-circle-xmark": {
+    "appearanceId": "diagonal cross or X mark centered inside a filled circle; round badge enclosing a close or cancel symbol",
+    "functionalityId": "closes, dismisses, or cancels the current item or dialog; removes a selected entry or clears a field",
+    "intentId": "dismiss or discard the current element; cancel an action or close an open panel"
+  },
+  "fa-circle-y": {
+    "appearanceId": "circle containing an uppercase letter Y centered inside; round border enclosing the twenty-fifth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter Y; selects or navigates to a Y-indexed item",
+    "intentId": "represent the letter Y in a circular badge; identify something categorized or labeled with Y"
+  },
+  "fa-circle-yen": {
+    "appearanceId": "circle containing a yen currency symbol centered inside; round badge enclosing a capital Y with two horizontal crossbars",
+    "functionalityId": "indicates a Japanese yen currency value or payment option; opens a JPY pricing or billing section",
+    "intentId": "represent a price or transaction in Japanese yen; access yen currency payment details"
+  },
+  "fa-circle-z": {
+    "appearanceId": "circle containing an uppercase letter Z centered inside; round border enclosing the twenty-sixth letter of the alphabet",
+    "functionalityId": "inserts or labels content with the letter Z; selects or navigates to a Z-indexed item",
+    "intentId": "represent the letter Z in a circular badge; identify something categorized or labeled with Z"
+  },
+  "fa-circles-overlap": {
+    "appearanceId": "two circles partially overlapping each other, creating a shared intersection area in the center; Venn diagram with two intersecting round shapes",
+    "functionalityId": "highlights shared or intersecting data between two sets; opens a comparison or overlap view between two groups",
+    "intentId": "identify what two groups have in common; compare two datasets or categories to find shared elements"
+  },
+  "fa-citrus": {
+    "appearanceId": "whole round citrus fruit with a small stem and leaf on top; smooth spherical fruit outline resembling an orange or lemon",
+    "functionalityId": "tags content as citrus fruit or related produce; labels a recipe or grocery item as a citrus fruit",
+    "intentId": "find or categorize citrus-based recipes or food products; represent fresh fruit or healthy eating content"
+  },
+  "fa-citrus-slice": {
+    "appearanceId": "circular cross-section of a citrus fruit showing segmented wedge divisions radiating from the center; halved fruit with visible juice segments",
+    "functionalityId": "tags content as a sliced citrus ingredient; labels a recipe step or food item featuring a citrus slice",
+    "intentId": "indicate a citrus ingredient in a recipe; represent fresh-squeezed or sliced fruit in a food context"
+  },
+  "fa-city": {
+    "appearanceId": "cluster of rectangular buildings of varying heights forming a skyline silhouette; urban high-rise block arrangement viewed from the front",
+    "functionalityId": "navigates to a city or urban location category; selects a metropolitan area or city-level filter",
+    "intentId": "browse or filter content by city or urban area; represent an urban environment or metropolitan setting"
+  },
+  "fa-clapperboard": {
+    "appearanceId": "hinged slate board with diagonal striped top bar and a clapstick arm; film production clapper with bold stripes",
+    "functionalityId": "opens a video or film project; marks the beginning of a scene or take in production",
+    "intentId": "start or organize a video production scene; access film or video editing features"
+  },
+  "fa-clapperboard-play": {
+    "appearanceId": "hinged film clapperboard with diagonal striped top bar combined with a rightward-pointing play triangle on the board face; clapper slate overlaid with a play arrow",
+    "functionalityId": "plays a video clip or film scene directly; launches playback of a recorded take or production segment",
+    "intentId": "preview or watch a recorded scene or video clip; play back a specific take in a film or video project"
+  }
+}

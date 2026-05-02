@@ -1,0 +1,242 @@
+{
+  "fa-italic": {
+    "appearanceId": "slanted italic letter I with serif serifs",
+    "functionalityId": "apply italic text formatting",
+    "intentId": "emphasize text with italics"
+  },
+  "fa-j": {
+    "appearanceId": "bold uppercase letter J",
+    "functionalityId": "insert or label letter J",
+    "intentId": "represent the letter J"
+  },
+  "fa-jar-wheat": {
+    "appearanceId": "round jar with lid and wheat stalks inside",
+    "functionalityId": "store or manage grain supplies",
+    "intentId": "track food or grain storage"
+  },
+  "fa-k": {
+    "appearanceId": "bold uppercase letter K",
+    "functionalityId": "insert or label letter K",
+    "intentId": "represent the letter K"
+  },
+  "fa-key": {
+    "appearanceId": "key with round bow and notched blade",
+    "functionalityId": "unlock or manage access credentials",
+    "intentId": "grant or control system access"
+  },
+  "fa-keyboard": {
+    "appearanceId": "rectangular keyboard with rows of key caps",
+    "functionalityId": "open or configure keyboard input",
+    "intentId": "type or enter text input"
+  },
+  "fa-kiwi-bird": {
+    "appearanceId": "round-bodied flightless kiwi bird with long beak",
+    "functionalityId": "represent kiwi bird category",
+    "intentId": "identify a kiwi bird species"
+  },
+  "fa-kiwi-fruit": {
+    "appearanceId": "halved kiwi fruit showing seeds and flesh",
+    "functionalityId": "represent kiwi fruit item",
+    "intentId": "identify or select kiwi fruit"
+  },
+  "fa-l": {
+    "appearanceId": "bold uppercase letter L",
+    "functionalityId": "insert or label letter L",
+    "intentId": "represent the letter L"
+  },
+  "fa-language": {
+    "appearanceId": "globe with horizontal lines and a speech bubble",
+    "functionalityId": "switch or set display language",
+    "intentId": "change interface language preference"
+  },
+  "fa-laptop": {
+    "appearanceId": "open laptop with screen and keyboard base",
+    "functionalityId": "open or manage computer device",
+    "intentId": "access a computer or workstation"
+  },
+  "fa-laptop-arrow-down": {
+    "appearanceId": "open laptop with a downward-pointing arrow on screen",
+    "functionalityId": "download content to laptop",
+    "intentId": "save or download files to device"
+  },
+  "fa-laptop-file": {
+    "appearanceId": "open laptop with a file document on screen",
+    "functionalityId": "open or edit file on laptop",
+    "intentId": "access a document on a computer"
+  },
+  "fa-leaf": {
+    "appearanceId": "single pointed leaf with central vein",
+    "functionalityId": "represent nature or eco category",
+    "intentId": "indicate eco-friendly or organic content"
+  },
+  "fa-leaf-heart": {
+    "appearanceId": "heart-shaped leaf with central vein",
+    "functionalityId": "represent love for nature",
+    "intentId": "express eco or nature affinity"
+  },
+  "fa-leaf-maple": {
+    "appearanceId": "maple leaf with multiple pointed lobes",
+    "functionalityId": "represent maple or Canadian theme",
+    "intentId": "identify maple or autumn content"
+  },
+  "fa-leaf-oak": {
+    "appearanceId": "oak leaf with rounded wavy lobes",
+    "functionalityId": "represent oak or forest theme",
+    "intentId": "identify oak or woodland content"
+  },
+  "fa-lemon": {
+    "appearanceId": "oval lemon fruit with pointed ends and a small leaf",
+    "functionalityId": "represent citrus or lemon item",
+    "intentId": "identify or select lemon ingredient"
+  },
+  "fa-lightbulb": {
+    "appearanceId": "rounded bulb with screw base and filament lines",
+    "functionalityId": "toggle idea or hint display",
+    "intentId": "access tips or creative ideas"
+  },
+  "fa-link": {
+    "appearanceId": "two chain link ovals connected together",
+    "functionalityId": "insert or copy a hyperlink",
+    "intentId": "share or reference a URL"
+  },
+  "fa-list": {
+    "appearanceId": "three horizontal lines with small square bullets at left",
+    "functionalityId": "view items as a list",
+    "intentId": "browse content in list format"
+  },
+  "fa-list-ol": {
+    "appearanceId": "numbered digits stacked vertically beside horizontal lines",
+    "functionalityId": "create an ordered numbered list",
+    "intentId": "organize items in sequence order"
+  },
+  "fa-list-tree": {
+    "appearanceId": "hierarchical indented lines forming a tree structure",
+    "functionalityId": "view items in tree hierarchy",
+    "intentId": "navigate nested list structure"
+  },
+  "fa-location-arrow": {
+    "appearanceId": "diagonal navigation arrow pointing upper-right",
+    "functionalityId": "navigate to current location",
+    "intentId": "center map on user location"
+  },
+  "fa-location-arrow-up": {
+    "appearanceId": "upward-pointing navigation arrow with location indicator",
+    "functionalityId": "navigate or go upward from location",
+    "intentId": "move or direct north from position"
+  },
+  "fa-location-dot": {
+    "appearanceId": "teardrop-shaped map pin with filled dot at center",
+    "functionalityId": "mark or view a map location",
+    "intentId": "identify a specific geographic place"
+  },
+  "fa-lock": {
+    "appearanceId": "padlock body with closed shackle loop at top",
+    "functionalityId": "lock or secure content access",
+    "intentId": "protect item with restricted access"
+  },
+  "fa-lock-open": {
+    "appearanceId": "padlock body with open shackle swung to the side",
+    "functionalityId": "unlock or grant content access",
+    "intentId": "remove restriction from protected item"
+  },
+  "fa-locust": {
+    "appearanceId": "side-view locust insect with wings and segmented body",
+    "functionalityId": "represent locust or pest category",
+    "intentId": "indicate swarm or agricultural pest"
+  },
+  "fa-m": {
+    "appearanceId": "bold uppercase letter M",
+    "functionalityId": "insert or label letter M",
+    "intentId": "represent the letter M"
+  },
+  "fa-magnet": {
+    "appearanceId": "U-shaped horseshoe magnet",
+    "functionalityId": "attract or pull related items",
+    "intentId": "enable magnetic selection or attraction"
+  },
+  "fa-magnifying-glass-arrow-right": {
+    "appearanceId": "magnifying glass with a rightward arrow inside lens",
+    "functionalityId": "search and navigate to results",
+    "intentId": "find and jump to matching content"
+  },
+  "fa-magnifying-glass-chart": {
+    "appearanceId": "magnifying glass with a bar chart inside lens",
+    "functionalityId": "analyze or inspect data visually",
+    "intentId": "examine trends or chart details"
+  },
+  "fa-map": {
+    "appearanceId": "unfolded map with fold lines",
+    "functionalityId": "open or view a map",
+    "intentId": "explore geographic area or route"
+  },
+  "fa-map-pin": {
+    "appearanceId": "teardrop-shaped map location pin",
+    "functionalityId": "drop or set a map marker",
+    "intentId": "save or share a specific location"
+  },
+  "fa-martini-glass": {
+    "appearanceId": "V-shaped martini glass with stem and base",
+    "functionalityId": "browse or filter cocktail options",
+    "intentId": "find or order a drink"
+  },
+  "fa-maximize": {
+    "appearanceId": "square with four outward corner arrows pointing outward",
+    "functionalityId": "expand view to full screen",
+    "intentId": "view content in full screen mode"
+  },
+  "fa-medal": {
+    "appearanceId": "circular medal disc hanging from a ribbon",
+    "functionalityId": "award or display achievement badge",
+    "intentId": "recognize top performance or rank"
+  },
+  "fa-message-arrow-down": {
+    "appearanceId": "speech bubble with a downward arrow inside",
+    "functionalityId": "download or save a message",
+    "intentId": "receive or archive a conversation"
+  },
+  "fa-message-arrow-up": {
+    "appearanceId": "speech bubble with an upward arrow inside",
+    "functionalityId": "send or upload a message",
+    "intentId": "submit or share a conversation reply"
+  },
+  "fa-message-arrow-up-right": {
+    "appearanceId": "speech bubble with a diagonal upper-right arrow inside",
+    "functionalityId": "forward or share a message externally",
+    "intentId": "send message to another person or app"
+  },
+  "fa-microphone": {
+    "appearanceId": "upright cylindrical microphone capsule with stand base",
+    "functionalityId": "start or enable audio recording",
+    "intentId": "capture voice or audio input"
+  },
+  "fa-microphone-slash": {
+    "appearanceId": "cylindrical microphone with a diagonal slash across it",
+    "functionalityId": "mute or disable microphone input",
+    "intentId": "silence voice or audio capture"
+  },
+  "fa-microscope": {
+    "appearanceId": "laboratory microscope with eyepiece and stage",
+    "functionalityId": "open laboratory or research tools",
+    "intentId": "examine or analyze detailed samples"
+  },
+  "fa-minimize": {
+    "appearanceId": "square with four inward corner arrows pointing inward",
+    "functionalityId": "collapse view from full screen",
+    "intentId": "reduce content to smaller view"
+  },
+  "fa-minus": {
+    "appearanceId": "single horizontal line",
+    "functionalityId": "remove or decrease a value",
+    "intentId": "subtract item or reduce quantity"
+  },
+  "fa-mobile-screen": {
+    "appearanceId": "upright smartphone with screen display area",
+    "functionalityId": "preview or open mobile screen",
+    "intentId": "view content on mobile device"
+  },
+  "fa-money-bill-wheat": {
+    "appearanceId": "banknote with wheat stalks overlaid",
+    "functionalityId": "manage agricultural payment or subsidy",
+    "intentId": "track food aid or farm funding"
+  }
+}

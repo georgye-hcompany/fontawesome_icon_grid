@@ -1,0 +1,242 @@
+{
+  "fa-glass-empty": {
+    "appearanceId": "a tall cylindrical tumbler outline with straight or slightly tapered walls and no contents inside; plain empty drinking glass silhouette with an open top and no liquid fill",
+    "functionalityId": "marks a drink container as empty or depleted; indicates a beverage slot with nothing in it",
+    "intentId": "track an empty glass or beverage vessel; indicate that a drink order needs to be refilled"
+  },
+  "fa-glass-half": {
+    "appearanceId": "a tall cylindrical tumbler with the lower half filled and the upper half empty showing a horizontal liquid fill line at mid-height; drinking glass silhouette with a partial fill level at roughly fifty percent",
+    "functionalityId": "displays a half-full or half-empty level indicator; represents a partial quantity or midpoint fill state",
+    "intentId": "indicate a partial fill or midpoint level; track a beverage or container that is approximately half full"
+  },
+  "fa-glass-martini": {
+    "appearanceId": "a wide inverted-triangle bowl on a slender stem with a flat circular base; classic V-shaped cocktail glass silhouette with a long thin stem and a broad open rim",
+    "functionalityId": "represents a cocktail or martini drink in a menu or bar app; marks a bar category or alcohol beverage option",
+    "intentId": "find cocktail or martini drink options; access a bar menu or alcoholic beverage section"
+  },
+  "fa-glass-water": {
+    "appearanceId": "a tall cylindrical tumbler with a full or nearly full liquid fill line near the top and straight walls; plain drinking glass silhouette filled with water almost to the brim",
+    "functionalityId": "represents a water glass or hydration item in a menu or health app; marks a beverage order as plain water",
+    "intentId": "order or track a glass of water; indicate a hydration or water consumption item"
+  },
+  "fa-glass-water-droplet": {
+    "appearanceId": "a tall cylindrical tumbler with a water droplet shape overlaid above or beside it; drinking glass silhouette combined with a teardrop water drop symbol",
+    "functionalityId": "represents water hydration or a glass of water with a droplet indicator; marks a water drink option with a hydration badge",
+    "intentId": "track water intake or hydration; indicate a water beverage option in a health or menu app"
+  },
+  "fa-glass-whiskey": {
+    "appearanceId": "a short wide tumbler or rocks glass with thick walls and a broad flat base; squat cylindrical lowball glass silhouette with a wide opening and substantial base",
+    "functionalityId": "represents a whiskey on the rocks or neat spirits drink; marks a spirits or whiskey category in a bar or restaurant menu",
+    "intentId": "find whiskey or neat spirits drink options; access a whiskey or spirits section in a bar menu app"
+  },
+  "fa-glasses": {
+    "appearanceId": "two circular lens frames connected by a central nose bridge with side temples extending outward; eyeglasses silhouette with twin round lenses joined at the center and arms on each side",
+    "functionalityId": "activates a reading or accessibility mode with magnified text; represents vision correction or eyewear in a profile or health context",
+    "intentId": "adjust display for readability or vision assistance; indicate eyewear or vision-related content in a profile"
+  },
+  "fa-glasses-alt": {
+    "appearanceId": "two rectangular or squared lens frames connected by a nose bridge with side arms; eyeglasses silhouette with twin rectangular lenses and a bridge piece linking them at the center",
+    "functionalityId": "activates a reading or vision mode with an alternate lens style; represents rectangular-framed eyewear in a profile or optical context",
+    "intentId": "indicate an alternate eyewear style or reading mode; access vision or optical settings in a profile app"
+  },
+  "fa-globe": {
+    "appearanceId": "a sphere with curved latitude and longitude grid lines forming a classic world map outline; round globe silhouette with horizontal and vertical arc lines representing parallels and meridians",
+    "functionalityId": "switches the interface language or region setting; navigates to an international or worldwide section",
+    "intentId": "change language or region preferences; access global or international content"
+  },
+  "fa-globe-pointer": {
+    "appearanceId": "a sphere with latitude and longitude grid lines and a cursor pointer arrow overlaid pointing at the surface; globe silhouette with a mouse cursor or hand pointer badge touching the sphere",
+    "functionalityId": "selects a location or region on a globe or map; interacts with a geographic point on a world view",
+    "intentId": "choose a location or country on a global map; point to a specific geographic region in a world selector"
+  },
+  "fa-globe-snow": {
+    "appearanceId": "a sphere with latitude and longitude grid lines and a snowflake symbol overlaid at the center or top; globe silhouette with a crystalline snowflake badge indicating cold or winter conditions",
+    "functionalityId": "indicates winter weather conditions across a global region; marks a location or region as experiencing cold or snowy climate",
+    "intentId": "check global winter weather or cold climate regions; filter locations by snowy or cold conditions on a world map"
+  },
+  "fa-globe-stand": {
+    "appearanceId": "a sphere with latitude and longitude arc lines mounted on a curved ring and a pedestal base stand; globe silhouette with a tilted axis ring and a supporting base beneath",
+    "functionalityId": "represents a desktop globe or world geography reference; navigates to a geography or world atlas section",
+    "intentId": "access world geography or atlas content; reference global locations using a desktop globe view"
+  },
+  "fa-globe-wifi": {
+    "appearanceId": "a sphere with latitude and longitude grid lines and a wifi signal arc symbol overlaid at the top; globe silhouette with a curved wireless signal badge above it",
+    "functionalityId": "indicates global internet connectivity or worldwide wireless access; represents an international network or wifi coverage area",
+    "intentId": "check global internet or wifi availability; access worldwide connectivity settings or coverage information"
+  },
+  "fa-goal-net": {
+    "appearanceId": "a rectangular sports goal frame with a net of crisscrossing diagonal lines filling the back and sides; open-fronted goal post outline with a grid mesh pattern inside representing a soccer or hockey net",
+    "functionalityId": "marks a goal scored or a scoring event in a sports tracker; navigates to a sports goal or scoring section",
+    "intentId": "record or track a goal in a sports game; access scoring or goal-related sports content"
+  },
+  "fa-golf-ball": {
+    "appearanceId": "a small circle with a dimpled surface texture shown as multiple small dots or indentations across the sphere; round ball silhouette with a stippled dimple pattern covering its surface",
+    "functionalityId": "marks a golf sport category or golf course location; represents a golf game or ball in a sports app",
+    "intentId": "find golf courses or golf-related content; track a golf game or ball position"
+  },
+  "fa-golf-club": {
+    "appearanceId": "a long thin shaft tapering down to a flat angled club head at the bottom; golf club silhouette with a slender handle and a wedge or iron head at the lower end",
+    "functionalityId": "marks a golf sport category or represents a golf club or equipment item; navigates to a golf gear or equipment section",
+    "intentId": "access golf equipment or gear information; find golf club options or sporting goods in a golf app"
+  },
+  "fa-golf-flag-hole": {
+    "appearanceId": "a cylindrical hole opening in the ground with a flagstick and triangular pennant flag mounted in the center; circular cup cutout silhouette with a vertical pole and a small triangular flag at the top",
+    "functionalityId": "marks a hole location on a golf course map or scorecard; represents a golf hole or pin position in a golf app",
+    "intentId": "navigate to a specific hole on a golf course; track hole positions or golf pin locations in a scorecard app"
+  },
+  "fa-gopuram": {
+    "appearanceId": "a tall tiered tower structure with multiple diminishing horizontal tiers decorated with ornate carvings narrowing to a pointed top; temple gateway silhouette with stacked ornamental tiers and a tapering summit",
+    "functionalityId": "marks a Hindu temple site or gopuram architectural landmark on a map; represents South Indian temple architecture in a travel or heritage app",
+    "intentId": "find Hindu temple sites or South Indian architectural landmarks; access travel or heritage content featuring gopuram towers"
+  },
+  "fa-gramophone": {
+    "appearanceId": "a vintage record player with a large flared horn speaker on top, a rotating turntable disc below, and a tonearm with a stylus; antique phonograph silhouette with an oversized bell-shaped horn and a platter base",
+    "functionalityId": "represents vintage or retro music playback; navigates to a classic or old-fashioned music or audio section",
+    "intentId": "access vintage music or retro audio content; indicate a classic or antique sound format in a music app"
+  },
+  "fa-grapes": {
+    "appearanceId": "a cluster of small circles arranged in a triangular bunch tapering to a point at the bottom with a small stem and leaf at the top; grape bunch silhouette with multiple round berries in a stacked pyramid formation",
+    "functionalityId": "marks a grape or vineyard category in a food or wine app; represents fruit or wine-related content",
+    "intentId": "find grape, wine, or vineyard content; browse fruit or wine options in a food or beverage app"
+  },
+  "fa-grate": {
+    "appearanceId": "a flat rectangular surface with a repeating grid of parallel horizontal and vertical lines forming small square openings; flat grill grate silhouette with a uniform mesh of evenly spaced crossing bars",
+    "functionalityId": "represents a ventilation grate, drain cover, or cooking grill surface; marks a filtration or airflow element in an HVAC or cooking context",
+    "intentId": "indicate a ventilation, drainage, or grill surface; access HVAC or cooking grate-related content"
+  },
+  "fa-grate-droplet": {
+    "appearanceId": "a flat rectangular grate mesh surface with a water droplet or teardrop shape overlaid above or below it; grid grate silhouette combined with a falling droplet symbol",
+    "functionalityId": "represents a draining or water-filtration grate surface; indicates liquid passing through a grate or drain",
+    "intentId": "indicate a drainage or water filtration grate; track water flow or drainage through a grated surface"
+  },
+  "fa-greater-than": {
+    "appearanceId": "a single right-pointing angle bracket or chevron formed by two diagonal lines meeting at a rightward apex; angular greater-than mathematical symbol with two diagonal strokes forming a V pointing right",
+    "functionalityId": "inserts a greater-than comparison operator in a formula or code expression; indicates that one value exceeds another",
+    "intentId": "compare two values where the left exceeds the right; insert a greater-than operator in a math or code expression"
+  },
+  "fa-greater-than-equal": {
+    "appearanceId": "a right-pointing angle bracket above a horizontal straight line; greater-than-or-equal-to mathematical symbol with a chevron over a flat underline stroke",
+    "functionalityId": "inserts a greater-than-or-equal-to comparison operator in a formula or code; indicates a value is at least as large as another",
+    "intentId": "compare two values where the left is greater than or equal to the right; insert a greater-than-or-equal operator in a math or logic expression"
+  },
+  "fa-grid": {
+    "appearanceId": "a three-by-three arrangement of nine equally sized square cells with thin dividing lines; uniform square grid of nine cells in a three-column by three-row layout",
+    "functionalityId": "switches the view to a grid layout; displays content items in a structured multi-column grid",
+    "intentId": "view content in a grid layout; toggle a display to a structured tile or grid arrangement"
+  },
+  "fa-grid-2": {
+    "appearanceId": "a two-by-two arrangement of four equally sized square cells with thin dividing lines; uniform square grid of four cells in a two-column by two-row layout",
+    "functionalityId": "switches the view to a four-cell grid layout; displays content items in a compact two-by-two tile arrangement",
+    "intentId": "view content in a compact four-cell grid; toggle a display to a two-by-two tile layout"
+  },
+  "fa-grid-2-plus": {
+    "appearanceId": "a two-by-two arrangement of four equally sized square cells with a small plus badge overlaid in the corner or center; four-cell square grid with an addition symbol indicating an addable tile",
+    "functionalityId": "adds a new tile or item to a two-by-two grid layout; extends a four-cell grid with an additional cell",
+    "intentId": "add a new item or tile to a four-cell grid layout; expand a two-by-two grid by inserting a new cell"
+  },
+  "fa-grid-4": {
+    "appearanceId": "a four-by-four arrangement of sixteen equally sized square cells with thin dividing lines; dense square grid of sixteen cells in a four-column by four-row layout",
+    "functionalityId": "switches the view to a sixteen-cell grid layout; displays content in a fine four-by-four tile arrangement",
+    "intentId": "view content in a dense sixteen-cell grid; toggle to a four-by-four tile display layout"
+  },
+  "fa-grid-5": {
+    "appearanceId": "a five-by-five arrangement of twenty-five equally sized square cells with thin dividing lines; dense square grid of twenty-five cells in a five-column by five-row layout",
+    "functionalityId": "switches the view to a twenty-five-cell grid layout; displays content in a fine five-by-five tile arrangement",
+    "intentId": "view content in a dense twenty-five-cell grid; toggle to a five-by-five tile display layout"
+  },
+  "fa-grid-dividers": {
+    "appearanceId": "a grid of square cells with bold or thicker dividing lines between groups of cells creating visible partition rows or columns; rectangular cell grid with emphasized separator lines splitting sections",
+    "functionalityId": "displays a grid with section dividers separating groups of cells; applies visible partition lines to a structured grid layout",
+    "intentId": "organize a grid into sections with visible dividers; view a structured grid with clear partition lines between groups"
+  },
+  "fa-grid-horizontal": {
+    "appearanceId": "several horizontal rows of equally sized rectangular or square cells stacked vertically with thin dividing lines between rows; wide horizontal-band grid silhouette with rows of cells running left to right",
+    "functionalityId": "switches the view to a horizontal row-based grid layout; arranges content in horizontal bands or rows of cells",
+    "intentId": "view content in a horizontal row grid arrangement; toggle to a row-oriented cell layout"
+  },
+  "fa-grid-round": {
+    "appearanceId": "a three-by-three arrangement of nine equally sized rounded-corner square cells with thin dividing lines; uniform grid of nine pill-cornered cells in a three-column by three-row layout",
+    "functionalityId": "switches the view to a rounded nine-cell grid layout; displays content in a soft-cornered three-by-three tile arrangement",
+    "intentId": "view content in a rounded-corner nine-cell grid; toggle to a soft three-by-three tile display"
+  },
+  "fa-grid-round-2": {
+    "appearanceId": "a two-by-two arrangement of four equally sized rounded-corner square cells; uniform grid of four pill-cornered cells in a two-column by two-row layout",
+    "functionalityId": "switches the view to a rounded four-cell grid layout; displays content in a soft-cornered two-by-two tile arrangement",
+    "intentId": "view content in a rounded four-cell grid layout; toggle to a soft two-by-two tile display"
+  },
+  "fa-grid-round-2-plus": {
+    "appearanceId": "a two-by-two arrangement of four rounded-corner square cells with a small plus badge overlaid; four pill-cornered grid cells with an addition symbol indicating an addable tile",
+    "functionalityId": "adds a new tile to a rounded four-cell grid layout; extends a two-by-two rounded grid with an additional cell",
+    "intentId": "add a new item or tile to a rounded four-cell grid; expand a soft two-by-two grid by inserting a new cell"
+  },
+  "fa-grid-round-4": {
+    "appearanceId": "a four-by-four arrangement of sixteen equally sized rounded-corner square cells with thin dividing lines; dense grid of sixteen pill-cornered cells in a four-column by four-row layout",
+    "functionalityId": "switches the view to a rounded sixteen-cell grid layout; displays content in a soft-cornered four-by-four tile arrangement",
+    "intentId": "view content in a rounded sixteen-cell grid; toggle to a soft four-by-four tile display layout"
+  },
+  "fa-grid-round-5": {
+    "appearanceId": "a five-by-five arrangement of twenty-five equally sized rounded-corner square cells with thin dividing lines; dense grid of twenty-five pill-cornered cells in a five-column by five-row layout",
+    "functionalityId": "switches the view to a rounded twenty-five-cell grid layout; displays content in a soft-cornered five-by-five tile arrangement",
+    "intentId": "view content in a rounded twenty-five-cell grid; toggle to a soft five-by-five tile display layout"
+  },
+  "fa-grill": {
+    "appearanceId": "a round or rectangular barbecue grill body with a lid on top, a grate surface, and four or three supporting legs; outdoor BBQ grill silhouette with a domed cover, cooking surface, and leg supports",
+    "functionalityId": "marks a grilling or barbecue cooking category in a food or recipe app; represents an outdoor grill or BBQ activity",
+    "intentId": "find grilling or barbecue recipes; access outdoor cooking or BBQ-related content in a food app"
+  },
+  "fa-grill-fire": {
+    "appearanceId": "a round barbecue grill body with legs and a flame or fire symbol rising from the grill surface or emerging from beneath; BBQ grill silhouette with an active flame overlay indicating it is lit and hot",
+    "functionalityId": "indicates an active or lit grill with fire; marks a barbecue as currently heating or in use",
+    "intentId": "indicate an active barbecue or lit grill; start or track a grilling session with open fire"
+  },
+  "fa-grill-hot": {
+    "appearanceId": "a round barbecue grill body with legs and heat wave lines or wavy heat shimmer marks rising above the grill surface; BBQ grill silhouette with undulating heat lines above indicating high temperature",
+    "functionalityId": "indicates a hot or preheated grill ready for cooking; marks a grill as at optimal cooking temperature",
+    "intentId": "indicate that a grill is hot and ready for cooking; monitor grill temperature or readiness status"
+  },
+  "fa-grimace": {
+    "appearanceId": "a round face outline with two oval eyes, rosy or shaded cheeks, and a wide clenched-teeth grin showing a row of straight teeth; circular emoticon with large eyes, visible cheek blush, and a broad strained toothy smile",
+    "functionalityId": "expresses awkwardness, nervousness, or an uncomfortable reaction in a message; inserts a grimacing or cringe emoji",
+    "intentId": "convey awkwardness or discomfort in a chat message; react with a grimacing or nervous face expression"
+  },
+  "fa-grin": {
+    "appearanceId": "a round face outline with two open oval or arc-shaped eyes and a broad wide open-mouth smile showing teeth; circular emoticon with simple dot or arc eyes and a large toothy grin",
+    "functionalityId": "expresses happiness or excitement in a message; inserts a broadly grinning or happy face emoji",
+    "intentId": "convey happiness or excitement in a chat; react with a broadly grinning or cheerful face"
+  },
+  "fa-grin-alt": {
+    "appearanceId": "a round face outline with two raised arc or squinting-with-joy eyes and a very wide open-mouth toothy grin; circular emoticon with upward-curved happy eyes and an extremely broad teeth-showing smile",
+    "functionalityId": "expresses exaggerated happiness or delight in a message; inserts an alternate broadly grinning emoji with joyful squinting eyes",
+    "intentId": "convey exaggerated joy or delight in a chat; react with an alternate very happy grinning face"
+  },
+  "fa-grin-beam": {
+    "appearanceId": "a round face outline with two very wide arc-shaped squinting eyes and a broad toothy open-mouth smile; circular emoticon with deeply curved squinted eyes showing joy and a large beaming teeth-filled grin",
+    "functionalityId": "expresses beaming joy or intense happiness in a message; inserts a broad-beaming grin emoji with squinting eyes",
+    "intentId": "convey intense happiness or elation in a chat; react with a beaming wide-grin face with squinted eyes"
+  },
+  "fa-grin-beam-sweat": {
+    "appearanceId": "a round face outline with squinting arc eyes, a broad beaming toothy grin, and a single sweat droplet on the forehead or side of the face; circular emoticon with joyful squinted eyes, a wide smile, and a sweat drop badge",
+    "functionalityId": "expresses relieved happiness or nervous excitement in a message; inserts a grinning with sweat emoji suggesting anxious relief",
+    "intentId": "convey nervous relief or anxious happiness in a chat; react with a sweating grin face suggesting an awkward or tense situation resolved happily"
+  },
+  "fa-grin-hearts": {
+    "appearanceId": "a round face outline with two heart shapes in place of the eyes and a broad open-mouth toothy grin; circular emoticon with heart-shaped pupils and a large smiling mouth expressing adoration",
+    "functionalityId": "expresses love, adoration, or infatuation in a message; inserts a heart-eyes grinning emoji",
+    "intentId": "convey love or adoration in a chat message; react with a heart-eyes grin expressing deep affection"
+  },
+  "fa-grin-squint": {
+    "appearanceId": "a round face outline with two very narrowed or tightly squinted eyes and a wide open-mouth toothy grin; circular emoticon with tiny slit or arc eyes and a broad laughing smile",
+    "functionalityId": "expresses intense laughter or amusement in a message; inserts a squinting with laughter emoji",
+    "intentId": "convey intense amusement or laughter in a chat; react with a squinting laugh face expression"
+  },
+  "fa-grin-squint-tears": {
+    "appearanceId": "a round face outline with tightly squinted eyes, tears of joy streaming from both eyes, and a very wide toothy grin; circular emoticon with slit eyes, tear drop marks at the eye corners, and an open laughing mouth",
+    "functionalityId": "expresses rolling laughter or tears of joy in a message; inserts a laughing-until-crying squint emoji",
+    "intentId": "convey uncontrollable laughter or extreme amusement in a chat; react with a tears-of-joy squinting face"
+  },
+  "fa-grin-stars": {
+    "appearanceId": "a round face outline with two star shapes in place of the eyes and a broad open-mouth toothy grin; circular emoticon with star-shaped pupils and a wide excited smile expressing wonder or amazement",
+    "functionalityId": "expresses awe, excitement, or being starstruck in a message; inserts a star-eyes grinning emoji",
+    "intentId": "convey amazement or being starstruck in a chat; react with a star-eyes grin expressing excitement or wonder"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-file-mov": {
+    "appearanceId": "document page with MOV label badge",
+    "functionalityId": "open or preview a MOV file",
+    "intentId": "access a QuickTime video file"
+  },
+  "fa-file-mp3": {
+    "appearanceId": "document page with MP3 label badge",
+    "functionalityId": "open or play an MP3 file",
+    "intentId": "access a compressed audio file"
+  },
+  "fa-file-mp4": {
+    "appearanceId": "document page with MP4 label badge",
+    "functionalityId": "open or preview an MP4 file",
+    "intentId": "access a compressed video file"
+  },
+  "fa-file-music": {
+    "appearanceId": "document page with musical note badge",
+    "functionalityId": "open or play a music file",
+    "intentId": "access an audio or song file"
+  },
+  "fa-file-pdf": {
+    "appearanceId": "document page with PDF label badge",
+    "functionalityId": "open or export a PDF document",
+    "intentId": "view or share a portable document"
+  },
+  "fa-file-pen": {
+    "appearanceId": "document page with a pen or pencil overlaid at corner",
+    "functionalityId": "edit or annotate a document",
+    "intentId": "modify or write content in a file"
+  },
+  "fa-file-plus": {
+    "appearanceId": "document page with a plus sign badge",
+    "functionalityId": "create or add a new file",
+    "intentId": "start a new document or upload a file"
+  },
+  "fa-file-plus-minus": {
+    "appearanceId": "document page with a plus and minus sign badge",
+    "functionalityId": "add or remove file content or versions",
+    "intentId": "manage file additions and deletions"
+  },
+  "fa-file-png": {
+    "appearanceId": "document page with PNG label badge",
+    "functionalityId": "open or export a PNG image file",
+    "intentId": "access a lossless raster image file"
+  },
+  "fa-file-powerpoint": {
+    "appearanceId": "document page with PowerPoint P-slide label badge",
+    "functionalityId": "open or export a PowerPoint presentation",
+    "intentId": "access or edit a slide presentation file"
+  },
+  "fa-file-ppt": {
+    "appearanceId": "document page with PPT label badge",
+    "functionalityId": "open or export a PPT presentation file",
+    "intentId": "access or edit a legacy presentation file"
+  },
+  "fa-file-prescription": {
+    "appearanceId": "document page with Rx prescription symbol badge",
+    "functionalityId": "view or manage a prescription document",
+    "intentId": "access a medical prescription record"
+  },
+  "fa-file-search": {
+    "appearanceId": "document page with a magnifying glass badge",
+    "functionalityId": "search within or for a file",
+    "intentId": "find content inside a document"
+  },
+  "fa-file-shield": {
+    "appearanceId": "document page with a shield badge",
+    "functionalityId": "view or apply file security settings",
+    "intentId": "protect or verify a document's integrity"
+  },
+  "fa-file-signature": {
+    "appearanceId": "document page with a cursive signature line at the bottom",
+    "functionalityId": "sign or request a signature on a document",
+    "intentId": "authorize or execute a signed document"
+  },
+  "fa-file-slash": {
+    "appearanceId": "document page with a diagonal slash through it",
+    "functionalityId": "disable or indicate an unavailable file",
+    "intentId": "show a file is blocked or inaccessible"
+  },
+  "fa-file-spreadsheet": {
+    "appearanceId": "document page with a grid of rows and columns badge",
+    "functionalityId": "open or create a spreadsheet file",
+    "intentId": "access tabular data in a spreadsheet"
+  },
+  "fa-file-svg": {
+    "appearanceId": "document page with SVG label badge",
+    "functionalityId": "open or export an SVG vector file",
+    "intentId": "access a scalable vector graphic file"
+  },
+  "fa-file-times": {
+    "appearanceId": "document page with an X mark badge",
+    "functionalityId": "delete or reject a file",
+    "intentId": "remove or dismiss a document"
+  },
+  "fa-file-upload": {
+    "appearanceId": "document page with an upward arrow badge",
+    "functionalityId": "upload a file to a server or cloud",
+    "intentId": "send a local file to remote storage"
+  },
+  "fa-file-user": {
+    "appearanceId": "document page with a person silhouette badge",
+    "functionalityId": "open a user profile or personnel file",
+    "intentId": "access a document associated with a person"
+  },
+  "fa-file-vector": {
+    "appearanceId": "document page with a vector path or bezier curve badge",
+    "functionalityId": "open or export a vector graphic file",
+    "intentId": "access editable vector artwork"
+  },
+  "fa-file-video": {
+    "appearanceId": "document page with play triangle badge",
+    "functionalityId": "open or preview a video file",
+    "intentId": "access a saved video recording"
+  },
+  "fa-file-waveform": {
+    "appearanceId": "document page with an audio waveform line badge",
+    "functionalityId": "open or preview an audio waveform file",
+    "intentId": "access a recorded audio or medical signal file"
+  },
+  "fa-file-word": {
+    "appearanceId": "document page with Word W label badge",
+    "functionalityId": "open or export a Word document",
+    "intentId": "access or edit a word processing file"
+  },
+  "fa-file-xls": {
+    "appearanceId": "document page with XLS label badge",
+    "functionalityId": "open or export an XLS spreadsheet file",
+    "intentId": "access a legacy Excel spreadsheet"
+  },
+  "fa-file-xml": {
+    "appearanceId": "document page with XML label badge",
+    "functionalityId": "open or edit an XML data file",
+    "intentId": "access structured markup or data file"
+  },
+  "fa-file-zip": {
+    "appearanceId": "document page with zipper pull running down center",
+    "functionalityId": "compress or extract a ZIP archive",
+    "intentId": "package or unpack files in a ZIP archive"
+  },
+  "fa-file-zipper": {
+    "appearanceId": "document page with zipper pull running down center",
+    "functionalityId": "compress or extract a zipped archive",
+    "intentId": "package or unpack files in a compressed archive"
+  },
+  "fa-film": {
+    "appearanceId": "horizontal film strip with rectangular frame holes on edges",
+    "functionalityId": "browse or play video or film content",
+    "intentId": "access a movie or video recording"
+  },
+  "fa-filter": {
+    "appearanceId": "downward-pointing funnel or triangle shape",
+    "functionalityId": "filter or narrow down a list",
+    "intentId": "show only relevant or matching results"
+  },
+  "fa-fire": {
+    "appearanceId": "upward flame shape with wavy pointed top",
+    "functionalityId": "highlight trending or hot content",
+    "intentId": "view popular or high-activity items"
+  },
+  "fa-fish": {
+    "appearanceId": "side-view fish with tail fin and eye",
+    "functionalityId": "browse seafood or aquatic category",
+    "intentId": "select or identify a fish-related item"
+  },
+  "fa-fish-bones": {
+    "appearanceId": "side-view fish skeleton with spine and protruding bones",
+    "functionalityId": "indicate an empty or consumed resource",
+    "intentId": "show a depleted or stripped-down item"
+  },
+  "fa-fish-cooked": {
+    "appearanceId": "side-view cooked fish on a plate with steam lines",
+    "functionalityId": "browse cooked seafood or meal options",
+    "intentId": "select a prepared fish dish or food item"
+  },
+  "fa-fish-fins": {
+    "appearanceId": "side-view fish with prominent dorsal and pectoral fins",
+    "functionalityId": "browse aquatic or marine life category",
+    "intentId": "identify or select a fish by fin features"
+  },
+  "fa-flag": {
+    "appearanceId": "rectangular flag on a vertical pole",
+    "functionalityId": "flag or mark an item for review",
+    "intentId": "highlight or report a specific item"
+  },
+  "fa-flask": {
+    "appearanceId": "wide-bottomed laboratory flask with narrow neck",
+    "functionalityId": "access lab, science, or experiment features",
+    "intentId": "explore experimental or beta functionality"
+  },
+  "fa-flower": {
+    "appearanceId": "flower with multiple rounded petals around center",
+    "functionalityId": "browse floral or nature-themed content",
+    "intentId": "select a decorative or botanical element"
+  },
+  "fa-flower-daffodil": {
+    "appearanceId": "daffodil flower with trumpet-shaped center corona and outer petals",
+    "functionalityId": "browse spring or daffodil floral content",
+    "intentId": "select a daffodil or spring flower element"
+  },
+  "fa-flower-tulip": {
+    "appearanceId": "tulip flower with cup-shaped bloom and two leaf blades on stem",
+    "functionalityId": "browse tulip or spring floral content",
+    "intentId": "select a tulip or garden flower element"
+  },
+  "fa-folder": {
+    "appearanceId": "folder shape with raised rectangular tab on top-left",
+    "functionalityId": "open or navigate to a folder",
+    "intentId": "access files stored in a directory"
+  },
+  "fa-folder-open": {
+    "appearanceId": "open folder with raised tab and lifted front flap revealing interior",
+    "functionalityId": "open or browse folder contents",
+    "intentId": "view files inside an open directory"
+  },
+  "fa-folder-tree": {
+    "appearanceId": "folder with branching tree lines showing nested subfolders",
+    "functionalityId": "view or navigate a folder hierarchy",
+    "intentId": "browse nested directories in a tree view"
+  },
+  "fa-font": {
+    "appearanceId": "letter A with serifs and small T crossbar",
+    "functionalityId": "change or select a font style",
+    "intentId": "apply or customize text typography"
+  },
+  "fa-football": {
+    "appearanceId": "oval American football with lace stitching",
+    "functionalityId": "browse American football sports content",
+    "intentId": "access football games or sports information"
+  },
+  "fa-football-helmet": {
+    "appearanceId": "side-view football helmet with face guard bars",
+    "functionalityId": "browse football team or player content",
+    "intentId": "access football equipment or team information"
+  },
+  "fa-forward": {
+    "appearanceId": "two right-pointing triangles side by side",
+    "functionalityId": "skip forward in playback or sequence",
+    "intentId": "advance to the next track or section"
+  }
+}

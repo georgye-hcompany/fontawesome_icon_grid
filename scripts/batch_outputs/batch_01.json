@@ -1,0 +1,242 @@
+{
+  "fa-0": {
+    "appearanceId": "single digit numeral 0",
+    "functionalityId": "insert or label zero",
+    "intentId": "represent the value zero"
+  },
+  "fa-00": {
+    "appearanceId": "two digit numeral zeros side by side",
+    "functionalityId": "insert or label double zero",
+    "intentId": "represent a double-zero value"
+  },
+  "fa-1": {
+    "appearanceId": "single digit numeral 1",
+    "functionalityId": "insert or label one",
+    "intentId": "represent the value one"
+  },
+  "fa-100": {
+    "appearanceId": "three digit numeral 100",
+    "functionalityId": "indicate full or perfect score",
+    "intentId": "mark something as complete or perfect"
+  },
+  "fa-2": {
+    "appearanceId": "single digit numeral 2",
+    "functionalityId": "insert or label two",
+    "intentId": "represent the value two"
+  },
+  "fa-3": {
+    "appearanceId": "single digit numeral 3",
+    "functionalityId": "insert or label three",
+    "intentId": "represent the value three"
+  },
+  "fa-4": {
+    "appearanceId": "single digit numeral 4",
+    "functionalityId": "insert or label four",
+    "intentId": "represent the value four"
+  },
+  "fa-5": {
+    "appearanceId": "single digit numeral 5",
+    "functionalityId": "insert or label five",
+    "intentId": "represent the value five"
+  },
+  "fa-6": {
+    "appearanceId": "single digit numeral 6",
+    "functionalityId": "insert or label six",
+    "intentId": "represent the value six"
+  },
+  "fa-7": {
+    "appearanceId": "single digit numeral 7",
+    "functionalityId": "insert or label seven",
+    "intentId": "represent the value seven"
+  },
+  "fa-8": {
+    "appearanceId": "single digit numeral 8",
+    "functionalityId": "insert or label eight",
+    "intentId": "represent the value eight"
+  },
+  "fa-9": {
+    "appearanceId": "single digit numeral 9",
+    "functionalityId": "insert or label nine",
+    "intentId": "represent the value nine"
+  },
+  "fa-a": {
+    "appearanceId": "bold uppercase letter A",
+    "functionalityId": "insert or label letter A",
+    "intentId": "represent the letter A"
+  },
+  "fa-align-center": {
+    "appearanceId": "three horizontal lines of varying length centered symmetrically",
+    "functionalityId": "center-align selected text",
+    "intentId": "horizontally center text in a block"
+  },
+  "fa-align-justify": {
+    "appearanceId": "four horizontal lines of equal full length stacked",
+    "functionalityId": "justify-align selected text",
+    "intentId": "stretch text to fill full line width"
+  },
+  "fa-align-left": {
+    "appearanceId": "three horizontal lines of varying length aligned to left edge",
+    "functionalityId": "left-align selected text",
+    "intentId": "align text to the left margin"
+  },
+  "fa-align-right": {
+    "appearanceId": "three horizontal lines of varying length aligned to right edge",
+    "functionalityId": "right-align selected text",
+    "intentId": "align text to the right margin"
+  },
+  "fa-ambulance": {
+    "appearanceId": "boxy vehicle with cross symbol on side and emergency light on top",
+    "functionalityId": "request or dispatch emergency medics",
+    "intentId": "call for emergency medical assistance"
+  },
+  "fa-anchor": {
+    "appearanceId": "nautical anchor with ring at top and horizontal cross arm",
+    "functionalityId": "pin or fix element in place",
+    "intentId": "mark a fixed or permanent reference point"
+  },
+  "fa-anchor-circle-check": {
+    "appearanceId": "nautical anchor with checkmark badge circle in corner",
+    "functionalityId": "confirm anchor or fixed point is valid",
+    "intentId": "verify a pinned item is approved"
+  },
+  "fa-anchor-circle-exclamation": {
+    "appearanceId": "nautical anchor with exclamation badge circle in corner",
+    "functionalityId": "flag anchor or fixed point with warning",
+    "intentId": "alert user to an issue with a pinned item"
+  },
+  "fa-anchor-circle-xmark": {
+    "appearanceId": "nautical anchor with X badge circle in corner",
+    "functionalityId": "remove or invalidate anchor point",
+    "intentId": "delete or reject a pinned reference"
+  },
+  "fa-anchor-lock": {
+    "appearanceId": "nautical anchor with padlock badge overlay",
+    "functionalityId": "lock a pinned or fixed element",
+    "intentId": "secure a fixed reference from changes"
+  },
+  "fa-apple-alt": {
+    "appearanceId": "whole apple silhouette with leaf and stem at top",
+    "functionalityId": "browse health or nutrition content",
+    "intentId": "access food or wellness information"
+  },
+  "fa-apple-core": {
+    "appearanceId": "apple core with stem and seeds visible after eating",
+    "functionalityId": "mark item as consumed or depleted",
+    "intentId": "indicate something has been used up"
+  },
+  "fa-apple-crate": {
+    "appearanceId": "wooden slatted crate filled with apples",
+    "functionalityId": "browse bulk produce or inventory",
+    "intentId": "manage or order a large batch of items"
+  },
+  "fa-area-chart": {
+    "appearanceId": "filled shaded area below a rising and falling line graph",
+    "functionalityId": "view area chart or trend data",
+    "intentId": "analyze cumulative values over time"
+  },
+  "fa-arrow-circle-down": {
+    "appearanceId": "downward-pointing arrow inside a circle",
+    "functionalityId": "download or scroll content downward",
+    "intentId": "move or retrieve content going down"
+  },
+  "fa-arrow-circle-left": {
+    "appearanceId": "leftward-pointing arrow inside a circle",
+    "functionalityId": "navigate or move content leftward",
+    "intentId": "go back or shift content to the left"
+  },
+  "fa-arrow-circle-right": {
+    "appearanceId": "rightward-pointing arrow inside a circle",
+    "functionalityId": "navigate or move content rightward",
+    "intentId": "advance forward or shift content right"
+  },
+  "fa-arrow-circle-up": {
+    "appearanceId": "upward-pointing arrow inside a circle",
+    "functionalityId": "upload or scroll content upward",
+    "intentId": "move or send content going up"
+  },
+  "fa-arrow-down": {
+    "appearanceId": "single downward-pointing arrow with stem and arrowhead",
+    "functionalityId": "move or scroll content downward",
+    "intentId": "navigate or shift focus downward"
+  },
+  "fa-arrow-down-1-9": {
+    "appearanceId": "downward arrow with small numeral 1 above numeral 9",
+    "functionalityId": "sort list in ascending numeric order",
+    "intentId": "order items from lowest to highest number"
+  },
+  "fa-arrow-down-9-1": {
+    "appearanceId": "downward arrow with small numeral 9 above numeral 1",
+    "functionalityId": "sort list in descending numeric order",
+    "intentId": "order items from highest to lowest number"
+  },
+  "fa-arrow-down-a-z": {
+    "appearanceId": "downward arrow with small letter A above letter Z",
+    "functionalityId": "sort list in ascending alphabetical order",
+    "intentId": "order items from A to Z"
+  },
+  "fa-arrow-down-from-arc": {
+    "appearanceId": "downward arrow descending from a curved arc at top",
+    "functionalityId": "download or pull content from a curved path",
+    "intentId": "retrieve content flowing down from above"
+  },
+  "fa-arrow-down-from-bracket": {
+    "appearanceId": "downward arrow descending out of an open bracket at top",
+    "functionalityId": "export or pull content down from a container",
+    "intentId": "extract content downward from a bounded area"
+  },
+  "fa-arrow-down-from-dotted-line": {
+    "appearanceId": "downward arrow descending from a horizontal dotted line above",
+    "functionalityId": "move content below a threshold line",
+    "intentId": "bring an item down past a defined boundary"
+  },
+  "fa-arrow-down-left": {
+    "appearanceId": "diagonal arrow pointing down and to the left",
+    "functionalityId": "move or redirect content down-left",
+    "intentId": "navigate toward lower-left direction"
+  },
+  "fa-arrow-down-left-and-arrow-up-right-to-center": {
+    "appearanceId": "two opposing diagonal arrows pointing inward toward center from upper-right and lower-left",
+    "functionalityId": "compress or collapse content to center",
+    "intentId": "minimize or shrink a view to fit"
+  },
+  "fa-arrow-down-long": {
+    "appearanceId": "long single downward-pointing arrow with extended stem",
+    "functionalityId": "scroll far down or indicate long downward distance",
+    "intentId": "navigate to content far below"
+  },
+  "fa-arrow-down-right": {
+    "appearanceId": "diagonal arrow pointing down and to the right",
+    "functionalityId": "move or redirect content down-right",
+    "intentId": "navigate toward lower-right direction"
+  },
+  "fa-arrow-down-to-arc": {
+    "appearanceId": "downward arrow pointing into a curved arc at bottom",
+    "functionalityId": "send or deposit content into a curved target",
+    "intentId": "deliver content into a receiving curved path"
+  },
+  "fa-arrow-down-to-bracket": {
+    "appearanceId": "downward arrow pointing into an open bracket at bottom",
+    "functionalityId": "save or drop content into a container",
+    "intentId": "store or deposit an item into a bounded area"
+  },
+  "fa-arrow-down-to-dotted-line": {
+    "appearanceId": "downward arrow pointing toward a horizontal dotted line below",
+    "functionalityId": "move content down to a boundary line",
+    "intentId": "position an item at a defined lower threshold"
+  },
+  "fa-arrow-down-to-square": {
+    "appearanceId": "downward arrow pointing into an open square at bottom",
+    "functionalityId": "download or insert content into a box",
+    "intentId": "place or save an item into a framed area"
+  },
+  "fa-arrow-down-up-across-line": {
+    "appearanceId": "two arrows pointing down and up on either side of a horizontal line",
+    "functionalityId": "swap or toggle items across a dividing line",
+    "intentId": "exchange positions of elements across a boundary"
+  },
+  "fa-arrow-down-up-lock": {
+    "appearanceId": "two arrows pointing down and up with a padlock between them",
+    "functionalityId": "lock vertical sort order in place",
+    "intentId": "prevent reordering of vertically arranged items"
+  }
+}

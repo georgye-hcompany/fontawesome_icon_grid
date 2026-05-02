@@ -1,0 +1,242 @@
+{
+  "fa-diamond-half-stroke": {
+    "appearanceId": "rotated square with the left half rendered as an outlined stroke and the right half filled solid; diamond shape divided vertically into an empty outlined portion and a filled portion",
+    "functionalityId": "toggles between an empty and filled diamond state; indicates a partially active or half-selected rating element",
+    "intentId": "mark something as partially complete or half-rated; represent a half-filled status in a rating or progress indicator"
+  },
+  "fa-diamonds-4": {
+    "appearanceId": "four small rotated square diamond shapes arranged in a two-by-two grid or cluster; quartet of equally-sized rhombus outlines grouped symmetrically",
+    "functionalityId": "selects or applies a four-diamond pattern or tier rating; marks a premium or multi-diamond category in a listing",
+    "intentId": "assign or display a four-diamond quality rating; access a top-tier or luxury classification in an app"
+  },
+  "fa-dice": {
+    "appearanceId": "two overlapping cube faces shown in perspective with dots on each visible face; a pair of three-dimensional square dice with pips visible on their top and front sides",
+    "functionalityId": "rolls or randomizes a game value or selection; triggers a random outcome or chance-based action",
+    "intentId": "randomize a game result or decision; play a dice-based game action"
+  },
+  "fa-dice-d10": {
+    "appearanceId": "ten-sided polygon or pentagonal trapezoidal polyhedron outline with a numeral or facets visible; elongated diamond-like polyhedral shape with angled facet lines suggesting a d10",
+    "functionalityId": "rolls a ten-sided die for a tabletop RPG or game mechanic; selects a d10 die type in a dice roller interface",
+    "intentId": "generate a random number from one to ten; choose a ten-sided die in a role-playing game session"
+  },
+  "fa-dice-d12": {
+    "appearanceId": "twelve-sided dodecahedron outline with pentagonal facets and internal edge lines; a roughly spherical polyhedral shape with multiple five-sided face divisions",
+    "functionalityId": "rolls a twelve-sided die for a tabletop RPG mechanic; selects a d12 die type in a dice roller tool",
+    "intentId": "generate a random number from one to twelve; choose a twelve-sided die in a role-playing game"
+  },
+  "fa-dice-d20": {
+    "appearanceId": "twenty-sided icosahedron outline with triangular facets and the numeral twenty or face lines visible; roughly spherical polyhedral shape divided into many triangular sections",
+    "functionalityId": "rolls a twenty-sided die for a critical tabletop RPG action; selects a d20 die type in a dice roller interface",
+    "intentId": "generate a critical roll in a role-playing game; choose a twenty-sided die for an RPG encounter"
+  },
+  "fa-dice-d4": {
+    "appearanceId": "equilateral triangular tetrahedron outline representing a four-sided die with edge lines and a numeral or facets; flat-based pyramid shape with three visible triangular faces",
+    "functionalityId": "rolls a four-sided die for a tabletop RPG mechanic; selects a d4 die type in a dice roller interface",
+    "intentId": "generate a random number from one to four; choose a four-sided die in a role-playing game session"
+  },
+  "fa-dice-d6": {
+    "appearanceId": "three-dimensional cube shape shown in perspective with visible top and two side faces; square die outline with edge lines suggesting a classic six-sided block",
+    "functionalityId": "rolls a six-sided die for a board game or RPG action; selects a d6 die type in a dice roller tool",
+    "intentId": "generate a random number from one to six; choose a standard six-sided die for a game"
+  },
+  "fa-dice-d8": {
+    "appearanceId": "octahedron outline with a diamond-like double-pyramid shape and triangular facet lines; eight-sided polyhedral shape with a pointed top and bottom and a wide equatorial ridge",
+    "functionalityId": "rolls an eight-sided die for a tabletop RPG mechanic; selects a d8 die type in a dice roller interface",
+    "intentId": "generate a random number from one to eight; choose an eight-sided die in a role-playing game session"
+  },
+  "fa-dice-five": {
+    "appearanceId": "square cube face with five circular pips arranged in an X pattern with one in the center; flat die face outline showing a quincunx arrangement of five round dots",
+    "functionalityId": "represents or selects the value five in a dice game; displays a five-pip result on a standard die face",
+    "intentId": "indicate a roll of five in a game interface; select or display the number five on a die"
+  },
+  "fa-dice-four": {
+    "appearanceId": "square cube face with four circular pips arranged in a two-by-two corner pattern; flat die face outline showing four round dots at each corner",
+    "functionalityId": "represents or selects the value four in a dice game; displays a four-pip result on a standard die face",
+    "intentId": "indicate a roll of four in a game interface; select or display the number four on a die"
+  },
+  "fa-dice-one": {
+    "appearanceId": "square cube face with a single circular pip centered on the face; flat die face outline showing one round dot in the middle",
+    "functionalityId": "represents or selects the value one in a dice game; displays a single-pip result on a standard die face",
+    "intentId": "indicate a roll of one in a game interface; select or display the number one on a die"
+  },
+  "fa-dice-six": {
+    "appearanceId": "square cube face with six circular pips arranged in two vertical columns of three; flat die face outline showing six evenly-spaced round dots",
+    "functionalityId": "represents or selects the value six in a dice game; displays a six-pip result on a standard die face",
+    "intentId": "indicate a roll of six in a game interface; select or display the maximum number on a die"
+  },
+  "fa-dice-three": {
+    "appearanceId": "square cube face with three circular pips arranged diagonally from corner to corner; flat die face outline showing three round dots in a diagonal line",
+    "functionalityId": "represents or selects the value three in a dice game; displays a three-pip result on a standard die face",
+    "intentId": "indicate a roll of three in a game interface; select or display the number three on a die"
+  },
+  "fa-dice-two": {
+    "appearanceId": "square cube face with two circular pips placed at opposite corners; flat die face outline showing two round dots in a diagonal arrangement",
+    "functionalityId": "represents or selects the value two in a dice game; displays a two-pip result on a standard die face",
+    "intentId": "indicate a roll of two in a game interface; select or display the number two on a die"
+  },
+  "fa-digging": {
+    "appearanceId": "human figure bent forward holding a shovel or spade with the blade angled into the ground; stick-like person silhouette in a digging posture with a long-handled tool",
+    "functionalityId": "marks an excavation, construction, or earthwork activity; indicates a work-in-progress or under-construction status",
+    "intentId": "flag a construction or digging zone; indicate that work is currently in progress at a location"
+  },
+  "fa-digital-tachograph": {
+    "appearanceId": "rectangular device face with a dial or speed gauge arc and a small chart or graph strip below; instrument panel outline showing a curved meter and a recording strip element",
+    "functionalityId": "accesses vehicle speed recording or tachograph data; displays driver log or fleet tracking information",
+    "intentId": "review vehicle speed and driver log data; manage fleet compliance or tachograph records"
+  },
+  "fa-dinosaur": {
+    "appearanceId": "side-profile silhouette of a dinosaur with a long neck, small front arms, large hind legs, and a tapering tail; reptilian creature outline with a distinctive upright or crouching stance",
+    "functionalityId": "marks a dinosaur-themed game character or exhibit entry; navigates to prehistoric or paleontology-related content",
+    "intentId": "access dinosaur or prehistoric content in an app or game; select a dinosaur character or category"
+  },
+  "fa-diploma": {
+    "appearanceId": "rolled or folded scroll with a ribbon or seal at the center; rectangular certificate outline with a decorative band tied around it",
+    "functionalityId": "opens a certificate, credential, or academic record; marks an achievement or qualification earned",
+    "intentId": "view or share an academic certificate or diploma; access earned credentials or course completion records"
+  },
+  "fa-directions": {
+    "appearanceId": "rectangular road sign shape with an arrow pointing to the right or left and text-placeholder lines; directional signpost outline with a pointed end and a horizontal bar",
+    "functionalityId": "opens turn-by-turn navigation or route directions; launches a map or wayfinding interface",
+    "intentId": "get directions to a destination; start navigation to a chosen location"
+  },
+  "fa-disc-drive": {
+    "appearanceId": "rectangular bay or slot shape with a horizontal slit opening and an eject button or indicator; flat drive housing outline with a disc-insertion slot and a small circular control",
+    "functionalityId": "opens or ejects an optical disc drive; accesses disc media playback or reading functions",
+    "intentId": "insert, eject, or manage an optical disc or drive; access disc-based media or storage"
+  },
+  "fa-disease": {
+    "appearanceId": "irregular amoeba-like blob or cell shape with small spikes or protrusions around its perimeter; organic circular outline with bumpy or spiky surface edges suggesting a pathogen",
+    "functionalityId": "marks a disease, illness, or health condition category; indicates a medical alert or infection-related status",
+    "intentId": "access disease information or health condition details; flag or track an illness or medical condition"
+  },
+  "fa-display": {
+    "appearanceId": "rectangular monitor screen with a thin bezel, a flat base or stand below, and an empty screen area; desktop display outline with a horizontal foot or pedestal",
+    "functionalityId": "opens display settings or screen configuration; represents a monitor device in a hardware or settings panel",
+    "intentId": "adjust screen or display settings; manage a connected monitor or display device"
+  },
+  "fa-display-arrow-down": {
+    "appearanceId": "rectangular monitor screen with a downward-pointing arrow overlaid on or below the screen area; display outline combined with a vertical shaft and arrowhead pointing down",
+    "functionalityId": "downloads content or data to the display device; sends a file or media from the cloud to the screen",
+    "intentId": "download or receive content onto a display device; transfer data from a remote source to the screen"
+  },
+  "fa-display-chart-up": {
+    "appearanceId": "rectangular monitor screen containing a line or bar chart with an upward-trending curve; display outline with a rising graph visible on the screen area",
+    "functionalityId": "opens a dashboard or data visualization on screen; displays an upward performance trend on a monitor",
+    "intentId": "view analytics or performance metrics on a display; monitor growing trends in a data dashboard"
+  },
+  "fa-display-chart-up-circle-currency": {
+    "appearanceId": "rectangular monitor with an upward-trending chart on screen and a small circle containing a generic currency symbol in the corner; display outline combined with a rising graph and a coin-like badge",
+    "functionalityId": "opens a financial performance dashboard with currency metrics; displays rising monetary trends on a monitor with a currency indicator",
+    "intentId": "track financial growth or revenue metrics on a display; monitor currency-based performance data"
+  },
+  "fa-display-chart-up-circle-dollar": {
+    "appearanceId": "rectangular monitor with an upward-trending chart on screen and a small circle containing a dollar sign in the corner; display outline combined with a rising graph and a dollar-sign badge",
+    "functionalityId": "opens a financial dashboard showing dollar-denominated growth; displays an upward revenue trend on a monitor with a dollar indicator",
+    "intentId": "track dollar revenue growth on a display dashboard; monitor USD-based financial performance metrics"
+  },
+  "fa-distribute-spacing-horizontal": {
+    "appearanceId": "three vertical bars or rectangles spaced evenly apart between two outer boundary lines; a row of equally-distributed vertical shapes with uniform gaps and flanking rails",
+    "functionalityId": "applies equal horizontal spacing between selected layout elements; distributes objects evenly along the horizontal axis",
+    "intentId": "evenly space elements horizontally in a design layout; align objects with uniform horizontal gaps"
+  },
+  "fa-distribute-spacing-vertical": {
+    "appearanceId": "three horizontal bars or rectangles stacked evenly apart between two outer boundary lines; a column of equally-distributed horizontal shapes with uniform gaps and flanking rails",
+    "functionalityId": "applies equal vertical spacing between selected layout elements; distributes objects evenly along the vertical axis",
+    "intentId": "evenly space elements vertically in a design layout; align objects with uniform vertical gaps"
+  },
+  "fa-ditto": {
+    "appearanceId": "two small quotation-mark-like curved marks side by side at the bottom, resembling a close-double-quote or repeat symbol; a pair of downward comma shapes arranged horizontally indicating repetition",
+    "functionalityId": "inserts a ditto or repeat mark to indicate the same value as above; marks a repeated entry in a list or table",
+    "intentId": "indicate that a value repeats from the row above; mark a duplicate or same-as entry in a list"
+  },
+  "fa-divide": {
+    "appearanceId": "horizontal line with one dot above and one dot below it forming a division symbol; a short bar flanked vertically by two small circular points",
+    "functionalityId": "performs or inserts a division operation in a calculator or formula; selects the divide function in a math input field",
+    "intentId": "divide a number or value in a calculation; apply a division operation in a formula or expression"
+  },
+  "fa-dizzy": {
+    "appearanceId": "circular face outline with two spiral or X-shaped crossed eyes and a neutral or open mouth; round head shape with swirling or x-mark eyes suggesting dizziness",
+    "functionalityId": "marks a confused, dizzy, or overwhelmed reaction state; indicates a disoriented or stunned character status in a game",
+    "intentId": "express a dizzy or overwhelmed reaction; indicate a confused or disoriented state in an interface"
+  },
+  "fa-dna": {
+    "appearanceId": "double helix shape with two intertwining curved strands connected by horizontal rung lines; twisted ladder outline with parallel crossbars suggesting a DNA strand",
+    "functionalityId": "opens a genetics, biology, or genomics feature; indicates a DNA analysis or genetic data section",
+    "intentId": "access genetic or biological data; navigate to genomics or DNA-related content"
+  },
+  "fa-do-not-enter": {
+    "appearanceId": "circle outline containing a horizontal rectangle or thick bar across its center; round prohibition sign with a bold horizontal stripe through the middle",
+    "functionalityId": "marks an area or action as restricted or off-limits; indicates a no-entry or access-denied condition",
+    "intentId": "block access to a restricted area or feature; signal that entry or action is not permitted"
+  },
+  "fa-dog": {
+    "appearanceId": "side-profile silhouette of a dog with a rounded head, pointed ears, a body, four legs, and an upright or curved tail; canine outline in a standing or sitting pose",
+    "functionalityId": "navigates to a pet care, dog breed, or animal services section; marks a dog-related category in an app",
+    "intentId": "find dog-related services, breeds, or pet care information; access a pets or animals section"
+  },
+  "fa-dog-leashed": {
+    "appearanceId": "side-profile dog silhouette with a leash line extending from the collar area; canine outline in a standing pose connected to a diagonal or looping strap",
+    "functionalityId": "navigates to a dog walking, leash, or pet management feature; marks a leashed-pet or animal-control category",
+    "intentId": "manage or book a dog walking or leashing service; access pet control or animal management features"
+  },
+  "fa-dolly": {
+    "appearanceId": "two-wheeled hand truck or dolly outline with a vertical back frame, a horizontal base plate, and two small circles at the bottom; L-shaped cart silhouette with wheels",
+    "functionalityId": "indicates a shipping, moving, or freight handling action; marks a warehouse or logistics category in a management app",
+    "intentId": "manage shipping, moving, or warehouse logistics; access freight or cargo handling operations"
+  },
+  "fa-dolly-empty": {
+    "appearanceId": "two-wheeled hand truck outline with a vertical frame and base plate but no load or cargo on it; empty L-shaped dolly silhouette with wheels and no stacked items",
+    "functionalityId": "indicates an available or unloaded dolly in a logistics workflow; marks an empty cart state in a warehouse management system",
+    "intentId": "signal that a dolly or cart is available and unloaded; manage empty or available freight equipment"
+  },
+  "fa-dolly-flatbed-alt": {
+    "appearanceId": "flat platform cart with a low horizontal bed surface and four small wheels at the corners; wide flatbed trolley outline with no raised sides and multiple wheel circles",
+    "functionalityId": "indicates a flatbed cart or pallet mover in a warehouse or shipping context; marks a heavy-load transport action",
+    "intentId": "transport heavy or bulky items on a flatbed cart; manage flatbed logistics or pallet-moving operations"
+  },
+  "fa-dolphin": {
+    "appearanceId": "curved streamlined marine mammal silhouette with a pointed snout, dorsal fin on the back, and a split horizontal tail fluke; smooth arching aquatic creature outline mid-leap",
+    "functionalityId": "marks a marine life, ocean, or aquarium section; indicates a dolphin-themed game character or nature category",
+    "intentId": "access marine life or ocean-themed content; select a dolphin character or aquatic category"
+  },
+  "fa-donate": {
+    "appearanceId": "hand silhouette holding or presenting a heart shape, or a hand beneath a downward-falling coin or currency symbol; palm-up gesture outline combined with a heart or dropping money element",
+    "functionalityId": "opens a donation or charitable giving form; initiates a payment or contribution to a cause",
+    "intentId": "make a donation or charitable contribution; support a cause or nonprofit through a giving interface"
+  },
+  "fa-dong-sign": {
+    "appearanceId": "Vietnamese dong currency symbol resembling the letter D with two horizontal strikethrough bars crossing the vertical stroke; a modified D glyph with double parallel lines through its upper portion",
+    "functionalityId": "selects Vietnamese dong as a currency option; displays or converts a price into VND",
+    "intentId": "view or set a price in Vietnamese dong; access currency conversion or financial settings for VND"
+  },
+  "fa-donut": {
+    "appearanceId": "ring-shaped pastry outline with a circular hole in the center and a rounded toroidal body; doughnut silhouette with a smooth outer edge and an inner circular cutout",
+    "functionalityId": "marks a food, bakery, or snack category in a menu or ordering app; indicates a donut-themed item or reward",
+    "intentId": "find or order a donut or pastry item; access a bakery or sweet snack category"
+  },
+  "fa-door-closed": {
+    "appearanceId": "rectangular door outline with a panel inset, a small circular doorknob on one side, and a door frame border; solid closed entryway silhouette with a handle detail",
+    "functionalityId": "closes or locks a room, session, or access point; indicates a closed or unavailable entry in a navigation panel",
+    "intentId": "close or restrict access to a room or session; indicate that an entry point is shut or unavailable"
+  },
+  "fa-door-open": {
+    "appearanceId": "rectangular door shape angled open with a visible panel interior and a doorknob, set within a frame; entryway outline partially ajar showing depth and a handle",
+    "functionalityId": "opens or enters a room, session, or access point; indicates an available or welcoming entry in a navigation panel",
+    "intentId": "enter or access an open room or session; indicate that an entry point is available and accessible"
+  },
+  "fa-dove": {
+    "appearanceId": "side-profile bird silhouette with spread or folded wings, a small rounded head, and a short tail; smooth-bodied avian outline in a flying or perched pose suggesting a dove",
+    "functionalityId": "marks a peace, messaging, or communications feature; indicates a harmony or gentle-action status in an interface",
+    "intentId": "access a peace or messaging feature; indicate a peaceful or gentle intention in an app"
+  },
+  "fa-down": {
+    "appearanceId": "downward-pointing solid arrow with a broad triangular head and a vertical shaft; bold chevron or filled arrowhead pointing toward the bottom",
+    "functionalityId": "scrolls or moves content downward; navigates to the next item or lower section in a list or page",
+    "intentId": "move down within a list, page, or interface; navigate to lower content or the next item below"
+  },
+  "fa-down-from-bracket": {
+    "appearanceId": "downward-pointing arrow with a horizontal bar or bracket above its shaft at the top; vertical arrow with a flat cap or top rail indicating descent from a boundary",
+    "functionalityId": "downloads or imports content from an external source or bracket boundary; moves an item downward from a fixed upper position",
+    "intentId": "download or pull content from an upper boundary or source; import data from an external location into the current view"
+  }
+}

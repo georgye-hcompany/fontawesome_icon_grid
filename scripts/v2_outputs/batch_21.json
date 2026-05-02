@@ -1,0 +1,242 @@
+{
+  "fa-cup-straw-swoosh": {
+    "appearanceId": "tall cup with a bent straw and a curved arc swoosh line extending outward; beverage cup outline with an angled drinking straw and a sweeping motion arc",
+    "functionalityId": "adds a drink with a straw to an order or cart; represents a to-go beverage selection with straw",
+    "intentId": "order or track a drink item with a straw; indicate a beverage choice in a food or ordering menu"
+  },
+  "fa-cup-togo": {
+    "appearanceId": "tapered disposable cup with a fitted lid and a small raised spout or opening at the top; travel cup silhouette with a domed lid and a drink spout",
+    "functionalityId": "adds a to-go beverage to an order; selects a takeaway drink container in a menu or cart",
+    "intentId": "order a portable take-out drink; indicate a to-go cup preference in a coffee or food order"
+  },
+  "fa-cupcake": {
+    "appearanceId": "single cupcake with a scalloped paper wrapper base and a domed swirl of frosting on top; round cake in a fluted cup with a tall rounded icing mound",
+    "functionalityId": "selects or adds a cupcake or dessert item; navigates to a bakery or sweet treat category",
+    "intentId": "browse or order a cupcake or dessert; indicate a pastry or baked good selection"
+  },
+  "fa-curling": {
+    "appearanceId": "round curling stone with a handle on top viewed from the side; circular flat disc with a raised cylindrical grip used in the sport of curling",
+    "functionalityId": "selects a curling sport category or event; navigates to a winter sports section",
+    "intentId": "browse curling sport content or events; find information about the curling sport"
+  },
+  "fa-custard": {
+    "appearanceId": "shallow round bowl or ramekin filled with a smooth custard surface and a slightly rounded top; small circular dish with a domed top representing a dessert",
+    "functionalityId": "selects or adds a custard or pudding dessert item; navigates to a dessert or dairy food category",
+    "intentId": "browse or order a custard dessert; indicate a creamy dessert selection in a menu"
+  },
+  "fa-cut": {
+    "appearanceId": "open scissors with two crossed blades forming an X shape at the pivot point; pair of cutting shears with elongated blades and rounded handles open at an angle",
+    "functionalityId": "cuts selected text or objects from the current context; removes and places content onto the clipboard",
+    "intentId": "remove selected content and move it elsewhere; cut text or media for a paste operation"
+  },
+  "fa-cutlery": {
+    "appearanceId": "fork and knife arranged side by side with tines and blade facing upward; two parallel utensils with a fork on the left and a knife on the right",
+    "functionalityId": "opens a restaurant or dining section; navigates to food or meal-related content",
+    "intentId": "find a restaurant or food venue; access dining options or meal planning features"
+  },
+  "fa-d": {
+    "appearanceId": "uppercase letter D with a vertical straight left stroke and a curved right side forming a semicircle; single capital alphabet character with one flat edge and one round edge",
+    "functionalityId": "represents or navigates to a section labeled D; selects or filters items beginning with the letter D",
+    "intentId": "jump to a D-indexed item or section; filter or label content with the letter D"
+  },
+  "fa-dagger": {
+    "appearanceId": "narrow double-edged blade tapering to a point with a short crossguard and a grip handle; elongated pointed weapon silhouette with a symmetrical cross-piece near the base",
+    "functionalityId": "selects a melee weapon or attack action in a game; navigates to a fantasy or combat item category",
+    "intentId": "equip or choose a dagger in a game inventory; access combat or weapon-related content"
+  },
+  "fa-dash": {
+    "appearanceId": "single short horizontal line segment centered in the space; a thin flat bar oriented horizontally",
+    "functionalityId": "inserts a dash or separator character into text; collapses or minimizes a content section",
+    "intentId": "add a typographic dash to a document; visually separate or divide content elements"
+  },
+  "fa-database": {
+    "appearanceId": "stack of three flat cylinders or discs arranged vertically resembling storage drums; layered horizontal oval shapes forming a column representing data storage",
+    "functionalityId": "opens or manages a database connection; navigates to data storage settings or records",
+    "intentId": "access or configure a database; view or manage stored data records"
+  },
+  "fa-deaf": {
+    "appearanceId": "human ear profile outline with a diagonal slash line crossing through it; side-view ear shape combined with a prohibition line indicating no sound",
+    "functionalityId": "toggles or indicates a deaf or hard-of-hearing accessibility mode; enables visual or caption-based accessibility features",
+    "intentId": "activate accessibility options for deaf or hearing-impaired users; switch to a captioned or visual notification mode"
+  },
+  "fa-debug": {
+    "appearanceId": "small bug or insect silhouette with an overlaid play or target symbol; stylized ladybug or beetle outline combined with a triangular action marker",
+    "functionalityId": "launches a debugging session for code; steps through code to identify and fix errors",
+    "intentId": "troubleshoot and resolve errors in a program; start a code debugging workflow"
+  },
+  "fa-dedent": {
+    "appearanceId": "three horizontal lines of text with a left-pointing arrow or indent indicator showing reduced indentation; stacked text lines with an outward arrow on the left margin",
+    "functionalityId": "removes one level of indentation from selected text or code; shifts a text block to the left",
+    "intentId": "decrease the indentation level of a text block; align code or content further to the left margin"
+  },
+  "fa-deer": {
+    "appearanceId": "full-body deer silhouette in profile facing left with antlers on top of its head; four-legged animal outline with a rack of branching antlers",
+    "functionalityId": "selects a wildlife or deer-themed category; navigates to a hunting or nature-related section",
+    "intentId": "browse wildlife or hunting content; access a deer-related item or category"
+  },
+  "fa-deer-rudolph": {
+    "appearanceId": "deer silhouette in profile with antlers and a round circular dot at the nose position; four-legged reindeer outline with a prominent round nose",
+    "functionalityId": "selects a holiday or Christmas-themed reindeer item; navigates to seasonal festive content",
+    "intentId": "access Christmas or holiday-themed content; find a reindeer or seasonal decoration element"
+  },
+  "fa-delete-right": {
+    "appearanceId": "rectangular backspace-style shape with a rightward-pointing notch on the left and an X or cross mark inside; eraser badge with a notched left edge and a deletion cross symbol",
+    "functionalityId": "deletes a character to the right of the cursor; clears forward one character in a text input",
+    "intentId": "remove text to the right of the current cursor position; delete a forward character in an input field"
+  },
+  "fa-democrat": {
+    "appearanceId": "donkey silhouette representing the Democratic party symbol; full-body animal outline of a donkey facing a direction",
+    "functionalityId": "filters or tags content related to the Democratic party; selects a Democratic political affiliation option",
+    "intentId": "indicate or filter for Democratic party-related content; label a political item as Democrat-affiliated"
+  },
+  "fa-desktop": {
+    "appearanceId": "rectangular monitor screen with a thin stand or neck and a flat base at the bottom; flat display panel outline with a centered pedestal",
+    "functionalityId": "switches to or opens the desktop view; navigates to a desktop application or settings",
+    "intentId": "access the desktop environment or display settings; switch to a full desktop interface"
+  },
+  "fa-desktop-arrow-down": {
+    "appearanceId": "rectangular monitor with a downward-pointing arrow overlaid on or below the screen; desktop display outline combined with a downward chevron or download arrow",
+    "functionalityId": "downloads content to the desktop; initiates a file or software download targeting the desktop",
+    "intentId": "save or download a file to the desktop; transfer content from a remote source to the local desktop"
+  },
+  "fa-desktop-code": {
+    "appearanceId": "rectangular monitor outline with angle bracket less-than and greater-than code symbols displayed on screen; flat display with HTML or programming chevrons on the screen face",
+    "functionalityId": "opens a code editor or development environment on desktop; launches a desktop coding or programming tool",
+    "intentId": "access a desktop coding workspace; open a development environment on the computer"
+  },
+  "fa-desktop-medical": {
+    "appearanceId": "rectangular monitor with a medical cross or plus symbol displayed on the screen; flat display outline combined with a healthcare cross badge on screen",
+    "functionalityId": "opens a medical records or health application on desktop; navigates to a desktop healthcare management tool",
+    "intentId": "access medical or health software on the desktop; manage patient or health data from a desktop interface"
+  },
+  "fa-desktop-slash": {
+    "appearanceId": "rectangular monitor silhouette with a diagonal slash line crossing through the entire display; flat screen outline overlaid with a prohibition or disabled bar",
+    "functionalityId": "disables or disconnects the desktop display; indicates an inactive or unavailable desktop screen",
+    "intentId": "turn off or disable a monitor or desktop session; indicate a desktop is offline or unavailable"
+  },
+  "fa-dewpoint": {
+    "appearanceId": "teardrop water droplet shape with a small horizontal dash or degree marker beside it; round-bottomed droplet outline next to a temperature or measurement tick",
+    "functionalityId": "displays the current dew point temperature reading; shows atmospheric moisture level in a weather interface",
+    "intentId": "check the dew point for weather or climate assessment; understand humidity and condensation conditions"
+  },
+  "fa-dharmachakra": {
+    "appearanceId": "circular wheel with multiple evenly spaced spokes radiating from a central hub and a segmented outer rim; round dharma wheel with eight or more radiating lines and a decorated border",
+    "functionalityId": "navigates to Buddhist or spiritual content; selects a dharma or wheel-of-law symbol for a religious topic",
+    "intentId": "access Buddhist teachings or spiritual content; indicate a dharma or religious concept in a document"
+  },
+  "fa-diagnoses": {
+    "appearanceId": "clipboard or document with horizontal lines representing text and a medical cross or stethoscope element; rectangular chart outline with lined entries and a healthcare symbol",
+    "functionalityId": "opens a patient diagnoses or medical records list; navigates to a clinical assessment or health findings screen",
+    "intentId": "review or manage medical diagnoses for a patient; access clinical findings or health records"
+  },
+  "fa-diagram-cells": {
+    "appearanceId": "grid of rectangular cells arranged in rows and columns forming a table-like structure; matrix of bordered boxes laid out in an even two-dimensional grid",
+    "functionalityId": "opens a cell-based diagram or grid layout editor; creates or views a structured grid diagram",
+    "intentId": "organize or visualize data in a grid or cell diagram; build a cell-structured layout or table diagram"
+  },
+  "fa-diagram-lean-canvas": {
+    "appearanceId": "rectangular canvas divided into multiple labeled sections or cells in a lean canvas format; flat bordered rectangle partitioned into an asymmetric grid of business-plan sections",
+    "functionalityId": "opens a lean canvas business model diagram; creates or edits a startup strategy template layout",
+    "intentId": "plan or document a business model using a lean canvas; organize a startup or product strategy visually"
+  },
+  "fa-diagram-nested": {
+    "appearanceId": "series of rectangles contained inside each other in a nested concentric arrangement; set of bordered boxes stacked inward with each smaller box inside the previous",
+    "functionalityId": "opens or creates a nested diagram structure; displays hierarchical or encapsulated relationship diagrams",
+    "intentId": "visualize nested or hierarchical relationships in a diagram; organize layers or encapsulated structures visually"
+  },
+  "fa-diagram-next": {
+    "appearanceId": "flowchart or diagram box with a rightward arrow pointing to a next step or node; rectangular process block combined with a forward-pointing connecting arrow",
+    "functionalityId": "advances to the next step in a diagram or workflow; navigates forward in a sequential process diagram",
+    "intentId": "move to the next node or step in a process diagram; progress through a sequential workflow visualization"
+  },
+  "fa-diagram-predecessor": {
+    "appearanceId": "connected node boxes with an arrow pointing from a preceding box into a current node; two linked rectangular shapes where the first box feeds into the second via an arrow",
+    "functionalityId": "identifies or selects the predecessor task in a project diagram; navigates to the prior node in a dependency chain",
+    "intentId": "review or set a task's predecessor in a project plan; trace the prior dependency in a workflow diagram"
+  },
+  "fa-diagram-previous": {
+    "appearanceId": "flowchart or diagram box with a leftward arrow pointing back to a previous step or node; rectangular process block combined with a backward-pointing connecting arrow",
+    "functionalityId": "returns to the previous step in a diagram or workflow; navigates backward in a sequential process diagram",
+    "intentId": "go back to the prior node or step in a process diagram; revisit a previous stage in a workflow visualization"
+  },
+  "fa-diagram-project": {
+    "appearanceId": "network of connected nodes with lines linking multiple boxes in a project flow structure; several rectangular shapes joined by lines forming a branched or linear project diagram",
+    "functionalityId": "opens a project diagram or task dependency view; creates or displays a project planning flowchart",
+    "intentId": "visualize or manage a project structure and its task dependencies; build a project plan diagram"
+  },
+  "fa-diagram-sankey": {
+    "appearanceId": "flowing bands of varying widths connecting source nodes on the left to target nodes on the right; tapered ribbon streams linking parallel vertical columns representing flow quantities",
+    "functionalityId": "renders or opens a Sankey flow diagram; visualizes proportional flow or energy transfer data",
+    "intentId": "analyze proportional flows or resource distribution visually; display energy or data flow with a Sankey chart"
+  },
+  "fa-diagram-subtask": {
+    "appearanceId": "parent task box with a smaller child box connected below it by a line; two vertically linked rectangular nodes where the lower box is indented or smaller",
+    "functionalityId": "adds or displays a subtask within a parent task diagram; expands a task to show its child sub-steps",
+    "intentId": "break a task into subtasks in a project plan; manage or view nested task structures"
+  },
+  "fa-diagram-successor": {
+    "appearanceId": "two connected node boxes with an arrow leading from the current box into a following node; pair of linked rectangles where the current shape points forward to the next via an arrow",
+    "functionalityId": "identifies or selects the successor task in a project diagram; navigates to the next node in a dependency chain",
+    "intentId": "review or set a task's successor in a project plan; trace the following dependency in a workflow diagram"
+  },
+  "fa-diagram-venn": {
+    "appearanceId": "two overlapping circles forming a Venn diagram with a shared intersection region in the center; pair of round shapes crossing each other to create three distinct areas",
+    "functionalityId": "creates or opens a Venn diagram to show set relationships; displays overlapping categories or data sets",
+    "intentId": "compare two overlapping data sets or categories visually; illustrate shared and distinct elements in a diagram"
+  },
+  "fa-dial": {
+    "appearanceId": "circular gauge face with a needle pointer and scale markings around the arc; round instrument dial with a central indicator needle pointing to a value on its rim",
+    "functionalityId": "adjusts a setting or value using a rotary dial control; opens a gauge or level adjustment interface",
+    "intentId": "fine-tune a parameter or setting with a dial control; monitor or adjust a measurable value on a gauge"
+  },
+  "fa-dial-high": {
+    "appearanceId": "circular dial face with a needle pointing to the upper-right high zone of the scale; round gauge with an indicator tilted toward the maximum end of the arc",
+    "functionalityId": "sets or indicates a high value on a dial control; represents a setting at the upper range of its scale",
+    "intentId": "select or observe a high setting on a rotary control; indicate a high-level parameter value"
+  },
+  "fa-dial-low": {
+    "appearanceId": "circular dial face with a needle pointing to the lower-left low zone of the scale; round gauge with an indicator tilted toward the minimum end of the arc",
+    "functionalityId": "sets or indicates a low value on a dial control; represents a setting at the lower range of its scale",
+    "intentId": "select or observe a low setting on a rotary control; indicate a low-level parameter value"
+  },
+  "fa-dial-max": {
+    "appearanceId": "circular dial face with a needle pointing fully to the far right at maximum position; round gauge with an indicator at the extreme clockwise end of the scale arc",
+    "functionalityId": "sets a dial control to its maximum value; represents the highest possible setting on a gauge",
+    "intentId": "maximize a parameter or setting to its upper limit; set a control to full or maximum output"
+  },
+  "fa-dial-med": {
+    "appearanceId": "circular dial face with a needle pointing straight up or to the center middle of the scale arc; round gauge with an indicator at the midpoint of its range",
+    "functionalityId": "sets or indicates a medium value on a dial control; represents a mid-range setting on a gauge",
+    "intentId": "select or observe a medium setting on a rotary control; indicate a moderate or balanced parameter value"
+  },
+  "fa-dial-med-low": {
+    "appearanceId": "circular dial face with a needle pointing slightly below the center toward the lower-medium zone; round gauge with an indicator between the midpoint and the low end of the arc",
+    "functionalityId": "sets or indicates a medium-low value on a dial control; represents a below-average setting on a gauge",
+    "intentId": "select a medium-low setting on a rotary control; indicate a slightly below-average parameter level"
+  },
+  "fa-dial-min": {
+    "appearanceId": "circular dial face with a needle pointing fully to the far left at minimum position; round gauge with an indicator at the extreme counterclockwise end of the scale arc",
+    "functionalityId": "sets a dial control to its minimum value; represents the lowest possible setting on a gauge",
+    "intentId": "minimize a parameter or setting to its lower limit; set a control to zero or minimum output"
+  },
+  "fa-dial-off": {
+    "appearanceId": "circular dial face with a needle pointing downward or to an off position with a circle-slash or power-off indicator; round gauge outline with an indicator at the off or null position",
+    "functionalityId": "turns off or disables a dial-controlled setting; sets a rotary control to the off or inactive state",
+    "intentId": "deactivate a dial-controlled parameter; turn off a feature or setting controlled by a rotary dial"
+  },
+  "fa-diamond": {
+    "appearanceId": "four-sided rhombus or diamond shape rotated 45 degrees forming a pointed square; a symmetrical four-cornered gem outline with equal angled sides",
+    "functionalityId": "marks an item as premium or special quality; selects or indicates a diamond-shaped element in a design",
+    "intentId": "designate a premium or high-value item; use a diamond shape as a visual marker or design element"
+  },
+  "fa-diamond-exclamation": {
+    "appearanceId": "diamond or rhombus shape containing an exclamation mark with a vertical bar and a dot at center; four-sided rotated square outline with an alert symbol inside",
+    "functionalityId": "triggers a critical warning or alert notification; indicates an urgent error or hazard in the interface",
+    "intentId": "respond to a critical warning or urgent alert; identify and address a high-priority error or hazard"
+  },
+  "fa-diamond-half": {
+    "appearanceId": "diamond or rhombus shape filled on one half and empty on the other half creating a split appearance; four-cornered rotated square bisected vertically with one side solid and one side outlined",
+    "functionalityId": "indicates a half-selected or partial status on a diamond-rated item; represents a mid-state or partial value in a rating system",
+    "intentId": "show a partial or half rating for an item; indicate an intermediate status in a diamond-scale evaluation"
+  }
+}

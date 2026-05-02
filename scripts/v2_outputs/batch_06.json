@@ -1,0 +1,242 @@
+{
+  "fa-baseball": {
+    "appearanceId": "round sphere with two curved stitching seams forming a figure-eight pattern; circular ball with red arc stitches on opposite sides",
+    "functionalityId": "tags or labels an item as baseball-related; marks content belonging to the baseball sport category",
+    "intentId": "associate content with baseball sports; browse or filter baseball-themed items"
+  },
+  "fa-baseball-bat-ball": {
+    "appearanceId": "diagonal cylindrical bat with a round sphere near the barrel end; elongated club shape positioned beside a stitched ball",
+    "functionalityId": "tags content as baseball activity; indicates a batting or hitting interaction",
+    "intentId": "navigate to baseball sport content; access bat-and-ball game features"
+  },
+  "fa-basket-shopping": {
+    "appearanceId": "open woven basket with a curved handle arching over the top; round-bottomed carrier with a looped grip",
+    "functionalityId": "opens the shopping cart or basket; displays items selected for purchase",
+    "intentId": "review collected items before checkout; manage goods added to a shopping session"
+  },
+  "fa-basket-shopping-minus": {
+    "appearanceId": "open basket with a handle and a minus symbol below or beside it; shopping carrier with a subtraction indicator",
+    "functionalityId": "removes an item from the shopping basket; decreases the quantity of a selected product",
+    "intentId": "take a product out of the current cart; reduce the number of items being purchased"
+  },
+  "fa-basket-shopping-plus": {
+    "appearanceId": "open basket with a handle and a plus symbol below or beside it; shopping carrier with an addition indicator",
+    "functionalityId": "adds an item to the shopping basket; increases the quantity of a selected product",
+    "intentId": "place a product into the current cart; add more of an item to the purchase"
+  },
+  "fa-basketball": {
+    "appearanceId": "round sphere with curved parallel lines and a vertical seam dividing it into panels; circular ball with arcing groove lines",
+    "functionalityId": "tags or filters content as basketball-related; marks items belonging to the basketball sport category",
+    "intentId": "browse basketball sport content; navigate to basketball-themed features"
+  },
+  "fa-basketball-hoop": {
+    "appearanceId": "horizontal ring with a hanging net below it, mounted on a rectangular backboard; circular rim with a mesh basket attached",
+    "functionalityId": "navigates to basketball game or scoring features; marks content related to hoops or goal scoring",
+    "intentId": "access basketball court or game tracking; view scoring or goal-related sports content"
+  },
+  "fa-bat": {
+    "appearanceId": "flying mammal silhouette with outstretched wings and pointed ears; spread-winged creature with a rounded body and angular wing membranes",
+    "functionalityId": "labels content as Halloween or nocturnal themed; tags items with a bat animal or spooky category",
+    "intentId": "navigate to Halloween or dark-theme content; apply a spooky or nature animal tag"
+  },
+  "fa-bath": {
+    "appearanceId": "rectangular tub profile with slanted back and two small feet beneath; side-view outline of a bathtub with a faucet end",
+    "functionalityId": "marks a room or amenity as containing a bathtub; filters accommodations or facilities by bathing availability",
+    "intentId": "find a bathroom or bathing facility; indicate that a space includes a full bathtub"
+  },
+  "fa-battery": {
+    "appearanceId": "horizontal rectangle representing a battery casing with a small nub terminal on the right end; outlined battery cell with a positive cap",
+    "functionalityId": "displays current battery charge level; shows remaining power percentage",
+    "intentId": "check how much battery life remains; monitor device power status"
+  },
+  "fa-battery-0": {
+    "appearanceId": "horizontal battery outline with an empty interior and a small terminal nub; completely hollow battery rectangle",
+    "functionalityId": "warns that battery charge is critically low; alerts user to connect to power immediately",
+    "intentId": "recognize that the device has no remaining charge; take action to recharge before shutdown"
+  },
+  "fa-battery-1": {
+    "appearanceId": "horizontal battery outline with a very thin filled segment on the left inside; battery rectangle with roughly one-quarter fill",
+    "functionalityId": "indicates battery charge is very low; warns that power is nearly depleted",
+    "intentId": "see that the device needs charging soon; act before power runs out"
+  },
+  "fa-battery-2": {
+    "appearanceId": "horizontal battery outline with a partially filled interior reaching about halfway; battery rectangle with roughly half fill",
+    "functionalityId": "shows battery charge at approximately half capacity; displays moderate remaining power",
+    "intentId": "gauge remaining battery life at a midpoint level; decide whether to charge the device"
+  },
+  "fa-battery-3": {
+    "appearanceId": "horizontal battery outline with interior fill reaching about three-quarters; battery rectangle mostly filled with a small empty gap on the right",
+    "functionalityId": "indicates battery charge is above half and still healthy; displays a mostly-charged power level",
+    "intentId": "confirm the device has adequate battery remaining; see that charging is not yet urgent"
+  },
+  "fa-battery-4": {
+    "appearanceId": "horizontal battery outline with fully filled interior and a small terminal nub; completely solid battery rectangle",
+    "functionalityId": "shows battery is fully charged; confirms power is at maximum capacity",
+    "intentId": "verify the device is completely charged; confirm no further charging is needed"
+  },
+  "fa-battery-bolt": {
+    "appearanceId": "horizontal battery outline with a lightning bolt shape inside the cell; battery rectangle containing a zigzag flash symbol",
+    "functionalityId": "indicates the device is actively charging; shows that power is currently being supplied",
+    "intentId": "confirm a charging connection is active; monitor that the battery is receiving power"
+  },
+  "fa-battery-car": {
+    "appearanceId": "horizontal battery outline with a small car silhouette inside; battery cell containing an automobile shape",
+    "functionalityId": "indicates vehicle battery or car power status; shows automotive power level or EV charge",
+    "intentId": "check a car or electric vehicle battery charge; monitor automotive power system status"
+  },
+  "fa-battery-exclamation": {
+    "appearanceId": "horizontal battery outline with an exclamation mark inside the cell; battery rectangle containing a warning punctuation symbol",
+    "functionalityId": "warns of a battery error or fault condition; alerts user to a problem with power or charging",
+    "intentId": "investigate a battery malfunction or alert; address a power-related warning"
+  },
+  "fa-battery-slash": {
+    "appearanceId": "horizontal battery outline crossed by a diagonal slash line; battery rectangle with a line cutting through it",
+    "functionalityId": "indicates battery is disabled or unavailable; shows that power functionality has been turned off",
+    "intentId": "disable or ignore battery monitoring; acknowledge that battery tracking is not active"
+  },
+  "fa-bed": {
+    "appearanceId": "side-view profile of a bed frame with a pillow on the mattress; rectangular sleeping surface with a headboard on one end",
+    "functionalityId": "marks a space or listing as having sleeping accommodations; filters options by bedroom availability",
+    "intentId": "find a place to sleep or rest; browse accommodation listings that include a bed"
+  },
+  "fa-bed-alt": {
+    "appearanceId": "simplified side-view bed outline with a raised headboard and flat platform; streamlined sleeping furniture profile",
+    "functionalityId": "indicates an alternative or additional bed option; marks a secondary sleeping space",
+    "intentId": "find an alternative sleeping arrangement; select a different bed type for an accommodation"
+  },
+  "fa-bed-bunk": {
+    "appearanceId": "side-view of two stacked bed frames with a ladder on one side; double-decker sleeping structure with rungs",
+    "functionalityId": "indicates bunk bed sleeping arrangements; marks accommodations with stacked beds",
+    "intentId": "find shared or multi-person sleeping rooms; select accommodations with bunk beds"
+  },
+  "fa-bed-empty": {
+    "appearanceId": "side-view bed frame with a flat mattress and no pillow or occupant; bare sleeping surface profile",
+    "functionalityId": "indicates an unoccupied or available bed; marks a sleeping space as currently free",
+    "intentId": "identify a vacant bed or room; check availability of sleeping accommodations"
+  },
+  "fa-bed-pulse": {
+    "appearanceId": "side-view bed profile with a heart-rate or pulse waveform line above it; sleeping surface with a medical monitor line",
+    "functionalityId": "indicates patient monitoring or hospital bed status; shows a medical or vital-sign tracking context",
+    "intentId": "access patient care or medical bed management; monitor health status of a resting individual"
+  },
+  "fa-bee": {
+    "appearanceId": "small insect silhouette with oval body, striped abdomen, and two pairs of wings; flying bug with antennae and wing pairs spread outward",
+    "functionalityId": "tags content related to bees or nature; marks items in an ecology or beekeeping category",
+    "intentId": "navigate to nature or pollinator content; apply a bee or insect theme label"
+  },
+  "fa-beer": {
+    "appearanceId": "tall mug silhouette with a handle on one side and a foamy top; cylindrical drinking vessel with bubbles at the rim",
+    "functionalityId": "tags content as beer or alcohol related; marks a venue or item as serving beer",
+    "intentId": "find beer or pub-related content; filter venues or products by beer availability"
+  },
+  "fa-beer-mug": {
+    "appearanceId": "large mug with a thick handle and a frothy overflowing top; heavy-sided tankard with foam spilling over the rim",
+    "functionalityId": "labels a location or listing as a beer venue; indicates beer-related products or services",
+    "intentId": "browse bars or brewery offerings; find beer-serving establishments or products"
+  },
+  "fa-bell": {
+    "appearanceId": "rounded bell shape with a domed top and a small clapper or base at the bottom; symmetrical bell silhouette with a hanging curve",
+    "functionalityId": "opens notification panel or alert center; indicates that new alerts or messages are available",
+    "intentId": "check pending notifications or alerts; access the notification center"
+  },
+  "fa-bell-concierge": {
+    "appearanceId": "small dome service bell with a button on top sitting on a flat base; rounded concierge call bell silhouette",
+    "functionalityId": "requests assistance or customer service; calls for help or a service attendant",
+    "intentId": "summon help or a service representative; request concierge or hospitality assistance"
+  },
+  "fa-bell-exclamation": {
+    "appearanceId": "bell silhouette with an exclamation mark overlaid or attached; notification bell with a warning punctuation symbol",
+    "functionalityId": "alerts the user to an urgent notification; highlights a critical or unread alert",
+    "intentId": "review an important or urgent alert; address a high-priority notification"
+  },
+  "fa-bell-on": {
+    "appearanceId": "bell silhouette with small motion lines or sound waves indicating it is ringing; active bell with vibration marks",
+    "functionalityId": "enables or activates notifications; turns on alert delivery for a channel or topic",
+    "intentId": "turn on notifications for an item or account; ensure alerts will be received going forward"
+  },
+  "fa-bell-plus": {
+    "appearanceId": "bell silhouette with a plus sign overlaid or attached at the base; notification bell with an addition symbol",
+    "functionalityId": "subscribes to or adds a new notification; creates a new alert or notification rule",
+    "intentId": "sign up for notifications on a topic; add a new alert subscription"
+  },
+  "fa-bell-ring": {
+    "appearanceId": "bell silhouette tilted slightly with arc lines on both sides indicating ringing; swinging bell with sound radiation marks",
+    "functionalityId": "triggers or plays a notification sound; indicates an active ringing alert",
+    "intentId": "hear or respond to an incoming notification; acknowledge a ringing alert"
+  },
+  "fa-bell-school": {
+    "appearanceId": "bell shape styled as a school or church tower bell with a sturdy base; traditional hanging bell with a wide lower opening",
+    "functionalityId": "indicates a school schedule event or class change; marks a bell-based timing or timetable feature",
+    "intentId": "view school timetable or period transitions; track class bell or schedule events"
+  },
+  "fa-bell-school-slash": {
+    "appearanceId": "school bell silhouette crossed by a diagonal slash line; bell shape with a line cutting through it",
+    "functionalityId": "indicates school is out or bell notifications are muted; disables school bell or schedule alerts",
+    "intentId": "mute school-related notification sounds; indicate no school or class in session"
+  },
+  "fa-bell-slash": {
+    "appearanceId": "bell silhouette crossed by a diagonal slash line; notification bell with a line cutting through it",
+    "functionalityId": "mutes or disables notifications; turns off alert delivery for a channel or topic",
+    "intentId": "stop receiving notifications for an item; silence alerts from a source"
+  },
+  "fa-bells": {
+    "appearanceId": "two bell shapes side by side, each with a small clapper; pair of rounded bells grouped together",
+    "functionalityId": "indicates festive or celebratory alerts; marks a holiday or event notification context",
+    "intentId": "access holiday or celebration-themed notifications; mark an event with a festive bell theme"
+  },
+  "fa-bench-tree": {
+    "appearanceId": "horizontal flat bench seat with legs beneath it next to a tree trunk with a rounded canopy; park bench silhouette beside a leafy tree",
+    "functionalityId": "marks a park, outdoor, or rest area location; identifies a seating area in a green space",
+    "intentId": "find a nearby park or outdoor rest area; identify a public green space with seating"
+  },
+  "fa-betamax": {
+    "appearanceId": "rectangular cassette tape body with two circular reels visible through a window cutout; vintage video tape cartridge silhouette",
+    "functionalityId": "tags content as retro or legacy video media; indicates vintage or archive video format",
+    "intentId": "access or label vintage video archive content; browse retro media collections"
+  },
+  "fa-bezier-curve": {
+    "appearanceId": "smooth S-shaped or arching curve with anchor points and control handles at each end; vector path line with two tangent handle arms",
+    "functionalityId": "activates the bezier or pen path drawing tool; edits vector curve control points",
+    "intentId": "draw or adjust a smooth vector curve; modify a path's shape using control handles"
+  },
+  "fa-bible": {
+    "appearanceId": "closed book with a cross embossed on the cover; rectangular book silhouette with a cross symbol on the front",
+    "functionalityId": "opens or links to religious scripture content; marks items with a biblical or religious category",
+    "intentId": "read or access biblical or religious texts; navigate to faith-related content"
+  },
+  "fa-bicycle": {
+    "appearanceId": "side-view bicycle silhouette with two equal wheels, frame, handlebars, and seat; two-wheeled human-powered vehicle profile",
+    "functionalityId": "indicates cycling directions or bike routes; marks a bicycle parking or rental location",
+    "intentId": "find cycling routes or bike-friendly paths; locate a bicycle rental or parking spot"
+  },
+  "fa-biking": {
+    "appearanceId": "figure of a person riding a bicycle in side-view profile; human silhouette pedaling a two-wheeled cycle",
+    "functionalityId": "indicates an active cycling activity or workout; marks bike-related fitness or recreation",
+    "intentId": "track a cycling workout or activity; browse bike riding or fitness content"
+  },
+  "fa-biking-mountain": {
+    "appearanceId": "person on a bicycle with a jagged mountain silhouette in the background; cyclist figure beside a peaked mountain outline",
+    "functionalityId": "indicates mountain biking trails or off-road cycling; marks rugged terrain bike activity",
+    "intentId": "find mountain bike trails or off-road routes; track an outdoor cycling adventure"
+  },
+  "fa-billboard": {
+    "appearanceId": "large flat rectangular panel elevated on two posts or legs; wide display board silhouette on a tall support structure",
+    "functionalityId": "displays an advertisement or public announcement; marks a promotional or signage element",
+    "intentId": "view or manage an advertising campaign; place or review a public announcement"
+  },
+  "fa-bin-bottles": {
+    "appearanceId": "rectangular bin or container with bottle outlines inside or beside it; waste receptacle silhouette with bottle shapes",
+    "functionalityId": "marks a bottle collection or disposal point; indicates a container for bottle storage",
+    "intentId": "dispose of or collect bottles in a bin; find a bottle drop-off or storage location"
+  },
+  "fa-bin-bottles-recycle": {
+    "appearanceId": "rectangular bin containing bottle shapes with a recycling arrow symbol; waste container with bottles and a circular recycle icon",
+    "functionalityId": "marks a bottle recycling drop-off point; indicates a recycling bin for bottles",
+    "intentId": "recycle bottles at a designated collection point; find the nearest bottle recycling station"
+  },
+  "fa-bin-recycle": {
+    "appearanceId": "rectangular bin or container with a circular recycling arrow symbol on it; waste receptacle with a three-arrow recycle emblem",
+    "functionalityId": "marks a recycling bin or disposal point; indicates where recyclable materials should be placed",
+    "intentId": "locate a recycling container; dispose of recyclable materials properly"
+  }
+}

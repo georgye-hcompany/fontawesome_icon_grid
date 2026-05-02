@@ -1,0 +1,242 @@
+{
+  "fa-calendar-circle-plus": {
+    "appearanceId": "calendar grid with date rows and a small circle containing a plus sign as a badge overlay; rectangular date panel with a circular add indicator",
+    "functionalityId": "creates and adds a new calendar event; schedules a new appointment on a selected date",
+    "intentId": "book a new meeting or event on the calendar; add a time slot to the schedule"
+  },
+  "fa-calendar-circle-user": {
+    "appearanceId": "calendar grid with date rows and a small circle containing a person silhouette as a badge overlay; rectangular date panel with a circular user avatar indicator",
+    "functionalityId": "assigns a calendar event to a specific user; opens a personal calendar for a selected person",
+    "intentId": "view or manage another person's schedule; link an appointment to a user account"
+  },
+  "fa-calendar-day": {
+    "appearanceId": "calendar grid with a single date cell highlighted or enlarged in the body; rectangular date panel with one day block emphasized",
+    "functionalityId": "navigates to the single-day calendar view; opens the detailed agenda for today",
+    "intentId": "focus on a specific day's events and appointments; review what is scheduled for a single date"
+  },
+  "fa-calendar-download": {
+    "appearanceId": "calendar grid with a downward-pointing arrow overlaid at the bottom; rectangular date panel with a download arrow indicator",
+    "functionalityId": "exports or downloads a calendar file or event data; saves schedule information to a local file",
+    "intentId": "save a calendar or event to a device or app; export scheduling data for offline use"
+  },
+  "fa-calendar-exclamation": {
+    "appearanceId": "calendar grid with an exclamation mark overlaid in the date area; rectangular date panel with a warning punctuation symbol",
+    "functionalityId": "flags a calendar event as urgent or requiring attention; highlights a scheduling conflict or missed appointment",
+    "intentId": "address a critical or overdue calendar item; review an urgent or flagged scheduling issue"
+  },
+  "fa-calendar-heart": {
+    "appearanceId": "calendar grid with a heart shape overlaid in the date area; rectangular date panel with a love or favorite symbol",
+    "functionalityId": "marks a calendar date as a favorite or special occasion; saves a romantic or cherished event",
+    "intentId": "highlight a loved or important date on the calendar; track an anniversary or special personal event"
+  },
+  "fa-calendar-image": {
+    "appearanceId": "calendar grid with a small landscape image or photo thumbnail overlaid in the date area; rectangular date panel with a picture symbol",
+    "functionalityId": "attaches or displays an image associated with a calendar event; opens a photo linked to a scheduled date",
+    "intentId": "view or add a photo to a calendar event; associate visual media with a specific appointment"
+  },
+  "fa-calendar-lines-pen": {
+    "appearanceId": "calendar grid with horizontal text lines in the date body and a pen nib overlay; rectangular date panel with ruled lines and an edit symbol",
+    "functionalityId": "edits or annotates a calendar event with notes; opens a note-taking or editing view for a scheduled date",
+    "intentId": "add or edit written notes for a calendar event; annotate a specific appointment with details"
+  },
+  "fa-calendar-minus": {
+    "appearanceId": "calendar grid with a minus symbol overlaid in the date area; rectangular date panel with a subtraction indicator",
+    "functionalityId": "removes or deletes a calendar event; cancels a scheduled appointment",
+    "intentId": "delete an event from the calendar; free up a time slot by removing a booking"
+  },
+  "fa-calendar-note": {
+    "appearanceId": "calendar grid with a small folded note or memo shape overlaid in the date area; rectangular date panel with a sticky note indicator",
+    "functionalityId": "adds a note or memo to a calendar date; opens the notes attached to a specific appointment",
+    "intentId": "record a reminder or note tied to a calendar date; review written memos associated with an event"
+  },
+  "fa-calendar-pen": {
+    "appearanceId": "calendar grid with a pen or pencil nib overlaid in the date area; rectangular date panel with an editing instrument symbol",
+    "functionalityId": "edits an existing calendar event or appointment; opens the calendar entry for modification",
+    "intentId": "update or change the details of a scheduled event; modify a booking on the calendar"
+  },
+  "fa-calendar-plus": {
+    "appearanceId": "calendar grid with a plus sign overlaid in the date area; rectangular date panel with an addition symbol",
+    "functionalityId": "creates a new calendar event or appointment; adds a new entry to the schedule",
+    "intentId": "book a new event or meeting on the calendar; add something new to the schedule"
+  },
+  "fa-calendar-range": {
+    "appearanceId": "calendar grid with a horizontal span or bracket highlighting multiple date cells; rectangular date panel with a multi-day selection indicator",
+    "functionalityId": "selects or defines a date range for filtering or scheduling; sets a start and end date for an event or period",
+    "intentId": "specify a multi-day time span for a booking or search; define a range of dates for an event or vacation"
+  },
+  "fa-calendar-star": {
+    "appearanceId": "calendar grid with a star shape overlaid in the date area; rectangular date panel with a highlighted or starred symbol",
+    "functionalityId": "marks a calendar date as starred or high priority; features a special event on the schedule",
+    "intentId": "highlight an important or featured date on the calendar; flag a special occasion for easy reference"
+  },
+  "fa-calendar-time": {
+    "appearanceId": "calendar grid with a clock face overlaid in the date area; rectangular date panel with a circular time indicator",
+    "functionalityId": "opens the date-and-time picker for an event; sets both the date and specific time for a scheduled appointment",
+    "intentId": "schedule an event at a precise date and time; configure both the day and hour for an appointment"
+  },
+  "fa-calendar-times": {
+    "appearanceId": "calendar grid with an X or times symbol overlaid in the date area; rectangular date panel with a cross or close mark",
+    "functionalityId": "cancels or removes a calendar event; clears a scheduled entry from the date",
+    "intentId": "cancel or delete an event from the calendar; clear a time slot of a scheduled commitment"
+  },
+  "fa-calendar-upload": {
+    "appearanceId": "calendar grid with an upward-pointing arrow overlaid at the top; rectangular date panel with an upload arrow indicator",
+    "functionalityId": "uploads or imports a calendar file or event data; syncs schedule information to a remote service",
+    "intentId": "share or sync a calendar to a cloud service; import schedule data from a file"
+  },
+  "fa-calendar-users": {
+    "appearanceId": "calendar grid with two small person silhouettes overlaid in the date area; rectangular date panel with a group or team avatar indicator",
+    "functionalityId": "opens a shared or group calendar for multiple users; schedules an event with invited participants",
+    "intentId": "coordinate a meeting or event across multiple people; view a team or shared group schedule"
+  },
+  "fa-calendar-week": {
+    "appearanceId": "calendar grid with a full row of date cells highlighted to represent a week span; rectangular date panel with a seven-day band emphasized",
+    "functionalityId": "switches to the weekly calendar view; displays all events within a seven-day window",
+    "intentId": "review the week's schedule at a glance; plan or organize events across an entire week"
+  },
+  "fa-calendars": {
+    "appearanceId": "two calendar grid panels overlapping or placed side by side; pair of rectangular date panels stacked slightly offset",
+    "functionalityId": "opens or compares multiple calendars simultaneously; switches between or merges different calendar views",
+    "intentId": "manage or compare multiple calendars at once; view overlapping schedules from different sources"
+  },
+  "fa-camcorder": {
+    "appearanceId": "elongated rectangular video camera body with a lens barrel on one end and a grip handle below; handheld camcorder silhouette with protruding lens tube",
+    "functionalityId": "starts or accesses video recording functionality; opens the camcorder or video capture tool",
+    "intentId": "record a video clip or session; access video camera controls for capturing footage"
+  },
+  "fa-camera": {
+    "appearanceId": "rectangular camera body with a circular lens centered on the front and a small viewfinder bump on top; compact camera silhouette with a round lens opening",
+    "functionalityId": "opens the camera to take a photo; captures a still image",
+    "intentId": "take a picture or photograph something; access the device camera for image capture"
+  },
+  "fa-camera-circle": {
+    "appearanceId": "rectangular camera body with a circular lens, enclosed within or overlaid on a large circle outline; camera silhouette inside a circular frame",
+    "functionalityId": "opens a circular or profile photo capture mode; captures an image formatted for a round avatar or emblem",
+    "intentId": "take a photo for a circular profile picture; capture an image in a round-frame format"
+  },
+  "fa-camera-home": {
+    "appearanceId": "rectangular camera body with a house or home symbol overlaid or attached; compact camera silhouette combined with a rooftop gable shape",
+    "functionalityId": "accesses a home security or indoor surveillance camera; opens the smart home camera feed",
+    "intentId": "monitor the home with a security camera; view a live or recorded home surveillance feed"
+  },
+  "fa-camera-movie": {
+    "appearanceId": "rectangular camera body with a film strip or clapperboard element overlaid; compact camera silhouette combined with a cinema or film symbol",
+    "functionalityId": "opens a movie or video recording mode; accesses cinematic or film-quality capture settings",
+    "intentId": "record a cinematic-quality video; access movie-making or film capture features"
+  },
+  "fa-camera-polaroid": {
+    "appearanceId": "boxy camera body with a wide white-bordered photo emerging from the bottom slot; polaroid camera silhouette with an ejected print beneath",
+    "functionalityId": "takes a photo and instantly prints or exports it; opens instant photo capture mode",
+    "intentId": "create an instant print-style photo; capture and immediately output a retro-style snapshot"
+  },
+  "fa-camera-retro": {
+    "appearanceId": "boxy vintage camera body with a circular lens, visible film rewind knob on top, and a rectangular flash bracket; classic analog camera silhouette with period-style details",
+    "functionalityId": "applies a retro or vintage filter to a photo; opens a classic-style photo capture mode",
+    "intentId": "give photos a vintage or old-fashioned aesthetic; access retro photography effects or modes"
+  },
+  "fa-camera-rotate": {
+    "appearanceId": "rectangular camera body with a circular rotation arrow overlaid on or around it; camera silhouette with a curved flip or rotate indicator",
+    "functionalityId": "flips between front and rear camera; switches the active camera lens direction",
+    "intentId": "change which camera lens is active for capture; toggle between selfie and rear-facing cameras"
+  },
+  "fa-camera-slash": {
+    "appearanceId": "rectangular camera body crossed by a diagonal slash line; compact camera silhouette with a line cutting through it",
+    "functionalityId": "disables or turns off the camera; blocks camera access for a session or application",
+    "intentId": "prevent camera use or block video access; confirm that the camera is switched off or unavailable"
+  },
+  "fa-campfire": {
+    "appearanceId": "two crossed logs beneath a cluster of rising flame shapes; bonfire silhouette with stacked wood and flickering fire",
+    "functionalityId": "marks a campfire or outdoor fire location; activates a campfire ambiance or outdoor scene feature",
+    "intentId": "find a camping spot with a fire pit; represent an outdoor or wilderness atmosphere"
+  },
+  "fa-campground": {
+    "appearanceId": "triangular tent silhouette with a pointed peak and wide base, often beside a tree or flag; camping tent outline on open ground",
+    "functionalityId": "marks a campground or tent camping location on a map; navigates to camping site information",
+    "intentId": "find a campground or outdoor camping area; plan a camping trip by locating tent sites"
+  },
+  "fa-can-food": {
+    "appearanceId": "cylindrical tin can with a lid ring on top and a label band around the middle; round-topped food canister silhouette",
+    "functionalityId": "marks an item as canned food or pantry goods; indicates preserved or non-perishable food content",
+    "intentId": "find or catalog canned or pantry food items; represent shelf-stable food in a grocery or inventory context"
+  },
+  "fa-candle-holder": {
+    "appearanceId": "cylindrical candle sitting in a round base holder with a flame at the top; upright taper candle with a small dish or base beneath",
+    "functionalityId": "marks a candle or ambient lighting element; activates a candle or mood lighting feature",
+    "intentId": "represent ambient or atmospheric lighting; set a cozy or ceremonial mood with candle imagery"
+  },
+  "fa-candy": {
+    "appearanceId": "round wrapped sweet with twisted paper ends on both sides; spherical hard candy with a pinched wrapper at each end",
+    "functionalityId": "tags content as sweet or candy-themed; marks a treat, reward, or confectionery item",
+    "intentId": "represent a sweet treat or confectionery reward; add a candy or playful dessert theme to content"
+  },
+  "fa-candy-bar": {
+    "appearanceId": "rectangular chocolate bar shape with segmented score lines across the surface; flat oblong sweet block with division grooves",
+    "functionalityId": "tags content as a chocolate or candy bar item; marks a snack or confectionery product",
+    "intentId": "represent a chocolate or candy snack; label a food item as a sweet candy bar"
+  },
+  "fa-candy-cane": {
+    "appearanceId": "J-shaped striped stick candy with a curved hook at the top; hooked confectionery rod with diagonal stripe marks",
+    "functionalityId": "marks content as Christmas or holiday-themed; inserts a candy cane symbol into festive content",
+    "intentId": "represent a Christmas or winter holiday theme; add a festive candy cane decoration to seasonal content"
+  },
+  "fa-candy-corn": {
+    "appearanceId": "triangular kernel shape with three horizontal color bands tapering to a point; candy corn silhouette with layered bands",
+    "functionalityId": "marks content as Halloween or autumn-themed; tags an item as candy corn or seasonal confectionery",
+    "intentId": "represent a Halloween or fall seasonal theme; add a candy corn motif to holiday content"
+  },
+  "fa-cannabis": {
+    "appearanceId": "symmetrical multi-pointed leaf with deeply serrated lobes radiating from a central stem; fan-shaped cannabis leaf silhouette",
+    "functionalityId": "tags content as cannabis or hemp-related; marks a product or service in a cannabis category",
+    "intentId": "represent cannabis or hemp industry content; categorize a product in the legal cannabis space"
+  },
+  "fa-cannon": {
+    "appearanceId": "cylindrical barrel mounted on a wheeled carriage frame pointing diagonally; historic artillery piece silhouette on a two-wheeled mount",
+    "functionalityId": "triggers a launch or fire action; initiates a force or projectile-based feature",
+    "intentId": "launch or send something with force; represent a historical or war game element"
+  },
+  "fa-capsules": {
+    "appearanceId": "two oval pill capsules overlapping or placed side by side at an angle; elongated two-toned medication capsule shapes",
+    "functionalityId": "opens medication or prescription management; logs or tracks capsule or pill intake",
+    "intentId": "manage medications and dosage records; track a prescription or supplement regimen"
+  },
+  "fa-car": {
+    "appearanceId": "side-view sedan silhouette with a curved roofline, four wheels, and a streamlined body; standard automobile profile with passenger cabin and wheel arches",
+    "functionalityId": "indicates driving directions or vehicle navigation; selects car as a travel or transportation mode",
+    "intentId": "get driving directions to a destination; choose car or automobile as the travel method"
+  },
+  "fa-car-alt": {
+    "appearanceId": "simplified side-view car silhouette with a boxy or slightly rounded body and four wheels; alternative vehicle profile with a flatter roofline",
+    "functionalityId": "selects an alternative vehicle type or car option; switches the transport mode to a different car style",
+    "intentId": "choose a different vehicle category for navigation; represent an alternate car type in a transport selector"
+  },
+  "fa-car-bolt": {
+    "appearanceId": "side-view car silhouette with a lightning bolt symbol overlaid on or beside the body; vehicle profile with an electric flash badge",
+    "functionalityId": "indicates or selects an electric vehicle option; navigates to EV charging or electric car features",
+    "intentId": "find or choose an electric vehicle; access electric car charging or range information"
+  },
+  "fa-car-building": {
+    "appearanceId": "side-view car silhouette placed in front of or beside a multi-story building outline; vehicle profile combined with a building facade",
+    "functionalityId": "navigates to a parking garage or car-park facility; indicates a vehicle and building combined location",
+    "intentId": "find a parking structure or multi-story car park; locate vehicle storage at a building"
+  },
+  "fa-car-bump": {
+    "appearanceId": "side-view car silhouette with a pronounced front bumper or impact shape on one end; vehicle profile with an exaggerated bumper component",
+    "functionalityId": "reports or flags a vehicle collision or bump event; logs a car damage or impact incident",
+    "intentId": "document a minor collision or car bump incident; report vehicle damage after an impact"
+  },
+  "fa-car-burst": {
+    "appearanceId": "side-view car silhouette surrounded by jagged burst or explosion shapes; vehicle profile with starburst or impact shards radiating outward",
+    "functionalityId": "reports a vehicle accident or crash event; flags an emergency or severe collision incident",
+    "intentId": "report or document a serious car crash; signal an emergency involving a vehicle"
+  },
+  "fa-car-bus": {
+    "appearanceId": "side-view bus silhouette with a tall rectangular body, multiple windows, and large wheels; elongated public transit vehicle profile",
+    "functionalityId": "selects bus as a public transit travel mode; navigates to bus routes or stop information",
+    "intentId": "find a bus route or public transit option; choose bus travel for navigation directions"
+  },
+  "fa-car-circle-bolt": {
+    "appearanceId": "side-view car silhouette with a small circle containing a lightning bolt as a badge overlay; vehicle profile with a circular electric indicator",
+    "functionalityId": "indicates an electric vehicle with a circular EV status badge; navigates to electric car charging or status features",
+    "intentId": "check or select an electric vehicle's charge status; access EV-specific features through a circular badge indicator"
+  }
+}

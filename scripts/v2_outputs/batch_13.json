@@ -1,0 +1,242 @@
+{
+  "fa-cassette-tape": {
+    "appearanceId": "rectangular cassette body with two circular reels visible through a cutout window and a row of small holes along the bottom edge; audio tape cartridge outline with dual spool openings",
+    "functionalityId": "plays or manages a recorded audio tape; opens a retro or archival audio playback feature",
+    "intentId": "access or play a cassette tape recording; work with legacy or nostalgic audio media"
+  },
+  "fa-castle": {
+    "appearanceId": "stone fortress silhouette with multiple towers, crenellated battlements, and an arched gatehouse entry; medieval fortification outline with turrets and parapets",
+    "functionalityId": "navigates to a castle, fortress, or medieval landmark on a map; represents a heritage or history-related category",
+    "intentId": "explore or locate a castle or historic fortification; access medieval history or heritage content"
+  },
+  "fa-cat": {
+    "appearanceId": "sitting or walking cat silhouette with pointed ears, a curved tail, and whisker lines; feline animal profile outline",
+    "functionalityId": "tags content as cat-related or pet-friendly; filters results by feline or small-animal category",
+    "intentId": "find or manage cat or pet-related content; represent a feline animal in a listing or profile"
+  },
+  "fa-cat-space": {
+    "appearanceId": "cat silhouette wearing a rounded astronaut helmet or space suit; feline outline with a circular visor and space gear",
+    "functionalityId": "represents a playful or themed space-cat category; activates a novelty or fun themed feature",
+    "intentId": "access whimsical or space-themed content; indicate a fun or novelty pet-and-space category"
+  },
+  "fa-cauldron": {
+    "appearanceId": "round-bellied pot with two side handles sitting on three stubby legs, with wavy lines indicating steam or liquid; large hemispherical cooking vessel outline",
+    "functionalityId": "indicates a brewing, cooking, or crafting action; opens a recipe or potion-mixing feature",
+    "intentId": "brew a potion, cook a recipe, or access a crafting feature; represent a mixing or concoction process"
+  },
+  "fa-cctv": {
+    "appearanceId": "dome or box-shaped camera body mounted on a bracket arm with a lens protruding forward; surveillance camera silhouette on a wall-mount support",
+    "functionalityId": "opens a security camera feed or CCTV monitoring view; manages surveillance camera settings",
+    "intentId": "monitor a space via security camera; access or review CCTV footage"
+  },
+  "fa-cedi-sign": {
+    "appearanceId": "uppercase letter C with two horizontal parallel lines crossing through its center; currency symbol with double-stroke through a curved letter",
+    "functionalityId": "inserts or displays the Ghanaian cedi currency symbol; labels a monetary value in cedis",
+    "intentId": "represent a price or amount in Ghanaian cedis; format a financial value in the cedi currency"
+  },
+  "fa-cent-sign": {
+    "appearanceId": "lowercase letter c with a single vertical line crossing through its center from top to bottom; cent currency symbol with a vertical stroke",
+    "functionalityId": "inserts or displays the cent currency symbol; labels a small monetary denomination in cents",
+    "intentId": "represent a price or amount in cents; format a financial value as a fractional currency unit"
+  },
+  "fa-certificate": {
+    "appearanceId": "starburst or multi-pointed radial badge shape with jagged or scalloped outer edges; award seal outline with many short radiating points",
+    "functionalityId": "indicates a certification, badge, or verified status; marks content as officially certified or awarded",
+    "intentId": "view or share a certificate or credential; indicate official verification or award status"
+  },
+  "fa-chair": {
+    "appearanceId": "side-profile dining or standard chair with a backrest, seat, and four legs; simple seating furniture silhouette",
+    "functionalityId": "indicates a seating or furniture item in a listing; marks a chair product or room furnishing option",
+    "intentId": "select or view a chair or seating item; browse furniture or interior design options"
+  },
+  "fa-chair-office": {
+    "appearanceId": "side-profile office chair with a high backrest, armrests, a seat cushion, and a wheeled base pedestal; ergonomic swivel chair silhouette",
+    "functionalityId": "indicates an office chair or ergonomic seating product; marks a workstation furniture item",
+    "intentId": "select or configure an office chair; browse ergonomic or workplace seating options"
+  },
+  "fa-chalkboard-user": {
+    "appearanceId": "rectangular board with a person silhouette standing in front of or beside it; presentation board with a human figure overlay",
+    "functionalityId": "opens a teaching, training, or instructor-led session; navigates to a classroom or lesson management view",
+    "intentId": "access an instructional or teaching session; manage a class or learning presentation"
+  },
+  "fa-champagne-glass": {
+    "appearanceId": "tall flute glass with a long narrow stem, a small flat base, and a slender elongated bowl; champagne or sparkling wine glass silhouette",
+    "functionalityId": "marks a celebratory event, toast, or special occasion; filters content related to parties or celebrations",
+    "intentId": "celebrate an event or milestone; find or tag party or celebration content"
+  },
+  "fa-charging-station": {
+    "appearanceId": "upright rectangular kiosk or cabinet with a power plug or connector symbol on its face; electric vehicle charging station silhouette with a cable or plug icon",
+    "functionalityId": "locates a nearby electric vehicle charging station; opens EV charging status or management settings",
+    "intentId": "find or navigate to an EV charging point; monitor or manage electric vehicle charging"
+  },
+  "fa-chart-bullet": {
+    "appearanceId": "horizontal stacked bar segments of varying lengths with a thin vertical marker line overlaid; layered horizontal bars with a target indicator stroke",
+    "functionalityId": "displays a bullet chart comparing a measure against a target; shows performance progress relative to a goal",
+    "intentId": "compare actual versus target performance metrics; visualize progress toward a quantitative goal"
+  },
+  "fa-chart-candlestick": {
+    "appearanceId": "vertical rectangles of different heights with thin lines extending from their tops and bottoms arranged in a row; candlestick OHLC chart columns with wicks",
+    "functionalityId": "displays candlestick price data for a financial instrument; shows open, high, low, and close values over time",
+    "intentId": "analyze price movement of a stock or asset; review trading data in candlestick format"
+  },
+  "fa-chart-column": {
+    "appearanceId": "several vertical rectangular bars of varying heights rising from a horizontal baseline; standard column bar chart silhouette",
+    "functionalityId": "displays data as a vertical bar chart; shows comparative values across categories",
+    "intentId": "visualize and compare categorical data values; review a bar chart summary of metrics"
+  },
+  "fa-chart-diagram": {
+    "appearanceId": "nodes connected by lines in a flowchart or network diagram layout; boxes or circles linked with directional arrows",
+    "functionalityId": "opens a diagram or flowchart builder; displays a structured node-and-edge relationship chart",
+    "intentId": "map out a process flow or system architecture; create or view a diagram of connected elements"
+  },
+  "fa-chart-fft": {
+    "appearanceId": "series of vertical spikes or narrow bars of varying heights on a frequency axis baseline; spectral frequency domain signal plot",
+    "functionalityId": "displays a Fast Fourier Transform frequency spectrum chart; visualizes signal frequency components",
+    "intentId": "analyze frequency content of a signal; review spectral data in an FFT visualization"
+  },
+  "fa-chart-gantt": {
+    "appearanceId": "horizontal bars of varying lengths arranged in staggered rows on a timeline grid; project schedule bar chart with rows and time columns",
+    "functionalityId": "displays a Gantt project timeline with task durations; shows task scheduling and dependencies over time",
+    "intentId": "plan or review a project schedule and task timeline; manage project phases and deadlines"
+  },
+  "fa-chart-kanban": {
+    "appearanceId": "vertical columns each containing small stacked rectangular cards of varying heights; kanban board layout with column lanes and task card blocks",
+    "functionalityId": "displays a kanban board with task cards in status columns; organizes work items by workflow stage",
+    "intentId": "manage tasks visually across workflow stages; track work-in-progress on a kanban board"
+  },
+  "fa-chart-line": {
+    "appearanceId": "jagged or curved line connecting data points plotted on an x-y axis grid; single-line time series graph",
+    "functionalityId": "displays data as a line chart over time; shows trends and changes across a continuous series",
+    "intentId": "track a metric trend over time; review a time-series or trend line chart"
+  },
+  "fa-chart-line-down": {
+    "appearanceId": "descending line connecting data points trending downward from left to right on an axis; line chart with a negative slope",
+    "functionalityId": "displays a declining trend line chart; shows a metric decreasing over time",
+    "intentId": "review a downward trend or decline in data; track a falling metric over a time period"
+  },
+  "fa-chart-line-up": {
+    "appearanceId": "ascending line connecting data points trending upward from left to right on an axis; line chart with a positive slope",
+    "functionalityId": "displays a rising trend line chart; shows a metric increasing over time",
+    "intentId": "review an upward trend or growth in data; track an improving metric over a time period"
+  },
+  "fa-chart-line-up-down": {
+    "appearanceId": "zigzag line with both upward and downward segments plotted on an axis; fluctuating line chart with mixed positive and negative slopes",
+    "functionalityId": "displays a volatile or mixed-direction trend line chart; shows a metric with both rises and falls over time",
+    "intentId": "analyze a fluctuating or volatile data trend; review mixed-direction changes in a metric"
+  },
+  "fa-chart-mixed-up-circle-currency": {
+    "appearanceId": "combination chart with bar columns and a line overlaid, with a small circle badge showing a generic currency symbol; mixed bar-and-line chart with a currency indicator",
+    "functionalityId": "displays a mixed chart combining bars and a trend line with a currency context; shows financial performance across multiple chart types",
+    "intentId": "analyze financial data combining bar and line visualizations; review revenue or cost metrics in a mixed chart"
+  },
+  "fa-chart-mixed-up-circle-dollar": {
+    "appearanceId": "combination chart with bar columns and a line overlaid, with a small circle badge showing a dollar sign; mixed bar-and-line chart with a dollar currency indicator",
+    "functionalityId": "displays a mixed chart combining bars and a trend line in USD context; shows dollar-denominated performance across multiple chart types",
+    "intentId": "analyze dollar-value financial data in a combined bar-and-line chart; review USD revenue or budget metrics"
+  },
+  "fa-chart-network": {
+    "appearanceId": "multiple nodes depicted as circles connected by lines in a web-like graph layout; network graph with nodes and edges radiating outward",
+    "functionalityId": "displays a network relationship or graph chart; visualizes connections between entities or nodes",
+    "intentId": "explore relationships and connections in a data network; analyze a graph of linked entities"
+  },
+  "fa-chart-pie": {
+    "appearanceId": "full circle divided into wedge-shaped segments of varying sizes; standard pie chart with a visible slice boundary",
+    "functionalityId": "displays data as a pie chart; shows proportional breakdown of values across categories",
+    "intentId": "understand relative proportions of categories; review a pie chart distribution of data"
+  },
+  "fa-chart-pie-alt": {
+    "appearanceId": "circle divided into segments with one slice pulled out or offset from the main body; exploded pie chart with a detached wedge",
+    "functionalityId": "displays an exploded pie chart with a highlighted segment; emphasizes one slice of a proportional breakdown",
+    "intentId": "highlight a specific category in a pie chart; draw attention to one segment of a data distribution"
+  },
+  "fa-chart-pie-simple-circle-currency": {
+    "appearanceId": "simplified pie chart circle divided into two or three wedges with a small circle badge showing a generic currency symbol; minimal pie chart with a currency indicator badge",
+    "functionalityId": "displays a simplified pie chart with a currency context indicator; shows a basic proportional breakdown of financial values",
+    "intentId": "review a high-level financial proportion chart; understand currency-based share distribution at a glance"
+  },
+  "fa-chart-pie-simple-circle-dollar": {
+    "appearanceId": "simplified pie chart circle divided into two or three wedges with a small circle badge showing a dollar sign; minimal pie chart with a dollar currency badge",
+    "functionalityId": "displays a simplified pie chart with a dollar currency indicator; shows a basic proportional breakdown of USD values",
+    "intentId": "review a high-level dollar-value proportion chart; understand USD share distribution at a glance"
+  },
+  "fa-chart-pyramid": {
+    "appearanceId": "stacked horizontal bars decreasing in width from bottom to top forming a triangular pyramid shape; layered pyramid or funnel chart tapering upward",
+    "functionalityId": "displays data as a pyramid chart with hierarchical layers; shows proportional distribution across ranked tiers",
+    "intentId": "visualize a hierarchical breakdown or population pyramid; review tier-based data distribution"
+  },
+  "fa-chart-radar": {
+    "appearanceId": "polygon with multiple vertices connected by lines forming a web or spider shape on a radial axis grid; radar or spider chart outline with concentric polygonal rings",
+    "functionalityId": "displays data as a radar or spider chart across multiple axes; compares multivariate values on a radial grid",
+    "intentId": "compare performance across multiple dimensions simultaneously; review a multi-axis radar chart of attributes"
+  },
+  "fa-chart-scatter": {
+    "appearanceId": "small dots or points scattered across an x-y plane without connecting lines; scatter plot with individual data point markers",
+    "functionalityId": "displays data as a scatter plot showing point distribution; reveals correlation or clustering between two variables",
+    "intentId": "explore the relationship or correlation between two variables; analyze data point distribution in a scatter chart"
+  },
+  "fa-chart-scatter-3d": {
+    "appearanceId": "small dots distributed in a three-dimensional perspective space with x, y, and z axes suggested; 3D scatter plot with points in a cubic grid",
+    "functionalityId": "displays data as a three-dimensional scatter plot; shows distribution and correlation across three variables",
+    "intentId": "explore relationships across three data dimensions; analyze a 3D point cloud visualization"
+  },
+  "fa-chart-scatter-bubble": {
+    "appearanceId": "circles of varying sizes scattered across an x-y plane, where circle diameter encodes a third value; bubble chart with sized circular markers at plotted positions",
+    "functionalityId": "displays data as a bubble chart with size-encoded third variable; shows relationships across three dimensions using sized circles",
+    "intentId": "compare three variables simultaneously in a bubble chart; analyze data where size represents a quantitative dimension"
+  },
+  "fa-chart-simple": {
+    "appearanceId": "two or three vertical bars of different heights side by side on a baseline; minimal column bar chart silhouette",
+    "functionalityId": "displays data as a simple bar chart; shows a quick visual comparison of values",
+    "intentId": "get a quick overview of comparative data; view a basic bar chart summary"
+  },
+  "fa-chart-simple-horizontal": {
+    "appearanceId": "two or three horizontal bars of different lengths stacked on a vertical baseline; minimal horizontal bar chart silhouette",
+    "functionalityId": "displays data as a simple horizontal bar chart; shows a quick visual comparison of values along a horizontal axis",
+    "intentId": "compare category values in a horizontal bar chart; view a basic sideways bar chart summary"
+  },
+  "fa-chart-sine": {
+    "appearanceId": "smooth S-shaped wave curve oscillating above and below a horizontal center line; sinusoidal waveform line on an axis",
+    "functionalityId": "displays a sine wave or oscillating signal chart; visualizes a periodic or waveform data series",
+    "intentId": "analyze a periodic signal or oscillation pattern; visualize wave-based or cyclic data"
+  },
+  "fa-chart-tree-map": {
+    "appearanceId": "large rectangle subdivided into nested smaller rectangles of varying proportional sizes filling the entire area; treemap grid of proportionally sized nested cells",
+    "functionalityId": "displays data as a treemap with nested proportional rectangles; shows hierarchical part-to-whole relationships",
+    "intentId": "explore hierarchical data proportions in a treemap view; review nested category sizes at a glance"
+  },
+  "fa-chart-user": {
+    "appearanceId": "bar or line chart combined with a small person silhouette figure overlay; data chart with a user or person indicator badge",
+    "functionalityId": "displays user analytics or per-person metrics in a chart; shows data visualizations tied to user activity",
+    "intentId": "review analytics or performance data for a specific user; access user-level reporting charts"
+  },
+  "fa-chart-waterfall": {
+    "appearanceId": "series of vertical bars alternating above and below a floating baseline, with connector lines linking the bar tops; waterfall chart columns stepping up and down from a running total",
+    "functionalityId": "displays a waterfall chart showing cumulative running totals; visualizes incremental positive and negative contributions",
+    "intentId": "analyze how individual factors contribute to a cumulative total; review a breakdown of gains and losses in a waterfall chart"
+  },
+  "fa-check": {
+    "appearanceId": "simple diagonal checkmark stroke angled upward from left to right with a short left leg and longer right stroke; plain tick mark shape",
+    "functionalityId": "confirms or marks an item as complete or selected; toggles a task or option to a done state",
+    "intentId": "mark a task or item as completed; confirm a selection or approval"
+  },
+  "fa-check-circle": {
+    "appearanceId": "checkmark enclosed inside a full circle border; tick mark centered within a circular outline",
+    "functionalityId": "confirms a successful action or verified state; marks an item as approved or complete within a circular badge",
+    "intentId": "indicate successful completion or approval with a circular badge; confirm a verified or done status"
+  },
+  "fa-check-double": {
+    "appearanceId": "two overlapping checkmark strokes side by side creating a double tick; pair of diagonal check strokes layered together",
+    "functionalityId": "indicates a double-confirmed or read receipt status; marks content as verified or delivered twice",
+    "intentId": "confirm that a message was read or an action was double-verified; indicate a delivered and seen receipt"
+  },
+  "fa-check-square": {
+    "appearanceId": "checkmark enclosed inside a square border; tick mark centered within a rectangular outline",
+    "functionalityId": "toggles a checkbox to its checked or selected state; confirms an option or list item within a square form control",
+    "intentId": "select or confirm a checkbox option; mark a form field or list item as chosen"
+  },
+  "fa-cheese": {
+    "appearanceId": "wedge-shaped triangle of cheese with circular holes scattered across its surface; triangular dairy block silhouette with Swiss-style round cutouts",
+    "functionalityId": "tags food content as dairy or cheese-related; labels a recipe or menu item as containing cheese",
+    "intentId": "find or categorize cheese or dairy content; represent a cheese item in a food or recipe listing"
+  }
+}

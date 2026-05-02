@@ -1,0 +1,242 @@
+{
+  "fa-face-glasses": {
+    "appearanceId": "round face wearing rectangular glasses, neutral expression",
+    "functionalityId": "indicate a bespectacled person",
+    "intentId": "represent a glasses-wearing user"
+  },
+  "fa-face-hand-over-mouth": {
+    "appearanceId": "round face with hand covering mouth, wide-open eyes",
+    "functionalityId": "express shock or surprise",
+    "intentId": "react with stunned silence"
+  },
+  "fa-face-hand-peeking": {
+    "appearanceId": "round face with hands raised to sides of head, wide-open eyes peeking over",
+    "functionalityId": "express nervous peeking or watching",
+    "intentId": "convey anxious anticipation"
+  },
+  "fa-face-hand-yawn": {
+    "appearanceId": "round face with hand raised to open yawning mouth, half-lidded eyes",
+    "functionalityId": "express boredom or tiredness",
+    "intentId": "indicate fatigue or disinterest"
+  },
+  "fa-face-head-bandage": {
+    "appearanceId": "round face with bandage wrapped around top of head, pained expression",
+    "functionalityId": "indicate injury or headache",
+    "intentId": "report pain or physical discomfort"
+  },
+  "fa-face-holding-back-tears": {
+    "appearanceId": "round face with quivering lower lip, wide glistening eyes holding back tears",
+    "functionalityId": "express suppressed sadness",
+    "intentId": "convey deeply moved or emotional state"
+  },
+  "fa-face-hushed": {
+    "appearanceId": "round face with wide-open eyes and small open O mouth, surprised quiet expression",
+    "functionalityId": "express hushed surprise or awe",
+    "intentId": "react with speechless astonishment"
+  },
+  "fa-face-icicles": {
+    "appearanceId": "round face with icicles hanging from chin and bottom, cold shivering expression",
+    "functionalityId": "express extreme coldness",
+    "intentId": "indicate freezing temperature or discomfort"
+  },
+  "fa-face-kiss-closed-eyes": {
+    "appearanceId": "round face with closed eyes and puckered lips forming a kiss",
+    "functionalityId": "send affection or a kiss",
+    "intentId": "express love or romantic affection"
+  },
+  "fa-face-lying": {
+    "appearanceId": "round face with elongated growing nose, neutral or smug expression",
+    "functionalityId": "flag dishonesty or deception",
+    "intentId": "indicate someone is lying or untruthful"
+  },
+  "fa-face-mask": {
+    "appearanceId": "round face with surgical mask covering lower half, eyes visible above",
+    "functionalityId": "indicate mask-wearing or health safety",
+    "intentId": "signal health protection or illness"
+  },
+  "fa-face-melting": {
+    "appearanceId": "round face with features drooping and melting downward, distorted asymmetric expression",
+    "functionalityId": "express overwhelm or extreme heat",
+    "intentId": "convey meltdown or surreal discomfort"
+  },
+  "fa-face-monocle": {
+    "appearanceId": "round face wearing a monocle over one eye, raised eyebrow expression",
+    "functionalityId": "express skepticism or scrutiny",
+    "intentId": "signal critical examination or doubt"
+  },
+  "fa-face-nauseated": {
+    "appearanceId": "round face with green tinge, wavy mouth and half-lidded uncomfortable eyes",
+    "functionalityId": "express nausea or sickness",
+    "intentId": "indicate feeling ill or disgusted"
+  },
+  "fa-face-nose-steam": {
+    "appearanceId": "round face with steam or smoke puffing from nostrils, angry eyes",
+    "functionalityId": "express anger or frustration",
+    "intentId": "convey fuming rage or intense irritation"
+  },
+  "fa-face-party": {
+    "appearanceId": "round face with party hat on top and confetti around, wide grin",
+    "functionalityId": "celebrate an event or milestone",
+    "intentId": "express festive excitement or celebration"
+  },
+  "fa-face-pensive": {
+    "appearanceId": "round face with downcast eyes and slight frown, sad contemplative expression",
+    "functionalityId": "express sadness or deep thought",
+    "intentId": "convey melancholy or reflective mood"
+  },
+  "fa-face-persevering": {
+    "appearanceId": "round face with furrowed brows, closed tight eyes and grimacing mouth under strain",
+    "functionalityId": "express struggle or determination",
+    "intentId": "convey pushing through difficulty"
+  },
+  "fa-face-pleading": {
+    "appearanceId": "round face with large upward-tilted puppy eyes and small frown, begging expression",
+    "functionalityId": "express pleading or begging",
+    "intentId": "ask with earnest desperation"
+  },
+  "fa-face-pouting": {
+    "appearanceId": "round face with furrowed brows and pronounced pout or sulky frown",
+    "functionalityId": "express displeasure or sulking",
+    "intentId": "convey childlike frustration or annoyance"
+  },
+  "fa-face-raised-eyebrow": {
+    "appearanceId": "round face with one eyebrow raised, skeptical or questioning expression",
+    "functionalityId": "express skepticism or inquiry",
+    "intentId": "signal doubt or curious questioning"
+  },
+  "fa-face-relieved": {
+    "appearanceId": "round face with closed happy eyes and relaxed smile, sweat drop on brow",
+    "functionalityId": "express relief or reassurance",
+    "intentId": "convey stress resolved or danger passed"
+  },
+  "fa-face-sad-sweat": {
+    "appearanceId": "round face with sad downturned mouth and sweat droplet on forehead",
+    "functionalityId": "express anxious sadness or nervous worry",
+    "intentId": "convey stressed or overwhelmed unhappiness"
+  },
+  "fa-face-saluting": {
+    "appearanceId": "round face with hand raised flat to forehead in salute, neutral eyes",
+    "functionalityId": "perform a formal salute gesture",
+    "intentId": "show respect or military acknowledgment"
+  },
+  "fa-face-scream": {
+    "appearanceId": "round face with wide-open mouth and hands raised to cheeks, shocked expression",
+    "functionalityId": "express horror or extreme shock",
+    "intentId": "react to something terrifying or alarming"
+  },
+  "fa-face-shush": {
+    "appearanceId": "round face with finger pressed to lips in shushing gesture, eyes forward",
+    "functionalityId": "request silence or quiet",
+    "intentId": "tell others to be quiet"
+  },
+  "fa-face-sleeping": {
+    "appearanceId": "round face with closed eyes and Z symbols floating above head",
+    "functionalityId": "indicate sleep or inactivity",
+    "intentId": "represent a sleeping or idle state"
+  },
+  "fa-face-sleepy": {
+    "appearanceId": "round face with heavy half-lidded drooping eyes and slight frown, drowsy expression",
+    "functionalityId": "express drowsiness or low energy",
+    "intentId": "indicate tiredness or need for rest"
+  },
+  "fa-face-smile-halo": {
+    "appearanceId": "round face with warm smile and halo floating above head",
+    "functionalityId": "express innocence or angelic virtue",
+    "intentId": "convey saintly or wholesome goodness"
+  },
+  "fa-face-smile-hearts": {
+    "appearanceId": "round face with happy smile and heart shapes for eyes",
+    "functionalityId": "express adoration or being in love",
+    "intentId": "convey deep affection or infatuation"
+  },
+  "fa-face-smile-horns": {
+    "appearanceId": "round face with wide grin and small devil horns on top of head",
+    "functionalityId": "express mischief or devilish humor",
+    "intentId": "convey playful naughtiness or trouble-making"
+  },
+  "fa-face-smile-relaxed": {
+    "appearanceId": "round face with soft closed-eye smile and relaxed peaceful expression",
+    "functionalityId": "express contentment or calm happiness",
+    "intentId": "convey serene satisfaction or ease"
+  },
+  "fa-face-smile-tear": {
+    "appearanceId": "round face with broad smile and single tear rolling down cheek",
+    "functionalityId": "express bittersweet or overwhelmed joy",
+    "intentId": "convey happy crying or touching emotion"
+  },
+  "fa-face-smile-tongue": {
+    "appearanceId": "round face with wide grin and tongue sticking out between teeth",
+    "functionalityId": "express playfulness or cheeky humor",
+    "intentId": "convey lighthearted teasing or fun"
+  },
+  "fa-face-smile-upside-down": {
+    "appearanceId": "round face rotated 180 degrees so smile appears as upside-down grin",
+    "functionalityId": "express sarcasm or awkward forced smile",
+    "intentId": "convey irony or uncomfortable politeness"
+  },
+  "fa-face-smiling-hands": {
+    "appearanceId": "round face with wide smile and two open hands raised on either side",
+    "functionalityId": "express enthusiastic welcome or celebration",
+    "intentId": "convey joyful excitement or open embrace"
+  },
+  "fa-face-smirking": {
+    "appearanceId": "round face with one corner of mouth raised in a knowing smirk",
+    "functionalityId": "express smugness or sly confidence",
+    "intentId": "convey knowing satisfaction or light mockery"
+  },
+  "fa-face-spiral-eyes": {
+    "appearanceId": "round face with spiral-shaped swirling eyes, dazed expression",
+    "functionalityId": "express dizziness or confusion",
+    "intentId": "indicate feeling overwhelmed or disoriented"
+  },
+  "fa-face-sunglasses": {
+    "appearanceId": "round face wearing large dark sunglasses, cool neutral expression",
+    "functionalityId": "indicate cool or stylish persona",
+    "intentId": "project confidence or casual attitude"
+  },
+  "fa-face-swear": {
+    "appearanceId": "round face with angry furrowed brows and symbols replacing expletive words around mouth",
+    "functionalityId": "express profanity or intense anger",
+    "intentId": "convey outrage or strong frustration"
+  },
+  "fa-face-thermometer": {
+    "appearanceId": "round face with thermometer in mouth and flushed cheeks, sick expression",
+    "functionalityId": "indicate illness or fever",
+    "intentId": "report feeling sick or taking temperature"
+  },
+  "fa-face-thinking": {
+    "appearanceId": "round face with finger raised to chin and upward glancing eyes, thoughtful expression",
+    "functionalityId": "indicate thinking or consideration",
+    "intentId": "convey pondering or decision-making"
+  },
+  "fa-face-tissue": {
+    "appearanceId": "round face holding a tissue to nose, red-tipped nose and watery eyes",
+    "functionalityId": "express a cold or allergies",
+    "intentId": "indicate sneezing, crying, or illness"
+  },
+  "fa-face-tongue-money": {
+    "appearanceId": "round face with tongue out and dollar-sign eyes, greedy expression",
+    "functionalityId": "express greed or money obsession",
+    "intentId": "convey craving wealth or excitement about money"
+  },
+  "fa-face-tongue-sweat": {
+    "appearanceId": "round face with tongue hanging out and sweat droplet, exhausted or nervous expression",
+    "functionalityId": "express exhaustion or nervous effort",
+    "intentId": "convey working hard or anxious strain"
+  },
+  "fa-face-unamused": {
+    "appearanceId": "round face with flat straight mouth and sideways unimpressed eyes",
+    "functionalityId": "express unimpressed or unenthusiastic reaction",
+    "intentId": "convey boredom or lack of amusement"
+  },
+  "fa-face-viewfinder": {
+    "appearanceId": "round face with camera viewfinder or targeting reticle over one eye",
+    "functionalityId": "indicate focus or targeting mode",
+    "intentId": "signal close observation or precise aiming"
+  },
+  "fa-face-vomit": {
+    "appearanceId": "round face with open mouth and green vomit spewing out, disgusted eyes",
+    "functionalityId": "express disgust or strong revulsion",
+    "intentId": "react to something grossly unpleasant"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-hat-wizard": {
+    "appearanceId": "a tall pointed conical wizard hat with a wide brim and decorative stars or bands along the body; dunce-cap-like pointed headgear silhouette with ornamental markings on the cone",
+    "functionalityId": "represents magic, wizardry, or a setup wizard feature; opens an automated guided configuration or onboarding wizard",
+    "intentId": "launch a step-by-step setup or configuration wizard; access magic or fantasy-themed content"
+  },
+  "fa-hdd": {
+    "appearanceId": "a flat rectangular hard disk drive body with a circular platter shape inside and a small connector strip along one short edge; low-profile drive enclosure outline with a round internal disc element",
+    "functionalityId": "represents a hard disk drive or local storage device; navigates to storage management or disk settings",
+    "intentId": "manage local disk storage or drive settings; monitor or configure a hard drive"
+  },
+  "fa-head-side": {
+    "appearanceId": "a human head silhouette in profile view facing left, showing the outline of the skull, forehead, nose, and chin with no additional overlay; plain side-view head contour with a smooth jawline and no badge",
+    "functionalityId": "represents a human profile or person silhouette; navigates to a user profile or identity section",
+    "intentId": "access a user profile or identity view; represent a person in a neutral side-profile context"
+  },
+  "fa-head-side-brain": {
+    "appearanceId": "a human head silhouette in left-facing profile with a detailed brain shape visible through the upper skull area; side-view head outline with a folded cerebral cortex overlay in the cranial region",
+    "functionalityId": "represents cognitive function, mental health, or neuroscience content; navigates to a brain health or mental wellness section",
+    "intentId": "access mental health or cognitive content; explore neuroscience or brain-related information"
+  },
+  "fa-head-side-cough": {
+    "appearanceId": "a human head silhouette in left-facing profile with small arc or droplet lines projecting from the mouth area suggesting coughing; side-view head outline with spray particle arcs near the mouth",
+    "functionalityId": "represents coughing, respiratory symptoms, or illness indicators; marks health content related to airborne illness",
+    "intentId": "indicate a coughing symptom or respiratory illness; log or track a cough-related health event"
+  },
+  "fa-head-side-cough-slash": {
+    "appearanceId": "a human head silhouette in left-facing profile with cough droplet arcs near the mouth and a diagonal slash line crossing through the entire shape; side-view head with spray arcs overlaid by a cancellation line",
+    "functionalityId": "represents cough prevention, suppression, or a cough-free status; marks content indicating that coughing is controlled or stopped",
+    "intentId": "indicate that coughing is being suppressed or prevented; mark a cough-free or respiratory-clear status"
+  },
+  "fa-head-side-gear": {
+    "appearanceId": "a human head silhouette in left-facing profile with a toothed gear wheel badge overlaid on the cranial area; side-view head outline with a cog symbol on the upper skull region",
+    "functionalityId": "represents cognitive settings, mental configuration, or thought process management; opens a personalized settings or mind-related configuration panel",
+    "intentId": "configure personal settings or cognitive preferences; access mental or thought process management tools"
+  },
+  "fa-head-side-headphones": {
+    "appearanceId": "a human head silhouette in left-facing profile with a pair of over-ear headphones depicted on the head wrapping around the ear and over the top; side-view head outline with an audio headset accessory overlay",
+    "functionalityId": "represents audio listening, music playback, or headphone use; navigates to an audio or media player section",
+    "intentId": "access audio listening or music playback features; indicate headphone use or audio-focused mode"
+  },
+  "fa-head-side-heart": {
+    "appearanceId": "a human head silhouette in left-facing profile with a heart shape badge overlaid on the cranial or facial area; side-view head outline with a love or care symbol on the upper portion",
+    "functionalityId": "represents mental wellness, emotional health, or compassionate thinking; navigates to a mental health or emotional support section",
+    "intentId": "access emotional health or mental wellness content; express care or compassion in a health context"
+  },
+  "fa-head-side-mask": {
+    "appearanceId": "a human head silhouette in left-facing profile with a face mask shape covering the mouth and nose area; side-view head outline with a surgical or protective mask overlay on the lower face",
+    "functionalityId": "represents mask wearing, infection prevention, or respiratory protection; marks health content related to face coverings",
+    "intentId": "indicate mask-wearing or respiratory protection requirements; access pandemic or infection-prevention health content"
+  },
+  "fa-head-side-medical": {
+    "appearanceId": "a human head silhouette in left-facing profile with a medical cross or plus symbol badge overlaid on the cranial area; side-view head outline with a healthcare cross marker on the skull region",
+    "functionalityId": "represents medical examination of the head or neurological health assessment; navigates to a head-related medical or clinical section",
+    "intentId": "access head-related medical or neurological health information; log or track a medical head examination"
+  },
+  "fa-head-side-virus": {
+    "appearanceId": "a human head silhouette in left-facing profile with a spiky circular virus particle shape overlaid near the head; side-view head outline with a viral pathogen badge with radiating spike projections",
+    "functionalityId": "represents viral infection of the head or brain, or infectious disease symptoms; navigates to virus or infection-related health content",
+    "intentId": "access information about viral infections affecting the head or brain; track or report infectious disease symptoms"
+  },
+  "fa-head-vr": {
+    "appearanceId": "a human head silhouette in forward or profile view wearing a virtual reality headset visor covering the eye area; head outline with a wide rectangular VR goggle device strapped over the eyes",
+    "functionalityId": "represents virtual reality usage, VR content, or immersive experiences; navigates to a VR application or headset settings section",
+    "intentId": "access virtual reality content or VR headset settings; launch an immersive or VR experience"
+  },
+  "fa-header": {
+    "appearanceId": "a bold uppercase letter H with a small subscript numeral one forming a typographic heading indicator; large heading letterform with a subordinate digit badge",
+    "functionalityId": "applies a heading text style or H1 formatting to selected text; marks a block of text as a document header",
+    "intentId": "format text as a heading in a document or rich text editor; apply heading hierarchy to document content"
+  },
+  "fa-headphones": {
+    "appearanceId": "a classic over-ear headphone set with two circular ear cups connected by an arched headband; symmetrical audio headset outline with round pads and a curved top band",
+    "functionalityId": "represents audio playback or music listening; navigates to a music player or audio settings section",
+    "intentId": "access music or audio playback features; configure headphone or audio output settings"
+  },
+  "fa-headphones-alt": {
+    "appearanceId": "an alternative headphone design with open or smaller ear cups and a thinner headband arc compared to the standard headphones; lightweight headset silhouette with a slimmer band and smaller earcup profile",
+    "functionalityId": "represents an alternative or lightweight audio headset; navigates to alternate audio device settings or a secondary playback mode",
+    "intentId": "access audio playback with a lightweight or alternative headset; switch to a secondary audio device or output mode"
+  },
+  "fa-headset": {
+    "appearanceId": "a single-ear headphone with a circular ear cup on one side and a thin adjustable boom microphone arm extending from the earcup toward the mouth; one-sided headset silhouette with a mic boom attachment",
+    "functionalityId": "represents a customer service headset, voice chat device, or call center tool; opens a voice call or communication audio settings section",
+    "intentId": "access voice call or customer support communication tools; configure a headset for calls or voice chat"
+  },
+  "fa-heart": {
+    "appearanceId": "a classic symmetrical heart shape with two rounded lobes at the top meeting at a central point at the bottom; solid or outlined cardiac love-symbol silhouette",
+    "functionalityId": "marks an item as liked, loved, or favorited; adds an item to a favorites or wishlist collection",
+    "intentId": "like or favorite a piece of content; save an item to a personal favorites list"
+  },
+  "fa-heart-circle-bolt": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing a lightning bolt in the lower-right corner; cardiac love symbol with a power or energy indicator circle attached",
+    "functionalityId": "represents a heart rate boost, energy surge, or powered health metric; indicates an energized or high-intensity cardiac status",
+    "intentId": "track a high-energy or boosted heart rate metric; indicate an energized or powered health state"
+  },
+  "fa-heart-circle-check": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing a checkmark in the lower-right corner; cardiac love symbol with a confirmation or approval indicator circle attached",
+    "functionalityId": "marks a health goal as achieved or a favorite item as confirmed; indicates a verified or approved heart-related status",
+    "intentId": "confirm a health goal or favorite item has been completed; verify a cardiac health milestone"
+  },
+  "fa-heart-circle-exclamation": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing an exclamation mark in the lower-right corner; cardiac love symbol with a warning or alert indicator circle attached",
+    "functionalityId": "indicates a heart health alert or urgent cardiac warning; flags a liked item as requiring attention",
+    "intentId": "alert the user to a cardiac health issue or urgent heart metric; flag a favorite item with a critical warning"
+  },
+  "fa-heart-circle-minus": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing a minus sign in the lower-right corner; cardiac love symbol with a removal or decrease indicator circle attached",
+    "functionalityId": "removes a heart health item or decreases a cardiac metric; removes an item from a favorites list",
+    "intentId": "remove an item from favorites or decrease a cardiac health metric; unfavorite or reduce a heart-related count"
+  },
+  "fa-heart-circle-plus": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing a plus sign in the lower-right corner; cardiac love symbol with an addition or increase indicator circle attached",
+    "functionalityId": "adds a new item to a favorites list or increases a cardiac health metric; creates a new heart-related entry",
+    "intentId": "add a new item to favorites or increase a cardiac health metric; create a new heart-related record"
+  },
+  "fa-heart-circle-xmark": {
+    "appearanceId": "a heart shape with a small overlapping circle badge containing an X mark in the lower-right corner; cardiac love symbol with a rejection or cancellation indicator circle attached",
+    "functionalityId": "removes or rejects a favorited item; cancels or dismisses a heart-related health entry",
+    "intentId": "unlike or reject a favorited item; cancel or dismiss a cardiac health notification"
+  },
+  "fa-heart-crack": {
+    "appearanceId": "a heart shape with a jagged vertical crack or split line running from the top center down through the lower point; cardiac love symbol divided by a lightning-bolt-like fracture line",
+    "functionalityId": "represents heartbreak, loss, or emotional pain; indicates a failed or broken connection or relationship",
+    "intentId": "express heartbreak or emotional pain; indicate a broken or failed relationship or connection"
+  },
+  "fa-heart-half": {
+    "appearanceId": "a heart shape filled on the left half and empty or outlined on the right half, creating a split filled-and-empty appearance; partially colored cardiac symbol with one solid and one hollow lobe",
+    "functionalityId": "represents a partial like or half-hearted rating; indicates a midpoint or incomplete favoriting state",
+    "intentId": "indicate a partial or half-completed rating; express a lukewarm or partial preference"
+  },
+  "fa-heart-half-alt": {
+    "appearanceId": "a heart shape with a variant half-fill pattern, such as the right lobe filled or a different dividing orientation than the standard half heart; alternate split-filled cardiac symbol with a different half shading arrangement",
+    "functionalityId": "represents an alternate partial rating or a reversed half-heart fill; indicates a different midpoint favoriting state",
+    "intentId": "indicate an alternative partial rating or reverse half-like state; express a variant partial preference"
+  },
+  "fa-heart-rate": {
+    "appearanceId": "a heart shape with a continuous electrocardiogram pulse waveform line running through the center horizontally; cardiac love symbol with a spiked EKG or heartbeat trace crossing through it",
+    "functionalityId": "displays or monitors a heart rate or cardiac rhythm metric; navigates to a heart rate tracking or vitals section",
+    "intentId": "monitor heart rate or cardiac rhythm data; access vitals or health tracking for heart rate"
+  },
+  "fa-heart-square": {
+    "appearanceId": "a heart shape centered inside a rounded square or rectangular container outline; cardiac love symbol enclosed within a square frame or button shape",
+    "functionalityId": "marks an item as a favorite within a contained action button; represents a favoriting or liking control in a square UI element",
+    "intentId": "favorite or like an item using a square-shaped control; access a heart-shaped action within a box container"
+  },
+  "fa-heartbeat": {
+    "appearanceId": "a horizontal flat line that rises into a sharp upward spike and then a deeper downward trough before returning to baseline, resembling an ECG pulse trace; continuous EKG waveform with a tall spike and valley",
+    "functionalityId": "represents a live heartbeat, vitals monitoring, or health activity status; displays a real-time cardiac or health metric",
+    "intentId": "monitor real-time heart rate or vitals; indicate that a health system or person is alive and active"
+  },
+  "fa-heat": {
+    "appearanceId": "upward-curving wavy lines resembling heat shimmer or thermal radiation rising from a surface; multiple undulating vertical wavy lines suggesting warmth or thermal emission",
+    "functionalityId": "represents heat, thermal output, or temperature elevation; indicates that a device or system is producing heat or is in a high-temperature state",
+    "intentId": "monitor or indicate heat output or temperature level; access heating system controls or thermal status"
+  },
+  "fa-helicopter": {
+    "appearanceId": "a side-view helicopter silhouette with a main rotor blade on top, a rounded fuselage body, landing skids, and a small tail rotor; rotary-wing aircraft outline with a top-mounted blade and rear stabilizer",
+    "functionalityId": "represents helicopter transport, aerial support, or aviation content; navigates to a helicopter service or flight tracking section",
+    "intentId": "access helicopter transport or aerial service information; track or book a helicopter flight"
+  },
+  "fa-helicopter-symbol": {
+    "appearanceId": "a capital letter H enclosed within or associated with a circle or bordered shape, resembling a helipad landing marker; blocky H letterform inside a circular border as a landing zone indicator",
+    "functionalityId": "marks a helipad location or helicopter landing zone; navigates to a helicopter landing area or aviation facility",
+    "intentId": "find or mark a helipad or helicopter landing zone; indicate an aviation landing area on a map"
+  },
+  "fa-helmet-battle": {
+    "appearanceId": "a rounded medieval or fantasy battle helmet with a full visor, cheek guards, and a crest or ridge on top; armored headgear silhouette with a face plate and protective side panels",
+    "functionalityId": "represents a battle, combat, or warrior role in a game or fantasy context; navigates to a combat or armor equipment section",
+    "intentId": "access battle equipment or combat-related content; equip or select a warrior helmet in a game"
+  },
+  "fa-helmet-un": {
+    "appearanceId": "a rounded hard hat or peacekeeper helmet with the letters UN printed on the front panel; smooth dome-shaped protective helmet outline with a text label badge",
+    "functionalityId": "represents United Nations peacekeeping forces or humanitarian operations; marks content related to UN military or aid missions",
+    "intentId": "access United Nations peacekeeping or humanitarian mission content; identify UN-affiliated personnel or operations"
+  },
+  "fa-hexagon": {
+    "appearanceId": "a plain regular six-sided polygon outline with equal sides and a flat top and bottom edge; simple hexagonal frame shape with no interior content",
+    "functionalityId": "represents a hexagonal container, badge, or geometric shape element; marks a category or item with a hexagonal label",
+    "intentId": "use a hexagonal shape as a container or badge; categorize or label content with a hexagonal marker"
+  },
+  "fa-hexagon-check": {
+    "appearanceId": "a regular six-sided polygon outline with a checkmark symbol centered inside the hexagonal frame; hexagonal badge shape with a tick or confirmation mark in the interior",
+    "functionalityId": "marks an item as verified, approved, or completed within a hexagonal badge; confirms a task or status within a hex-shaped indicator",
+    "intentId": "confirm or verify an item with a hexagonal badge; mark a task or status as approved or complete"
+  },
+  "fa-hexagon-divide": {
+    "appearanceId": "a regular six-sided polygon outline with a horizontal or diagonal dividing line splitting the interior into two sections; hexagonal frame with a division or separator line through the center",
+    "functionalityId": "represents a division or splitting operation within a hexagonal badge; marks a segmented or divided category label",
+    "intentId": "divide or segment content using a hexagonal marker; indicate a split or bifurcated category"
+  },
+  "fa-hexagon-exclamation": {
+    "appearanceId": "a regular six-sided polygon outline with an exclamation mark symbol centered inside the hexagonal frame; hexagonal badge shape with a warning or alert mark in the interior",
+    "functionalityId": "indicates a warning, alert, or important notice within a hexagonal badge; flags a critical status or attention-required item",
+    "intentId": "alert the user to an important warning or critical status in a hexagonal context; flag an item requiring urgent attention"
+  },
+  "fa-hexagon-image": {
+    "appearanceId": "a regular six-sided polygon outline with a small mountain-and-sun landscape image placeholder inside; hexagonal frame containing a photo thumbnail or picture symbol",
+    "functionalityId": "represents an image or photo within a hexagonal crop or frame; displays a hexagonally-shaped profile picture or media asset",
+    "intentId": "display a hexagonally-cropped image or profile photo; use a hexagonal frame for a media thumbnail"
+  },
+  "fa-hexagon-minus": {
+    "appearanceId": "a regular six-sided polygon outline with a minus sign or horizontal bar centered inside the hexagonal frame; hexagonal badge shape with a subtraction or remove mark in the interior",
+    "functionalityId": "removes or decrements an item within a hexagonal badge indicator; marks a reduction or removal action in a hex-shaped control",
+    "intentId": "remove or decrease an item using a hexagonal badge control; subtract from a count within a hex-shaped indicator"
+  },
+  "fa-hexagon-nodes": {
+    "appearanceId": "a regular six-sided polygon outline with nodes or dots at each vertex connected by lines suggesting a network graph; hexagonal frame with circular endpoint dots and connecting edge lines",
+    "functionalityId": "represents a network topology, node graph, or connected system within a hexagonal shape; navigates to a network or graph visualization section",
+    "intentId": "visualize or manage a network topology or connected node graph; access a hexagonal network diagram or system map"
+  },
+  "fa-hexagon-nodes-bolt": {
+    "appearanceId": "a regular six-sided polygon with nodes at vertices and connecting lines, plus a lightning bolt symbol in the center; hexagonal network graph outline with a power or energy bolt overlaid in the middle",
+    "functionalityId": "represents a powered or energized network topology; indicates active or high-speed connectivity within a node graph",
+    "intentId": "indicate an active or high-energy network connection; access an energized or real-time node graph visualization"
+  },
+  "fa-hexagon-plus": {
+    "appearanceId": "a regular six-sided polygon outline with a plus sign centered inside the hexagonal frame; hexagonal badge shape with an addition or create mark in the interior",
+    "functionalityId": "adds a new item or creates a new entry within a hexagonal badge indicator; marks an addition action in a hex-shaped control",
+    "intentId": "add or create a new item using a hexagonal badge control; increment a count within a hex-shaped indicator"
+  },
+  "fa-hexagon-vertical-nft": {
+    "appearanceId": "a regular six-sided polygon oriented with a flat side at the top and bottom, with the letters NFT displayed vertically inside; vertically-oriented hexagonal frame containing stacked NFT text characters",
+    "functionalityId": "represents an NFT token or digital collectible within a hexagonal badge; navigates to an NFT marketplace or digital asset section",
+    "intentId": "access an NFT marketplace or digital collectible; represent a non-fungible token with a hexagonal badge"
+  },
+  "fa-hexagon-vertical-nft-slanted": {
+    "appearanceId": "a regular six-sided polygon with a flat top and bottom containing the letters NFT displayed at a slanted or diagonal angle inside; vertically-oriented hexagonal frame with angled NFT text characters",
+    "functionalityId": "represents an NFT token with a stylized slanted badge variant; navigates to an NFT section with an alternate badge presentation",
+    "intentId": "access an NFT marketplace with an alternate slanted badge style; represent a digital collectible with a stylized hexagonal marker"
+  },
+  "fa-hexagon-xmark": {
+    "appearanceId": "a regular six-sided polygon outline with an X mark centered inside the hexagonal frame; hexagonal badge shape with a close or cancel mark in the interior",
+    "functionalityId": "cancels or closes an item within a hexagonal badge indicator; marks a rejection or removal action in a hex-shaped control",
+    "intentId": "cancel or reject an item using a hexagonal badge control; close or dismiss a hex-labeled entry"
+  },
+  "fa-highlighter": {
+    "appearanceId": "an angled marker or highlighting pen with a broad chisel tip at one end and a cap at the other, shown at a diagonal; felt-tip marker silhouette with a flat wide nib and cylindrical barrel",
+    "functionalityId": "highlights or marks selected text with a color overlay; activates a text highlighting or annotation tool",
+    "intentId": "highlight or annotate text in a document or editor; mark important passages for review or emphasis"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-binary": {
+    "appearanceId": "two vertical columns of zeroes and ones in a monospace arrangement; stacked digits alternating between zero and one",
+    "functionalityId": "toggles or displays binary data representation; converts a value to binary number format",
+    "intentId": "view or work with raw binary data; understand a value in binary notation"
+  },
+  "fa-binary-circle-check": {
+    "appearanceId": "columns of zeroes and ones alongside a circle containing a checkmark; binary digit arrangement paired with a confirmed tick inside a round badge",
+    "functionalityId": "confirms that binary data is valid or verified; marks a binary value as successfully checked",
+    "intentId": "validate that binary input or output is correct; confirm a binary operation completed successfully"
+  },
+  "fa-binary-lock": {
+    "appearanceId": "columns of zeroes and ones beside a padlock shape; stacked binary digits next to a closed lock silhouette",
+    "functionalityId": "indicates binary data is encrypted or access-restricted; locks a binary value or field from editing",
+    "intentId": "secure or encrypt binary data; prevent modification of a binary value"
+  },
+  "fa-binary-slash": {
+    "appearanceId": "columns of zeroes and ones crossed by a diagonal slash line; binary digit arrangement with a line cutting through it",
+    "functionalityId": "disables or clears binary mode; removes or negates a binary data value",
+    "intentId": "turn off binary display or encoding; clear binary data from a field"
+  },
+  "fa-binoculars": {
+    "appearanceId": "pair of joined cylindrical eyepiece tubes side by side viewed from the front; double-barrel optical device with two circular lenses",
+    "functionalityId": "activates a zoom or long-range view feature; opens a search or scout mode",
+    "intentId": "look closer at distant details; search or scout for something far away"
+  },
+  "fa-biohazard": {
+    "appearanceId": "three interlocking circular arcs forming a trefoil pattern around a central ring; symmetrical three-lobed radiation-like warning emblem",
+    "functionalityId": "marks content or an area as biologically hazardous; warns users of a biological danger or contamination risk",
+    "intentId": "identify a biohazard zone or dangerous material; acknowledge a biological safety warning"
+  },
+  "fa-bird": {
+    "appearanceId": "side-profile silhouette of a small perched or flying bird with a pointed beak; simple avian outline with a curved body and tail feathers",
+    "functionalityId": "tags content as nature or wildlife related; marks items with a bird or avian category",
+    "intentId": "browse bird or wildlife content; apply a nature or avian label to an item"
+  },
+  "fa-bitcoin-sign": {
+    "appearanceId": "uppercase letter B with two short horizontal strokes through the vertical stem at the top and bottom; stylized currency letterform with double crossbars",
+    "functionalityId": "indicates a price or value in Bitcoin; converts or labels an amount as Bitcoin currency",
+    "intentId": "view or enter a Bitcoin price or value; work with Bitcoin cryptocurrency transactions"
+  },
+  "fa-blackboard": {
+    "appearanceId": "wide rectangular flat panel resembling a classroom writing surface with a thin frame; broad board silhouette with a ledge at the bottom",
+    "functionalityId": "opens a whiteboard or teaching canvas; displays an editable writing or drawing surface",
+    "intentId": "present or teach using a shared writing surface; draw or write on a collaborative board"
+  },
+  "fa-blanket": {
+    "appearanceId": "folded or draped rectangular textile with soft layered folds; thick fabric shape with creased overlapping edges",
+    "functionalityId": "marks an item as a blanket or bedding product; filters accommodations or comfort items by blanket availability",
+    "intentId": "find or select a blanket for warmth; indicate that bedding or comfort items are provided"
+  },
+  "fa-blanket-fire": {
+    "appearanceId": "folded rectangular fabric shape with a flame rising from or behind it; draped blanket silhouette combined with a fire symbol",
+    "functionalityId": "marks a heated or electric blanket product; indicates a fire safety warning related to bedding",
+    "intentId": "select a heated blanket or warming bedding; be aware of fire hazard with blanket use"
+  },
+  "fa-blender": {
+    "appearanceId": "tapered pitcher jar on a motorized base with a lid on top; tall narrow-waisted container sitting on a block-shaped appliance body",
+    "functionalityId": "tags a recipe or product as requiring a blender; indicates a blending or mixing operation",
+    "intentId": "find or use a blending appliance; follow a recipe step that requires blending"
+  },
+  "fa-blender-phone": {
+    "appearanceId": "blender jar shape with a telephone handset merged into or replacing part of the form; appliance pitcher silhouette with a retro phone receiver attached",
+    "functionalityId": "represents a playful or absurd combination action; tags whimsical or humorous multimedia content",
+    "intentId": "explore fun or novelty content mashups; interact with a quirky or comedic interface element"
+  },
+  "fa-blind": {
+    "appearanceId": "stick figure walking with a long cane extended forward at an angle; simplified human outline with a diagonal rod reaching ahead",
+    "functionalityId": "activates accessibility mode for visually impaired users; enables screen-reader or blind-user navigation features",
+    "intentId": "switch to accessible or screen-reader-friendly mode; navigate the interface using assistive technology"
+  },
+  "fa-blinds": {
+    "appearanceId": "set of horizontal parallel slats arranged in a stack representing a window shade; evenly spaced flat strips layered vertically to suggest a closed blind",
+    "functionalityId": "toggles window blinds or shade controls; adjusts the open or closed position of a blind",
+    "intentId": "control natural light by adjusting window blinds; open or close a room's window coverings"
+  },
+  "fa-blinds-open": {
+    "appearanceId": "set of horizontal slats tilted or separated to show open gaps between them; parallel strips angled to reveal spacing indicating an open blind",
+    "functionalityId": "opens or raises window blinds to let in light; sets blinds to the fully open position",
+    "intentId": "let natural light into a space by opening the blinds; set window coverings to an open state"
+  },
+  "fa-blinds-raised": {
+    "appearanceId": "horizontal slat strips bunched toward the top of the frame with empty space below; gathered blind panel at the upper portion of a window rectangle",
+    "functionalityId": "raises window blinds to the fully up position; lifts the shade panel to uncover the window",
+    "intentId": "fully uncover a window by raising the blinds; clear the view by lifting window coverings"
+  },
+  "fa-block": {
+    "appearanceId": "solid square or rectangular filled shape; thick-bordered or filled cube-like flat block form",
+    "functionalityId": "blocks or restricts access to a user or content; applies a content block or restriction rule",
+    "intentId": "prevent a user or item from interacting; restrict access to specific content or functionality"
+  },
+  "fa-block-question": {
+    "appearanceId": "square or rectangular block shape containing a question mark; filled cube form with an interrogation symbol inside",
+    "functionalityId": "indicates an unknown or undefined block element; opens help for an unrecognized content type",
+    "intentId": "identify an unrecognized or unknown block; get more information about an unclear item"
+  },
+  "fa-block-quote": {
+    "appearanceId": "text lines with a thick vertical bar or large quotation marks on the left side indicating indented quoted content; indented block of lines with a bold left-edge marker",
+    "functionalityId": "inserts or formats text as a block quotation; applies blockquote styling to selected text",
+    "intentId": "quote a passage with visual indentation; format a section of text as a citation or excerpt"
+  },
+  "fa-blog": {
+    "appearanceId": "speech bubble or page silhouette with horizontal text lines and a small wifi or signal icon; document shape combined with a broadcasting wave symbol",
+    "functionalityId": "opens or navigates to a blog or post feed; publishes or edits a blog entry",
+    "intentId": "read or write blog posts; access a personal or editorial publishing space"
+  },
+  "fa-blueberries": {
+    "appearanceId": "cluster of small round spheres with tiny crown dimples at the top representing berries; group of circular fruit shapes bunched together with star-shaped tips",
+    "functionalityId": "tags a recipe or product as containing blueberries; filters food items by blueberry ingredient",
+    "intentId": "find blueberry-related food or recipes; mark a dish or product as containing blueberries"
+  },
+  "fa-bold": {
+    "appearanceId": "thick wide uppercase letter B with heavy strokes; chunky letterform with pronounced stem and rounded lobes",
+    "functionalityId": "applies bold formatting to selected text; makes selected text heavier and darker",
+    "intentId": "emphasize text by making it bold; increase the visual weight of a word or phrase"
+  },
+  "fa-bolt-auto": {
+    "appearanceId": "lightning bolt zigzag shape with the letters A or AUTO beside it; downward-pointing flash symbol combined with an auto-mode label",
+    "functionalityId": "enables automatic flash or auto-power mode; triggers an automatic lightning or boost action",
+    "intentId": "set flash or power to automatic mode; let the system decide when to apply a boost"
+  },
+  "fa-bolt-lightning": {
+    "appearanceId": "sharp downward-pointing zigzag flash silhouette; angular lightning bolt with a narrow pointed tip",
+    "functionalityId": "triggers a quick action or power boost; activates a fast or instant operation",
+    "intentId": "perform a rapid or high-power action; execute an instant or energized function"
+  },
+  "fa-bolt-slash": {
+    "appearanceId": "lightning bolt zigzag shape crossed by a diagonal slash line; flash symbol with a line cutting through it",
+    "functionalityId": "disables flash or lightning mode; turns off a quick-action or power feature",
+    "intentId": "turn off flash or power-boost mode; disable an electric or rapid-action feature"
+  },
+  "fa-bomb": {
+    "appearanceId": "round spherical body with a short fuse line at the top emitting a small spark or flame; circular explosive device silhouette with a lit wick",
+    "functionalityId": "triggers a destructive or irreversible action; warns that an action will permanently delete or destroy data",
+    "intentId": "initiate an action that cannot be undone; delete or destroy something permanently"
+  },
+  "fa-bone": {
+    "appearanceId": "elongated cylindrical shaft with rounded knobby ends on each side; dog-bone silhouette with two rounded nodes at opposite tips",
+    "functionalityId": "marks content as pet or veterinary related; indicates a bone structure in a medical anatomy context",
+    "intentId": "navigate to pet care or veterinary content; view bone-related medical or anatomy information"
+  },
+  "fa-bone-break": {
+    "appearanceId": "elongated bone shape with a jagged crack or break in the middle; bone silhouette split into two parts with a fracture gap",
+    "functionalityId": "indicates a bone fracture or injury record; marks a medical case involving a broken bone",
+    "intentId": "log or view a bone fracture injury; access fracture-related medical information"
+  },
+  "fa-bong": {
+    "appearanceId": "tall narrow-waisted cylindrical tube with a small bowl or stem attached at an angle; elongated pipe vessel with a side-mounted intake piece",
+    "functionalityId": "tags content related to cannabis paraphernalia; marks an item as smoking equipment",
+    "intentId": "find or label cannabis or smoking device content; navigate to paraphernalia-related product listings"
+  },
+  "fa-book": {
+    "appearanceId": "closed rectangular book with a visible spine on the left and a slightly curved cover; upright bound volume silhouette with layered page edges",
+    "functionalityId": "opens a document, guide, or reading resource; navigates to a book or manual entry",
+    "intentId": "read or access a written reference or guide; open a book or document resource"
+  },
+  "fa-book-alt": {
+    "appearanceId": "closed book viewed from a slight angle with a ribbon bookmark hanging out; bound rectangular volume with a small protruding tab at the bottom",
+    "functionalityId": "opens an alternative or secondary reading resource; navigates to a supplementary book or document",
+    "intentId": "access an alternate reference or edition; open a bookmarked reading resource"
+  },
+  "fa-book-arrow-right": {
+    "appearanceId": "closed book silhouette with a rightward-pointing arrow overlaid or beside it; bound volume shape combined with a horizontal arrow",
+    "functionalityId": "exports or shares a book or document to another location; advances to the next chapter or page",
+    "intentId": "send a book or document forward; navigate to the next reading section"
+  },
+  "fa-book-arrow-up": {
+    "appearanceId": "closed book silhouette with an upward-pointing arrow overlaid or beside it; bound volume shape combined with a vertical arrow pointing up",
+    "functionalityId": "uploads or promotes a book or document; publishes or sends a reading resource upward in a workflow",
+    "intentId": "upload or submit a book or document; promote reading material to a higher-level collection"
+  },
+  "fa-book-bookmark": {
+    "appearanceId": "closed book silhouette with a ribbon or rectangular bookmark protruding from the top edge; bound volume with a thin tag sticking out",
+    "functionalityId": "saves or bookmarks a reading position or resource; marks a document page for later reference",
+    "intentId": "save a place in a book or document; return to a bookmarked reading position"
+  },
+  "fa-book-circle": {
+    "appearanceId": "closed book silhouette enclosed within or overlapping a circular ring; bound volume shape inside a round border",
+    "functionalityId": "opens a circular or grouped library of books; indicates a book belongs to a collection or cycle",
+    "intentId": "access a curated book collection or reading circle; join or view a reading group"
+  },
+  "fa-book-circle-arrow-right": {
+    "appearanceId": "book shape inside a circle with a rightward arrow emerging from the circle's edge; round-bordered volume icon with a forward-pointing directional symbol",
+    "functionalityId": "shares or exports a book from a collection; advances to the next book in a series",
+    "intentId": "move a book forward in a workflow or reading list; share a reading resource from a collection"
+  },
+  "fa-book-circle-arrow-up": {
+    "appearanceId": "book shape inside a circle with an upward arrow emerging from the circle's top; round-bordered volume icon with a vertical directional symbol pointing up",
+    "functionalityId": "uploads or elevates a book within a collection; promotes a document to a higher category",
+    "intentId": "upload a book to a higher-level collection; elevate a reading resource in a library hierarchy"
+  },
+  "fa-book-copy": {
+    "appearanceId": "two overlapping closed book silhouettes, one slightly offset behind the other; stacked duplicate bound volumes",
+    "functionalityId": "duplicates a book or document; creates a copy of a reading resource",
+    "intentId": "make a copy of a book or reference document; duplicate reading material for distribution"
+  },
+  "fa-book-dead": {
+    "appearanceId": "closed book cover with a skull and crossbones symbol embossed on the front; rectangular bound volume with a danger or death emblem",
+    "functionalityId": "marks a document as dangerous, forbidden, or cursed; opens a dark-theme or horror-genre content category",
+    "intentId": "access spooky or dark-themed reading material; mark a document as prohibited or dangerous"
+  },
+  "fa-book-font": {
+    "appearanceId": "open or closed book with a stylized letter or typography glyph visible on the cover; bound volume with a letterform displayed on its face",
+    "functionalityId": "opens a typography or font reference guide; navigates to a typeface or character library",
+    "intentId": "look up font or typography documentation; browse a character or glyph reference book"
+  },
+  "fa-book-heart": {
+    "appearanceId": "closed book with a heart symbol on the cover; rectangular bound volume with a love or favorite emblem embossed",
+    "functionalityId": "marks a book or document as a favorite; adds a reading resource to a loved or wishlist collection",
+    "intentId": "save a book to a favorites or wish list; indicate affection for a reading resource"
+  },
+  "fa-book-law": {
+    "appearanceId": "closed book with a scale-of-justice or gavel symbol on the cover; bound volume with a legal emblem on its face",
+    "functionalityId": "opens a legal reference or law documentation resource; marks content as relating to legal codes or regulations",
+    "intentId": "access legal statutes or regulatory documentation; look up laws or legal standards"
+  },
+  "fa-book-medical": {
+    "appearanceId": "closed book with a medical cross symbol on the cover; rectangular bound volume with a plus or cross health emblem",
+    "functionalityId": "opens a medical reference or healthcare documentation resource; marks content as clinical or health-related",
+    "intentId": "access medical guidelines or health documentation; look up clinical references or patient records"
+  },
+  "fa-book-open": {
+    "appearanceId": "book spread open flat showing two facing pages with a center spine crease; open bound volume with two visible page panels",
+    "functionalityId": "opens and displays a document or reading page; activates reading mode for a book or guide",
+    "intentId": "read an open document or book; view the contents of an open publication"
+  },
+  "fa-book-open-alt": {
+    "appearanceId": "open book with slightly curved or lifted pages suggesting a more three-dimensional spread; splayed volume with arched page wings on each side",
+    "functionalityId": "opens an alternative reading view or secondary document; displays a different layout of an open book",
+    "intentId": "switch to an alternate open-book reading view; access a different layout for reading content"
+  },
+  "fa-book-reader": {
+    "appearanceId": "human figure silhouette holding an open book up in front of the face; person outline with an open spread book in front of their head",
+    "functionalityId": "opens a reading mode or reader application; enables focused reading or text display for a user",
+    "intentId": "enter a focused reading experience; open a document in reader-friendly mode"
+  },
+  "fa-book-spells": {
+    "appearanceId": "closed book with stars or magical sparkle symbols on the cover and a glowing aura; bound volume with mystical decorative emblems suggesting magic",
+    "functionalityId": "opens a spells, magic, or fantasy content library; marks a document as containing magical or arcane information",
+    "intentId": "access magical or fantasy reference material; browse a spellbook or arcane knowledge resource"
+  }
+}

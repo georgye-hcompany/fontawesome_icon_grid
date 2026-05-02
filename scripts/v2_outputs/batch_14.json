@@ -1,0 +1,242 @@
+{
+  "fa-cheese-swiss": {
+    "appearanceId": "wedge-shaped block of cheese with round holes punched through the interior; triangular dairy slice outline containing circular void cutouts",
+    "functionalityId": "tags a menu item or recipe as Swiss cheese; labels food content with a holey cheese ingredient",
+    "intentId": "find or categorize Swiss cheese recipes or products; represent dairy or cheese-related food content"
+  },
+  "fa-cheeseburger": {
+    "appearanceId": "stacked burger with a top bun, cheese slice, patty, and bottom bun in side profile; layered sandwich silhouette with a protruding cheese layer",
+    "functionalityId": "selects or labels a cheeseburger menu item; tags food content as a burger with cheese",
+    "intentId": "order or find a cheeseburger at a restaurant; represent fast food or burger meal content"
+  },
+  "fa-cherries": {
+    "appearanceId": "two round cherries hanging from a shared curved stem with a small leaf; pair of spherical fruits joined at their stalks",
+    "functionalityId": "tags a recipe or product as cherry-flavored or cherry-containing; labels food content with a cherry fruit item",
+    "intentId": "find or categorize cherry-based recipes or products; represent fruit or dessert-related food content"
+  },
+  "fa-chess": {
+    "appearanceId": "side-by-side chess king and rook piece silhouettes representing the game; pair of tall chess piece outlines of differing heights",
+    "functionalityId": "opens a chess game or puzzle; navigates to a chess-related feature or category",
+    "intentId": "play or access a chess game; explore chess-related content or strategy tools"
+  },
+  "fa-chess-bishop": {
+    "appearanceId": "tall chess bishop piece with a rounded body, narrow waist, and pointed top finial; tapered column with a notched spherical head",
+    "functionalityId": "selects or places the bishop piece in a chess game; identifies the bishop role in a chess interface",
+    "intentId": "move or interact with the bishop piece during a chess game; represent the bishop in a chess-related UI"
+  },
+  "fa-chess-bishop-alt": {
+    "appearanceId": "alternate-design chess bishop with a more angular or stylized pointed top and simplified body profile; variant bishop piece silhouette with a distinct finial shape",
+    "functionalityId": "selects or places the alternate-style bishop piece in a chess game; identifies a stylized bishop role in a chess interface",
+    "intentId": "move or interact with the bishop using an alternate visual theme; represent the bishop piece in a themed chess UI"
+  },
+  "fa-chess-board": {
+    "appearanceId": "eight-by-eight grid of alternating filled and empty squares forming a checkerboard pattern; square tile array with a classic two-tone checkerboard layout",
+    "functionalityId": "opens a chess or checkers game board; displays a grid-based game playing surface",
+    "intentId": "start or view a board game on a checkered grid; access a chess or checkers playing environment"
+  },
+  "fa-chess-clock": {
+    "appearanceId": "rectangular clock body with two side-by-side clock faces and a button or lever on top; dual-dial timing device outline used for turn-based games",
+    "functionalityId": "starts or pauses a chess game timer; tracks turn time during a timed match",
+    "intentId": "manage game time during a timed chess match; monitor each player's clock in a competitive game"
+  },
+  "fa-chess-clock-alt": {
+    "appearanceId": "alternate-design dual chess clock with differently shaped buttons or a more angular casing; variant two-dial timer outline with a distinct housing profile",
+    "functionalityId": "starts or pauses an alternate-style chess game timer; tracks turn time with a variant clock design",
+    "intentId": "manage turn-based timing with an alternate clock style; monitor game time using a different clock format"
+  },
+  "fa-chess-king": {
+    "appearanceId": "tall chess king piece with a broad base, curved body, narrow neck, and a cross-topped crown; stately column with a cross finial representing the most important chess piece",
+    "functionalityId": "selects or places the king piece in a chess game; identifies the king role in a chess interface",
+    "intentId": "move or protect the king piece during a chess game; represent the king in a chess-related UI"
+  },
+  "fa-chess-king-alt": {
+    "appearanceId": "alternate-design chess king with a simplified or stylized crown top and a different body silhouette; variant king piece outline with a distinct head shape",
+    "functionalityId": "selects or places the alternate-style king piece in a chess game; identifies a stylized king role in a chess interface",
+    "intentId": "move or protect the king using an alternate visual theme; represent the king piece in a themed chess UI"
+  },
+  "fa-chess-knight": {
+    "appearanceId": "chess knight piece shaped as a horse head and neck profile on a stepped base; side-facing equine head silhouette mounted on a pedestal",
+    "functionalityId": "selects or places the knight piece in a chess game; identifies the knight role in a chess interface",
+    "intentId": "move or interact with the knight piece during a chess game; represent the knight in a chess-related UI"
+  },
+  "fa-chess-knight-alt": {
+    "appearanceId": "alternate-design chess knight with a more forward-facing or stylized horse head on a stepped base; variant equine-head piece silhouette with a distinct orientation",
+    "functionalityId": "selects or places the alternate-style knight piece in a chess game; identifies a stylized knight role in a chess interface",
+    "intentId": "move or interact with the knight using an alternate visual theme; represent the knight piece in a themed chess UI"
+  },
+  "fa-chess-pawn": {
+    "appearanceId": "small chess pawn with a round head atop a short narrow stem and wide flat base; compact spherical-topped column on a broad footing",
+    "functionalityId": "selects or places the pawn piece in a chess game; identifies the pawn role in a chess interface",
+    "intentId": "move or advance a pawn piece during a chess game; represent the pawn in a chess-related UI"
+  },
+  "fa-chess-pawn-alt": {
+    "appearanceId": "alternate-design chess pawn with a more angular or decorated spherical head on a simplified stem and base; variant small pawn silhouette with a distinct head style",
+    "functionalityId": "selects or places the alternate-style pawn piece in a chess game; identifies a stylized pawn role in a chess interface",
+    "intentId": "move or advance the pawn using an alternate visual theme; represent the pawn piece in a themed chess UI"
+  },
+  "fa-chess-queen": {
+    "appearanceId": "tall chess queen piece with a broad base, tapered body, narrow neck, and a pointed multi-pronged crown; stately column topped with a spiky crown representing the most powerful chess piece",
+    "functionalityId": "selects or places the queen piece in a chess game; identifies the queen role in a chess interface",
+    "intentId": "move or utilize the queen piece during a chess game; represent the queen in a chess-related UI"
+  },
+  "fa-chess-queen-alt": {
+    "appearanceId": "alternate-design chess queen with a simplified or stylized crown and a different body profile; variant queen piece outline with a distinct crown shape",
+    "functionalityId": "selects or places the alternate-style queen piece in a chess game; identifies a stylized queen role in a chess interface",
+    "intentId": "move or utilize the queen using an alternate visual theme; represent the queen piece in a themed chess UI"
+  },
+  "fa-chess-rook": {
+    "appearanceId": "chess rook piece with a flat-topped castellated battlement crown, cylindrical body, and wide stepped base; tower-shaped column with notched parapet top",
+    "functionalityId": "selects or places the rook piece in a chess game; identifies the rook role in a chess interface",
+    "intentId": "move or deploy the rook piece during a chess game; represent the rook in a chess-related UI"
+  },
+  "fa-chess-rook-alt": {
+    "appearanceId": "alternate-design chess rook with a more angular or stylized battlement top on a simplified cylindrical body; variant tower-shaped piece silhouette with a distinct parapet design",
+    "functionalityId": "selects or places the alternate-style rook piece in a chess game; identifies a stylized rook role in a chess interface",
+    "intentId": "move or deploy the rook using an alternate visual theme; represent the rook piece in a themed chess UI"
+  },
+  "fa-chestnut": {
+    "appearanceId": "round or teardrop-shaped nut with a pointed tip and a rough spiky husk partially opened at the base; smooth-shelled nut emerging from a split prickly casing",
+    "functionalityId": "tags food content as chestnut-related; labels a recipe or product with a chestnut ingredient",
+    "intentId": "find or categorize chestnut recipes or seasonal food content; represent autumn harvest or nut-based ingredients"
+  },
+  "fa-chevron-circle-down": {
+    "appearanceId": "downward-pointing V-shape chevron centered inside a full circle outline; open downward angle bracket enclosed in a circular border",
+    "functionalityId": "expands a collapsed section or scrolls content downward; opens a dropdown or reveals content below",
+    "intentId": "reveal more content below or expand a section; open a circular-framed dropdown or accordion"
+  },
+  "fa-chevron-circle-left": {
+    "appearanceId": "leftward-pointing V-shape chevron centered inside a full circle outline; open left angle bracket enclosed in a circular border",
+    "functionalityId": "navigates to the previous item or page; moves focus or slides content to the left",
+    "intentId": "go back to the previous view or item; scroll or pan content leftward"
+  },
+  "fa-chevron-circle-right": {
+    "appearanceId": "rightward-pointing V-shape chevron centered inside a full circle outline; open right angle bracket enclosed in a circular border",
+    "functionalityId": "navigates to the next item or page; moves focus or slides content to the right",
+    "intentId": "advance to the next view or item; scroll or pan content rightward"
+  },
+  "fa-chevron-circle-up": {
+    "appearanceId": "upward-pointing V-shape chevron centered inside a full circle outline; open upward angle bracket enclosed in a circular border",
+    "functionalityId": "collapses an expanded section or scrolls content upward; closes a dropdown or hides content below",
+    "intentId": "collapse expanded content or scroll back to the top; close a circular-framed dropdown or accordion"
+  },
+  "fa-chevron-down": {
+    "appearanceId": "single downward-pointing V-shape chevron standing alone; open angle bracket pointing toward the bottom",
+    "functionalityId": "opens a dropdown menu or expands a collapsible section; scrolls the view downward",
+    "intentId": "reveal additional options or content below; expand a menu or unfold a section"
+  },
+  "fa-chevron-left": {
+    "appearanceId": "single leftward-pointing V-shape chevron standing alone; open angle bracket pointing toward the left",
+    "functionalityId": "navigates back to the previous page or item; collapses or closes a panel to the left",
+    "intentId": "go back to the previous screen or item; move selection or view to the left"
+  },
+  "fa-chevron-right": {
+    "appearanceId": "single rightward-pointing V-shape chevron standing alone; open angle bracket pointing toward the right",
+    "functionalityId": "navigates forward to the next page or item; expands or opens a panel to the right",
+    "intentId": "proceed to the next screen or item; move selection or view to the right"
+  },
+  "fa-chevron-square-down": {
+    "appearanceId": "downward-pointing V-shape chevron centered inside a square outline; open downward angle bracket enclosed in a rectangular border",
+    "functionalityId": "expands a collapsed section or opens a dropdown within a square container; scrolls content downward in a boxed panel",
+    "intentId": "reveal content below within a square-framed area; expand a boxed dropdown or accordion"
+  },
+  "fa-chevron-square-left": {
+    "appearanceId": "leftward-pointing V-shape chevron centered inside a square outline; open left angle bracket enclosed in a rectangular border",
+    "functionalityId": "navigates back or slides a panel to the left within a square container; moves selection leftward in a boxed interface",
+    "intentId": "go to the previous item within a square-framed UI element; shift content or view leftward"
+  },
+  "fa-chevron-square-right": {
+    "appearanceId": "rightward-pointing V-shape chevron centered inside a square outline; open right angle bracket enclosed in a rectangular border",
+    "functionalityId": "navigates forward or slides a panel to the right within a square container; moves selection rightward in a boxed interface",
+    "intentId": "advance to the next item within a square-framed UI element; shift content or view rightward"
+  },
+  "fa-chevron-square-up": {
+    "appearanceId": "upward-pointing V-shape chevron centered inside a square outline; open upward angle bracket enclosed in a rectangular border",
+    "functionalityId": "collapses an expanded section or scrolls content upward within a square container; closes a dropdown in a boxed panel",
+    "intentId": "collapse content or scroll upward within a square-framed area; close a boxed dropdown or accordion"
+  },
+  "fa-chevron-up": {
+    "appearanceId": "single upward-pointing V-shape chevron standing alone; open angle bracket pointing toward the top",
+    "functionalityId": "collapses an expanded section or closes a dropdown menu; scrolls the view upward",
+    "intentId": "hide expanded content or close an open menu; scroll back toward the top of a section"
+  },
+  "fa-chevrons-down": {
+    "appearanceId": "two stacked downward-pointing V-shapes one above the other; double open angle brackets both pointing toward the bottom",
+    "functionalityId": "scrolls or skips content far downward; fast-forwards or jumps to the bottom of a list or section",
+    "intentId": "jump quickly to the bottom of content; skip ahead by a large increment downward"
+  },
+  "fa-chevrons-left": {
+    "appearanceId": "two stacked leftward-pointing V-shapes side by side; double open angle brackets both pointing toward the left",
+    "functionalityId": "navigates back multiple steps or jumps to the beginning; fast-rewinds or skips far left in a sequence",
+    "intentId": "go back many steps or jump to the start; move quickly to the leftmost position"
+  },
+  "fa-chevrons-right": {
+    "appearanceId": "two stacked rightward-pointing V-shapes side by side; double open angle brackets both pointing toward the right",
+    "functionalityId": "navigates forward multiple steps or jumps to the end; fast-forwards or skips far right in a sequence",
+    "intentId": "advance many steps or jump to the end; move quickly to the rightmost position"
+  },
+  "fa-chevrons-up": {
+    "appearanceId": "two stacked upward-pointing V-shapes one below the other; double open angle brackets both pointing toward the top",
+    "functionalityId": "scrolls or skips content far upward; fast-rewinds or jumps to the top of a list or section",
+    "intentId": "jump quickly to the top of content; skip back by a large increment upward"
+  },
+  "fa-chf-sign": {
+    "appearanceId": "the letters CHF forming a currency symbol, typically with a crossbar or stylized treatment; Swiss franc currency abbreviation as a typographic glyph",
+    "functionalityId": "selects or displays Swiss franc as the currency unit; formats a monetary value in CHF",
+    "intentId": "work with Swiss franc currency amounts; set or indicate a CHF-denominated price or value"
+  },
+  "fa-child": {
+    "appearanceId": "simplified figure of a small child with a round head and outstretched arms in a neutral standing pose; compact human silhouette with proportions indicating youth",
+    "functionalityId": "filters or tags content as child-appropriate or child-related; selects a child participant or user profile",
+    "intentId": "identify child users or age-appropriate content; manage settings or access for children"
+  },
+  "fa-child-dress": {
+    "appearanceId": "small child figure wearing a flared dress or skirt shape below the waist; diminutive human silhouette with a triangular skirt outline",
+    "functionalityId": "filters or tags content for a girl child or dress-wearing child profile; selects a child with dress identifier in a user list",
+    "intentId": "identify or manage a girl child profile or age-group; represent children's clothing or gendered youth content"
+  },
+  "fa-child-reaching": {
+    "appearanceId": "small child figure with one or both arms extended upward or outward as if reaching; diminutive human silhouette with arms raised overhead",
+    "functionalityId": "indicates a child requesting assistance or interaction; marks a help-needed or child-engagement action",
+    "intentId": "signal a child needing attention or assistance; represent childhood engagement or learning interaction"
+  },
+  "fa-child-rifle": {
+    "appearanceId": "small child silhouette holding or carrying a rifle shape; diminutive human figure outline combined with a long firearm",
+    "functionalityId": "flags content involving armed minors or child soldier scenarios; marks sensitive content related to children and weapons",
+    "intentId": "identify or report content involving child soldiers or armed minors; tag sensitive humanitarian or conflict-related topics"
+  },
+  "fa-children": {
+    "appearanceId": "two small child figures side by side, one slightly taller than the other; pair of diminutive human silhouettes representing multiple children",
+    "functionalityId": "filters or tags content as family or child group-related; selects a children's group or multi-child profile",
+    "intentId": "manage or access settings for multiple children; represent family or group of kids in a UI context"
+  },
+  "fa-chimney": {
+    "appearanceId": "tall narrow rectangular chimney stack with smoke swirls or lines rising from the top opening; vertical brick-like column outline with emission wisps",
+    "functionalityId": "indicates a fireplace, heating system, or smoke-related feature; marks a chimney sweep or home heating service",
+    "intentId": "manage home heating or fireplace settings; schedule chimney maintenance or identify a heating system"
+  },
+  "fa-chopsticks": {
+    "appearanceId": "two long thin parallel sticks held at an angle converging toward a lower point; pair of slender tapered rods crossing near the tips",
+    "functionalityId": "selects or labels Asian cuisine or chopstick utensil content; tags a restaurant or meal as East Asian food",
+    "intentId": "find Asian cuisine restaurants or chopstick-related food content; indicate an East Asian dining experience"
+  },
+  "fa-church": {
+    "appearanceId": "building facade with a central entrance, pitched roof, and a tall steeple or bell tower with a cross on top; chapel or place of worship outline with a prominent vertical spire",
+    "functionalityId": "locates a church or place of worship on a map; marks a religious site or event in a calendar",
+    "intentId": "find a nearby church or religious venue; access information about a place of worship"
+  },
+  "fa-circle": {
+    "appearanceId": "solid or outlined perfect circle with no interior detail; plain round disc or ring shape",
+    "functionalityId": "marks a selection, status indicator, or bullet point; highlights an item or represents an unread notification dot",
+    "intentId": "indicate a status or selection state; use as a generic marker or placeholder in a UI"
+  },
+  "fa-circle-0": {
+    "appearanceId": "circle containing the numeral 0 centered within its boundary; round border enclosing a zero digit",
+    "functionalityId": "selects or labels item number zero in a numbered list or sequence; marks the zeroth step or option in an interface",
+    "intentId": "navigate to or identify the zero-indexed item or step; represent a starting point or null value in a numbered sequence"
+  },
+  "fa-circle-1": {
+    "appearanceId": "circle containing the numeral 1 centered within its boundary; round border enclosing a one digit",
+    "functionalityId": "selects or labels item number one in a numbered list or sequence; marks the first step or option in an interface",
+    "intentId": "navigate to or identify the first item or step; represent priority one or the beginning of a numbered sequence"
+  }
+}

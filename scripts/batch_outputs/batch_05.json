@@ -1,0 +1,242 @@
+{
+  "fa-car-wash": {
+    "appearanceId": "car silhouette with water droplets and vertical brush lines above",
+    "functionalityId": "locate or schedule a car wash",
+    "intentId": "find a place to clean a vehicle"
+  },
+  "fa-car-wrench": {
+    "appearanceId": "car silhouette with a wrench overlaid on lower body",
+    "functionalityId": "schedule or view car maintenance",
+    "intentId": "arrange a vehicle repair or service"
+  },
+  "fa-carrot": {
+    "appearanceId": "tapered carrot vegetable with leafy feathered top",
+    "functionalityId": "browse produce or nutrition content",
+    "intentId": "access vegetable or food information"
+  },
+  "fa-cart-arrow-down": {
+    "appearanceId": "shopping cart basket with downward arrow inside the basket",
+    "functionalityId": "add item to cart or download to cart",
+    "intentId": "place an item into the shopping cart"
+  },
+  "fa-cart-arrow-up": {
+    "appearanceId": "shopping cart basket with upward arrow inside the basket",
+    "functionalityId": "remove item from cart or upload from cart",
+    "intentId": "lift or export an item out of the cart"
+  },
+  "fa-cart-circle-arrow-down": {
+    "appearanceId": "shopping cart with circular arrow badge pointing downward in corner",
+    "functionalityId": "import or reload items into cart",
+    "intentId": "re-add or sync items back into cart"
+  },
+  "fa-cart-circle-arrow-up": {
+    "appearanceId": "shopping cart with circular arrow badge pointing upward in corner",
+    "functionalityId": "export or elevate items from cart",
+    "intentId": "move cart contents upward or to checkout"
+  },
+  "fa-cart-shopping": {
+    "appearanceId": "shopping cart with open basket body and two circular wheels",
+    "functionalityId": "open or view shopping cart",
+    "intentId": "review items selected for purchase"
+  },
+  "fa-castle": {
+    "appearanceId": "medieval castle with central tower, two flanking turrets with crenellations, and arched gate",
+    "functionalityId": "browse medieval or fantasy content",
+    "intentId": "access castle or fortress-themed features"
+  },
+  "fa-cat": {
+    "appearanceId": "sitting cat silhouette with pointed ears, tail curled to side",
+    "functionalityId": "browse pet or animal content",
+    "intentId": "access cat or pet-related features"
+  },
+  "fa-cat-space": {
+    "appearanceId": "cat silhouette wearing a round astronaut helmet",
+    "functionalityId": "browse whimsical or space-themed content",
+    "intentId": "access playful or sci-fi themed features"
+  },
+  "fa-chart-bullet": {
+    "appearanceId": "horizontal bars of varying lengths stacked with a marker line overlay",
+    "functionalityId": "view bullet chart performance data",
+    "intentId": "compare actual values against a target"
+  },
+  "fa-chart-candlestick": {
+    "appearanceId": "vertical candlestick bars with thin wicks above and below rectangular bodies",
+    "functionalityId": "view candlestick or financial price chart",
+    "intentId": "analyze open-high-low-close price data"
+  },
+  "fa-chart-column": {
+    "appearanceId": "three vertical bars of ascending height on a horizontal baseline",
+    "functionalityId": "view column chart data",
+    "intentId": "compare categorical values side by side"
+  },
+  "fa-chart-diagram": {
+    "appearanceId": "nodes connected by lines forming a branching diagram structure",
+    "functionalityId": "view or edit a flow or relationship diagram",
+    "intentId": "visualize connected data relationships"
+  },
+  "fa-chart-fft": {
+    "appearanceId": "dense vertical frequency bars of varying heights representing a spectrum",
+    "functionalityId": "view frequency spectrum or FFT analysis",
+    "intentId": "analyze signal frequency components"
+  },
+  "fa-chart-gantt": {
+    "appearanceId": "horizontal bars at staggered row positions on a time-axis grid",
+    "functionalityId": "view project timeline or Gantt chart",
+    "intentId": "track task schedules and project timelines"
+  },
+  "fa-chart-kanban": {
+    "appearanceId": "three vertical columns each containing stacked rectangular card blocks",
+    "functionalityId": "view or manage Kanban board",
+    "intentId": "track work items by workflow stage"
+  },
+  "fa-chart-line": {
+    "appearanceId": "upward trending line on a two-axis grid",
+    "functionalityId": "view line chart or trend data",
+    "intentId": "analyze values changing over time"
+  },
+  "fa-chart-line-down": {
+    "appearanceId": "downward trending line on a two-axis grid",
+    "functionalityId": "view declining trend chart",
+    "intentId": "analyze a metric that is decreasing over time"
+  },
+  "fa-chart-line-up": {
+    "appearanceId": "steeply upward trending line on a two-axis grid",
+    "functionalityId": "view rising trend or growth chart",
+    "intentId": "analyze a metric that is increasing over time"
+  },
+  "fa-chart-line-up-down": {
+    "appearanceId": "zigzag line rising and falling across a two-axis grid",
+    "functionalityId": "view volatility or oscillating trend chart",
+    "intentId": "analyze fluctuating values over time"
+  },
+  "fa-chart-mixed-up-circle-currency": {
+    "appearanceId": "combined bar and line chart with a currency symbol badge circle",
+    "functionalityId": "view mixed financial performance chart",
+    "intentId": "analyze combined revenue metrics at a glance"
+  },
+  "fa-chart-mixed-up-circle-dollar": {
+    "appearanceId": "combined bar and line chart with a dollar sign badge circle",
+    "functionalityId": "view mixed dollar-value performance chart",
+    "intentId": "analyze combined dollar metrics at a glance"
+  },
+  "fa-chart-network": {
+    "appearanceId": "circular nodes connected by straight lines forming a network graph",
+    "functionalityId": "view network topology or relationship graph",
+    "intentId": "explore connected entities or node relationships"
+  },
+  "fa-chart-pie": {
+    "appearanceId": "circular pie divided into wedge segments",
+    "functionalityId": "view pie chart or proportion breakdown",
+    "intentId": "compare part-to-whole data distributions"
+  },
+  "fa-chart-pie-alt": {
+    "appearanceId": "circular pie with one wedge segment separated from the whole",
+    "functionalityId": "view exploded pie chart or highlight a segment",
+    "intentId": "draw attention to a specific data slice"
+  },
+  "fa-chart-pie-simple-circle-currency": {
+    "appearanceId": "simple pie chart with a currency symbol badge circle overlay",
+    "functionalityId": "view financial distribution pie chart",
+    "intentId": "analyze currency-based proportional breakdown"
+  },
+  "fa-chart-pie-simple-circle-dollar": {
+    "appearanceId": "simple pie chart with a dollar sign badge circle overlay",
+    "functionalityId": "view dollar-value distribution pie chart",
+    "intentId": "analyze dollar-based proportional breakdown"
+  },
+  "fa-chart-pyramid": {
+    "appearanceId": "stacked horizontal bars of decreasing width from base to apex forming a triangle",
+    "functionalityId": "view pyramid or hierarchical distribution chart",
+    "intentId": "analyze tiered or ranked population data"
+  },
+  "fa-chart-radar": {
+    "appearanceId": "polygon grid with a plotted filled area inside",
+    "functionalityId": "view radar or spider chart",
+    "intentId": "compare multiple variables across categories"
+  },
+  "fa-chart-scatter": {
+    "appearanceId": "dots scattered across a two-axis grid",
+    "functionalityId": "view scatter plot chart",
+    "intentId": "analyze correlation between two variables"
+  },
+  "fa-chart-scatter-3d": {
+    "appearanceId": "dots scattered across a three-axis perspective grid",
+    "functionalityId": "view three-dimensional scatter plot",
+    "intentId": "analyze correlation across three variables"
+  },
+  "fa-chart-scatter-bubble": {
+    "appearanceId": "circles of varying sizes scattered across a two-axis grid",
+    "functionalityId": "view bubble chart with sized data points",
+    "intentId": "analyze three-dimensional data in two-axis space"
+  },
+  "fa-chart-simple": {
+    "appearanceId": "two vertical bars of different heights on a horizontal baseline",
+    "functionalityId": "view a simple bar chart",
+    "intentId": "compare two values side by side"
+  },
+  "fa-chart-simple-horizontal": {
+    "appearanceId": "two horizontal bars of different lengths on a vertical baseline",
+    "functionalityId": "view a simple horizontal bar chart",
+    "intentId": "compare two values along a horizontal axis"
+  },
+  "fa-chart-sine": {
+    "appearanceId": "smooth sinusoidal wave curve on a horizontal axis",
+    "functionalityId": "view sine wave or oscillation chart",
+    "intentId": "analyze periodic or cyclical signal data"
+  },
+  "fa-chart-tree-map": {
+    "appearanceId": "nested rectangles of varying sizes filling a bounded square",
+    "functionalityId": "view treemap or hierarchical area chart",
+    "intentId": "analyze proportional nested category sizes"
+  },
+  "fa-chart-user": {
+    "appearanceId": "bar chart with a person silhouette overlaid or embedded",
+    "functionalityId": "view user analytics or people metrics chart",
+    "intentId": "analyze user-based performance or activity data"
+  },
+  "fa-chart-waterfall": {
+    "appearanceId": "series of ascending and descending bars with connecting lines between them",
+    "functionalityId": "view waterfall chart for incremental changes",
+    "intentId": "analyze how sequential values build or reduce a total"
+  },
+  "fa-check": {
+    "appearanceId": "checkmark V-shape with short left stroke and longer right stroke",
+    "functionalityId": "confirm or mark item as complete",
+    "intentId": "indicate approval or task completion"
+  },
+  "fa-cheese": {
+    "appearanceId": "wedge of cheese with circular holes and a flat cut face",
+    "functionalityId": "browse cheese or dairy food items",
+    "intentId": "access cheese or dairy product information"
+  },
+  "fa-cheese-swiss": {
+    "appearanceId": "rectangular block of cheese with large circular holes throughout",
+    "functionalityId": "browse Swiss cheese or dairy content",
+    "intentId": "access Swiss cheese or dairy product details"
+  },
+  "fa-church": {
+    "appearanceId": "building with peaked roof, arched window, and tall cross-topped tower",
+    "functionalityId": "find or navigate to a church location",
+    "intentId": "locate a religious worship building nearby"
+  },
+  "fa-circle-ampersand": {
+    "appearanceId": "ampersand symbol centered inside a circle",
+    "functionalityId": "insert a conjunction or and-symbol",
+    "intentId": "represent a logical or typographic and relationship"
+  },
+  "fa-circle-arrow-down-left": {
+    "appearanceId": "diagonal downward-left arrow inside a filled circle",
+    "functionalityId": "move or send content down and to the left",
+    "intentId": "navigate toward the lower-left direction"
+  },
+  "fa-circle-arrow-down-right": {
+    "appearanceId": "diagonal downward-right arrow inside a filled circle",
+    "functionalityId": "move or send content down and to the right",
+    "intentId": "navigate toward the lower-right direction"
+  },
+  "fa-circle-arrow-up-left": {
+    "appearanceId": "diagonal upward-left arrow inside a filled circle",
+    "functionalityId": "move or send content up and to the left",
+    "intentId": "navigate toward the upper-left direction"
+  }
+}

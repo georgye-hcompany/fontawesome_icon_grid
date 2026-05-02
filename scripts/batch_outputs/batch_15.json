@@ -1,0 +1,242 @@
+{
+  "fa-moon": {
+    "appearanceId": "crescent moon shape",
+    "functionalityId": "toggle dark mode on",
+    "intentId": "switch to a dark theme"
+  },
+  "fa-moon-cloud": {
+    "appearanceId": "crescent moon shape partially behind a cloud",
+    "functionalityId": "view nighttime weather forecast",
+    "intentId": "check cloudy night sky conditions"
+  },
+  "fa-moon-stars": {
+    "appearanceId": "crescent moon shape with two small stars nearby",
+    "functionalityId": "view nighttime or starry sky mode",
+    "intentId": "access night sky or astronomy features"
+  },
+  "fa-mosque": {
+    "appearanceId": "domed mosque building with minarets",
+    "functionalityId": "find or navigate to a mosque",
+    "intentId": "locate an Islamic place of worship"
+  },
+  "fa-mosquito": {
+    "appearanceId": "side-view mosquito with long legs, wings, and proboscis",
+    "functionalityId": "indicate mosquito or pest presence",
+    "intentId": "warn about or report insect pest activity"
+  },
+  "fa-mosquito-net": {
+    "appearanceId": "draped mesh net hanging over a bed or frame",
+    "functionalityId": "indicate mosquito net or pest protection",
+    "intentId": "access malaria or insect protection information"
+  },
+  "fa-motorcycle": {
+    "appearanceId": "side-view motorcycle with two wheels, handlebars, and engine body",
+    "functionalityId": "browse motorcycle or two-wheel transport options",
+    "intentId": "select or track a motorcycle vehicle"
+  },
+  "fa-mountain": {
+    "appearanceId": "jagged mountain peak silhouette",
+    "functionalityId": "browse outdoor or hiking content",
+    "intentId": "access mountain terrain or elevation data"
+  },
+  "fa-mountain-city": {
+    "appearanceId": "mountain peak silhouette with city buildings in the foreground",
+    "functionalityId": "browse mountain town or scenic city content",
+    "intentId": "explore a city set against mountain terrain"
+  },
+  "fa-mountain-sun": {
+    "appearanceId": "mountain peak silhouette with a sun rising behind it",
+    "functionalityId": "browse outdoor sunrise or landscape content",
+    "intentId": "access mountain scenery or sunrise information"
+  },
+  "fa-mug": {
+    "appearanceId": "plain mug shape with handle on the right and empty interior",
+    "functionalityId": "browse beverage or drink options",
+    "intentId": "select or track a drink or beverage item"
+  },
+  "fa-mug-hot": {
+    "appearanceId": "mug with handle and two wavy steam lines rising above the rim",
+    "functionalityId": "browse hot beverage or coffee options",
+    "intentId": "select or order a hot drink"
+  },
+  "fa-mug-marshmallows": {
+    "appearanceId": "mug with handle and several rounded marshmallow shapes visible inside at the top",
+    "functionalityId": "browse hot chocolate or cozy drink options",
+    "intentId": "select a hot drink with marshmallows"
+  },
+  "fa-mug-tea": {
+    "appearanceId": "mug with handle and a tea bag string with tag hanging over the rim",
+    "functionalityId": "browse tea or herbal drink options",
+    "intentId": "select or order a cup of tea"
+  },
+  "fa-mug-tea-saucer": {
+    "appearanceId": "mug with handle resting on a saucer, with a tea bag string and tag over the rim",
+    "functionalityId": "browse formal tea service options",
+    "intentId": "select or present a tea service item"
+  },
+  "fa-music": {
+    "appearanceId": "single musical eighth note with stem and flag",
+    "functionalityId": "play or browse music content",
+    "intentId": "access audio or music playback"
+  },
+  "fa-n": {
+    "appearanceId": "bold uppercase letter N",
+    "functionalityId": "insert or label letter N",
+    "intentId": "represent the letter N"
+  },
+  "fa-newspaper": {
+    "appearanceId": "folded newspaper with headline lines",
+    "functionalityId": "browse or read news articles",
+    "intentId": "access current news or press content"
+  },
+  "fa-o": {
+    "appearanceId": "bold uppercase letter O",
+    "functionalityId": "insert or label letter O",
+    "intentId": "represent the letter O"
+  },
+  "fa-otter": {
+    "appearanceId": "side-view otter silhouette with rounded head, body, and thick tail",
+    "functionalityId": "browse wildlife or aquatic animal content",
+    "intentId": "access otter or river wildlife information"
+  },
+  "fa-p": {
+    "appearanceId": "bold uppercase letter P",
+    "functionalityId": "insert or label letter P",
+    "intentId": "represent the letter P"
+  },
+  "fa-page": {
+    "appearanceId": "rectangular document page with folded upper-right corner",
+    "functionalityId": "open or view a single document page",
+    "intentId": "access or navigate to a page"
+  },
+  "fa-page-break": {
+    "appearanceId": "document page split horizontally in the middle with a dashed dividing line between two halves",
+    "functionalityId": "insert a page break in a document",
+    "intentId": "force content to start on a new page"
+  },
+  "fa-palette": {
+    "appearanceId": "artist's palette with thumb hole and paint dots",
+    "functionalityId": "open color or theme picker",
+    "intentId": "customize colors or visual style"
+  },
+  "fa-paper-plane": {
+    "appearanceId": "folded paper airplane shape",
+    "functionalityId": "send a message or submission",
+    "intentId": "submit or deliver content to a recipient"
+  },
+  "fa-paperclip": {
+    "appearanceId": "elongated oval paperclip shape",
+    "functionalityId": "attach a file or document",
+    "intentId": "add an attachment to a message or record"
+  },
+  "fa-paste": {
+    "appearanceId": "clipboard with a document page overlapping its lower half",
+    "functionalityId": "paste copied content into current location",
+    "intentId": "insert previously copied text or data"
+  },
+  "fa-pause": {
+    "appearanceId": "two vertical rectangular bars side by side",
+    "functionalityId": "pause current media playback",
+    "intentId": "temporarily stop audio or video"
+  },
+  "fa-paw": {
+    "appearanceId": "paw print with rounded toes",
+    "functionalityId": "browse pet or animal content",
+    "intentId": "access pet profiles or animal information"
+  },
+  "fa-paw-alt": {
+    "appearanceId": "paw print outline with four rounded toe pads and a larger central pad",
+    "functionalityId": "browse alternative pet or animal content",
+    "intentId": "access animal or pet-related features"
+  },
+  "fa-paw-claws": {
+    "appearanceId": "paw print with four claw tips extending above each toe pad",
+    "functionalityId": "indicate wild animal or predator content",
+    "intentId": "access wildlife or predator animal information"
+  },
+  "fa-pen": {
+    "appearanceId": "diagonal pen nib pointing down-left",
+    "functionalityId": "edit or write text content",
+    "intentId": "modify or annotate an item"
+  },
+  "fa-pen-ruler": {
+    "appearanceId": "diagonal pen and ruler crossed over each other",
+    "functionalityId": "open design or drafting tools",
+    "intentId": "access precision drawing or layout features"
+  },
+  "fa-pencil": {
+    "appearanceId": "pencil shape with eraser at top and pointed tip",
+    "functionalityId": "edit or annotate content",
+    "intentId": "write or revise text or drawings"
+  },
+  "fa-pepper": {
+    "appearanceId": "whole bell pepper silhouette with stem at top",
+    "functionalityId": "browse produce or vegetable content",
+    "intentId": "select or identify a pepper ingredient"
+  },
+  "fa-pepper-hot": {
+    "appearanceId": "curved chili pepper shape with stem and leaf at top",
+    "functionalityId": "indicate spicy or hot content",
+    "intentId": "mark or filter for spicy food items"
+  },
+  "fa-percent": {
+    "appearanceId": "percent sign with two circles and diagonal bar",
+    "functionalityId": "apply or display a percentage value",
+    "intentId": "show or calculate a proportional amount"
+  },
+  "fa-person-arrow-down-to-line": {
+    "appearanceId": "person silhouette with a downward arrow pointing to a horizontal line below",
+    "functionalityId": "check in or arrive at a location",
+    "intentId": "mark a person's arrival at a destination"
+  },
+  "fa-person-arrow-up-from-line": {
+    "appearanceId": "person silhouette with an upward arrow rising from a horizontal line below",
+    "functionalityId": "check out or depart from a location",
+    "intentId": "mark a person's departure from a place"
+  },
+  "fa-person-booth": {
+    "appearanceId": "person silhouette standing inside a vertical booth or partition",
+    "functionalityId": "navigate to a voting or private booth",
+    "intentId": "access a private voting or registration station"
+  },
+  "fa-person-breastfeeding": {
+    "appearanceId": "seated person silhouette holding and nursing an infant",
+    "functionalityId": "indicate a nursing or breastfeeding area",
+    "intentId": "find a breastfeeding space or related resource"
+  },
+  "fa-person-burst": {
+    "appearanceId": "person silhouette surrounded by radiating burst lines",
+    "functionalityId": "indicate a person alert or explosion event",
+    "intentId": "signal an urgent person-related notification"
+  },
+  "fa-person-cane": {
+    "appearanceId": "person silhouette standing upright with a diagonal cane beside the body",
+    "functionalityId": "indicate elderly or mobility-assisted person",
+    "intentId": "access accessibility or senior assistance features"
+  },
+  "fa-person-carry": {
+    "appearanceId": "person silhouette with both arms extended holding a box",
+    "functionalityId": "indicate carrying or moving an item",
+    "intentId": "assign or track a person transporting goods"
+  },
+  "fa-person-chalkboard": {
+    "appearanceId": "person silhouette standing at a board with arm raised",
+    "functionalityId": "start or view a presentation or lecture",
+    "intentId": "access teaching or training content"
+  },
+  "fa-person-circle-check": {
+    "appearanceId": "person silhouette with a checkmark badge circle in the lower-right corner",
+    "functionalityId": "confirm or approve a person or user",
+    "intentId": "verify or mark a person as validated"
+  },
+  "fa-person-circle-exclamation": {
+    "appearanceId": "person silhouette with an exclamation mark badge circle in the lower-right corner",
+    "functionalityId": "flag a person or user with a warning",
+    "intentId": "alert about an issue with a specific person"
+  },
+  "fa-person-circle-minus": {
+    "appearanceId": "person silhouette with a minus sign badge circle in the lower-right corner",
+    "functionalityId": "remove or deactivate a person or user",
+    "intentId": "delete or reduce access for a user account"
+  }
+}

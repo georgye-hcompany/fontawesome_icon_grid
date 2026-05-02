@@ -902,7 +902,13 @@ def get_metadata(class_name, is_brand=False):
             f"visit {brand_readable} or connect this account to the {brand_readable} service"
         )
 
-    # LLM-generated overrides take priority over heuristics (but not curated)
+    # LLM-generated overrides take priority over everything (including curated)
+    if class_name in METADATA_OVERRIDES:
+        ov = METADATA_OVERRIDES[class_name]
+        words = name.split("-")
+        label = to_label(words)
+        return label, ov["appearanceId"], ov["functionalityId"], ov["intentId"]
+
     if name in CURATED_METADATA:
         label_text, appearance, functionality, intent = CURATED_METADATA[name]
         label = f"{label_text} icon" if not label_text.lower().endswith(" icon") else label_text

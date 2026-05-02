@@ -1,0 +1,242 @@
+{
+  "fa-file-waveform": {
+    "appearanceId": "document outline with a folded corner at the top right and a waveform or ECG pulse line drawn across the lower portion; page shape with a jagged or sinusoidal wave graphic inside",
+    "functionalityId": "opens a medical waveform record or diagnostic signal file; accesses an ECG, vitals log, or audio waveform document",
+    "intentId": "review a waveform-based medical or signal recording; open a file containing physiological or audio wave data"
+  },
+  "fa-file-word": {
+    "appearanceId": "document outline with a folded corner at the top right and the letter W label or WORD text overlay centered on the page body; page shape with a Microsoft Word format badge",
+    "functionalityId": "opens or creates a Word-formatted document file; associates a file with the Microsoft Word application",
+    "intentId": "work with a Microsoft Word document; open or save a file in the .docx word processing format"
+  },
+  "fa-file-xls": {
+    "appearanceId": "document outline with a folded corner at the top right and an XLS text label centered on the page body; page shape with a spreadsheet format badge showing the XLS abbreviation",
+    "functionalityId": "opens or creates an XLS spreadsheet file; associates a file with a legacy Excel spreadsheet format",
+    "intentId": "work with an XLS spreadsheet document; open or export data in the older Excel file format"
+  },
+  "fa-file-xml": {
+    "appearanceId": "document outline with a folded corner at the top right and an XML text label centered on the page body; page shape with an XML markup format badge",
+    "functionalityId": "opens or processes an XML-formatted data file; associates a file with extensible markup language content",
+    "intentId": "work with an XML data or configuration file; open or parse a document in XML format"
+  },
+  "fa-file-zip": {
+    "appearanceId": "document outline with a folded corner at the top right and a ZIP text label centered on the page body; page shape with a compressed archive format badge",
+    "functionalityId": "opens or creates a ZIP compressed archive file; associates a file with a zipped or compressed bundle",
+    "intentId": "compress files into or extract files from a ZIP archive; manage a compressed file package"
+  },
+  "fa-file-zipper": {
+    "appearanceId": "document outline with a folded corner at the top right and a zipper or compression symbol running vertically along the page; page shape with an interlocking zipper track overlay indicating compression",
+    "functionalityId": "compresses or archives a file into a zipped bundle; opens a zip or archive management tool for the selected file",
+    "intentId": "compress a file or folder into an archive; manage zipping or unzipping of a file bundle"
+  },
+  "fa-files": {
+    "appearanceId": "two overlapping document outlines with folded corners, one offset behind the other in a stacked arrangement; a pair of page shapes layered together suggesting multiple files",
+    "functionalityId": "accesses or manages multiple files in a grouped view; navigates to a multi-file selection or bulk file operation panel",
+    "intentId": "manage or view a collection of multiple files; perform bulk operations on a set of documents"
+  },
+  "fa-files-medical": {
+    "appearanceId": "two overlapping document outlines with folded corners and a medical cross or plus symbol on the front page; stacked page shapes with a health or medical indicator badge on the top document",
+    "functionalityId": "opens or manages a set of medical record files; navigates to a patient document collection or clinical file repository",
+    "intentId": "access a collection of medical records or health documents; manage patient files in a clinical or healthcare context"
+  },
+  "fa-fill": {
+    "appearanceId": "a paint bucket silhouette tilted at an angle with a drip or drop at the spout tip; bucket container shape angled with a small liquid drip emerging from its opening",
+    "functionalityId": "fills a closed region or shape with the selected color; applies a solid color fill to a selected area on a canvas",
+    "intentId": "color a region or enclosed shape with a solid fill; apply background color to a selected area in a design tool"
+  },
+  "fa-fill-drip": {
+    "appearanceId": "a paint bucket silhouette tilted at an angle with a larger drip or teardrop drop falling from the spout; angled bucket shape with a prominent falling liquid drop below its tip",
+    "functionalityId": "applies a color fill with an active drip effect to a canvas area; triggers a paint-bucket fill action on a selected region",
+    "intentId": "fill a region with color using the paint bucket tool; change the background or fill color of a selected shape or area"
+  },
+  "fa-film": {
+    "appearanceId": "a horizontal filmstrip rectangle with small square perforations along the top and bottom edges and two rectangular frame cells in the center; classic celluloid strip shape with sprocket holes along both borders",
+    "functionalityId": "opens a video player or media file; navigates to a video library or film content section",
+    "intentId": "play or browse video content; access a film library or media archive"
+  },
+  "fa-film-alt": {
+    "appearanceId": "a filmstrip rectangle with perforations along both edges and a slightly altered internal frame layout or aspect ratio compared to the standard strip; variant celluloid strip shape with sprocket holes and modified inner frames",
+    "functionalityId": "opens an alternate video format or media item; accesses a film or video entry in an alternate display context",
+    "intentId": "view or play video content in an alternate format; access film media in a variant presentation style"
+  },
+  "fa-film-canister": {
+    "appearanceId": "a cylindrical canister shape viewed from the side or at a slight angle with a lid or cap on top and a circular reel profile; round lidded container silhouette suggesting a film roll storage tin",
+    "functionalityId": "accesses stored or archived film reels or media canisters; navigates to a physical or archived media storage section",
+    "intentId": "manage or retrieve archived film or physical media; locate a stored film reel in an inventory or collection"
+  },
+  "fa-film-slash": {
+    "appearanceId": "a horizontal filmstrip rectangle with perforations along the top and bottom edges and a diagonal slash line crossing through the entire strip; standard celluloid strip with a strike-through indicating disabled or no video",
+    "functionalityId": "disables or removes video from a media item; indicates that no film or video content is available or allowed",
+    "intentId": "block or disable video playback for a selected item; indicate that film or video content is unavailable or restricted"
+  },
+  "fa-films": {
+    "appearanceId": "two overlapping filmstrip rectangles with sprocket holes along the edges, offset slightly to show depth or multiplicity; a stacked or fanned pair of celluloid strips suggesting multiple films",
+    "functionalityId": "opens a multi-film library or video collection view; navigates to a grouped set of video or film entries",
+    "intentId": "browse or manage a collection of multiple films or videos; access a bulk video library or multi-film playlist"
+  },
+  "fa-filter": {
+    "appearanceId": "a downward-pointing funnel or triangle with a wider opening at the top narrowing to a single outlet at the bottom; classic inverted triangle filter shape with converging sides leading to a small spout",
+    "functionalityId": "applies filter criteria to narrow down a list or dataset; opens a filter panel to refine visible results",
+    "intentId": "narrow a list or dataset by applying search filters; refine visible results based on specified criteria"
+  },
+  "fa-filter-circle-xmark": {
+    "appearanceId": "a downward-pointing funnel shape with a small circle containing an X mark overlaid at the upper right corner; inverted triangle filter with a circular remove or cancel badge",
+    "functionalityId": "clears all applied filters from the current view; removes an active filter from a dataset or list",
+    "intentId": "remove all active filters to restore the full unfiltered view; cancel a currently applied filter setting"
+  },
+  "fa-filter-list": {
+    "appearanceId": "a downward-pointing funnel shape combined with several short horizontal lines to the right suggesting a list; inverted triangle filter with stacked line items adjacent to it",
+    "functionalityId": "opens a list of available filter options for a dataset; displays active filters as a manageable list",
+    "intentId": "review and manage a list of applied or available filters; select from a menu of filter criteria options"
+  },
+  "fa-filter-slash": {
+    "appearanceId": "a downward-pointing funnel shape with a diagonal slash line crossing through it; inverted triangle filter silhouette bisected by a strike-through line indicating disabled filtering",
+    "functionalityId": "disables or bypasses the active filter on a dataset; clears filtering and restores the unfiltered result set",
+    "intentId": "turn off or disable a filter to show all results; remove filtering from a dataset to view the complete list"
+  },
+  "fa-filters": {
+    "appearanceId": "two side-by-side or slightly overlapping funnel shapes suggesting multiple filter options; a pair of inverted triangle filter silhouettes representing a compound or multi-filter control",
+    "functionalityId": "opens a multi-filter configuration panel for a dataset; applies or manages multiple simultaneous filter criteria",
+    "intentId": "configure multiple filters at once for a complex query; manage compound filtering across several data dimensions"
+  },
+  "fa-fingerprint": {
+    "appearanceId": "a set of closely spaced concentric arc lines forming an oval fingerprint whorl pattern with a central point; curved parallel ridgelines arranged in an elliptical loop suggesting a human fingertip print",
+    "functionalityId": "authenticates a user via biometric fingerprint scanning; enables or triggers fingerprint login for secure access",
+    "intentId": "log in or verify identity using a fingerprint scanner; enable biometric authentication for secure access"
+  },
+  "fa-fire": {
+    "appearanceId": "a tapered flame shape with a wider rounded base that narrows to a pointed tip, with inner flame curves suggesting layered burning; upward-reaching fire silhouette with flowing curved sides and a pointed apex",
+    "functionalityId": "marks content as trending, hot, or high-priority; indicates an active fire hazard or burning event",
+    "intentId": "highlight trending or popular content; flag an active fire or high-heat condition in a safety or status context"
+  },
+  "fa-fire-alt": {
+    "appearanceId": "a rounded bulbous flame shape with a wider body and smoother curves compared to the standard flame, suggesting a softer or fuller burn; plump flame silhouette with rounded sides and a slightly flatter tip",
+    "functionalityId": "marks content as hot or trending using an alternate flame style; indicates fire or heat with a rounder visual variant",
+    "intentId": "highlight popular or active content with an alternate fire visual; indicate heat or flame in a context requiring a softer icon style"
+  },
+  "fa-fire-burner": {
+    "appearanceId": "a gas burner or stovetop grate shape viewed from above with radiating flame jets and a circular ring structure; flat circular grate with multiple upward-pointing flame prongs around the ring",
+    "functionalityId": "indicates a gas burner or cooking flame element in use; navigates to stovetop or burner control settings",
+    "intentId": "control or monitor a gas burner or stove element; manage cooking appliance settings related to open flame"
+  },
+  "fa-fire-extinguisher": {
+    "appearanceId": "a tall cylindrical canister with a conical top, a trigger handle and hose nozzle extending from the upper portion; upright pressurized cylinder silhouette with a handle and discharge hose typical of a safety extinguisher",
+    "functionalityId": "marks a fire extinguisher location on a safety map; indicates fire suppression resources or emergency equipment nearby",
+    "intentId": "locate a fire extinguisher in a building map or safety plan; access emergency fire suppression information"
+  },
+  "fa-fire-hydrant": {
+    "appearanceId": "a squat barrel-shaped fire hydrant with a domed cap on top, two side outlet caps, and a wide base flange; short cylindrical street hydrant silhouette with bolt caps and side nozzle covers",
+    "functionalityId": "marks a fire hydrant location on a map or infrastructure view; indicates a water supply point for emergency fire response",
+    "intentId": "locate a fire hydrant on a street or facility map; plan emergency water access for fire response"
+  },
+  "fa-fire-smoke": {
+    "appearanceId": "a flame shape at the base with wavy smoke or cloud puffs rising above it; an upward-pointing fire tongue combined with billowing curved smoke lines above the flame",
+    "functionalityId": "indicates an active fire with visible smoke or hazardous air quality; marks a burning event producing smoke in a safety or monitoring context",
+    "intentId": "report or respond to a fire producing hazardous smoke; monitor air quality alerts related to active burning"
+  },
+  "fa-fireplace": {
+    "appearanceId": "a rectangular hearth opening framed by a mantel arch or surround, with flames visible inside the lower portion; arched or rectangular fireplace facade silhouette with a burning flame inside the firebox",
+    "functionalityId": "activates a fireplace ambiance mode or home heating display; navigates to home comfort or heating system settings",
+    "intentId": "control or enjoy a fireplace feature in a smart home or ambiance app; access heating or cozy atmosphere settings"
+  },
+  "fa-firewall": {
+    "appearanceId": "a brick wall pattern with a flame overlaid in front of or behind it; rectangular stacked-brick texture combined with a fire silhouette suggesting a protective barrier against flames",
+    "functionalityId": "configures or enables a network firewall for security protection; navigates to firewall rules or network barrier settings",
+    "intentId": "protect a network or system by configuring firewall rules; manage security barriers to block unauthorized traffic"
+  },
+  "fa-first-aid": {
+    "appearanceId": "a rectangular or square box with a medical plus cross symbol centered on the lid face; flat-topped case outline with a bold cross badge on the front panel",
+    "functionalityId": "opens a first aid information panel or emergency instructions; locates first aid supplies or a medical kit on a map",
+    "intentId": "access first aid resources or emergency medical instructions; find a first aid kit or medical supply location"
+  },
+  "fa-fish": {
+    "appearanceId": "a side-profile fish silhouette with a rounded body, a forked or fan-shaped tail fin, and a small eye dot; streamlined aquatic creature outline with a defined tail and a small circular eye",
+    "functionalityId": "navigates to a seafood menu category or aquatic species listing; marks content related to fish or marine life",
+    "intentId": "browse seafood options or aquatic species content; identify or categorize fish-related items in a menu or inventory"
+  },
+  "fa-fish-bones": {
+    "appearanceId": "a bare fish skeleton silhouette with a spine running horizontally, riblike bones branching off symmetrically, a fish head outline at one end, and a tail at the other; stripped fishbone structure with lateral rib lines",
+    "functionalityId": "marks a food item as consumed or completely eaten; indicates an empty or depleted seafood resource in an inventory",
+    "intentId": "indicate that food has been fully consumed or a resource is depleted; use as a humorous or thematic empty-state marker"
+  },
+  "fa-fish-cooked": {
+    "appearanceId": "a side-profile fish shape on what appears to be a plate or with visual cues suggesting it has been prepared or cooked, such as garnish lines or serving position; plated fish silhouette with a served or prepared presentation",
+    "functionalityId": "indicates a cooked fish dish on a menu or food order; marks a seafood preparation step as complete in a recipe workflow",
+    "intentId": "order or view a cooked fish dish on a food menu; mark a fish preparation task as done in a cooking workflow"
+  },
+  "fa-fish-fins": {
+    "appearanceId": "a side-profile fish silhouette with prominently detailed dorsal, pectoral, and tail fins accentuated compared to the standard fish shape; fish body outline with exaggerated or clearly defined fin structures",
+    "functionalityId": "marks content related to fish species identification or aquatic biology; navigates to a fin-specific detail view of an aquatic creature",
+    "intentId": "identify or learn about fish fin anatomy or a specific finned species; access detailed aquatic species information"
+  },
+  "fa-fishing-rod": {
+    "appearanceId": "a long thin angled rod with a curved tip and a line extending downward from the tip to a hook or lure; tapered fishing pole silhouette with a dangling line and small hook at the end",
+    "functionalityId": "navigates to fishing activity tracking or an angling log; marks content related to recreational fishing",
+    "intentId": "track a fishing trip or log a catch; access fishing-related activities or recreational content"
+  },
+  "fa-flag": {
+    "appearanceId": "a rectangular flag panel attached to a vertical pole at the left edge, with the flag fabric flowing to the right; waving or flat rectangular banner on a flagpole",
+    "functionalityId": "flags or marks an item for follow-up or review; reports content or marks a location with a flag indicator",
+    "intentId": "mark an item for attention or follow-up; flag content or a location for review or reporting"
+  },
+  "fa-flag-alt": {
+    "appearanceId": "a pennant or triangular flag shape attached to a short pole, tapering to a point on the right side; triangular banner on a staff narrowing to a sharp tip instead of a rectangular edge",
+    "functionalityId": "flags or bookmarks an item using a triangular pennant marker; marks a sports or competition-related position or milestone",
+    "intentId": "mark a milestone, position, or item with a pennant flag; bookmark a point in a race, game, or workflow"
+  },
+  "fa-flag-checkered": {
+    "appearanceId": "a rectangular flag with a black-and-white checkerboard pattern on a pole; waving banner filled with alternating dark and light squares in a racing finish-line pattern",
+    "functionalityId": "marks the completion or finish of a race, task, or process; indicates the end or winner of a competitive event",
+    "intentId": "signal the completion or finish of a race or task; mark the end of a competitive event or workflow milestone"
+  },
+  "fa-flag-usa": {
+    "appearanceId": "a rectangular flag on a pole featuring horizontal stripes and a canton with a star field pattern in the upper left corner; American flag silhouette with stripes and a stars rectangle",
+    "functionalityId": "filters or marks content as related to the United States; selects or displays USA-specific language, region, or content",
+    "intentId": "filter content by the United States region; indicate or select US-specific settings, content, or availability"
+  },
+  "fa-flame": {
+    "appearanceId": "a single narrow upright flame tongue shape, taller and more slender than the standard fire icon, tapering sharply to a pointed tip; thin elongated single flame silhouette with a slim base and sharp apex",
+    "functionalityId": "marks a single item as hot, active, or on fire; indicates a minimal or individual flame event in a status display",
+    "intentId": "highlight a single active or hot item; indicate a small flame or minimal fire condition in a monitoring context"
+  },
+  "fa-flashlight": {
+    "appearanceId": "an elongated cylindrical flashlight body with a wider flared head at one end emitting a beam triangle; handheld torch silhouette with a conical light beam projecting from the wider front end",
+    "functionalityId": "activates a device torch or flashlight function; navigates to a lighting or illumination feature in an app",
+    "intentId": "turn on a flashlight or torch on a device; use a lighting tool in a low-light or utility context"
+  },
+  "fa-flask": {
+    "appearanceId": "an Erlenmeyer flask or conical laboratory bottle shape with a narrow neck widening to a broad flat-bottomed body; classic lab flask silhouette with a cylindrical neck and triangular lower body",
+    "functionalityId": "indicates a laboratory test, experiment, or science-related process; opens a lab or experiment configuration in a science application",
+    "intentId": "perform or track a scientific experiment; access lab or chemistry tools in a research or education context"
+  },
+  "fa-flask-gear": {
+    "appearanceId": "an Erlenmeyer flask shape with a gear or cog overlay badge at the lower right or overlapping the body; lab bottle silhouette combined with a toothed gear indicating configuration",
+    "functionalityId": "opens lab experiment settings or configures a scientific test workflow; adjusts parameters for a chemistry or science process",
+    "intentId": "configure or customize a laboratory experiment or scientific process; set up parameters for a research workflow"
+  },
+  "fa-flask-poison": {
+    "appearanceId": "an Erlenmeyer flask shape with a skull-and-crossbones or poison symbol overlaid on the body; lab bottle silhouette combined with a hazard or toxicity indicator badge",
+    "functionalityId": "marks a substance or item as toxic, hazardous, or poisonous; indicates dangerous or prohibited chemical content in a lab context",
+    "intentId": "warn users about a toxic or poisonous substance; label hazardous materials or dangerous chemical items"
+  },
+  "fa-flask-potion": {
+    "appearanceId": "a rounded potion bottle or flask shape with a cork or stopper at the top and a teardrop or bubble motif on the body; small bulbous bottle silhouette with a sealed top and a decorative drop detail",
+    "functionalityId": "marks a consumable potion or power-up item in a game inventory; indicates a magical or special-effect substance in a fantasy context",
+    "intentId": "use or manage a potion or consumable item in a game; access magical or special-effect items in a fantasy application"
+  },
+  "fa-flask-vial": {
+    "appearanceId": "an Erlenmeyer flask shape paired with or connected to a small cylindrical vial alongside it; lab flask silhouette combined with a narrow test-tube vial as a companion container",
+    "functionalityId": "manages paired lab containers or a flask-and-vial sample set; navigates to a dual-sample or combined chemistry workflow",
+    "intentId": "work with paired laboratory samples in a flask and vial setup; manage a multi-container chemistry or lab experiment"
+  },
+  "fa-flatbread": {
+    "appearanceId": "a flat oval or round disc shape suggesting an unfolded flatbread or pita without fillings; simple smooth oval bread silhouette with no toppings or cuts",
+    "functionalityId": "selects or adds a flatbread item in a food ordering interface; marks a menu item as a flatbread-style dish",
+    "intentId": "order or browse flatbread food items on a menu; select a plain flatbread option in a food ordering workflow"
+  },
+  "fa-flatbread-stuffed": {
+    "appearanceId": "a folded or slightly open oval flatbread shape with visible filling content inside the pocket; flatbread silhouette showing a split or open edge revealing stuffing or filling inside",
+    "functionalityId": "selects or adds a stuffed flatbread or filled wrap in a food ordering interface; marks a menu item as a stuffed or filled flatbread dish",
+    "intentId": "order or browse stuffed flatbread or wrap items on a menu; select a filled flatbread option in a food ordering workflow"
+  }
+}

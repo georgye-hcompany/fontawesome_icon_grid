@@ -1,0 +1,242 @@
+{
+  "fa-arrow-down-z-a": {
+    "appearanceId": "downward arrow with letters Z above A",
+    "functionalityId": "sorts list in reverse alphabetical order",
+    "intentId": "organize items from Z to A"
+  },
+  "fa-arrow-from-bottom": {
+    "appearanceId": "arrow pointing upward away from a horizontal base line",
+    "functionalityId": "moves or exports content upward from bottom",
+    "intentId": "push or send content up from a boundary"
+  },
+  "fa-arrow-from-left": {
+    "appearanceId": "arrow pointing rightward away from a vertical left line",
+    "functionalityId": "moves or expands content away from left edge",
+    "intentId": "shift or reveal content toward the right"
+  },
+  "fa-arrow-from-right": {
+    "appearanceId": "arrow pointing leftward away from a vertical right line",
+    "functionalityId": "moves or expands content away from right edge",
+    "intentId": "shift or reveal content toward the left"
+  },
+  "fa-arrow-from-top": {
+    "appearanceId": "arrow pointing downward away from a horizontal top line",
+    "functionalityId": "moves or exports content downward from top",
+    "intentId": "push or send content down from a boundary"
+  },
+  "fa-arrow-left": {
+    "appearanceId": "single arrow pointing left with horizontal shaft",
+    "functionalityId": "navigates to the previous item or page",
+    "intentId": "go back to the prior view"
+  },
+  "fa-arrow-left-from-arc": {
+    "appearanceId": "arrow pointing left exiting from the left side of a curved arc",
+    "functionalityId": "exits or departs from a curved boundary leftward",
+    "intentId": "leave or escape a looped or rounded context"
+  },
+  "fa-arrow-left-from-bracket": {
+    "appearanceId": "arrow pointing left exiting from a right-facing bracket",
+    "functionalityId": "logs out or exits from a bounded context",
+    "intentId": "sign out or leave a contained area"
+  },
+  "fa-arrow-left-long": {
+    "appearanceId": "long arrow pointing left with extended horizontal shaft",
+    "functionalityId": "navigates far back or returns to origin",
+    "intentId": "go back to a distant or starting point"
+  },
+  "fa-arrow-left-long-to-line": {
+    "appearanceId": "long leftward arrow with its tip touching a vertical line on the left",
+    "functionalityId": "navigates to the leftmost boundary or start",
+    "intentId": "jump to the beginning or left edge"
+  },
+  "fa-arrow-left-to-arc": {
+    "appearanceId": "arrow pointing left entering into the left side of a curved arc",
+    "functionalityId": "enters or imports into a curved or looped context",
+    "intentId": "go into or join a rounded or looped flow"
+  },
+  "fa-arrow-left-to-bracket": {
+    "appearanceId": "arrow pointing left entering into a left-facing bracket",
+    "functionalityId": "logs in or enters a bounded context from the right",
+    "intentId": "sign in or enter a contained area"
+  },
+  "fa-arrow-pointer": {
+    "appearanceId": "diagonal mouse cursor arrow pointing up-left",
+    "functionalityId": "activates pointer or selection cursor mode",
+    "intentId": "switch to the default cursor for selecting"
+  },
+  "fa-arrow-progress": {
+    "appearanceId": "arrow following a segmented step-like path moving rightward",
+    "functionalityId": "shows or advances through a multi-step workflow",
+    "intentId": "view or move forward in a staged process"
+  },
+  "fa-arrow-right": {
+    "appearanceId": "single arrow pointing right with horizontal shaft",
+    "functionalityId": "navigates to the next item or page",
+    "intentId": "go forward to the next view"
+  },
+  "fa-arrow-right-from-arc": {
+    "appearanceId": "arrow pointing right exiting from the right side of a curved arc",
+    "functionalityId": "exits or departs from a curved boundary rightward",
+    "intentId": "leave or escape a looped or rounded context"
+  },
+  "fa-arrow-right-long": {
+    "appearanceId": "long arrow pointing right with extended horizontal shaft",
+    "functionalityId": "advances far forward or continues to destination",
+    "intentId": "proceed to a distant or final point"
+  },
+  "fa-arrow-right-long-to-line": {
+    "appearanceId": "long rightward arrow with its tip touching a vertical line on the right",
+    "functionalityId": "navigates to the rightmost boundary or end",
+    "intentId": "jump to the end or right edge"
+  },
+  "fa-arrow-right-to-arc": {
+    "appearanceId": "arrow pointing right entering into the right side of a curved arc",
+    "functionalityId": "enters or imports into a curved or looped context",
+    "intentId": "go into or join a rounded or looped flow"
+  },
+  "fa-arrow-right-to-city": {
+    "appearanceId": "rightward arrow pointing toward a small city skyline silhouette",
+    "functionalityId": "navigates to or directs toward a city or location",
+    "intentId": "travel to or select an urban destination"
+  },
+  "fa-arrow-square-down": {
+    "appearanceId": "downward arrow inside a square border",
+    "functionalityId": "downloads or collapses content downward",
+    "intentId": "save or expand content downward within a container"
+  },
+  "fa-arrow-square-left": {
+    "appearanceId": "leftward arrow inside a square border",
+    "functionalityId": "navigates back or moves content left in a container",
+    "intentId": "go back or shift content leftward"
+  },
+  "fa-arrow-square-right": {
+    "appearanceId": "rightward arrow inside a square border",
+    "functionalityId": "navigates forward or moves content right in a container",
+    "intentId": "proceed or shift content rightward"
+  },
+  "fa-arrow-square-up": {
+    "appearanceId": "upward arrow inside a square border",
+    "functionalityId": "uploads or expands content upward",
+    "intentId": "send or push content upward within a container"
+  },
+  "fa-arrow-to-bottom": {
+    "appearanceId": "arrow pointing downward toward a horizontal base line",
+    "functionalityId": "scrolls to bottom or downloads to local storage",
+    "intentId": "reach the lowest point or save to device"
+  },
+  "fa-arrow-to-left": {
+    "appearanceId": "arrow pointing leftward toward a vertical left line",
+    "functionalityId": "collapses panel or moves content to left boundary",
+    "intentId": "dock or snap content to the left edge"
+  },
+  "fa-arrow-to-right": {
+    "appearanceId": "arrow pointing rightward toward a vertical right line",
+    "functionalityId": "collapses panel or moves content to right boundary",
+    "intentId": "dock or snap content to the right edge"
+  },
+  "fa-arrow-to-top": {
+    "appearanceId": "arrow pointing upward toward a horizontal top line",
+    "functionalityId": "scrolls to top or uploads to a remote destination",
+    "intentId": "reach the highest point or send to a remote"
+  },
+  "fa-arrow-trend-down": {
+    "appearanceId": "downward-trending diagonal arrow with a shallow declining slope",
+    "functionalityId": "displays a declining trend or metric",
+    "intentId": "see that a value or performance is decreasing"
+  },
+  "fa-arrow-trend-up": {
+    "appearanceId": "upward-trending diagonal arrow with a shallow rising slope",
+    "functionalityId": "displays a rising trend or metric",
+    "intentId": "see that a value or performance is increasing"
+  },
+  "fa-arrow-turn-down-left": {
+    "appearanceId": "arrow going down then curving left",
+    "functionalityId": "redirects flow downward then to the left",
+    "intentId": "follow a turn in a path or workflow"
+  },
+  "fa-arrow-turn-down-right": {
+    "appearanceId": "arrow going down then curving right",
+    "functionalityId": "redirects flow downward then to the right",
+    "intentId": "follow a turn in a path or workflow"
+  },
+  "fa-arrow-turn-left": {
+    "appearanceId": "arrow curving upward then turning left",
+    "functionalityId": "redirects or returns flow to the left",
+    "intentId": "go back or reverse direction to the left"
+  },
+  "fa-arrow-turn-left-down": {
+    "appearanceId": "arrow turning left then pointing downward",
+    "functionalityId": "redirects flow leftward then downward",
+    "intentId": "follow a downward-left turn in a path"
+  },
+  "fa-arrow-turn-left-up": {
+    "appearanceId": "arrow turning left then pointing upward",
+    "functionalityId": "redirects flow leftward then upward",
+    "intentId": "follow an upward-left turn in a path"
+  },
+  "fa-arrow-turn-right": {
+    "appearanceId": "arrow curving upward then turning right",
+    "functionalityId": "redirects or continues flow to the right",
+    "intentId": "proceed forward or redirect direction to the right"
+  },
+  "fa-arrow-up": {
+    "appearanceId": "single arrow pointing upward with vertical shaft",
+    "functionalityId": "scrolls up or increases a value",
+    "intentId": "move content or focus upward"
+  },
+  "fa-arrow-up-1-9": {
+    "appearanceId": "upward arrow with numeral 1 above numeral 9",
+    "functionalityId": "sorts list in ascending numerical order",
+    "intentId": "organize items from lowest to highest number"
+  },
+  "fa-arrow-up-9-1": {
+    "appearanceId": "upward arrow with numeral 9 above numeral 1",
+    "functionalityId": "sorts list in descending numerical order",
+    "intentId": "organize items from highest to lowest number"
+  },
+  "fa-arrow-up-a-z": {
+    "appearanceId": "upward arrow with letter A above letter Z",
+    "functionalityId": "sorts list in ascending alphabetical order",
+    "intentId": "organize items from A to Z"
+  },
+  "fa-arrow-up-from-arc": {
+    "appearanceId": "arrow pointing upward rising out from the top of a curved arc",
+    "functionalityId": "exports or lifts content out of a curved boundary",
+    "intentId": "extract or elevate content from a looped context"
+  },
+  "fa-arrow-up-from-bracket": {
+    "appearanceId": "arrow pointing upward exiting from an upward-facing bracket",
+    "functionalityId": "uploads or shares content from a container",
+    "intentId": "send or export content out of a box"
+  },
+  "fa-arrow-up-from-dotted-line": {
+    "appearanceId": "arrow pointing upward rising from a horizontal dotted line below",
+    "functionalityId": "promotes or moves content above a threshold line",
+    "intentId": "lift content above a marked or implied boundary"
+  },
+  "fa-arrow-up-from-ground-water": {
+    "appearanceId": "upward arrow above ground-level waves indicating water below surface",
+    "functionalityId": "indicates groundwater extraction or water level rise",
+    "intentId": "monitor or trigger groundwater pumping or flooding alert"
+  },
+  "fa-arrow-up-from-square": {
+    "appearanceId": "arrow pointing upward exiting from the top of a square",
+    "functionalityId": "exports or shares content from a boxed container",
+    "intentId": "send or upload content out of a defined area"
+  },
+  "fa-arrow-up-from-water-pump": {
+    "appearanceId": "upward arrow rising above a water pump silhouette",
+    "functionalityId": "indicates water pump output or flow direction",
+    "intentId": "monitor or activate a water pumping system"
+  },
+  "fa-arrow-up-left": {
+    "appearanceId": "diagonal arrow pointing toward the upper-left",
+    "functionalityId": "moves or navigates content up and to the left",
+    "intentId": "shift focus or item diagonally toward upper-left"
+  },
+  "fa-arrow-up-left-from-circle": {
+    "appearanceId": "diagonal arrow pointing upper-left exiting from a circle",
+    "functionalityId": "exits or expands content out of a circular boundary",
+    "intentId": "break out of or leave a circular or looped context"
+  }
+}

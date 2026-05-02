@@ -1,0 +1,242 @@
+{
+  "fa-kiwi-fruit": {
+    "appearanceId": "a halved kiwi fruit showing a circular cross-section with a thin brown outer skin, a ring of white flesh, radiating seed lines, and a central oval core; round fruit slice silhouette with concentric ring layers and seed spoke pattern",
+    "functionalityId": "marks a kiwi fruit item in a food or nutrition app; represents a tropical fruit ingredient in a recipe or diet tracker",
+    "intentId": "find kiwi fruit recipes or nutritional information; add kiwi to a grocery list or meal plan"
+  },
+  "fa-knife": {
+    "appearanceId": "a single kitchen or utility knife in side profile with a tapered pointed blade and a short handle at one end; flat elongated blade silhouette with a smooth edge and a grip at the base",
+    "functionalityId": "represents a cutting or slicing tool in a kitchen or cooking app; marks a chef knife or blade utensil in a food preparation context",
+    "intentId": "find cutting tools or kitchen knife options; access cooking or food preparation equipment"
+  },
+  "fa-knife-kitchen": {
+    "appearanceId": "a larger chef's kitchen knife in side profile with a wide rectangular or broad triangular blade and a full ergonomic handle; substantial cleaver-style blade silhouette with a pronounced bolster and grip",
+    "functionalityId": "marks a chef's kitchen knife or heavy-duty cutting utensil; represents professional kitchen cutlery in a cooking or culinary app",
+    "intentId": "find professional kitchen cutlery or chef knife options; access culinary equipment or cooking tool categories"
+  },
+  "fa-krw": {
+    "appearanceId": "a stylized South Korean won currency symbol consisting of a capital W letterform with two horizontal parallel strikethrough lines across the upper portion; bold W-shaped glyph with dual crossbars",
+    "functionalityId": "displays or selects the South Korean won as the currency; represents a price or monetary value in KRW",
+    "intentId": "work with South Korean won pricing or currency conversion; display or set a KRW monetary value"
+  },
+  "fa-l": {
+    "appearanceId": "a single uppercase or lowercase letter L as a plain sans-serif or serif letterform with a vertical stroke and a short horizontal base; upright letter glyph with a right-angle foot",
+    "functionalityId": "represents the letter L as a label or initial; marks a category or item starting with the letter L",
+    "intentId": "label or categorize content starting with L; use the letter L as a shorthand or identifier"
+  },
+  "fa-lacrosse-stick": {
+    "appearanceId": "a lacrosse stick in side profile showing a long straight handle with a triangular or rounded mesh pocket head at one end; elongated shaft silhouette with a strung crosse head at the top",
+    "functionalityId": "marks a lacrosse sport or equipment category; represents a lacrosse stick in a sports or recreation app",
+    "intentId": "access lacrosse sport content or equipment listings; find lacrosse gear or team information"
+  },
+  "fa-lacrosse-stick-ball": {
+    "appearanceId": "a lacrosse stick with a mesh pocket head at one end and a small circular ball shape cradled in or near the pocket; elongated shaft with a strung crosse head silhouette and a round ball element",
+    "functionalityId": "represents an active lacrosse play scene or game action; marks a lacrosse sport category combining stick and ball",
+    "intentId": "access lacrosse game or sport activity content; find lacrosse equipment featuring both stick and ball"
+  },
+  "fa-ladder-water": {
+    "appearanceId": "a vertical ladder with two upright rails and evenly spaced horizontal rungs, with wavy water lines or a pool shape at the base; pool ladder silhouette with rail and rung structure descending into stylized water waves",
+    "functionalityId": "marks a swimming pool ladder or water access point; represents pool entry or aquatic facility access in a recreation app",
+    "intentId": "find a swimming pool or aquatic center with a ladder entry; access pool or water facility information"
+  },
+  "fa-lambda": {
+    "appearanceId": "a Greek lambda letterform resembling an inverted V or an angled chevron shape with two diagonal strokes meeting at an apex; angular glyph with two diverging legs extending downward from a top point",
+    "functionalityId": "represents a lambda function, anonymous function, or Greek letter in a programming or scientific context; marks a functional programming or mathematics category",
+    "intentId": "use a lambda or anonymous function in a programming workflow; access Greek letter or mathematics notation content"
+  },
+  "fa-lamp": {
+    "appearanceId": "a table lamp silhouette with a rounded or conical shade on top and a narrow stem or base below; upright lamp outline with a dome shade and a cylindrical stand",
+    "functionalityId": "toggles a lamp or light source in a smart home or room app; represents a table lamp or ambient lighting fixture",
+    "intentId": "control a lamp or ambient light in a smart home; access lighting settings or fixture options"
+  },
+  "fa-lamp-desk": {
+    "appearanceId": "a desk or task lamp with an articulated or angled arm extending from a flat base and a directed shade head at the end; adjustable arm lamp silhouette with a weighted base and a focused shade nozzle",
+    "functionalityId": "represents a desk lamp or task lighting fixture; toggles or controls a focused work-surface light",
+    "intentId": "control or configure a desk lamp or task light; access work-surface lighting settings"
+  },
+  "fa-lamp-floor": {
+    "appearanceId": "a tall floor lamp silhouette with a long thin vertical pole, a wide base at the bottom, and a large conical or drum shade at the top; standing lamp outline with a floor base and an upward-directed shade",
+    "functionalityId": "represents a floor lamp or standing light fixture in a room; toggles or adjusts a tall floor-standing lamp in a smart home app",
+    "intentId": "control a floor lamp or standing light in a room; manage tall lamp fixtures in a smart home or lighting app"
+  },
+  "fa-lamp-street": {
+    "appearanceId": "a street lamp silhouette with a curved or arched pole and a lantern head at the top; tall outdoor post outline with a bent arm and a globe or box lamp fixture at the end",
+    "functionalityId": "represents street lighting or outdoor public lamp infrastructure; marks a street light location or public lighting feature",
+    "intentId": "manage or locate street lamp infrastructure; access outdoor public lighting settings or map data"
+  },
+  "fa-land-mine-on": {
+    "appearanceId": "a circular land mine device shape viewed from above or at a slight angle, with a domed top and pressure-trigger prongs or detonator pins on the surface; disc-shaped explosive silhouette with trigger pins protruding upward",
+    "functionalityId": "marks a land mine hazard or explosive danger zone on a map; indicates a military or demining alert in a safety app",
+    "intentId": "flag a land mine hazard or demining area; alert users to explosive danger in a conflict or safety map"
+  },
+  "fa-landmark": {
+    "appearanceId": "a classical columned building or monument silhouette with a triangular pediment roof and a row of vertical columns across the facade; Greek or Roman temple outline with a stepped base and column pillars",
+    "functionalityId": "marks a landmark, monument, or historic site on a map; navigates to a cultural or tourism point of interest",
+    "intentId": "find a landmark or historic monument on a map; access tourism or cultural heritage site information"
+  },
+  "fa-landmark-alt": {
+    "appearanceId": "a columned building silhouette similar to the standard landmark but with a slightly different arrangement of columns or pediment detail, or with a dome rather than a pediment; alternate temple or capitol building outline with a dome or modified column row",
+    "functionalityId": "marks an alternative landmark or capitol building shape on a map; navigates to a domed or alternate architectural point of interest",
+    "intentId": "find an alternate style landmark or capitol building; access a domed or modified historic building location"
+  },
+  "fa-landmark-flag": {
+    "appearanceId": "a classical columned building silhouette with a triangular pediment and a small rectangular flag or pennant attached at the top of the structure; temple or monument outline with a flag badge on the roofline",
+    "functionalityId": "flags a landmark or monument location for review or categorization; marks a historic site with a status or country flag",
+    "intentId": "flag or tag a landmark site for special attention; associate a national or status flag with a monument or heritage site"
+  },
+  "fa-landmark-magnifying-glass": {
+    "appearanceId": "a classical columned building silhouette with a triangular pediment and a magnifying glass shape overlaid at one corner; temple or monument outline with a search lens badge",
+    "functionalityId": "searches for landmarks or historic sites in a directory or map; finds a specific monument or cultural site by query",
+    "intentId": "search for a landmark or historic site by name or location; find a specific monument or cultural heritage point of interest"
+  },
+  "fa-landscape": {
+    "appearanceId": "a wide rectangular frame containing a rolling hill or mountain silhouette along the bottom and a circle sun or partial arc in the upper corner; scenic outdoor view thumbnail with terrain and sky elements",
+    "functionalityId": "represents a landscape image mode or outdoor scene category; switches a display or photo to landscape orientation with scenery",
+    "intentId": "view or apply a landscape-oriented display or outdoor scene; browse landscape photography or outdoor imagery categories"
+  },
+  "fa-language": {
+    "appearanceId": "a globe or circular world shape overlaid with horizontal latitude lines and a speech bubble or quote marks shape; spherical world outline with a communication bubble indicating multilingual content",
+    "functionalityId": "opens a language selection or translation settings menu; switches the application's display language",
+    "intentId": "change the app language or access translation settings; select a preferred display language or locale"
+  },
+  "fa-laptop": {
+    "appearanceId": "an open laptop computer with a rectangular screen panel angled upright and a flat keyboard base beneath; clamshell device silhouette showing a monitor half and a keyboard half",
+    "functionalityId": "represents a laptop computer or portable workstation; marks a desktop computing or device category",
+    "intentId": "access laptop or computer device settings; represent a portable workstation in a device or tech category"
+  },
+  "fa-laptop-arrow-down": {
+    "appearanceId": "an open laptop silhouette with a downward-pointing arrow overlaid on the screen portion; clamshell device outline with a descending arrow on the display panel",
+    "functionalityId": "downloads content or files to a laptop; initiates a download or data transfer to a computer",
+    "intentId": "download files or content to a laptop; transfer data onto a portable computer"
+  },
+  "fa-laptop-binary": {
+    "appearanceId": "an open laptop silhouette with binary digit characters (zeros and ones) displayed on the screen portion; clamshell device outline with a binary code pattern on the display panel",
+    "functionalityId": "represents coding, software development, or binary data on a laptop; marks a developer or technical computing context",
+    "intentId": "access development tools or binary data on a laptop; represent a software or coding environment on a computer"
+  },
+  "fa-laptop-code": {
+    "appearanceId": "an open laptop silhouette with code bracket symbols or angle brackets displayed on the screen portion; clamshell device outline with less-than and greater-than code symbols on the display panel",
+    "functionalityId": "represents software development or code editing on a laptop; opens a coding environment or IDE on a computer",
+    "intentId": "access a coding environment or software development tools on a laptop; represent a developer workstation"
+  },
+  "fa-laptop-file": {
+    "appearanceId": "an open laptop silhouette with a document or file page shape overlaid on the screen portion; clamshell device outline with a rectangular page with a folded corner on the display panel",
+    "functionalityId": "opens or manages a file on a laptop; accesses a document or file management interface on a computer",
+    "intentId": "open or manage a document file on a laptop; access file management features on a portable computer"
+  },
+  "fa-laptop-medical": {
+    "appearanceId": "an open laptop silhouette with a medical cross or plus symbol displayed on the screen portion; clamshell device outline with a healthcare cross on the display panel",
+    "functionalityId": "represents medical software, health records, or clinical computing on a laptop; opens a healthcare application or EHR on a computer",
+    "intentId": "access medical software or health records on a laptop; use a computer for healthcare or clinical data management"
+  },
+  "fa-laptop-slash": {
+    "appearanceId": "an open laptop silhouette with a diagonal slash line crossing through the entire device; clamshell device outline with a cancellation or disabling stroke over both the screen and keyboard",
+    "functionalityId": "marks a laptop as disabled, unavailable, or banned; indicates that laptop or computer access is restricted or offline",
+    "intentId": "disable or restrict laptop access; indicate that a computer is unavailable or banned from use"
+  },
+  "fa-lari-sign": {
+    "appearanceId": "a stylized Georgian lari currency symbol consisting of a rounded letter-like glyph with two short horizontal parallel lines crossing the upper vertical stroke; rounded currency letterform with dual horizontal crossbars",
+    "functionalityId": "displays or selects the Georgian lari as the currency; represents a price or monetary value in GEL",
+    "intentId": "work with Georgian lari pricing or currency conversion; display or set a GEL monetary value"
+  },
+  "fa-lasso": {
+    "appearanceId": "a circular rope loop or lasso shape with a trailing rope end extending from one side of the loop; round lariat silhouette with a coiled circle and a dangling cord tail",
+    "functionalityId": "activates a lasso or freehand selection tool in a design or image app; draws a free-form selection boundary around objects",
+    "intentId": "select objects with a freehand lasso tool in a design app; draw a custom selection boundary around elements"
+  },
+  "fa-lasso-sparkles": {
+    "appearanceId": "a circular rope loop lasso shape with a trailing rope end and small sparkle or star shapes scattered around the loop; round lariat silhouette with a coiled circle cord and decorative glint marks",
+    "functionalityId": "activates a smart or magic lasso selection tool with AI enhancement; draws an intelligent freehand selection with auto-refinement",
+    "intentId": "use a magic or AI-assisted lasso selection in a design app; perform a smart freehand selection with sparkle effects"
+  },
+  "fa-laugh": {
+    "appearanceId": "a circular face outline with two closed arc eyes in a crinkled happy expression, a wide open laughing mouth showing teeth, and rounded cheeks; smiley face circle with squinting eyes and a broad grinning mouth",
+    "functionalityId": "represents laughter, joy, or a highly positive reaction; inserts a laughing face emoji in a message or reaction picker",
+    "intentId": "express strong laughter or joy in a message; react to content with a highly positive laughing sentiment"
+  },
+  "fa-laugh-beam": {
+    "appearanceId": "a circular face outline with two beam-shaped curved closed eyes in an arc and a wide open laughing mouth showing teeth; smiley face circle with beam-line eyes and a broad open grinning mouth",
+    "functionalityId": "represents intense laughter or beaming joy; inserts a laugh-beam face in a reaction or emoji picker",
+    "intentId": "express intense laughter or extreme happiness in a message; react with a beaming laugh emoji"
+  },
+  "fa-laugh-squint": {
+    "appearanceId": "a circular face outline with two tightly squinted X-shaped or zig-zag line eyes and a wide open laughing mouth; smiley face circle with scrunched squinting eyes and a large gaping grin",
+    "functionalityId": "represents laughing so hard that the eyes are squinting shut; inserts a squint-laugh emoji in a message or reaction picker",
+    "intentId": "express uncontrollable laughter with a squinting face; react with an intensely laughing squint emoji"
+  },
+  "fa-laugh-wink": {
+    "appearanceId": "a circular face outline with one open arc eye, one closed winking eye, and a wide open laughing mouth showing teeth; smiley face circle with a wink expression and a big grinning open mouth",
+    "functionalityId": "represents playful laughter combined with a wink gesture; inserts a laugh-wink emoji in a message or reaction",
+    "intentId": "express playful or joking laughter with a wink; react to content with a lighthearted laugh-and-wink emoji"
+  },
+  "fa-layer-group": {
+    "appearanceId": "two or three flat horizontal rectangular layers stacked on top of each other with a slight vertical gap between them; parallel stacked band silhouettes forming a layered stack",
+    "functionalityId": "opens a layer panel or group management view in a design app; organizes elements into stacked layer groups",
+    "intentId": "manage or organize layers in a design or editing app; access a layer stack or group of layered elements"
+  },
+  "fa-layer-minus": {
+    "appearanceId": "two or three stacked horizontal rectangular layers with a small minus or dash badge at one corner indicating removal; parallel stacked band silhouettes with a subtraction badge",
+    "functionalityId": "removes or deletes a layer from a design layer stack; decrements the number of layers in a group",
+    "intentId": "delete or remove a layer from a design project; reduce the number of layers in a stack"
+  },
+  "fa-layer-plus": {
+    "appearanceId": "two or three stacked horizontal rectangular layers with a small plus sign badge at one corner indicating addition; parallel stacked band silhouettes with an addition badge",
+    "functionalityId": "adds a new layer to a design layer stack; increments the number of layers in a group",
+    "intentId": "add a new layer to a design project; increase the number of layers in a stack"
+  },
+  "fa-leaf": {
+    "appearanceId": "a single teardrop-shaped leaf with a pointed tip, a smooth rounded base, and a central midrib vein line; generic leaf silhouette with a curved outline and a single spine",
+    "functionalityId": "represents nature, eco-friendliness, or organic content; marks a plant or environment category in an app",
+    "intentId": "access nature, plant, or eco-friendly content; indicate an organic or environmental category"
+  },
+  "fa-leaf-heart": {
+    "appearanceId": "a leaf shape with a heart-shaped outline, featuring the two lobes at the top and a pointed tip at the bottom; heart-silhouette leaf with a double-lobed top and a downward point",
+    "functionalityId": "represents love of nature, eco-compassion, or a heart-shaped botanical element; marks a nature-loving or eco-wellness category",
+    "intentId": "express love for nature or eco-friendly values; access wellness or heart-shaped botanical content"
+  },
+  "fa-leaf-maple": {
+    "appearanceId": "a maple leaf with multiple pointed lobes radiating outward from a central point in a palmate pattern and a short stem at the base; multi-pointed palmate leaf silhouette with five or more pointed projections",
+    "functionalityId": "represents Canada, autumn, or maple-related content; marks a Canadian theme or fall season category",
+    "intentId": "access Canadian, autumn, or maple-themed content; indicate a fall season or Canadian-related category"
+  },
+  "fa-leaf-oak": {
+    "appearanceId": "an oak leaf with several rounded irregular lobes along both sides of the midrib forming a wavy or scalloped edge outline; lobed leaf silhouette with rounded bumpy projections on each side",
+    "functionalityId": "represents an oak tree, woodland, or forest content category; marks a nature category specifically related to oak or deciduous woodland",
+    "intentId": "access oak tree or woodland nature content; indicate a forest or deciduous tree category"
+  },
+  "fa-leafy-green": {
+    "appearanceId": "a leafy green vegetable shape, such as a head of lettuce or chard leaf, with a broad ruffled or crinkled outline and visible leaf veins; wide vegetable leaf silhouette with a ruffled edge and vein texture",
+    "functionalityId": "marks a leafy green vegetable in a food or nutrition app; represents salad greens or vegetable ingredients in a recipe tracker",
+    "intentId": "find leafy green vegetable recipes or nutrition info; add greens or salad vegetables to a meal plan or grocery list"
+  },
+  "fa-left": {
+    "appearanceId": "a single left-pointing solid arrow with a filled triangular arrowhead and a horizontal shaft; standard leftward directional arrow silhouette",
+    "functionalityId": "navigates to the previous item or screen; moves content or selection to the left",
+    "intentId": "go to the previous page or item; move left in a navigation flow or carousel"
+  },
+  "fa-left-from-bracket": {
+    "appearanceId": "a left-pointing arrow with a horizontal shaft emerging from or leading away from a vertical bracket or bar on the right side; leftward arrow with a right-side boundary post indicating exit from a container",
+    "functionalityId": "exits or logs out from a section marked by a bracket boundary; moves an element out of a bracketed container to the left",
+    "intentId": "log out of or exit from a bounded section; move content leftward out of a defined container"
+  },
+  "fa-left-from-line": {
+    "appearanceId": "a left-pointing arrow with a horizontal shaft extending leftward away from a vertical line on the right side; leftward arrow with a right-boundary vertical line indicating movement away from a wall",
+    "functionalityId": "moves away from or off a right-aligned boundary line to the left; shifts an element leftward from a defined edge",
+    "intentId": "move content or an element left away from a boundary line; shift items away from the right edge of a container"
+  },
+  "fa-left-long": {
+    "appearanceId": "a long left-pointing arrow with an extended horizontal shaft and a filled arrowhead at the left end; elongated leftward arrow silhouette with a lengthy straight body",
+    "functionalityId": "navigates far back or to a distant previous item; performs a long leftward movement or extended back navigation",
+    "intentId": "go far back in navigation history or a long step left; perform an extended leftward navigation action"
+  },
+  "fa-left-long-to-line": {
+    "appearanceId": "a long left-pointing arrow with an extended shaft that terminates at or points toward a vertical boundary line on the left end; elongated leftward arrow with a left-side wall or barrier at its endpoint",
+    "functionalityId": "navigates or moves content leftward until it reaches a defined boundary; snaps an element to a left-side edge or stop line",
+    "intentId": "snap or move content to the leftmost boundary or edge; navigate left to a defined stopping point"
+  },
+  "fa-left-right": {
+    "appearanceId": "two opposing arrows, one pointing left and one pointing right, sharing a common horizontal shaft or positioned symmetrically on each end; bidirectional horizontal arrow silhouette with arrowheads at both ends",
+    "functionalityId": "indicates a horizontal resize, drag, or bidirectional navigation; adjusts the width or swaps between two directions",
+    "intentId": "resize an element horizontally or navigate in both left and right directions; indicate a bidirectional or width-adjustable interaction"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-grin-tears": {
+    "appearanceId": "circular face outline with wide crescent grin, two X-shaped or closed squinting eyes, and two large teardrop shapes flying outward from the sides of the face; round emoticon with an ear-to-ear smile and side-flying joy tears",
+    "functionalityId": "expresses extreme laughter or overwhelming joy in a message; inserts a tears-of-joy crying-laughing emoji reaction",
+    "intentId": "convey uncontrollable laughter or extreme amusement; react with a crying-with-laughter expression in a chat"
+  },
+  "fa-grin-tongue": {
+    "appearanceId": "circular face outline with a broad grin, two wide open eyes, and a tongue sticking straight out from the bottom of the mouth; round emoticon with a toothy smile and a protruding tongue center",
+    "functionalityId": "expresses playfulness or a silly mood in a message; inserts a tongue-out grinning emoji reaction",
+    "intentId": "convey a playful or silly tone in a chat; react with a goofy tongue-out expression"
+  },
+  "fa-grin-tongue-squint": {
+    "appearanceId": "circular face outline with a wide grin, two squinted closed-crescent eyes, and a tongue sticking straight out from the mouth; round emoticon with narrowed squinting eyes and a protruding tongue",
+    "functionalityId": "expresses a cheeky or mischievous mood with squinting in a message; inserts a tongue-out squinting grin emoji reaction",
+    "intentId": "convey mischievousness or playful teasing in a chat; react with a squinting tongue-out expression"
+  },
+  "fa-grin-tongue-wink": {
+    "appearanceId": "circular face outline with a wide grin, one open eye and one closed winking eye, and a tongue sticking out from the mouth; round emoticon with a one-eye wink and a protruding tongue",
+    "functionalityId": "expresses a flirtatious or playful winking mood in a message; inserts a winking tongue-out grin emoji reaction",
+    "intentId": "convey a flirtatious or lighthearted playful tone in a chat; react with a winking tongue-out expression"
+  },
+  "fa-grin-wink": {
+    "appearanceId": "circular face outline with a broad grin, one wide open eye and one closed winking eye; round emoticon with a toothy smile and a single closed wink eye on one side",
+    "functionalityId": "expresses a flirtatious or knowing wink in a message; inserts a winking grin emoji reaction",
+    "intentId": "convey a flirtatious or playfully knowing tone in a chat; react with a winking smile expression"
+  },
+  "fa-grip": {
+    "appearanceId": "a rectangular arrangement of six evenly spaced dots in a two-column by three-row grid pattern; six round dots arranged in two vertical columns forming a drag handle",
+    "functionalityId": "enables dragging and reordering of a list item or panel; indicates a draggable handle on a sortable element",
+    "intentId": "reorder or rearrange items by dragging; use a drag handle to sort or move a UI element"
+  },
+  "fa-grip-dots": {
+    "appearanceId": "a compact rectangular arrangement of nine evenly spaced dots in a three-by-three square grid; nine round dots in three rows and three columns forming a square dot matrix",
+    "functionalityId": "enables dragging or repositioning of a UI component; indicates a multi-directional drag handle",
+    "intentId": "drag or reposition a widget or panel freely; use a grip handle to move a UI element in any direction"
+  },
+  "fa-grip-dots-vertical": {
+    "appearanceId": "a vertical arrangement of six evenly spaced dots in a single column or narrow two-row by three-column rotated layout; small round dots stacked vertically in a tall narrow pattern",
+    "functionalityId": "enables vertical dragging or reordering of a list element; indicates a vertical drag handle for sorting",
+    "intentId": "reorder items vertically by dragging; use a vertical grip handle to sort a list"
+  },
+  "fa-grip-lines": {
+    "appearanceId": "two or three short horizontal parallel lines centered in a compact rectangular area; stacked horizontal dash lines forming a horizontal grab handle pattern",
+    "functionalityId": "enables horizontal dragging or resizing of a panel or divider; indicates a horizontal drag or resize handle",
+    "intentId": "resize or drag a panel horizontally; use a horizontal grip to adjust a layout divider"
+  },
+  "fa-grip-lines-vertical": {
+    "appearanceId": "two or three short vertical parallel lines centered in a compact rectangular area; stacked vertical dash lines forming a vertical grab handle pattern",
+    "functionalityId": "enables vertical dragging or resizing of a panel or divider; indicates a vertical drag or resize handle",
+    "intentId": "resize or drag a panel vertically; use a vertical grip to adjust a layout divider"
+  },
+  "fa-grip-vertical": {
+    "appearanceId": "a tall rectangular arrangement of six evenly spaced dots in a two-column by three-row grid oriented vertically; six round dots in two narrow columns forming a tall vertical drag handle",
+    "functionalityId": "enables vertical dragging and reordering of a list item or side panel; indicates a vertical draggable handle on a sortable element",
+    "intentId": "reorder or rearrange items in a vertical list by dragging; use a vertical drag handle to sort UI elements"
+  },
+  "fa-group-arrows-rotate": {
+    "appearanceId": "a group of four arrows arranged in a circular rotation pattern around a central point, each arrow curving or pointing in the same rotational direction; four curved arrows forming a circular cycle symbol",
+    "functionalityId": "rotates or cycles through a group of items or team members; refreshes or reassigns a grouped set of elements",
+    "intentId": "cycle through or rotate assignments among a group; refresh or reorganize a team or collection of items"
+  },
+  "fa-guarani-sign": {
+    "appearanceId": "a capital letter G with two horizontal parallel strikethrough bars crossing the vertical stem; currency glyph resembling a bold G letterform with dual crossbars through its stem",
+    "functionalityId": "displays or selects the Paraguayan guaraní currency symbol; represents a guaraní-denominated monetary value",
+    "intentId": "indicate a price or value in Paraguayan guaraní; access guaraní currency data in a financial app"
+  },
+  "fa-guitar": {
+    "appearanceId": "an acoustic guitar silhouette with a rounded figure-eight body, a narrow waist, a long neck with fret markers, and a headstock at the top; classic acoustic guitar outline with a hourglass-shaped resonating body and tuning pegs",
+    "functionalityId": "marks a guitar or acoustic music category in a music app; represents a stringed instrument in an audio or entertainment context",
+    "intentId": "access guitar or acoustic music content; find stringed instrument lessons or music in a music app"
+  },
+  "fa-guitar-electric": {
+    "appearanceId": "an electric guitar silhouette with a solid asymmetric body shape, a long straight neck with frets, and a headstock; solid-body electric guitar outline with a contoured asymmetric lower bout and tuning pegs",
+    "functionalityId": "marks an electric guitar or rock music category in a music app; represents an electric stringed instrument in an audio context",
+    "intentId": "access electric guitar or rock music content; find electric guitar lessons or recordings in a music app"
+  },
+  "fa-guitars": {
+    "appearanceId": "two guitar silhouettes overlapping or placed side by side, one acoustic and one electric or two acoustics of different sizes; a pair of guitar outlines arranged together as a grouped instrument set",
+    "functionalityId": "marks a multi-guitar or general guitar collection category in a music app; represents a guitar store or instrument library",
+    "intentId": "browse a collection of guitars or multiple instrument types; access a guitar catalog or music store section"
+  },
+  "fa-gun": {
+    "appearanceId": "a handgun or pistol silhouette facing right with a barrel, trigger guard, and grip handle; side-profile firearm outline with a rectangular slide, a trigger, and a downward grip",
+    "functionalityId": "represents a firearm or shooting action in a game or safety context; marks content related to guns or weapons",
+    "intentId": "access shooting game content or firearm-related information; indicate a weapon or armed category in a relevant app"
+  },
+  "fa-gun-slash": {
+    "appearanceId": "a pistol or handgun silhouette with a diagonal slash line crossing through the entire shape; side-profile firearm outline overlaid with a cancellation or prohibition line",
+    "functionalityId": "indicates that firearms are prohibited or unavailable in a location; marks a gun-free zone or disarms an action",
+    "intentId": "indicate a no-weapons or gun-free zone; restrict or prohibit firearm-related actions in an app"
+  },
+  "fa-gun-squirt": {
+    "appearanceId": "a toy squirt gun silhouette with a bulbous water tank body, a short barrel nozzle, and a trigger grip; water pistol toy outline with a rounded reservoir and a forward-pointing spray nozzle",
+    "functionalityId": "represents a water gun or playful spray action in a game or toy category; marks water play or fun-themed content",
+    "intentId": "access water gun game content or summer toy features; indicate a playful water-spray activity in an app"
+  },
+  "fa-h": {
+    "appearanceId": "a single uppercase letter H with two vertical strokes connected by a centered horizontal crossbar; blocky capital H letterform with equal-height uprights and a midpoint bridge",
+    "functionalityId": "represents the letter H as a label, initial, or keyboard shortcut indicator; marks a category or item starting with the letter H",
+    "intentId": "label or categorize content starting with H; use the letter H as a shorthand or identifier"
+  },
+  "fa-h-square": {
+    "appearanceId": "a square or rounded-square border containing a bold uppercase letter H centered within it; box outline with a capital H letterform inside",
+    "functionalityId": "marks a hospital or helipad location on a map; represents a health or hospital category in a directory",
+    "intentId": "find a hospital or healthcare facility on a map; navigate to a health services location"
+  },
+  "fa-h1": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 1 as a superscript or subscript; large H letterform paired with a smaller figure-one numeral",
+    "functionalityId": "applies a top-level heading style to selected text in a document editor; formats text as a first-level heading",
+    "intentId": "create or format a main heading in a document; apply the largest heading level to a section title"
+  },
+  "fa-h2": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 2 as a superscript or subscript; large H letterform paired with a smaller figure-two numeral",
+    "functionalityId": "applies a second-level heading style to selected text in a document editor; formats text as a subheading beneath a first-level heading",
+    "intentId": "create or format a second-level subheading in a document; apply the second heading style to a section title"
+  },
+  "fa-h3": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 3 as a superscript or subscript; large H letterform paired with a smaller figure-three numeral",
+    "functionalityId": "applies a third-level heading style to selected text in a document editor; formats text as a subsection heading",
+    "intentId": "create or format a third-level heading in a document; apply a tertiary heading style to a subsection title"
+  },
+  "fa-h4": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 4 as a superscript or subscript; large H letterform paired with a smaller figure-four numeral",
+    "functionalityId": "applies a fourth-level heading style to selected text in a document editor; formats text as a minor subsection heading",
+    "intentId": "create or format a fourth-level heading in a document; apply a minor heading style to a nested section title"
+  },
+  "fa-h5": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 5 as a superscript or subscript; large H letterform paired with a smaller figure-five numeral",
+    "functionalityId": "applies a fifth-level heading style to selected text in a document editor; formats text as a small nested subsection heading",
+    "intentId": "create or format a fifth-level heading in a document; apply a small nested heading style to a section"
+  },
+  "fa-h6": {
+    "appearanceId": "a bold uppercase letter H with a horizontal crossbar followed by a numeral 6 as a superscript or subscript; large H letterform paired with a smaller figure-six numeral",
+    "functionalityId": "applies a sixth-level heading style to selected text in a document editor; formats text as the smallest heading level",
+    "intentId": "create or format a sixth-level heading in a document; apply the smallest heading style to a deeply nested section"
+  },
+  "fa-hammer": {
+    "appearanceId": "a standard claw hammer silhouette with a flat striking face on one side, a curved claw on the other side of the head, and a long straight handle; classic nail-pulling hammer outline with a bifurcated claw and a cylindrical grip",
+    "functionalityId": "triggers a build, compile, or construction action in a development tool; represents a fix or repair action in a maintenance interface",
+    "intentId": "build or compile a project; perform a repair or construction task in an app"
+  },
+  "fa-hammer-brush": {
+    "appearanceId": "a hammer head with a flat face paired with a paintbrush shape alongside or overlaid, sharing a handle; combined tool silhouette showing a hammer and a bristle brush together",
+    "functionalityId": "represents a combined build and style or paint action; triggers a construction plus design or renovation task",
+    "intentId": "perform both building and painting or styling tasks; access renovation or combined construction and design tools"
+  },
+  "fa-hammer-crash": {
+    "appearanceId": "a hammer head shown mid-swing with radiating impact lines or starburst marks around the striking face; hammer silhouette with motion or shockwave lines indicating a forceful blow",
+    "functionalityId": "represents a forceful impact, crash, or breaking action; triggers a destructive or demolition operation in an app",
+    "intentId": "perform a demolition or forceful break action; indicate an impactful or crash event in a system"
+  },
+  "fa-hammer-war": {
+    "appearanceId": "a large war maul or warhammer silhouette with a heavy rectangular or cylindrical head on both sides and a long two-handed grip; medieval weapon outline with a massive symmetrical double-faced head and a long shaft",
+    "functionalityId": "represents a powerful attack or combat action in a game; marks a war or battle-themed category in an entertainment app",
+    "intentId": "perform a powerful combat attack in a game; access war or battle-themed content in an app"
+  },
+  "fa-hamsa": {
+    "appearanceId": "an open hand symbol with five fingers splayed symmetrically and an eye motif in the palm center; palm-up hand outline with symmetric finger arrangement and a central eye detail",
+    "functionalityId": "represents a hamsa or protective symbol in a spiritual or cultural context; marks content related to Middle Eastern or Jewish tradition",
+    "intentId": "indicate a spiritual protection or hamsa symbol; access cultural or religious content featuring the hand of Fatima"
+  },
+  "fa-hand": {
+    "appearanceId": "an open palm facing forward with five fingers fully extended and spread, viewed from the front; flat raised hand silhouette with all fingers upright and thumb extended outward",
+    "functionalityId": "signals a stop or pause action; raises a hand to request attention or indicate a halt",
+    "intentId": "signal stop or pause in a process; raise a hand to request a turn or indicate attention"
+  },
+  "fa-hand-back-point-down": {
+    "appearanceId": "a hand viewed from the back with the index finger extended and pointing straight downward, other fingers curled; back-of-hand outline with one finger pointing toward the bottom",
+    "functionalityId": "points down to indicate a location or element below; directs attention downward on a page or interface",
+    "intentId": "direct attention to content or an element below; indicate a downward scroll or navigate to a lower section"
+  },
+  "fa-hand-back-point-left": {
+    "appearanceId": "a hand viewed from the back with the index finger extended and pointing straight to the left, other fingers curled; back-of-hand outline with one finger pointing toward the left side",
+    "functionalityId": "points left to indicate a previous item or left-side element; directs attention to the left on an interface",
+    "intentId": "navigate to a previous item or left-side content; direct attention to a leftward section or element"
+  },
+  "fa-hand-back-point-ribbon": {
+    "appearanceId": "a hand viewed from the back with the index finger extended and pointing, wearing a small ribbon or awareness ribbon looped around the finger; back-of-hand pointing outline with a ribbon accessory on the extended finger",
+    "functionalityId": "points to or highlights a cause, award, or ribbon-marked item; draws attention to a ribbon or recognition element",
+    "intentId": "highlight a cause or award marked with a ribbon; direct attention to a recognition or awareness item"
+  },
+  "fa-hand-back-point-right": {
+    "appearanceId": "a hand viewed from the back with the index finger extended and pointing straight to the right, other fingers curled; back-of-hand outline with one finger pointing toward the right side",
+    "functionalityId": "points right to indicate a next item or right-side element; directs attention to the right on an interface",
+    "intentId": "navigate to the next item or right-side content; direct attention to a rightward section or element"
+  },
+  "fa-hand-back-point-up": {
+    "appearanceId": "a hand viewed from the back with the index finger extended and pointing straight upward, other fingers curled; back-of-hand outline with one finger pointing toward the top",
+    "functionalityId": "points up to indicate a location or element above; directs attention upward on a page or interface",
+    "intentId": "direct attention to content or an element above; indicate an upward scroll or navigate to a higher section"
+  },
+  "fa-hand-fingers-crossed": {
+    "appearanceId": "a hand with the index and middle fingers crossed over each other in the traditional luck gesture, other fingers curled; palm-side hand outline with two intertwined upright fingers forming a cross",
+    "functionalityId": "expresses hope or good luck in a message or reaction; indicates a wish or positive expectation in a UI",
+    "intentId": "express hope or wish for good luck; indicate a positive expectation or lucky outcome"
+  },
+  "fa-hand-fist": {
+    "appearanceId": "a closed fist silhouette with all fingers curled inward and the thumb resting over them, viewed from the side or front; compact clenched hand outline with knuckles facing outward",
+    "functionalityId": "represents strength, solidarity, or a power-raise gesture; marks an empowerment or fight-back action",
+    "intentId": "express strength or solidarity; indicate an empowerment or resistance gesture in a social or activist context"
+  },
+  "fa-hand-heart": {
+    "appearanceId": "an open palm hand with a small heart shape displayed in or above the palm center; hand silhouette with a heart motif in the palm area",
+    "functionalityId": "expresses care, love, or generosity with a hand gesture; marks a compassionate or supportive action",
+    "intentId": "express care or love through a hand gesture; indicate a compassionate or giving action in an app"
+  },
+  "fa-hand-holding": {
+    "appearanceId": "an upward-facing open palm with fingers and thumb extended as if offering or cradling something; cupped or flat hand outline from below with the palm side facing upward",
+    "functionalityId": "represents an offering, holding, or presenting action; indicates that an item is being held out or given",
+    "intentId": "offer or present an item to a user; indicate a holding or cradling action for a deliverable"
+  },
+  "fa-hand-holding-box": {
+    "appearanceId": "an upward-facing open palm holding a rectangular box or package on top of it; cupped hand outline supporting a square or rectangular parcel shape from below",
+    "functionalityId": "represents receiving or delivering a physical package; indicates a shipping, fulfillment, or package-receiving action",
+    "intentId": "receive or track a delivered package; manage shipment fulfillment or package pickup"
+  },
+  "fa-hand-holding-circle-dollar": {
+    "appearanceId": "an upward-facing open palm holding a circle containing a dollar sign on top; cupped hand outline supporting a round coin or currency badge with a dollar symbol inside",
+    "functionalityId": "represents a financial aid, payment, or monetary offering action; indicates funds being given or received by hand",
+    "intentId": "receive or provide financial assistance or a monetary payment; manage a cash transfer or financial aid action"
+  },
+  "fa-hand-holding-hand": {
+    "appearanceId": "two hands clasping or holding each other, one from below and one from above, in a handshake or supportive grip; paired hand silhouettes interlocked in a mutual holding gesture",
+    "functionalityId": "represents a partnership, assistance, or solidarity action; indicates a mutual support or collaborative handshake",
+    "intentId": "express partnership or mutual support; initiate a collaboration or helping-hand gesture in an app"
+  },
+  "fa-hand-holding-heart": {
+    "appearanceId": "an upward-facing open palm holding or cradling a heart shape resting on top of it; cupped hand outline supporting a heart motif from below",
+    "functionalityId": "represents donating, sharing love, or offering care to others; indicates a charitable or compassionate giving action",
+    "intentId": "donate or give care to others; indicate a charitable or compassionate contribution in an app"
+  },
+  "fa-hand-holding-magic": {
+    "appearanceId": "an upward-facing open palm holding a magic wand with a star tip or sparkle marks emanating from it; cupped hand outline supporting a wand shape with star or sparkle accents above",
+    "functionalityId": "represents applying a magic effect, auto-enhance, or one-tap transformation; triggers an automated or smart-fix action",
+    "intentId": "apply a magic or auto-enhance effect; trigger a one-click smart transformation or automated fix"
+  },
+  "fa-hand-holding-medical": {
+    "appearanceId": "an upward-facing open palm holding a medical cross or plus symbol resting in the palm; cupped hand outline supporting a healthcare cross badge from below",
+    "functionalityId": "represents providing medical aid, healthcare services, or a donation of medicine; indicates a health-support or caregiver action",
+    "intentId": "offer or access medical aid or healthcare support; indicate a medical donation or caregiver service action"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-compass-slash": {
+    "appearanceId": "compass rose circle with a diagonal slash line crossing through it; circular navigational disc with a strike-through bar overlay",
+    "functionalityId": "disables or turns off navigation or location services; removes compass-based directional guidance from a map view",
+    "intentId": "indicate that navigation or compass direction is unavailable; turn off directional or wayfinding features"
+  },
+  "fa-compress": {
+    "appearanceId": "four inward-pointing corner arrows arranged at the edges of a square pointing toward the center; two diagonal double-headed arrows converging inward from opposite corners",
+    "functionalityId": "collapses or shrinks a panel or media player to a smaller view; exits full-screen mode and returns to a normal window size",
+    "intentId": "reduce a view to a smaller or windowed size; exit full-screen or expanded display mode"
+  },
+  "fa-compress-alt": {
+    "appearanceId": "two diagonal arrows pointing inward toward each other from opposite corners with no surrounding frame; a pair of converging angled arrowheads meeting at the center",
+    "functionalityId": "collapses or minimizes a content area to a compact view; reduces an expanded element back to its default size",
+    "intentId": "shrink an enlarged panel or overlay to a smaller footprint; restore a view to its normal compact layout"
+  },
+  "fa-compress-wide": {
+    "appearanceId": "two inward-pointing horizontal arrows on opposite left and right sides of a wide rectangular boundary; flanking arrowheads pointing toward each other along a horizontal axis",
+    "functionalityId": "collapses a wide or horizontal layout to a narrower width; compresses a horizontally expanded panel back to standard width",
+    "intentId": "reduce the horizontal span of an expanded element; fit a wide view back into a normal-width container"
+  },
+  "fa-computer": {
+    "appearanceId": "desktop monitor rectangle with a screen area, a short neck or stand, and a wide base pedestal; flat-panel display silhouette mounted on a vertical post with a horizontal foot",
+    "functionalityId": "opens a desktop or computer management interface; represents a workstation device in a system or network panel",
+    "intentId": "manage or configure a desktop computer device; access workstation settings or device information"
+  },
+  "fa-computer-classic": {
+    "appearanceId": "boxy retro computer tower or all-in-one unit with a screen inset into a rectangular chassis and a floppy drive slot; vintage personal computer silhouette with a CRT-style front face and disk bay",
+    "functionalityId": "represents a legacy or retro computing context; navigates to a classic or vintage technology section",
+    "intentId": "access retro or legacy computing content or nostalgia features; represent an old-school computer context"
+  },
+  "fa-computer-speaker": {
+    "appearanceId": "rectangular speaker cabinet with a circular driver cone centered on the front face and a small dot or mesh grille; box-shaped audio enclosure silhouette with a round woofer outline",
+    "functionalityId": "toggles or adjusts a desktop speaker or audio output device; opens sound or speaker settings in a multimedia panel",
+    "intentId": "control or configure a computer speaker for audio playback; manage desktop audio output settings"
+  },
+  "fa-construction": {
+    "appearanceId": "hard hat or safety helmet shape with a wide brim and rounded dome; protective headgear silhouette with a flat visor extending around its lower edge",
+    "functionalityId": "marks a page or feature as under construction or coming soon; indicates a work-in-progress or maintenance status",
+    "intentId": "signal that a feature or area is being built or renovated; indicate that content is temporarily unavailable due to maintenance"
+  },
+  "fa-container-storage": {
+    "appearanceId": "rectangular shipping container box with horizontal corrugation lines on its side and small latch details; elongated rectangular freight unit silhouette with parallel ridge marks",
+    "functionalityId": "manages or browses containerized storage units or shipping inventory; opens a logistics or warehouse storage management view",
+    "intentId": "track or manage shipping containers or freight storage; access a warehouse or container logistics interface"
+  },
+  "fa-conveyor-belt": {
+    "appearanceId": "horizontal flat belt surface supported by two rounded end rollers with a loop track beneath; elongated platform outline with circular end drums and a returning lower loop",
+    "functionalityId": "represents an automated transport or production line process; displays a conveyor-based workflow or assembly step",
+    "intentId": "monitor or manage an automated conveyor or production line; indicate items moving through a mechanical transport system"
+  },
+  "fa-conveyor-belt-alt": {
+    "appearanceId": "horizontal belt surface with end rollers and a small box or package sitting on top of the flat surface; conveyor platform outline with a rectangular cargo item resting on the belt",
+    "functionalityId": "tracks items being transported along a conveyor or fulfillment line; represents package movement in a warehouse or shipping workflow",
+    "intentId": "monitor a package or item moving along an automated conveyor; manage order fulfillment or warehouse conveyor operations"
+  },
+  "fa-conveyor-belt-arm": {
+    "appearanceId": "horizontal conveyor belt with an articulated robotic arm or mechanical claw positioned above it; belt platform outline with an upright jointed arm shape reaching over the surface",
+    "functionalityId": "controls or monitors a robotic arm on an automated assembly or packaging line; manages a mechanical pick-and-place process on a conveyor",
+    "intentId": "automate item handling or sorting on a conveyor line; manage a robotic arm's interaction with products in a production workflow"
+  },
+  "fa-conveyor-belt-empty": {
+    "appearanceId": "horizontal belt surface with end rollers and a completely bare flat top with no items on it; conveyor platform outline without any cargo or object on the belt",
+    "functionalityId": "indicates an empty or idle conveyor line with no items to process; signals that a fulfillment or production queue has no pending items",
+    "intentId": "identify an idle or empty conveyor belt in a workflow; check if a production or shipping queue is clear of items"
+  },
+  "fa-cookie": {
+    "appearanceId": "circular disc shape with several small round dots or chips scattered across the surface; round flat cookie outline with a few irregular circular marks representing chocolate chips",
+    "functionalityId": "opens cookie consent or privacy settings in a web interface; represents browser cookies or stored session data in a settings panel",
+    "intentId": "manage cookie preferences or browser privacy settings; accept or configure stored cookie data for a website"
+  },
+  "fa-cookie-bite": {
+    "appearanceId": "circular cookie disc with a wedge or curved bite mark removed from one edge and small chips on the surface; round flat shape with a chunk missing from the perimeter and scattered dot marks",
+    "functionalityId": "indicates a partially consumed or accepted cookie consent state; represents a browser cookie with some data consumed or expired",
+    "intentId": "review partially accepted cookie settings or data usage; indicate a partially consumed or partially active cookie"
+  },
+  "fa-copy": {
+    "appearanceId": "two overlapping rectangles with the front one slightly offset up and to the right of the back one; a pair of stacked page outlines with the top sheet shifted diagonally forward",
+    "functionalityId": "copies selected text, files, or content to the clipboard; duplicates an item in a list or workspace",
+    "intentId": "duplicate content or a file for reuse elsewhere; copy text or data to paste in another location"
+  },
+  "fa-copyright": {
+    "appearanceId": "circular ring enclosing a capital letter C at its center; round outline with a large C glyph inside representing the copyright symbol",
+    "functionalityId": "displays copyright information or licensing details for content; marks an asset as protected intellectual property",
+    "intentId": "indicate that content is copyright-protected; access licensing or ownership information for a work"
+  },
+  "fa-corn": {
+    "appearanceId": "elongated ear of corn with rows of small oval kernels covering the cob and leafy husk leaves curling at the base; vertical maize silhouette with a textured kernel grid and pointed leaf bracts",
+    "functionalityId": "marks a corn or maize ingredient in a recipe or grocery app; indicates a grain or vegetable food category item",
+    "intentId": "find corn-related recipes or food products; access grain or vegetable category in a food or farm application"
+  },
+  "fa-corner": {
+    "appearanceId": "two straight lines meeting at a right angle forming an L shape or bracket corner; a perpendicular pair of line segments joined at a single vertex making a ninety-degree corner",
+    "functionalityId": "indicates a corner or boundary point in a design or drawing tool; marks the corner of a selected area or shape in an editor",
+    "intentId": "define or anchor the corner of a shape or selection; position a design element at a precise right-angle boundary"
+  },
+  "fa-couch": {
+    "appearanceId": "wide sofa shape with a long horizontal seat cushion, two armrests on either side, and an upright back panel; furniture silhouette with flanking arms and a padded backrest above a flat seat",
+    "functionalityId": "navigates to a living room, furniture, or home décor category; represents a lounge or seating area in a floor-plan or home app",
+    "intentId": "browse furniture or home seating options; indicate a lounge or relaxation area in a space planning tool"
+  },
+  "fa-court-sport": {
+    "appearanceId": "rectangular court outline with center line markings and boundary lines suggesting a sports playing field; a top-down view of a court with internal dividing lines and zone markers",
+    "functionalityId": "navigates to a court sports category or facility booking interface; displays court availability or sports venue information",
+    "intentId": "find or book a court for sports like tennis, basketball, or volleyball; access court sports scheduling or venue details"
+  },
+  "fa-cow": {
+    "appearanceId": "four-legged animal body silhouette with a rounded torso, a small head with horns and snout, a tail, and an udder beneath the belly; bovine outline with curved horns and a dangling udder shape",
+    "functionalityId": "marks a beef, dairy, or livestock category in a food or agriculture app; represents farm animal content in a farming or ranching interface",
+    "intentId": "access dairy, beef, or livestock-related content; find farm animal information or agricultural resources"
+  },
+  "fa-cowbell": {
+    "appearanceId": "trapezoidal hollow bell shape with a wide open bottom, narrow top, and a small clapper or ring at the apex; metal bell silhouette with a flared rectangular opening and a hanging loop",
+    "functionalityId": "plays or triggers a cowbell sound effect in an audio or music app; marks a percussion or farm-themed sound element",
+    "intentId": "add a cowbell sound to a music or sound effects project; indicate a rustic or farm-themed audio element"
+  },
+  "fa-cowbell-more": {
+    "appearanceId": "cowbell trapezoidal shape with a small plus symbol or additional mark beside or on it; hollow bell silhouette with a supplementary indicator suggesting extra or more",
+    "functionalityId": "adds more cowbell sound layers or increases cowbell volume in an audio app; triggers an amplified or repeated cowbell effect",
+    "intentId": "increase the cowbell effect or add more of it to a mix; humorously amplify a cowbell sound in a music production"
+  },
+  "fa-crab": {
+    "appearanceId": "round body silhouette with two large front claws, multiple legs extending to each side, and small eye stalks on top; circular crustacean outline with pincer claws flanking the body and lateral appendages",
+    "functionalityId": "marks a seafood or crab dish in a food or restaurant menu app; represents a beach, ocean, or marine-life category",
+    "intentId": "browse crab or seafood menu items or recipes; access ocean or beach-themed content or categories"
+  },
+  "fa-crate-empty": {
+    "appearanceId": "open rectangular crate or box outline with visible slat lines or grid pattern and no contents inside; wooden box silhouette with lattice or horizontal stripe details and an open top",
+    "functionalityId": "indicates an empty inventory container or warehouse crate; represents an unoccupied storage slot in a logistics or inventory panel",
+    "intentId": "identify an empty storage crate or inventory slot; manage empty containers in a warehouse or shipping system"
+  },
+  "fa-credit-card": {
+    "appearanceId": "rectangular card shape with a small square chip on the left side and horizontal lines representing card number and cardholder text; payment card outline with an embedded microchip and text-line placeholders",
+    "functionalityId": "opens a payment or checkout form accepting credit card input; manages saved payment methods in a billing settings panel",
+    "intentId": "pay for a purchase using a credit or debit card; add or manage a payment card in billing settings"
+  },
+  "fa-credit-card-blank": {
+    "appearanceId": "plain rectangular card shape with no chip, number lines, or markings on its surface; smooth featureless payment card outline with no internal design elements",
+    "functionalityId": "represents an unregistered or placeholder payment card slot; indicates an empty or unconfigured payment method entry",
+    "intentId": "add a new payment card to an account; indicate an empty or available card slot in a wallet"
+  },
+  "fa-credit-card-front": {
+    "appearanceId": "rectangular card face showing a chip on the left, a card number row, and a cardholder name line at the bottom; front face of a payment card with an embedded square and multiple horizontal text zones",
+    "functionalityId": "displays the front details of a saved credit or debit card; opens full card information view in a digital wallet",
+    "intentId": "view the front face details of a payment card; review card number and holder information in a wallet app"
+  },
+  "fa-creemee": {
+    "appearanceId": "soft-serve ice cream swirl cone with a tall spiraling twist of cream on top of a pointed waffle cone; conical cup shape with a tall coiled soft-serve peak rising from the rim",
+    "functionalityId": "marks a soft-serve ice cream or frozen dessert option in a food menu; indicates a creemee or dairy dessert category",
+    "intentId": "find or order a soft-serve creemee or ice cream cone; browse frozen dessert options in a food or restaurant app"
+  },
+  "fa-cricket": {
+    "appearanceId": "cricket bat silhouette with a flat wide blade and a cylindrical handle; sports bat outline with a broad flat face and a narrow grip section",
+    "functionalityId": "navigates to cricket sports content or match scores; filters cricket game categories in a sports app",
+    "intentId": "access cricket game information, scores, or events; browse cricket-related sports content"
+  },
+  "fa-croissant": {
+    "appearanceId": "curved crescent pastry shape with tapered pointed ends and surface score lines suggesting layers; elongated arc outline with diagonal cut marks indicating a flaky laminated pastry",
+    "functionalityId": "marks a pastry or bakery item in a food or café menu app; indicates a breakfast or French-bakery category",
+    "intentId": "find or order a croissant or pastry item; browse breakfast or bakery food options"
+  },
+  "fa-crop": {
+    "appearanceId": "two perpendicular L-shaped bracket lines forming the corners of a cropping frame with overlapping ends; a right-angle corner pair creating an open rectangular selection boundary",
+    "functionalityId": "activates the crop tool to trim or resize an image or media asset; selects and removes unwanted edges from a photo",
+    "intentId": "trim or reframe an image to remove unwanted areas; resize a photo by cropping its edges"
+  },
+  "fa-crop-alt": {
+    "appearanceId": "two L-shaped corner markers forming a crop boundary with an additional rotation handle or arrow; perpendicular bracket lines defining a selection area with a rotate or adjust indicator",
+    "functionalityId": "activates an advanced crop and rotate tool for image editing; trims and realigns an image or canvas selection",
+    "intentId": "crop and optionally rotate an image for precise framing; adjust both the size and angle of a photo crop"
+  },
+  "fa-cross": {
+    "appearanceId": "symmetric plus or Christian cross shape with four equal arms of uniform width meeting at a central square; upright vertical bar intersecting a horizontal bar at equal proportions",
+    "functionalityId": "marks a religious, medical, or memorial context in an app; indicates a first-aid, faith, or memorial category",
+    "intentId": "access religious, medical, or memorial content; indicate a faith-based or healthcare-related feature"
+  },
+  "fa-crosshairs": {
+    "appearanceId": "circle outline with two perpendicular lines extending outward through the ring to form a targeting reticle; thin cross extending beyond a central ring creating a full four-quadrant sight",
+    "functionalityId": "activates a targeting, location pin, or GPS centering action; focuses a map or camera view on a precise coordinates point",
+    "intentId": "center or pinpoint a location on a map or targeting display; lock onto a specific position or target in a view"
+  },
+  "fa-crosshairs-simple": {
+    "appearanceId": "simple cross or plus shape without an outer ring, made of two thin perpendicular lines; a plain four-way crosshair with no enclosing circle",
+    "functionalityId": "activates a simplified targeting or cursor positioning tool; centers a view or selects a point without a surrounding ring indicator",
+    "intentId": "aim or pinpoint a position with a minimal crosshair; select a precise point in a map or design canvas"
+  },
+  "fa-crow": {
+    "appearanceId": "bird silhouette with a pointed beak, folded or spread wings, and a fan-shaped tail; dark corvid outline perched or in flight with angular wing shapes",
+    "functionalityId": "marks a bird, nature, or wildlife category in an app; represents a dark or ominous themed element in a game or story app",
+    "intentId": "access bird-watching or wildlife content; indicate a dark, ominous, or Halloween-themed element"
+  },
+  "fa-crown": {
+    "appearanceId": "wide crown shape with three or five upward-pointing peaks and a flat base band; regal headpiece outline with jagged upper tips and a horizontal base strip",
+    "functionalityId": "marks a premium, VIP, or top-ranked status in an app; awards or displays a crown badge for a winner or leader",
+    "intentId": "indicate a premium tier, top ranking, or VIP status; recognize a winner or leader with a crown badge"
+  },
+  "fa-crutch": {
+    "appearanceId": "single crutch shape with a long vertical shaft, an angled underarm pad at the top, and a hand grip midway; mobility aid silhouette with a diagonal brace and a padded upper rest",
+    "functionalityId": "marks a mobility aid or disability accommodation category; indicates physical rehabilitation or injury recovery content",
+    "intentId": "find accessibility or mobility aid resources; access rehabilitation or injury recovery information"
+  },
+  "fa-crutches": {
+    "appearanceId": "two crutches arranged side by side or in an X crossing, each with a vertical shaft and an underarm pad; a pair of mobility aid silhouettes with diagonal braces forming a symmetrical or crossed pair",
+    "functionalityId": "marks a physical therapy, injury, or accessibility category; indicates a need for mobility assistance in a healthcare or insurance app",
+    "intentId": "access resources for mobility impairment or physical recovery; indicate a disability accommodation or rehab context"
+  },
+  "fa-cruzeiro-sign": {
+    "appearanceId": "capital letter C shape with two horizontal lines crossing the vertical gap, similar to a currency symbol; a curved arc with dual parallel strikethrough bars representing a monetary glyph",
+    "functionalityId": "selects or displays the Brazilian cruzeiro currency symbol; represents a historical Brazilian currency in a financial or history app",
+    "intentId": "indicate a price or value in Brazilian cruzeiro; access historical Brazilian currency or financial data"
+  },
+  "fa-crystal-ball": {
+    "appearanceId": "perfect sphere shape resting on a short pedestal or base ring with a glowing or star-like reflection inside; round globe silhouette on a flared stand with a small sparkle mark on the surface",
+    "functionalityId": "opens a prediction, fortune-telling, or random suggestion feature; triggers a mystery or luck-based interactive element",
+    "intentId": "get a random prediction or fortune-telling result; access a mystery or novelty feature in a game or entertainment app"
+  },
+  "fa-cube": {
+    "appearanceId": "three-dimensional box or cube shape drawn in isometric perspective with three visible faces; hexagonal outline suggesting a solid block with top, left, and right face panels",
+    "functionalityId": "opens a 3D object viewer or product model display; represents a package, block, or 3D asset in a design or inventory app",
+    "intentId": "view or interact with a 3D model or boxed product; represent a solid object or container in a design workflow"
+  },
+  "fa-cubes": {
+    "appearanceId": "two or more isometric cube shapes grouped together in a stacked or clustered arrangement; a set of three-dimensional blocks arranged side by side or layered",
+    "functionalityId": "opens a 3D scene with multiple objects or a package cluster view; represents grouped assets, modular components, or stacked items",
+    "intentId": "manage or view multiple 3D objects or modular components; represent stacked packages or grouped blocks in a system"
+  },
+  "fa-cubes-stacked": {
+    "appearanceId": "several isometric cube shapes stacked vertically in a tower or pyramid arrangement; multiple three-dimensional blocks piled one on top of another in a layered column",
+    "functionalityId": "represents stacked data layers, containers, or build stages in a DevOps or inventory panel; indicates a layered or tiered grouping of items",
+    "intentId": "manage stacked data layers or container build stages; indicate a tiered or multi-level grouping of items or packages"
+  },
+  "fa-cucumber": {
+    "appearanceId": "elongated oval or cylindrical vegetable shape with a slightly bumpy or ridged surface and small rounded ends; long oblong outline with subtle texture marks suggesting a cucumber or gourd",
+    "functionalityId": "marks a cucumber or vegetable ingredient in a recipe or grocery app; indicates a fresh produce or salad category",
+    "intentId": "find cucumber-based recipes or fresh produce options; access vegetable or salad ingredients in a food app"
+  },
+  "fa-cup-straw": {
+    "appearanceId": "tall cylindrical cup or tumbler shape with a lid on top and a drinking straw angled out through the lid; beverage cup silhouette with a domed cap and a diagonal straw protruding upward",
+    "functionalityId": "marks a cold beverage or takeout drink option in a food or café menu; represents a to-go cup or straw-drink category",
+    "intentId": "order or browse cold drinks served in a cup with a straw; find takeout beverage options in a café or restaurant app"
+  }
+}

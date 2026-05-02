@@ -1,0 +1,242 @@
+{
+  "fa-location": {
+    "appearanceId": "teardrop or balloon-shaped map pin with a hollow circle or dot in the center body; inverted teardrop pin silhouette with a rounded top and pointed base",
+    "functionalityId": "marks a geographic location on a map; indicates a specific point of interest or address",
+    "intentId": "identify or share a location on a map; navigate to or pin a specific geographic point"
+  },
+  "fa-location-arrow": {
+    "appearanceId": "teardrop balloon pin shape with a right-pointing directional arrow overlaid in the center body; inverted teardrop pin silhouette with an inward arrow badge",
+    "functionalityId": "navigates to or points toward a specific location; indicates directional movement toward a pinned destination",
+    "intentId": "navigate or get directions to a pinned map location; show movement toward a specific destination"
+  },
+  "fa-location-arrow-up": {
+    "appearanceId": "teardrop balloon pin shape with an upward-pointing arrow overlaid in the center body; inverted teardrop pin silhouette with an upward arrow badge inside",
+    "functionalityId": "indicates upward navigation or elevation at a pinned location; directs movement upward from a mapped point",
+    "intentId": "navigate upward or indicate an elevated route from a location; show vertical direction or floor level at a pinned point"
+  },
+  "fa-location-check": {
+    "appearanceId": "teardrop balloon pin shape with a checkmark overlaid in the center body; inverted teardrop pin silhouette with a tick mark badge inside",
+    "functionalityId": "confirms or verifies a location as checked in or validated; marks a destination as visited or approved",
+    "intentId": "check in at a location or confirm a destination visit; mark a geographic point as verified or completed"
+  },
+  "fa-location-circle": {
+    "appearanceId": "teardrop balloon pin shape containing a smaller filled or outlined circle in the center body; inverted teardrop pin silhouette with a circular badge overlaid inside",
+    "functionalityId": "marks a location with a circular indicator or radius zone; indicates a pinned point within a circular coverage area",
+    "intentId": "define or display a location with a circular boundary or range; indicate a point within a coverage or service zone"
+  },
+  "fa-location-dot": {
+    "appearanceId": "teardrop balloon pin shape with a solid filled dot centered in the lower body; standard map pin silhouette with a prominent center dot marker",
+    "functionalityId": "marks an exact geographic point on a map; pins a specific address or coordinate",
+    "intentId": "pin or identify a precise location on a map; share or navigate to a specific address or coordinate"
+  },
+  "fa-location-dot-slash": {
+    "appearanceId": "teardrop balloon pin shape with a center dot and a diagonal slash line crossing through the entire pin; standard map pin silhouette with a cancellation stroke overlaid",
+    "functionalityId": "removes or disables a pinned location; indicates a location is unavailable or turned off",
+    "intentId": "remove or deactivate a location pin on a map; indicate that location services are disabled or a point is unavailable"
+  },
+  "fa-location-exclamation": {
+    "appearanceId": "teardrop balloon pin shape with an exclamation mark overlaid in the center body; inverted teardrop pin silhouette with a vertical exclamation badge inside",
+    "functionalityId": "flags a location with a warning or urgent alert; marks a destination as problematic or requiring attention",
+    "intentId": "alert about an issue or hazard at a specific location; flag a map point as requiring immediate attention"
+  },
+  "fa-location-minus": {
+    "appearanceId": "teardrop balloon pin shape with a horizontal minus or dash line overlaid in the center body; inverted teardrop pin silhouette with a subtraction minus badge inside",
+    "functionalityId": "removes or decrements a location pin or count; subtracts a point from a list of saved locations",
+    "intentId": "remove a saved location or reduce a location count; delete a pinned map point from a list"
+  },
+  "fa-location-pen": {
+    "appearanceId": "teardrop balloon pin shape with a small pen or pencil tip shape overlaid in the center body; inverted teardrop pin silhouette with an editing pen nib badge inside",
+    "functionalityId": "edits or renames a pinned location; allows modification of a saved map point or address",
+    "intentId": "edit or update the details of a saved location; rename or modify a pinned map point"
+  },
+  "fa-location-pin-lock": {
+    "appearanceId": "teardrop balloon pin shape with a small padlock shape overlaid in the center body; inverted teardrop pin silhouette with a closed lock badge inside",
+    "functionalityId": "locks or restricts access to a pinned location; secures a saved map point from editing or sharing",
+    "intentId": "lock a location pin to prevent changes or sharing; secure access to a specific saved map point"
+  },
+  "fa-location-plus": {
+    "appearanceId": "teardrop balloon pin shape with a plus or cross sign overlaid in the center body; inverted teardrop pin silhouette with an addition plus badge inside",
+    "functionalityId": "adds a new location pin to a map or saved list; creates a new geographic point or address entry",
+    "intentId": "add or save a new location to a map or list; create a new pinned geographic point"
+  },
+  "fa-location-question": {
+    "appearanceId": "teardrop balloon pin shape with a question mark overlaid in the center body; inverted teardrop pin silhouette with a query question badge inside",
+    "functionalityId": "indicates an unknown or uncertain location; marks a map point as unverified or requiring clarification",
+    "intentId": "flag an unknown or uncertain geographic location; mark a map point as unverified or in need of confirmation"
+  },
+  "fa-location-slash": {
+    "appearanceId": "teardrop balloon pin shape with a diagonal slash line crossing through the entire pin body; inverted teardrop pin silhouette with a cancellation slash stroke overlaid",
+    "functionalityId": "disables or hides a location pin; indicates location sharing or services are turned off",
+    "intentId": "turn off location sharing or disable a map pin; indicate that location data is unavailable or blocked"
+  },
+  "fa-location-smile": {
+    "appearanceId": "teardrop balloon pin shape with a small smiley face with curved mouth and dot eyes overlaid in the center body; inverted teardrop pin silhouette with a happy face badge inside",
+    "functionalityId": "marks a favorite or enjoyable location with a positive indicator; tags a map point as a liked or happy place",
+    "intentId": "mark a location as a favorite or positive place; tag a map point with a good experience or recommendation"
+  },
+  "fa-location-xmark": {
+    "appearanceId": "teardrop balloon pin shape with an X mark or cross overlaid in the center body; inverted teardrop pin silhouette with a close or delete X badge inside",
+    "functionalityId": "removes or closes a pinned location; deletes a saved map point or clears a location marker",
+    "intentId": "delete or close a pinned location on a map; remove a specific geographic point from a list or map view"
+  },
+  "fa-lock": {
+    "appearanceId": "rectangular padlock body with a curved shackle or U-shaped arch closed at the top; solid lock silhouette with a semicircular shackle over a square body",
+    "functionalityId": "locks or secures content, a file, or an account; indicates a protected or restricted resource",
+    "intentId": "secure or restrict access to a resource; indicate that content or an account is locked and protected"
+  },
+  "fa-lock-a": {
+    "appearanceId": "rectangular padlock body with a closed curved shackle and a letter A overlaid or inscribed on the lock body; padlock silhouette with an uppercase A badge on the face",
+    "functionalityId": "locks content or access associated with the letter A or a category labeled A; secures an A-type credential or resource",
+    "intentId": "lock or secure an A-labeled category or credential; restrict access to content tagged with the letter A"
+  },
+  "fa-lock-alt": {
+    "appearanceId": "rectangular padlock body with a closed curved shackle in a slightly alternate or stylistic variant form; padlock silhouette with an alternate shackle or body shape compared to the standard lock",
+    "functionalityId": "provides an alternate lock or security indicator; represents a secondary lock style for access control",
+    "intentId": "indicate security or access restriction using an alternate lock style; apply a secondary lock visual to a protected resource"
+  },
+  "fa-lock-hashtag": {
+    "appearanceId": "rectangular padlock body with a closed curved shackle and a hashtag symbol overlaid on the lock face; padlock silhouette with a pound or hash sign badge on the body",
+    "functionalityId": "locks a channel, topic, or resource identified by a hashtag; secures access to a hash-tagged category or channel",
+    "intentId": "lock or restrict a specific tagged channel or topic; secure a resource identified by a hashtag identifier"
+  },
+  "fa-lock-open": {
+    "appearanceId": "rectangular padlock body with the shackle or U-arch open and raised off the top of the body; padlock silhouette with an unlatched open shackle pivoted to one side above the lock body",
+    "functionalityId": "unlocks or grants access to a secured resource; indicates that a lock is disengaged or access is permitted",
+    "intentId": "unlock or open access to a protected resource; indicate that a lock is disengaged and content is accessible"
+  },
+  "fa-lock-open-alt": {
+    "appearanceId": "rectangular padlock body with an open raised shackle in an alternate stylistic variant; open padlock silhouette with a pivoted shackle in a slightly different position or body shape",
+    "functionalityId": "provides an alternate visual for an unlocked or open security state; represents secondary unlocked access indication",
+    "intentId": "indicate an unlocked state using an alternate open-lock style; display a secondary unlocked resource or access indicator"
+  },
+  "fa-locust": {
+    "appearanceId": "a side-profile insect shape with segmented body, large hind legs, and visible wings; grasshopper or locust silhouette with elongated abdomen and prominent jumping legs",
+    "functionalityId": "represents a locust insect or pest infestation; marks agricultural or environmental content related to locust swarms",
+    "intentId": "report or track a locust swarm or crop pest event; indicate an agricultural infestation or pest control situation"
+  },
+  "fa-lollipop": {
+    "appearanceId": "a circular candy head on a thin straight stick handle; round lollipop silhouette with a uniform disk top and a narrow vertical stem",
+    "functionalityId": "marks a candy, treat, or confectionery item in a food app; represents a sweet or dessert category",
+    "intentId": "browse candy or sweet treat options; select a confectionery item in a food or party planning app"
+  },
+  "fa-loveseat": {
+    "appearanceId": "a small two-seat sofa silhouette with a continuous backrest, two cushions, and armrests on both sides; compact settee outline with a divided seat and curved arm ends",
+    "functionalityId": "represents a loveseat or two-person sofa in a furniture catalog; marks a seating category in an interior design app",
+    "intentId": "browse or select loveseat furniture in a home decor or shopping app; identify a two-seat sofa in an interior design catalog"
+  },
+  "fa-low-vision": {
+    "appearanceId": "an eye shape with partial obscuring lines or reduced visibility indication, or an eye with a tilted or angled view suggesting impaired sight; eye silhouette with accessibility impairment marks",
+    "functionalityId": "indicates low vision or visual impairment accessibility needs; activates or marks low-vision accessibility settings",
+    "intentId": "enable or indicate low-vision accessibility accommodations; flag a user as having visual impairment for interface adaptation"
+  },
+  "fa-luchador": {
+    "appearanceId": "a stylized wrestling mask face shape with cutout eye holes and a decorative nose and chin guard; lucha libre mask silhouette with eye openings and ornate facial panel detailing",
+    "functionalityId": "represents a luchador wrestler or Mexican lucha libre sport; marks a wrestling or sports entertainment category",
+    "intentId": "access wrestling or lucha libre sports content; identify a luchador character or wrestling entertainment category"
+  },
+  "fa-luggage-cart": {
+    "appearanceId": "a wheeled cart frame with a handle bar at the top and two or three stacked rectangular bag shapes on the platform; baggage trolley silhouette with a vertical stack of suitcases on a rolling base",
+    "functionalityId": "represents a luggage cart or baggage trolley at a travel facility; indicates baggage handling or transport services",
+    "intentId": "find or request a luggage cart at a hotel or airport; manage baggage transport in a travel or hospitality app"
+  },
+  "fa-lungs": {
+    "appearanceId": "a pair of symmetrical lung lobe shapes with branching bronchial tree lines inside; bilateral lung silhouette with internal airway branch structures",
+    "functionalityId": "represents the lungs or respiratory system in a medical or health app; indicates breathing or pulmonary function data",
+    "intentId": "view or monitor lung health or respiratory data; access pulmonary or breathing-related medical information"
+  },
+  "fa-lungs-virus": {
+    "appearanceId": "a pair of symmetrical lung shapes with a small spiky virus particle overlaid in the center or on one lobe; bilateral lung silhouette with a circular spiked viral body badge",
+    "functionalityId": "indicates a lung infection or respiratory viral illness; marks a pulmonary condition related to a viral pathogen",
+    "intentId": "report or track a viral respiratory infection or lung disease; identify pulmonary complications associated with a virus"
+  },
+  "fa-m": {
+    "appearanceId": "a single uppercase or lowercase letter M as a plain sans-serif or serif letterform; two-peaked letter glyph representing the thirteenth letter of the alphabet",
+    "functionalityId": "represents the letter M as a label or initial; marks a category or item starting with the letter M",
+    "intentId": "label or categorize content starting with M; use the letter M as a shorthand or identifier"
+  },
+  "fa-mace": {
+    "appearanceId": "a medieval weapon silhouette with a long handle and a spiked spherical or flanged head at the top; staff and spiked ball weapon outline with radiating spikes or flanges around the head",
+    "functionalityId": "represents a medieval mace weapon in a game or historical context; marks a combat or armory category",
+    "intentId": "access medieval weapons or combat equipment in a game or historical app; select a mace weapon in an armory or fantasy setting"
+  },
+  "fa-magic": {
+    "appearanceId": "a magic wand stick with a star or sparkle burst at the tip; thin rod or wand silhouette with a starburst or star shape at one end",
+    "functionalityId": "applies an automatic enhancement or magic transformation; activates a smart or one-click improvement feature",
+    "intentId": "apply automatic enhancements or creative effects; use a one-click smart improvement feature in an editor or app"
+  },
+  "fa-magic-wand-sparkles": {
+    "appearanceId": "a magic wand stick with multiple small sparkle or star shapes scattered around the tip and along the shaft; wand silhouette with radiating sparkle glints or star bursts",
+    "functionalityId": "applies AI-powered or automated creative enhancements; activates a smart magic transformation with sparkle effects",
+    "intentId": "apply AI or magic-powered automatic enhancements to content; activate a creative smart-transform feature in an editor"
+  },
+  "fa-magnet": {
+    "appearanceId": "a horseshoe or U-shaped magnet silhouette with two pole ends at the bottom of the curved arms; curved arch magnet outline with two opposing tips at the base",
+    "functionalityId": "represents magnetic attraction or a pull effect; indicates a feature that draws, attracts, or attaches items together",
+    "intentId": "indicate magnetic attraction or a drag-and-snap feature; use a magnet metaphor for attracting or connecting related items"
+  },
+  "fa-magnifying-glass-arrow-right": {
+    "appearanceId": "circular magnifying glass lens with a handle and a right-pointing arrow overlaid inside the lens circle; search glass silhouette with a rightward directional arrow badge within the lens",
+    "functionalityId": "searches in a rightward or forward direction; navigates to the next search result or page",
+    "intentId": "advance to the next search result or navigate forward in a search; find and move to the next matching item"
+  },
+  "fa-magnifying-glass-arrows-rotate": {
+    "appearanceId": "circular magnifying glass lens with a handle and two rotating curved arrows forming a cycle inside the lens circle; search glass silhouette with a circular rotation or refresh arrow badge within the lens",
+    "functionalityId": "refreshes or re-runs a search query; rotates or cycles through search results",
+    "intentId": "refresh a search or re-execute a query; cycle through or rotate search results"
+  },
+  "fa-magnifying-glass-chart": {
+    "appearanceId": "circular magnifying glass lens with a handle and a small bar chart or graph shape overlaid inside the lens circle; search glass silhouette with a bar chart analytics badge within the lens",
+    "functionalityId": "searches through analytics data or charts; examines a chart or graph in detail",
+    "intentId": "search or analyze chart data; examine analytics graphs in a data visualization tool"
+  },
+  "fa-magnifying-glass-music": {
+    "appearanceId": "circular magnifying glass lens with a handle and a musical note shape overlaid inside the lens circle; search glass silhouette with a single or double music note badge within the lens",
+    "functionalityId": "searches for music tracks, songs, or audio content; finds a specific piece of music in a library",
+    "intentId": "search for music or audio content in a library or streaming app; find a specific song, track, or musical piece"
+  },
+  "fa-magnifying-glass-play": {
+    "appearanceId": "circular magnifying glass lens with a handle and a triangular play button shape overlaid inside the lens circle; search glass silhouette with a right-pointing play triangle badge within the lens",
+    "functionalityId": "searches for and plays video or audio content; previews or plays a media item directly from search results",
+    "intentId": "find and play a video or audio item from search results; preview media content directly in a search interface"
+  },
+  "fa-magnifying-glass-waveform": {
+    "appearanceId": "circular magnifying glass lens with a handle and a wavy audio waveform line overlaid inside the lens circle; search glass silhouette with a sinusoidal or jagged waveform badge within the lens",
+    "functionalityId": "searches through audio waveform or sound data; analyzes or inspects an audio signal in detail",
+    "intentId": "search or analyze audio waveform data; inspect a sound signal or audio recording in a waveform view"
+  },
+  "fa-mail-bulk": {
+    "appearanceId": "multiple overlapping envelope shapes stacked together forming a pile or batch; a cluster of envelope silhouettes arranged as a group or mass mailing stack",
+    "functionalityId": "sends or manages bulk email or mass mailings; represents a batch of messages or a mailing list",
+    "intentId": "send bulk emails or manage a mass mailing campaign; handle a large batch of outgoing messages"
+  },
+  "fa-mailbox": {
+    "appearanceId": "a cylindrical or rounded rectangular mailbox body on a post with a small slot opening and a flag on the side; roadside letter box silhouette with a delivery slot and a side flag indicator",
+    "functionalityId": "represents a physical mailbox or postal delivery point; indicates incoming mail or a postal address",
+    "intentId": "check or manage a physical mailbox or postal delivery; indicate a postal address or mail delivery location"
+  },
+  "fa-mailbox-flag-up": {
+    "appearanceId": "a cylindrical or rounded rectangular mailbox body on a post with the side flag raised upward in the up position; roadside letter box silhouette with an upright raised flag indicator",
+    "functionalityId": "indicates outgoing mail is ready for pickup or the mailbox flag is raised; signals that mail has been deposited for collection",
+    "intentId": "signal that outgoing mail is ready for postal pickup; indicate mail has been placed in a mailbox for collection"
+  },
+  "fa-maki-roll": {
+    "appearanceId": "a cylindrical sushi roll cross-section shape with a circular outline and inner rice and filling layers; maki sushi slice silhouette with concentric ring layers showing nori, rice, and a center filling",
+    "functionalityId": "represents a maki sushi roll or Japanese food item; marks a sushi or Japanese cuisine category in a food app",
+    "intentId": "browse or order maki sushi or Japanese food options; identify a sushi roll item in a restaurant or food delivery app"
+  },
+  "fa-male": {
+    "appearanceId": "a standing human figure silhouette with a circular head and simplified body suggesting a male person; upright person outline with a round head on a straight-limbed figure",
+    "functionalityId": "represents a male person or gender indicator; marks a male demographic or restroom designation",
+    "intentId": "indicate a male person, gender option, or restroom; label a male demographic category in a form or directory"
+  },
+  "fa-manat-sign": {
+    "appearanceId": "a stylized Azerbaijani manat currency symbol consisting of a letter m-like glyph with two horizontal strikethrough bars; currency sign with a rounded m-form and dual parallel crossbars",
+    "functionalityId": "displays or selects the Azerbaijani manat as the currency; represents a price or monetary value in AZN",
+    "intentId": "work with Azerbaijani manat pricing or currency conversion; display or set an AZN monetary value"
+  },
+  "fa-mandolin": {
+    "appearanceId": "a teardrop or pear-shaped stringed instrument body with a neck, tuning pegs, and strings running along the neck and body; mandolin silhouette with a rounded lower bout, narrow neck, and multiple strings",
+    "functionalityId": "represents a mandolin instrument in a music app or catalog; marks a stringed instrument category for music content",
+    "intentId": "browse or select mandolin or folk music content; identify a mandolin instrument in a music catalog or store"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-baby-carriage": {
+    "appearanceId": "four-wheeled pram with curved hood and basket body; wheeled infant carriage with rounded canopy",
+    "functionalityId": "navigates to a baby or infant product category; opens baby gear or stroller listings",
+    "intentId": "find products or information for newborns and infants; browse baby transportation equipment"
+  },
+  "fa-backpack": {
+    "appearanceId": "rectangular bag with two shoulder straps and a front pocket; rucksack silhouette with carry straps and zipper pouch",
+    "functionalityId": "opens a school supplies or travel gear section; accesses bag or luggage category",
+    "intentId": "browse backpacks or travel accessories; find student or hiking gear"
+  },
+  "fa-backspace": {
+    "appearanceId": "wide left-pointing arrow key with an X inside; horizontal arrow with notched left tail and enclosed cross mark",
+    "functionalityId": "deletes the character to the left of the cursor; erases the last typed input character",
+    "intentId": "correct a typing mistake by removing the previous character; clear recently entered text"
+  },
+  "fa-backward": {
+    "appearanceId": "two left-pointing filled triangles side by side; double chevron pointing left",
+    "functionalityId": "rewinds or skips backward in media playback; seeks to an earlier position in the timeline",
+    "intentId": "go back in audio or video content; replay a portion of media"
+  },
+  "fa-backward-fast": {
+    "appearanceId": "two left-pointing triangles beside a vertical bar on the left; fast-rewind symbol with a stop boundary",
+    "functionalityId": "jumps to the beginning of media or the previous track; fast-rewinds to the start",
+    "intentId": "restart media from the beginning; skip back to the first position"
+  },
+  "fa-backward-step": {
+    "appearanceId": "single left-pointing triangle with a vertical bar on its left side; step-back arrow with a boundary line",
+    "functionalityId": "skips to the previous track or chapter; steps back one item in the playlist",
+    "intentId": "go to the previous song, video, or section; navigate backward one step in a sequence"
+  },
+  "fa-bacon": {
+    "appearanceId": "wavy horizontal strip with irregular undulating edges; curvy meat rasher silhouette",
+    "functionalityId": "adds a bacon topping or ingredient option; selects bacon as a food item",
+    "intentId": "customize a food order with bacon; browse breakfast or meat food items"
+  },
+  "fa-bacteria": {
+    "appearanceId": "multiple small oval cells with short radiating spike lines; cluster of microorganism shapes with flagella",
+    "functionalityId": "indicates microbial contamination or biological content; opens a health or science information section",
+    "intentId": "learn about bacterial infection or microbiology; access health warning or sanitation information"
+  },
+  "fa-bacterium": {
+    "appearanceId": "single oval cell body with protruding spike lines; lone microorganism shape with outward flagella",
+    "functionalityId": "represents a single bacterial entity or biological hazard; opens microorganism detail or health content",
+    "intentId": "view information about a specific bacterium; access biology or infection-related content"
+  },
+  "fa-badge": {
+    "appearanceId": "multi-sided shield or scalloped-edge medallion shape; rounded polygon badge outline",
+    "functionalityId": "displays a status label, award, or certification marker; applies a badge or tag to an item",
+    "intentId": "indicate a special status, rank, or achievement; highlight a certified or featured item"
+  },
+  "fa-badge-check": {
+    "appearanceId": "scalloped-edge badge shape with a checkmark inside; multi-point medallion containing a tick mark",
+    "functionalityId": "marks an item as verified or officially approved; applies a verified badge to a profile or listing",
+    "intentId": "confirm that something meets quality or authenticity standards; indicate trusted or certified status"
+  },
+  "fa-badge-dollar": {
+    "appearanceId": "scalloped-edge badge shape with a dollar sign inside; multi-point medallion containing a currency symbol",
+    "functionalityId": "applies a pricing badge or cost indicator; marks an item with a monetary label",
+    "intentId": "highlight a deal, discount, or price offer; show that an item has a monetary value or sale"
+  },
+  "fa-badge-percent": {
+    "appearanceId": "scalloped-edge badge shape with a percent sign inside; multi-point medallion containing a percentage symbol",
+    "functionalityId": "applies a discount or sale percentage badge; marks an item with a promotional rate",
+    "intentId": "indicate a sale or percentage-off promotion; draw attention to a discounted price"
+  },
+  "fa-badge-sheriff": {
+    "appearanceId": "six-pointed star badge shape; star-shaped law enforcement badge outline",
+    "functionalityId": "designates an authority figure, moderator, or official role; assigns a sheriff or admin badge",
+    "intentId": "identify a person with elevated permissions or authority; mark a community moderator or official"
+  },
+  "fa-badger-honey": {
+    "appearanceId": "small wide-bodied animal with a broad flat head and stocky legs; low-slung mammal silhouette with thick neck",
+    "functionalityId": "represents a badger mascot or wildlife category; opens animal or nature content",
+    "intentId": "access wildlife or nature-themed content; find mascot or animal-related material"
+  },
+  "fa-badminton": {
+    "appearanceId": "racket with an oval string head beside a shuttlecock; sports paddle and feathered birdie together",
+    "functionalityId": "opens a badminton or racquet sports section; selects badminton as a sport category",
+    "intentId": "find badminton equipment, courts, or events; browse racquet sports activities"
+  },
+  "fa-bag-seedling": {
+    "appearanceId": "shopping bag shape with a small sprouting plant on the front; rounded bag outline containing a seedling stem",
+    "functionalityId": "opens an eco-friendly or garden product shop; accesses a sustainable or plant-based shopping section",
+    "intentId": "shop for organic or environmentally friendly products; browse garden supplies or plant items"
+  },
+  "fa-bag-shopping": {
+    "appearanceId": "rounded shopping bag with loop handles at the top; tote bag silhouette with two short carry handles",
+    "functionalityId": "opens the shopping cart or bag; proceeds to a retail checkout area",
+    "intentId": "view or manage items added to a shopping bag; begin the purchase checkout process"
+  },
+  "fa-bag-shopping-minus": {
+    "appearanceId": "shopping bag with a minus sign on its body; tote bag shape containing a subtraction symbol",
+    "functionalityId": "removes an item from the shopping bag; decreases the cart quantity by one",
+    "intentId": "reduce the number of items in the cart; undo an accidental addition to the bag"
+  },
+  "fa-bag-shopping-plus": {
+    "appearanceId": "shopping bag with a plus sign on its body; tote bag shape containing an addition symbol",
+    "functionalityId": "adds an item to the shopping bag; increases the cart quantity by one",
+    "intentId": "put a product into the cart for purchase; add another unit of an item to the bag"
+  },
+  "fa-bagel": {
+    "appearanceId": "thick ring-shaped bread with a central hole; circular toroidal baked good outline",
+    "functionalityId": "selects a bagel food item or breakfast option; adds a bagel to a food order",
+    "intentId": "order or browse bagel and bakery items; choose a breakfast food option"
+  },
+  "fa-bags-shopping": {
+    "appearanceId": "two overlapping shopping bags with loop handles; double bag silhouettes with carry handles",
+    "functionalityId": "opens a retail or multi-bag shopping section; views combined purchase items across bags",
+    "intentId": "manage multiple shopping bags or a bulk order; access a broader shopping or retail section"
+  },
+  "fa-baguette": {
+    "appearanceId": "long diagonal loaf shape with scored diagonal lines on top; elongated bread stick with slash marks",
+    "functionalityId": "selects a baguette or bakery item; adds bread to a food order",
+    "intentId": "order or browse French bread and bakery products; find a bread or baked goods category"
+  },
+  "fa-bahai": {
+    "appearanceId": "nine-pointed star with radiating triangular points; star polygon with nine symmetrical arms",
+    "functionalityId": "represents the Bahai faith or spiritual symbol; navigates to a religion or spirituality section",
+    "intentId": "identify Bahai religious content or community; access interfaith or spiritual resources"
+  },
+  "fa-baht-sign": {
+    "appearanceId": "capital B letter with two horizontal lines through the vertical stroke; Thai currency glyph with double crossbar",
+    "functionalityId": "displays or enters a Thai baht currency value; converts or formats amounts in baht",
+    "intentId": "indicate a price or amount in Thai baht; select Thai baht as the currency"
+  },
+  "fa-balance-scale": {
+    "appearanceId": "horizontal beam balanced on a central pillar with two hanging pans; classic scales of justice silhouette",
+    "functionalityId": "opens a comparison or legal content section; accesses fairness, legal, or weighing features",
+    "intentId": "compare two options or values side by side; navigate to legal or compliance information"
+  },
+  "fa-balance-scale-right": {
+    "appearanceId": "tilted balance beam with the right pan lower than the left; scales of justice tipped to the right side",
+    "functionalityId": "indicates a right-weighted comparison or imbalance; shows a decision favoring the right option",
+    "intentId": "compare two items with a preference for the right; indicate a skewed or unequal evaluation"
+  },
+  "fa-ball-pile": {
+    "appearanceId": "several circles stacked in a triangular pile formation; cluster of round balls arranged in a pyramid shape",
+    "functionalityId": "opens a sports equipment or ball category; represents multiple items grouped together",
+    "intentId": "browse sports balls or recreational equipment; view a collection of grouped round items"
+  },
+  "fa-balloon": {
+    "appearanceId": "round inflated sphere with a small tied knot at the bottom; single party balloon with a string end",
+    "functionalityId": "marks a celebration, birthday, or festive event; adds a party decoration element",
+    "intentId": "indicate a celebration, birthday, or special occasion; decorate or theme content as festive"
+  },
+  "fa-balloons": {
+    "appearanceId": "two or more round balloons clustered with strings; multiple party balloons tied together in a bunch",
+    "functionalityId": "marks a party or celebration section; adds multiple balloon decorations to an event",
+    "intentId": "indicate a group celebration or party theme; access festive event decoration options"
+  },
+  "fa-ballot": {
+    "appearanceId": "rectangular form with several small square checkboxes and lines; document with checkbox list items",
+    "functionalityId": "opens a voting form or survey with checkboxes; submits a ballot or multi-option questionnaire",
+    "intentId": "cast a vote or complete a polling form; fill out a survey with checkbox selections"
+  },
+  "fa-ballot-check": {
+    "appearanceId": "rectangular form with checkboxes where one has a checkmark; document with a checked ballot item",
+    "functionalityId": "confirms a completed or submitted vote; marks a ballot as checked and accepted",
+    "intentId": "verify a vote has been cast and recorded; confirm a completed survey or election response"
+  },
+  "fa-ban": {
+    "appearanceId": "circle with a diagonal line crossing through it; prohibition symbol with a crossed-out center",
+    "functionalityId": "blocks, bans, or disables a user or item; applies a restriction or prohibition to content",
+    "intentId": "prevent access or usage of a feature; remove or block a person from a platform"
+  },
+  "fa-ban-parking": {
+    "appearanceId": "circle with a diagonal slash over a bold letter P; no-parking prohibition symbol",
+    "functionalityId": "marks a zone as no-parking; restricts or removes parking permission",
+    "intentId": "indicate that parking is not allowed in an area; enforce a no-parking rule"
+  },
+  "fa-ban-smoking": {
+    "appearanceId": "circle with a diagonal slash over a cigarette shape; no-smoking prohibition symbol",
+    "functionalityId": "designates a smoke-free area or policy; blocks smoking in a specified zone",
+    "intentId": "indicate a no-smoking rule or environment; enforce a tobacco-free policy"
+  },
+  "fa-banana": {
+    "appearanceId": "curved elongated fruit with a pointed tip and stalk end; crescent-shaped banana silhouette",
+    "functionalityId": "selects a banana or tropical fruit item; adds a fruit to a food order or health tracker",
+    "intentId": "browse fruit or healthy food options; log or select a banana as a dietary item"
+  },
+  "fa-bandage": {
+    "appearanceId": "rectangular adhesive strip with a padded center panel and dotted edges; band-aid plaster shape",
+    "functionalityId": "opens a first aid or wound care section; applies a fix or patch to an issue",
+    "intentId": "access health or first aid information; indicate a quick repair or temporary fix"
+  },
+  "fa-bangladeshi-taka-sign": {
+    "appearanceId": "stylized cursive T-like currency glyph with a crossbar; Bengali taka currency symbol shape",
+    "functionalityId": "displays or enters a Bangladeshi taka amount; selects taka as the currency format",
+    "intentId": "indicate a price or value in Bangladeshi taka; set currency to Bangladeshi taka"
+  },
+  "fa-banjo": {
+    "appearanceId": "round drum body with a long thin neck and tuning pegs; circular-bodied stringed instrument silhouette",
+    "functionalityId": "opens a music or folk instrument section; represents bluegrass or country music content",
+    "intentId": "browse folk or string instrument options; access bluegrass or Americana music features"
+  },
+  "fa-bank": {
+    "appearanceId": "columned building facade with a triangular pediment roof; classical institution building with pillars",
+    "functionalityId": "opens banking or financial services section; navigates to account or money management",
+    "intentId": "access bank account details or financial tools; manage money, transfers, or financial records"
+  },
+  "fa-bar-chart": {
+    "appearanceId": "several vertical rectangles of varying heights aligned to a baseline; vertical bar graph with multiple columns",
+    "functionalityId": "opens a data analytics or statistics view; displays a bar chart for comparative data",
+    "intentId": "visualize and compare data values across categories; analyze performance metrics in chart form"
+  },
+  "fa-barcode": {
+    "appearanceId": "series of vertical lines of varying widths with numbers below; standard linear barcode pattern",
+    "functionalityId": "scans or generates a product barcode; looks up an item by its barcode identifier",
+    "intentId": "identify a product by scanning its barcode; retrieve item information from a code"
+  },
+  "fa-barcode-alt": {
+    "appearanceId": "grid of small squares arranged in a pattern like a QR code; square matrix barcode with data blocks",
+    "functionalityId": "scans or generates a 2D matrix barcode; reads an alternative code format for item lookup",
+    "intentId": "scan a QR-style code to retrieve product or link data; use a 2D barcode for identification"
+  },
+  "fa-barcode-read": {
+    "appearanceId": "barcode with a horizontal scan line passing through it; linear barcode being actively scanned",
+    "functionalityId": "initiates a barcode scan action; reads a barcode to retrieve linked data",
+    "intentId": "scan a product barcode to get item details; identify an item via its barcode scan"
+  },
+  "fa-barcode-scan": {
+    "appearanceId": "rectangular barcode inside a viewfinder frame with corner brackets; barcode centered in a targeting frame",
+    "functionalityId": "activates the barcode scanner or camera reader; captures a barcode within a scanning frame",
+    "intentId": "use the device camera to scan and decode a barcode; look up a product or item by scanning"
+  },
+  "fa-bars": {
+    "appearanceId": "three horizontal parallel lines of equal length stacked vertically; hamburger menu line pattern",
+    "functionalityId": "opens or toggles a navigation menu or sidebar; expands a hidden menu of options",
+    "intentId": "access the main navigation or application menu; reveal additional app sections or settings"
+  },
+  "fa-bars-filter": {
+    "appearanceId": "three horizontal lines of decreasing length stacked vertically; funnel-like stacked bars narrowing downward",
+    "functionalityId": "opens filter or sort options for a list; applies filtering criteria to narrow results",
+    "intentId": "narrow down a list by applying filters; refine search results with sorting or filter controls"
+  },
+  "fa-bars-sort": {
+    "appearanceId": "three horizontal lines of varying length with a sort arrow beside them; stacked bars with a directional sort indicator",
+    "functionalityId": "sorts a list or dataset in ascending or descending order; changes the sort order of displayed items",
+    "intentId": "reorder a list to find items more easily; organize data by a specific sort criterion"
+  }
+}

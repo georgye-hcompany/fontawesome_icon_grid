@@ -1,0 +1,242 @@
+{
+  "fa-industry-alt": {
+    "appearanceId": "a factory or industrial building silhouette with a large rectangular structure, one or more tall chimney stacks, and a small gear or alternate architectural detail distinguishing it from the standard factory; industrial plant outline with smokestacks and a variant roofline or gear element",
+    "functionalityId": "represents an advanced or alternative industrial facility or manufacturing operation; marks a category as specialized industrial or production-related",
+    "intentId": "identify or locate a specialized industrial facility; access advanced manufacturing or industrial sector content in a business app"
+  },
+  "fa-infinity": {
+    "appearanceId": "a continuous double-looped horizontal figure-eight curve with no endpoints, forming a symmetrical lemniscate shape; two equal oval loops joined at the center crossover point in a flat horizontal orientation",
+    "functionalityId": "represents an unlimited, endless, or infinite quantity or duration; indicates a looping, continuous, or unlimited feature in a system",
+    "intentId": "indicate unlimited capacity or an infinite loop; convey a continuous or boundless attribute in an app or setting"
+  },
+  "fa-info": {
+    "appearanceId": "a lowercase letter i with a dot above and a slightly thicker vertical stroke below on a plain background; minimalist information letterform with a round tittle and a short vertical stem",
+    "functionalityId": "opens a tooltip, help overlay, or informational details panel; displays supplementary information about an item",
+    "intentId": "learn more about a feature or item; access help or descriptive details for a selected element"
+  },
+  "fa-info-square": {
+    "appearanceId": "a square or rounded-square border containing a lowercase letter i centered within it; box outline with a dotted-i information letterform inside",
+    "functionalityId": "opens an information panel or help details within a framed button; displays supplementary data for a boxed item or section",
+    "intentId": "access additional information about a feature or item in a framed context; view help or descriptive details in a button or badge"
+  },
+  "fa-inhaler": {
+    "appearanceId": "a metered-dose inhaler device shape with a cylindrical canister inserted into an L-shaped mouthpiece and actuator body; medical aerosol device silhouette with a vertical cartridge and a horizontal nozzle housing",
+    "functionalityId": "represents asthma medication, respiratory treatment, or inhaler use; marks a medication reminder or pulmonary care action",
+    "intentId": "log or manage inhaler medication usage; access asthma or respiratory treatment tracking in a health app"
+  },
+  "fa-input-numeric": {
+    "appearanceId": "a rectangular text-input field box outline containing a numeral or digit character inside; flat input field shape with a number symbol displayed as the field content",
+    "functionalityId": "activates or inserts a numeric input field in a form or interface; restricts a text field to accept only numbers",
+    "intentId": "add or interact with a number-only input field; configure a form element to accept numeric values"
+  },
+  "fa-input-pipe": {
+    "appearanceId": "a rectangular text-input field box outline containing a single vertical pipe or bar cursor character inside; flat input field shape with a narrow vertical line as the blinking cursor indicator",
+    "functionalityId": "activates or places a text cursor into an input field; represents an active or focused empty text entry box",
+    "intentId": "focus on an empty text input field; indicate a ready-to-type cursor position in a form element"
+  },
+  "fa-input-text": {
+    "appearanceId": "a rectangular text-input field box outline containing a short sequence of text characters or a lowercase letter string inside; flat input field shape with a small text snippet displayed as sample field content",
+    "functionalityId": "activates or inserts a text input field in a form or interface; represents a general-purpose text entry element",
+    "intentId": "add or interact with a text input field in a form; configure a form element to accept alphanumeric text"
+  },
+  "fa-inr": {
+    "appearanceId": "the Indian rupee currency symbol consisting of two horizontal parallel bars at the top above a vertical stroke with a diagonal leg forming a stylized capital R with a strikethrough bar; currency glyph with dual crossbars over a letterform descending diagonally",
+    "functionalityId": "displays or selects the Indian rupee as the currency denomination; represents a monetary value denominated in INR",
+    "intentId": "work with Indian rupee pricing or currency conversion; display or set an INR monetary value in a financial context"
+  },
+  "fa-integral": {
+    "appearanceId": "a tall elongated S-shaped or sigmoid curve glyph used as the mathematical integral symbol; a vertically stretched sinuous stroke with a subtle top curve and bottom curve representing a calculus integration operator",
+    "functionalityId": "inserts or represents an integral operator in a mathematical or scientific expression; denotes an integration calculation in a formula editor",
+    "intentId": "write or display a mathematical integral expression; access calculus or scientific notation tools in a math editor"
+  },
+  "fa-interrobang": {
+    "appearanceId": "a combined exclamation mark and question mark overlaid or merged into a single glyph with both a dot at the base and a curved query hook fused with a straight exclamation stroke; dual punctuation mark combining a question curve and an exclamation bar in one symbol",
+    "functionalityId": "inserts an interrobang punctuation character combining surprise and inquiry; represents a rhetorical exclamatory question in text",
+    "intentId": "insert an interrobang mark to express simultaneous surprise and inquiry; use a combined question-exclamation punctuation in a document"
+  },
+  "fa-intersection": {
+    "appearanceId": "two overlapping circle or ellipse outlines with a shaded or highlighted lens-shaped overlap region in the center; two ring shapes crossing to form a central vesica or almond-shaped intersection area",
+    "functionalityId": "represents a set intersection operation or logical AND relationship between two groups; indicates overlapping data or shared attributes between two sets",
+    "intentId": "find or display common elements between two data sets; apply a set intersection or logical overlap filter in a query"
+  },
+  "fa-island-tropical": {
+    "appearanceId": "a small rounded landmass or mound shape with a tall palm tree silhouette rising from it and a sun in the upper corner; tropical island outline with a coconut palm and a circular sun above",
+    "functionalityId": "represents a tropical destination, vacation, or island getaway location; marks a travel or leisure category with a beach theme",
+    "intentId": "find or bookmark a tropical vacation destination; browse beach or island travel options in a travel app"
+  },
+  "fa-italic": {
+    "appearanceId": "a single slanted or oblique letter i or a rightward-leaning italic letterform glyph; forward-angled text character representing typographic italic style",
+    "functionalityId": "applies italic formatting to selected text in a document editor; toggles the italic style on a text selection",
+    "intentId": "format selected text in italic style; apply an oblique or slanted typographic emphasis to words"
+  },
+  "fa-j": {
+    "appearanceId": "a single uppercase or lowercase letter J with a curved descending hook at the bottom; vertical stroke glyph with a rightward-curving tail at the base representing the tenth letter of the alphabet",
+    "functionalityId": "represents the letter J as a label, initial, or category marker; marks an item or section starting with the letter J",
+    "intentId": "label or categorize content starting with J; use the letter J as a shorthand or identifier"
+  },
+  "fa-jack-o-lantern": {
+    "appearanceId": "a round pumpkin silhouette with a carved face featuring triangular eyes, a triangular nose, and a jagged toothed mouth, with a small stem at the top; carved Halloween pumpkin outline with geometric facial cutouts and a short stem",
+    "functionalityId": "marks a Halloween event, seasonal decoration, or autumn holiday category; represents a spooky or festive fall theme",
+    "intentId": "browse Halloween or autumn seasonal content; decorate or theme an app or event with a jack-o-lantern motif"
+  },
+  "fa-jar": {
+    "appearanceId": "a tall cylindrical glass jar or mason jar shape with a flat lid on top, a rounded body, and a flat base; food storage container silhouette with a sealed screw-on cap and straight sides",
+    "functionalityId": "represents food storage, canning, or a container for preserved goods; marks a pantry or kitchen storage category",
+    "intentId": "manage food storage or pantry inventory; access canning or food preservation content in a recipe or kitchen app"
+  },
+  "fa-jar-wheat": {
+    "appearanceId": "a cylindrical jar or mason jar shape with a flat lid and a wheat or grain stalk illustration on the body or emerging from the top; food jar silhouette with a cereal grain or wheat sprig element",
+    "functionalityId": "represents grain storage, wheat-based food products, or a harvest pantry item; marks a whole-grain or natural food storage category",
+    "intentId": "manage grain or wheat food storage; browse whole-grain or harvest food products in a pantry or recipe app"
+  },
+  "fa-jedi": {
+    "appearanceId": "a stylized Jedi Order insignia with a central blade or crest shape flanked by symmetrical wing-like curved elements; pointed central emblem with arcing side wings forming a heraldic crest or badge",
+    "functionalityId": "marks a Star Wars Jedi Order theme or fan category; represents a Jedi or sci-fi fantasy affiliation badge",
+    "intentId": "access Jedi Order or Star Wars themed content; indicate a Jedi affiliation or sci-fi franchise category"
+  },
+  "fa-jet-fighter-up": {
+    "appearanceId": "a jet fighter aircraft silhouette oriented vertically with the nose pointing upward, delta wings swept back, and a tail fin at the bottom; military aircraft outline with a vertical climb orientation and swept-wing profile",
+    "functionalityId": "represents a vertical climb, launch, or rapid ascent action; marks military aviation or aerospace content",
+    "intentId": "indicate a rapid launch or vertical climb operation; access military aviation or aerospace content in an app"
+  },
+  "fa-joint": {
+    "appearanceId": "a hand-rolled cigarette or conical joint shape with a twisted or tapered end, slightly curved along its length; rolled paper cylinder silhouette with a pointed tip and a slight taper representing a cannabis cigarette",
+    "functionalityId": "represents cannabis consumption or a marijuana roll; marks a dispensary or cannabis product category",
+    "intentId": "access cannabis product information or dispensary content; indicate a marijuana-related category in a relevant app"
+  },
+  "fa-journal-whills": {
+    "appearanceId": "a book or journal silhouette with a stylized Jedi or Star Wars crest emblem on the cover; rectangular tome outline with a pointed-wing heraldic emblem centered on the front face",
+    "functionalityId": "represents a Star Wars lore journal or canonical story reference; marks a Jedi scripture or sci-fi franchise book category",
+    "intentId": "access Star Wars lore or Jedi scripture content; browse canonical reference material in a sci-fi franchise app"
+  },
+  "fa-joystick": {
+    "appearanceId": "an arcade joystick silhouette with a vertical stick shaft topped by a round ball grip mounted on a rectangular base platform; upright control stick outline with a spherical handle and a flat mounting base",
+    "functionalityId": "represents a gaming control input or arcade game action; navigates or controls movement in a game interface",
+    "intentId": "play or control a game using a joystick interface; access arcade or retro gaming content in an entertainment app"
+  },
+  "fa-jug": {
+    "appearanceId": "a wide-mouthed pitcher or jug silhouette with a curved spout at the top, a single loop handle on the side, and a rounded body narrowing to a flat base; ceramic or glass liquid vessel outline with a handle and a pour spout",
+    "functionalityId": "represents a liquid container, pitcher, or pouring vessel; marks a beverage serving or kitchen utensil category",
+    "intentId": "browse kitchen or beverage serving equipment; indicate a liquid pouring or storage vessel in a recipe or kitchen app"
+  },
+  "fa-jug-bottle": {
+    "appearanceId": "a jug or handle-equipped bottle shape with a narrow neck, a looped carrying handle at the top, and a rounded lower body; large-format handle bottle silhouette combining a loop grip with a bottle form",
+    "functionalityId": "represents a large-format handle bottle or gallon jug for liquids; marks a bulk liquid container or beverage storage category",
+    "intentId": "browse bulk liquid containers or large beverage bottles; manage large-format liquid storage in a pantry or shopping app"
+  },
+  "fa-jug-detergent": {
+    "appearanceId": "a detergent or laundry jug silhouette with a handle, a flip-top or screw cap, and a rounded body typical of cleaning product packaging; cleaning product container outline with a grip handle and a dispensing cap",
+    "functionalityId": "represents a laundry detergent or household cleaning product; marks a cleaning supply or laundry care category",
+    "intentId": "manage or shop for laundry detergent or cleaning supplies; track household cleaning product inventory"
+  },
+  "fa-k": {
+    "appearanceId": "a single uppercase or lowercase letter K with two diagonal strokes meeting a vertical stem at a midpoint; angular letterform with an upper and lower diagonal arm extending from a straight left stroke",
+    "functionalityId": "represents the letter K as a label, initial, or category marker; marks an item or section starting with the letter K",
+    "intentId": "label or categorize content starting with K; use the letter K as a shorthand or identifier"
+  },
+  "fa-kaaba": {
+    "appearanceId": "a cubic or box-shaped building silhouette draped with a dark covering cloth and a narrow decorative band or border near the top; square stone structure outline with a textile covering and a horizontal trim line",
+    "functionalityId": "represents the Kaaba or a sacred Islamic site; marks a location or category related to Islamic pilgrimage and Mecca",
+    "intentId": "identify or navigate to an Islamic sacred site or pilgrimage destination; access content related to Hajj or Mecca"
+  },
+  "fa-kazoo": {
+    "appearanceId": "an elongated cylindrical tube instrument silhouette with a small membrane or disc-shaped resonator mounted on the side near one end; simple wind instrument outline with a side buzzing disc attachment",
+    "functionalityId": "represents a kazoo or novelty musical instrument; marks a toy or folk music instrument category",
+    "intentId": "access kazoo or novelty instrument content in a music app; indicate a fun or toy instrument category"
+  },
+  "fa-kerning": {
+    "appearanceId": "two letterforms or characters placed side by side with a visible spacing indicator or arrow between them, illustrating the adjustable gap; paired glyphs with a horizontal distance marker showing inter-character spacing",
+    "functionalityId": "adjusts the spacing between individual character pairs in a typography tool; controls letter-pair kerning in a font or text editor",
+    "intentId": "fine-tune character spacing for improved typographic readability; adjust kerning between letter pairs in a design or text editor"
+  },
+  "fa-key": {
+    "appearanceId": "a standard key silhouette with a circular bow (the oval ring at the top), a long narrow blade shaft, and notched teeth cut along the lower edge; classic key outline with a round head loop, a flat shank, and serrated teeth",
+    "functionalityId": "unlocks or locks access to a resource, account, or secured area; manages authentication credentials or security keys",
+    "intentId": "authenticate or manage access to a secured resource; unlock or lock a protected account or system"
+  },
+  "fa-key-skeleton": {
+    "appearanceId": "a key shape where the bow is a small skull head and the blade is formed by two crossed bones as the shank; skeleton-themed key silhouette with a skull-shaped hole at the top and a crossbone shaft",
+    "functionalityId": "represents a skeleton key or universal master key access; marks a Halloween, pirate, or dark-themed unlock action",
+    "intentId": "indicate master-key access or a skeleton-key metaphor; apply a Halloween or pirate aesthetic to a lock or access element"
+  },
+  "fa-key-skeleton-left-right": {
+    "appearanceId": "two skeleton key shapes facing in opposite directions, one pointing left and one pointing right, mirrored horizontally; a pair of opposing skull-and-crossbone key silhouettes arranged back-to-back or flanking each other",
+    "functionalityId": "represents bidirectional key access or dual authentication credentials; indicates symmetric or mirrored key permissions",
+    "intentId": "manage bidirectional or dual-key access credentials; indicate symmetric authentication or mirrored unlock permissions"
+  },
+  "fa-keyboard": {
+    "appearanceId": "a rectangular keyboard body with rows of small square or rectangular key caps arranged in a staggered grid pattern; flat input device outline with multiple rows of button keys across the surface",
+    "functionalityId": "represents keyboard input or a typing interface; opens keyboard shortcuts, key mapping, or input device settings",
+    "intentId": "configure or use a keyboard input device; access keyboard shortcut settings or typing preferences"
+  },
+  "fa-keyboard-brightness": {
+    "appearanceId": "a rectangular keyboard body with a sun symbol or radiating brightness rays overlaid above or on the key surface; flat keyboard outline with a circular sun and extending light-ray marks indicating illumination",
+    "functionalityId": "adjusts the keyboard backlight brightness level; controls keyboard illumination intensity in a device settings panel",
+    "intentId": "increase or set keyboard backlight brightness; manage keyboard illumination preferences on a device"
+  },
+  "fa-keyboard-brightness-low": {
+    "appearanceId": "a rectangular keyboard body with a smaller sun symbol or fewer radiating rays indicating a reduced brightness level; flat keyboard outline with a diminished sun and shorter light-ray marks suggesting low illumination",
+    "functionalityId": "lowers the keyboard backlight to a dimmer setting; reduces keyboard illumination intensity in a device settings panel",
+    "intentId": "decrease keyboard backlight brightness to a low level; conserve battery by reducing keyboard illumination"
+  },
+  "fa-keyboard-down": {
+    "appearanceId": "a rectangular keyboard body with a downward-pointing arrow overlaid below or on the surface; flat keyboard outline with a downward chevron or arrowhead indicating a downward direction",
+    "functionalityId": "hides, dismisses, or slides the keyboard downward out of view; triggers a keyboard collapse action in a mobile or UI context",
+    "intentId": "dismiss or hide the on-screen keyboard; collapse the keyboard panel downward in a mobile interface"
+  },
+  "fa-keyboard-left": {
+    "appearanceId": "a rectangular keyboard body with a left-pointing arrow overlaid on or beside the surface; flat keyboard outline with a leftward chevron or arrowhead indicating a leftward direction",
+    "functionalityId": "navigates left or back using the keyboard; triggers a leftward keyboard shortcut or cursor movement action",
+    "intentId": "move the cursor or navigate leftward using the keyboard; trigger a left-arrow keyboard action in an interface"
+  },
+  "fa-keynote": {
+    "appearanceId": "a presentation podium or lectern silhouette with a microphone or projector screen in the background; speaker rostrum outline with a standing desk and a display or screen element",
+    "functionalityId": "opens or represents a keynote presentation or public speaking engagement; marks a conference talk or main-stage presentation event",
+    "intentId": "prepare or deliver a keynote presentation or conference talk; access public speaking or slide presentation tools"
+  },
+  "fa-khanda": {
+    "appearanceId": "the Sikh Khanda symbol with a double-edged central straight sword, a circular quoit ring around the center, and two curved single-edged swords flanking the sides; symmetrical Sikh emblem with a vertical double-blade and two flanking kirpans encircled by a chakkar",
+    "functionalityId": "represents the Sikh faith or Sikhism in a religious or cultural context; marks content related to Sikh tradition, temple, or community",
+    "intentId": "identify a Sikh temple or religious site; access Sikhism-related content or cultural information"
+  },
+  "fa-kidneys": {
+    "appearanceId": "two bean-shaped organ silhouettes placed side by side in a symmetric arrangement representing the paired kidneys; paired rounded-oblong organ shapes with concave inner edges facing each other",
+    "functionalityId": "represents kidney health, renal function, or organ-related medical information; marks a nephrology or urinary health category",
+    "intentId": "access kidney health or renal care information; track or monitor organ function in a health or medical app"
+  },
+  "fa-kip-sign": {
+    "appearanceId": "the Lao kip currency symbol consisting of a stylized letterform or glyph with distinctive stroke elements representing the kip monetary sign; currency glyph with characteristic Lao script-inspired strokes and a monetary crossbar or flourish",
+    "functionalityId": "displays or selects the Lao kip as the currency denomination; represents a monetary value in LAK",
+    "intentId": "work with Lao kip pricing or currency conversion; display or set an LAK monetary value in a financial context"
+  },
+  "fa-kiss": {
+    "appearanceId": "a circular face outline with two closed or dot eyes, softly puckered lips forming a small round mouth, and small heart or sparkle marks around the face; round emoticon with a kissing lip expression and heart accents",
+    "functionalityId": "expresses affection, a kiss, or a loving greeting in a message; inserts a kissing face emoji reaction",
+    "intentId": "send a kiss or affectionate greeting in a chat; react with a loving kissing face expression"
+  },
+  "fa-kiss-beam": {
+    "appearanceId": "a circular face outline with two closed crescent or arc-shaped smiling eyes and puckered lips with a small round mouth; round emoticon with beaming closed-eye arcs and a kissing lip shape",
+    "functionalityId": "expresses joyful affection or an enthusiastic kiss in a message; inserts a beaming kissing face emoji reaction",
+    "intentId": "send a joyful kiss or enthusiastic affectionate greeting; react with a beaming kissing face in a chat"
+  },
+  "fa-kiss-wink-heart": {
+    "appearanceId": "a circular face outline with one open eye, one closed winking eye, puckered kissing lips, and a small floating heart beside the face; round emoticon with a wink expression, a kissing mouth, and a heart accent",
+    "functionalityId": "expresses flirtatious affection or a winking kiss in a message; inserts a wink-kiss-heart emoji reaction",
+    "intentId": "send a flirtatious or playfully affectionate message; react with a winking kiss-heart expression in a chat"
+  },
+  "fa-kitchen-set": {
+    "appearanceId": "a grouping of kitchen utensil or appliance silhouettes such as a pot, spatula, and other cookware arranged together; clustered kitchen tool and cookware shapes forming a cooking equipment set",
+    "functionalityId": "represents a kitchen equipment collection or cooking utensil set; marks a culinary supplies or kitchenware category",
+    "intentId": "browse or manage a kitchen equipment set; shop for cookware or culinary supplies in a kitchen app"
+  },
+  "fa-kite": {
+    "appearanceId": "a diamond-shaped kite outline with crossed frame struts visible inside and a long tail string hanging below; quadrilateral kite shape with internal cross bracing and a curved or wavy tail",
+    "functionalityId": "represents kite flying, outdoor recreation, or a wind-powered activity; marks a leisure or outdoor toy category",
+    "intentId": "access outdoor recreation or kite-flying activity content; indicate a wind-powered play or leisure category"
+  },
+  "fa-kiwi-bird": {
+    "appearanceId": "a round-bodied flightless bird silhouette with a very long thin beak, small stubby wings, and sturdy legs; stout oval bird outline with an elongated probe bill and minimal wing detail",
+    "functionalityId": "represents a kiwi bird or New Zealand wildlife in a nature or geography context; marks a flightless bird or conservation category",
+    "intentId": "access New Zealand wildlife or kiwi bird content; browse flightless bird or nature conservation information"
+  }
+}

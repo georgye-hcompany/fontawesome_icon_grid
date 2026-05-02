@@ -1,0 +1,242 @@
+{
+  "fa-square-y": {
+    "appearanceId": "square containing the bold uppercase letter Y",
+    "functionalityId": "select or label category Y item",
+    "intentId": "identify or navigate to Y-labeled option"
+  },
+  "fa-square-z": {
+    "appearanceId": "square containing the bold uppercase letter Z",
+    "functionalityId": "select or label category Z item",
+    "intentId": "identify or navigate to Z-labeled option"
+  },
+  "fa-star": {
+    "appearanceId": "five-pointed star outline",
+    "functionalityId": "mark or rate an item as favorite",
+    "intentId": "save or highlight a preferred item"
+  },
+  "fa-star-half": {
+    "appearanceId": "five-pointed star with left half filled and right half empty",
+    "functionalityId": "display a half-star rating value",
+    "intentId": "represent a partial or mid-point rating"
+  },
+  "fa-stethoscope": {
+    "appearanceId": "stethoscope with circular chest piece and two earpieces",
+    "functionalityId": "access medical or health check features",
+    "intentId": "indicate a doctor visit or health assessment"
+  },
+  "fa-stop": {
+    "appearanceId": "solid square",
+    "functionalityId": "stop or halt media or process playback",
+    "intentId": "end an ongoing action or recording"
+  },
+  "fa-store": {
+    "appearanceId": "storefront with awning overhang and display window",
+    "functionalityId": "browse or open an online or physical store",
+    "intentId": "visit a shop or marketplace listing"
+  },
+  "fa-store-lock": {
+    "appearanceId": "storefront with awning and padlock overlay badge",
+    "functionalityId": "indicate a locked or closed store",
+    "intentId": "show that a shop is restricted or unavailable"
+  },
+  "fa-store-slash": {
+    "appearanceId": "storefront with awning and diagonal slash crossing it",
+    "functionalityId": "indicate a disabled or removed store",
+    "intentId": "show that a shop is closed or deactivated"
+  },
+  "fa-strikethrough": {
+    "appearanceId": "text letter S with a horizontal line crossing through its middle",
+    "functionalityId": "apply strikethrough formatting to selected text",
+    "intentId": "mark text as deleted or no longer valid"
+  },
+  "fa-stroopwafel": {
+    "appearanceId": "round waffle wafer with a grid of diamond-shaped indentations",
+    "functionalityId": "browse Dutch snack or food-themed content",
+    "intentId": "indicate a stroopwafel or waffle cookie item"
+  },
+  "fa-sun": {
+    "appearanceId": "circle with radiating pointed rays around perimeter",
+    "functionalityId": "toggle light mode or display brightness",
+    "intentId": "switch to daytime or bright theme"
+  },
+  "fa-sun-alt": {
+    "appearanceId": "circle with alternating long and short radiating rays around perimeter",
+    "functionalityId": "toggle alternate light mode or brightness setting",
+    "intentId": "adjust display to an alternate bright theme"
+  },
+  "fa-sun-cloud": {
+    "appearanceId": "sun shape partially obscured behind a cloud",
+    "functionalityId": "display partly cloudy weather conditions",
+    "intentId": "check or show a partly sunny forecast"
+  },
+  "fa-sun-dust": {
+    "appearanceId": "sun shape with small drifting dust particles below it",
+    "functionalityId": "indicate dusty or hazy sunny weather conditions",
+    "intentId": "check or warn about dust and sun exposure"
+  },
+  "fa-sun-haze": {
+    "appearanceId": "sun shape with horizontal haze lines radiating outward below it",
+    "functionalityId": "indicate hazy or smoky sunny conditions",
+    "intentId": "check or warn about sun haze or air quality"
+  },
+  "fa-sun-plant-wilt": {
+    "appearanceId": "sun shape above a drooping wilted plant in a pot",
+    "functionalityId": "indicate drought or heat stress on plants",
+    "intentId": "warn about extreme heat or water shortage"
+  },
+  "fa-synagogue": {
+    "appearanceId": "building facade with arched windows, Star of David, and twin towers",
+    "functionalityId": "browse or locate a synagogue or Jewish place of worship",
+    "intentId": "find a nearby Jewish religious site"
+  },
+  "fa-t": {
+    "appearanceId": "bold uppercase letter T",
+    "functionalityId": "insert or label letter T",
+    "intentId": "represent the letter T"
+  },
+  "fa-table-tree": {
+    "appearanceId": "table grid with left column showing an indented tree hierarchy",
+    "functionalityId": "view data in a hierarchical tree table layout",
+    "intentId": "browse nested or grouped tabular data"
+  },
+  "fa-tag": {
+    "appearanceId": "price tag shape with a small hole at the left end",
+    "functionalityId": "add or view a label or tag on an item",
+    "intentId": "categorize or price-mark a piece of content"
+  },
+  "fa-tags": {
+    "appearanceId": "two overlapping price tag shapes with holes at left ends",
+    "functionalityId": "add or manage multiple labels on an item",
+    "intentId": "categorize content with several tags"
+  },
+  "fa-tally-1": {
+    "appearanceId": "one vertical tally mark",
+    "functionalityId": "record or display a count of one",
+    "intentId": "tally or track a single unit"
+  },
+  "fa-tally-2": {
+    "appearanceId": "two vertical tally marks in a row",
+    "functionalityId": "record or display a count of two",
+    "intentId": "tally or track two units"
+  },
+  "fa-tally-3": {
+    "appearanceId": "three vertical tally marks in a row",
+    "functionalityId": "record or display a count of three",
+    "intentId": "tally or track three units"
+  },
+  "fa-tally-4": {
+    "appearanceId": "four vertical tally marks in a row",
+    "functionalityId": "record or display a count of four",
+    "intentId": "tally or track four units"
+  },
+  "fa-taxi-bus": {
+    "appearanceId": "side-view vehicle combining taxi and bus body with large windows",
+    "functionalityId": "book or view taxi-bus transit options",
+    "intentId": "arrange shared or hybrid taxi-bus transport"
+  },
+  "fa-temperature-0": {
+    "appearanceId": "thermometer outline completely empty",
+    "functionalityId": "indicate freezing or zero temperature level",
+    "intentId": "show that temperature or fill level is empty"
+  },
+  "fa-temperature-1": {
+    "appearanceId": "thermometer with fill at one-fifth level",
+    "functionalityId": "indicate very low temperature or level",
+    "intentId": "show temperature or capacity is nearly empty"
+  },
+  "fa-temperature-2": {
+    "appearanceId": "thermometer with fill at two-fifths level",
+    "functionalityId": "indicate low temperature or level",
+    "intentId": "show temperature or capacity is below midpoint"
+  },
+  "fa-temperature-3": {
+    "appearanceId": "thermometer with fill at three-fifths level",
+    "functionalityId": "indicate moderate temperature or level",
+    "intentId": "show temperature or capacity is above midpoint"
+  },
+  "fa-temperature-4": {
+    "appearanceId": "thermometer fully filled",
+    "functionalityId": "indicate maximum or high temperature level",
+    "intentId": "show temperature or capacity is at full level"
+  },
+  "fa-temperature-snow": {
+    "appearanceId": "thermometer with a snowflake symbol beside it",
+    "functionalityId": "display freezing or below-zero temperature",
+    "intentId": "check or warn about cold or icy conditions"
+  },
+  "fa-tent-arrow-down-to-line": {
+    "appearanceId": "tent shape with a downward arrow pointing to a horizontal line below it",
+    "functionalityId": "anchor or assign a tent to a ground line",
+    "intentId": "set up or place a tent at a designated site"
+  },
+  "fa-tent-arrow-left-right": {
+    "appearanceId": "tent shape with left and right arrows on either side",
+    "functionalityId": "move or resize a tent location horizontally",
+    "intentId": "adjust or reposition a tent space left or right"
+  },
+  "fa-tent-arrow-turn-left": {
+    "appearanceId": "tent shape with a curved arrow turning to the left",
+    "functionalityId": "redirect or reroute away from a tent area",
+    "intentId": "indicate a detour or change of direction near a tent"
+  },
+  "fa-terminal": {
+    "appearanceId": "command prompt with angle bracket and cursor line",
+    "functionalityId": "open a command line or terminal window",
+    "intentId": "run commands or scripts in a terminal"
+  },
+  "fa-thumbs-down": {
+    "appearanceId": "hand with thumb pointing downward",
+    "functionalityId": "dislike or downvote selected content",
+    "intentId": "express disapproval or negative feedback"
+  },
+  "fa-thumbs-up": {
+    "appearanceId": "hand with thumb pointing upward",
+    "functionalityId": "like or upvote selected content",
+    "intentId": "express approval or positive feedback"
+  },
+  "fa-ticket-plane": {
+    "appearanceId": "single boarding pass ticket with small airplane silhouette on it",
+    "functionalityId": "view or manage a flight boarding pass",
+    "intentId": "access or retrieve an airplane ticket"
+  },
+  "fa-tickets-plane": {
+    "appearanceId": "two overlapping boarding pass tickets with airplane silhouettes on them",
+    "functionalityId": "view or manage multiple flight tickets",
+    "intentId": "access or book several airplane tickets"
+  },
+  "fa-timeline": {
+    "appearanceId": "horizontal line with vertical tick marks and dots",
+    "functionalityId": "view or navigate a chronological timeline",
+    "intentId": "browse events or milestones in order"
+  },
+  "fa-timeline-arrow": {
+    "appearanceId": "horizontal line with vertical tick marks, dots, and an arrowhead at the right end",
+    "functionalityId": "view a forward-progressing timeline",
+    "intentId": "follow or advance through ordered events"
+  },
+  "fa-toolbox": {
+    "appearanceId": "rectangular tool box with a top handle and hinged lid",
+    "functionalityId": "open a set of tools or utility options",
+    "intentId": "access developer or maintenance tools"
+  },
+  "fa-tornado": {
+    "appearanceId": "funnel-shaped spiraling vortex",
+    "functionalityId": "display tornado or severe storm warning",
+    "intentId": "warn about or check tornado weather conditions"
+  },
+  "fa-tractor": {
+    "appearanceId": "side-view farm tractor with large rear wheel and small front wheel",
+    "functionalityId": "browse farming or agricultural equipment",
+    "intentId": "select or manage farm vehicle or field work"
+  },
+  "fa-train": {
+    "appearanceId": "side-view train locomotive with wheels, cab window, and front bumper",
+    "functionalityId": "browse train routes or rail transit options",
+    "intentId": "find or book a train journey"
+  },
+  "fa-train-track": {
+    "appearanceId": "two parallel horizontal rails connected by evenly spaced crossties",
+    "functionalityId": "view or manage a rail track or route segment",
+    "intentId": "navigate or plan a rail infrastructure path"
+  }
+}

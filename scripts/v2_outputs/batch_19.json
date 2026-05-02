@@ -1,0 +1,242 @@
+{
+  "fa-cog": {
+    "appearanceId": "single gear wheel with teeth around the circumference and a circular center hole; toothed wheel shape with evenly spaced radial notches and a hollow core",
+    "functionalityId": "opens application settings or configuration panel; adjusts system or feature preferences",
+    "intentId": "configure or customize how the application behaves; access settings to change a feature"
+  },
+  "fa-cogs": {
+    "appearanceId": "two interlocking gear wheels of different sizes with teeth meshing together; overlapping toothed cogs arranged side by side with offset notches",
+    "functionalityId": "opens advanced system configuration or multi-component settings; manages interconnected processes or automation rules",
+    "intentId": "configure complex system interactions or workflow automation; adjust multiple linked settings at once"
+  },
+  "fa-coin": {
+    "appearanceId": "circular disc shape representing a coin with a raised rim and a centered design element; flat round token outline with an embossed or lined interior",
+    "functionalityId": "displays a currency amount or token balance; triggers a payment or in-app currency transaction",
+    "intentId": "view or spend a coin or token balance; make a purchase or exchange using in-app currency"
+  },
+  "fa-coin-blank": {
+    "appearanceId": "plain circular disc with a raised outer rim and no interior design elements; smooth flat round token shape with an empty center surface",
+    "functionalityId": "represents an unassigned or placeholder currency token; inserts a blank coin entry into a currency or reward system",
+    "intentId": "add a custom or undefined coin type to a list; create a placeholder for a new currency item"
+  },
+  "fa-coin-front": {
+    "appearanceId": "circular coin shape viewed face-on with a portrait profile or center motif and a beaded or ridged rim; round disc showing a frontal embossed figure within a detailed border",
+    "functionalityId": "displays the face value or front side of a coin denomination; toggles to the obverse view of a coin in a catalog or collection",
+    "intentId": "inspect the front face of a coin in a collection or catalog; view denomination details of a specific coin"
+  },
+  "fa-coin-vertical": {
+    "appearanceId": "coin disc shown edge-on or tilted at an angle revealing its thickness as a narrow elliptical shape; round coin viewed from the side showing a thin vertical profile",
+    "functionalityId": "represents a coin standing upright or displayed in edge view; toggles an isometric or tilted coin orientation in a UI",
+    "intentId": "view the edge or thickness of a coin in a display; show a coin from an alternate three-dimensional perspective"
+  },
+  "fa-coins": {
+    "appearanceId": "stacked pile of multiple circular coin discs overlapping or layered on top of each other; group of round tokens arranged in a cluster or column",
+    "functionalityId": "displays a total currency balance or coin count; navigates to a wallet, earnings, or financial summary screen",
+    "intentId": "check total coin or currency balance; access financial or reward summary information"
+  },
+  "fa-colon": {
+    "appearanceId": "two vertically aligned small dots or circles stacked one above the other; a pair of filled circular points arranged in a vertical column",
+    "functionalityId": "inserts a colon punctuation character into a text field; marks a separator between label and value in a form",
+    "intentId": "add a colon separator in typed content; format text with a label-value delimiter"
+  },
+  "fa-colon-sign": {
+    "appearanceId": "currency symbol consisting of a letter C or curved glyph with one or two vertical lines crossing through it; stylized colon monetary sign with a vertical stroke overlay",
+    "functionalityId": "inserts or displays the Costa Rican colon currency symbol; labels a price or financial value in colones",
+    "intentId": "show a monetary value in Costa Rican colones; format a currency field with the colon sign"
+  },
+  "fa-columns": {
+    "appearanceId": "two vertical rectangular panels placed side by side with a narrow gap between them; dual-column layout with equal-width vertical blocks",
+    "functionalityId": "toggles a two-column layout for a content area; splits the view into parallel vertical sections",
+    "intentId": "arrange content into a two-column display; compare two sections of information side by side"
+  },
+  "fa-columns-3": {
+    "appearanceId": "three vertical rectangular panels arranged side by side with equal spacing; triple-column layout with three parallel vertical blocks",
+    "functionalityId": "toggles a three-column grid layout for a page or panel; splits content into three parallel vertical sections",
+    "intentId": "organize content into a three-column display; view multiple content streams in a grid arrangement"
+  },
+  "fa-comet": {
+    "appearanceId": "elongated streak shape with a rounded head tapering into a long trailing tail pointing diagonally; meteor or shooting-star silhouette with a glowing nucleus and a fanning wake",
+    "functionalityId": "represents a fast-moving or transient notification or event; triggers an animation or highlights a rapidly changing item",
+    "intentId": "draw attention to a fast-moving or high-priority event; mark an item as trending or rapidly updated"
+  },
+  "fa-comma": {
+    "appearanceId": "small curved glyph with a short tail curling downward below a rounded body; typographic comma mark with a teardrop head and a downward hook",
+    "functionalityId": "inserts a comma punctuation character into a text field; separates list items or decimal values in a formatted input",
+    "intentId": "add a comma separator in written content; format a list or numeric value with proper punctuation"
+  },
+  "fa-command": {
+    "appearanceId": "square outline with looped rounded corners forming four outward-curving loops at each corner; four-cornered rounded square frame with circular corner extensions",
+    "functionalityId": "represents a keyboard command shortcut or modifier key; triggers a command palette or keyboard shortcut overlay",
+    "intentId": "access keyboard command shortcuts or the command palette; execute a quick action via a keyboard modifier key"
+  },
+  "fa-comment": {
+    "appearanceId": "rounded rectangular speech bubble with a small triangular tail pointing downward from one bottom corner; chat bubble outline with a pointed callout at the lower left",
+    "functionalityId": "opens a comment thread or message input field; creates a new comment or annotation on an item",
+    "intentId": "leave a comment or message on a post or document; start a conversation thread on a selected item"
+  },
+  "fa-comment-arrow-down": {
+    "appearanceId": "speech bubble outline containing a downward-pointing arrow in its center; chat bubble shape with an interior chevron or arrow pointing toward the bottom",
+    "functionalityId": "scrolls down to a comment or loads earlier messages in a thread; downloads or exports a comment or message",
+    "intentId": "navigate to older comments or scroll through a message thread; retrieve or save a comment to a local destination"
+  },
+  "fa-comment-arrow-up": {
+    "appearanceId": "speech bubble outline containing an upward-pointing arrow in its center; chat bubble shape with an interior chevron or arrow pointing toward the top",
+    "functionalityId": "scrolls up to a newer comment or submits a reply upward in a thread; uploads or sends a message to a channel",
+    "intentId": "navigate to the top of a comment thread or submit a reply; send content or a message to an upstream destination"
+  },
+  "fa-comment-arrow-up-right": {
+    "appearanceId": "speech bubble outline containing a diagonal arrow pointing toward the upper-right corner; chat bubble shape with an interior arrow angled up and to the right",
+    "functionalityId": "shares or forwards a comment to an external destination; redirects a message or reply to another user or platform",
+    "intentId": "share a comment or message with someone outside the thread; forward a reply to a different channel or recipient"
+  },
+  "fa-comment-captions": {
+    "appearanceId": "speech bubble outline containing two or three short horizontal text lines representing captions; chat bubble shape with stacked narrow bars suggesting subtitle or caption text",
+    "functionalityId": "adds or toggles captions or subtitles within a comment or media element; enables transcription display inside a message bubble",
+    "intentId": "view or add captions to a comment or media post; enable subtitle or accessibility text within a message"
+  },
+  "fa-comment-check": {
+    "appearanceId": "speech bubble outline containing a checkmark or tick mark inside; chat bubble shape with an interior V-shaped check symbol",
+    "functionalityId": "marks a comment as resolved or approved; confirms that a message or feedback item has been addressed",
+    "intentId": "indicate that a comment or issue has been resolved; confirm acknowledgment of a message or feedback"
+  },
+  "fa-comment-code": {
+    "appearanceId": "speech bubble outline containing angled less-than and greater-than bracket symbols representing code; chat bubble shape with interior left and right chevron brackets",
+    "functionalityId": "inserts a code snippet into a comment or opens a code-focused chat view; displays inline code within a message thread",
+    "intentId": "share or view a code snippet within a comment; communicate technical content in a code-formatted message"
+  },
+  "fa-comment-dollar": {
+    "appearanceId": "speech bubble outline with a dollar sign or currency symbol centered inside; chat bubble shape containing a vertical S-stroke with one or two horizontal bars",
+    "functionalityId": "opens a payment, billing, or financial chat thread; sends a monetary request or payment note in a message",
+    "intentId": "discuss pricing or payment details within a conversation; send or request a payment through a messaging interface"
+  },
+  "fa-comment-exclamation": {
+    "appearanceId": "speech bubble outline containing an exclamation mark with a vertical bar and a dot below; chat bubble shape with an interior alert or warning symbol",
+    "functionalityId": "flags a comment as urgent or alerts the user to an important message; marks a conversation as requiring immediate attention",
+    "intentId": "highlight an urgent or critical comment in a thread; notify others of an important message that needs action"
+  },
+  "fa-comment-heart": {
+    "appearanceId": "speech bubble outline containing a heart shape at its center; chat bubble with an interior double-lobed cardiac symbol",
+    "functionalityId": "likes or reacts to a comment with a heart or love reaction; sends a supportive or affectionate message",
+    "intentId": "express appreciation or affection toward a comment; react positively to a message or post"
+  },
+  "fa-comment-image": {
+    "appearanceId": "speech bubble outline containing a small landscape or photo thumbnail with a mountain and sun shape; chat bubble with an interior mini image or picture placeholder",
+    "functionalityId": "attaches or displays an image within a comment or message; opens a media viewer for a photo shared in a chat",
+    "intentId": "share or view an image inside a comment thread; send a photo or visual media through a messaging interface"
+  },
+  "fa-comment-lines": {
+    "appearanceId": "speech bubble outline containing two or three horizontal lines representing text content; chat bubble shape with stacked interior bars suggesting lines of written text",
+    "functionalityId": "opens a detailed text comment or multiline note; displays the full body of a message or annotation",
+    "intentId": "read or write a detailed multiline comment; view the full text content of a message"
+  },
+  "fa-comment-medical": {
+    "appearanceId": "speech bubble outline containing a medical cross or plus symbol at its center; chat bubble shape with an interior cross formed by a vertical and horizontal bar",
+    "functionalityId": "opens a medical consultation chat or health-related message thread; sends a clinical note or healthcare communication",
+    "intentId": "access medical advice or healthcare communication in a chat; start or view a health-related conversation thread"
+  },
+  "fa-comment-middle": {
+    "appearanceId": "speech bubble outline with the tail or pointer positioned at the center of the bottom edge rather than at a corner; symmetrically centered callout bubble pointing straight down",
+    "functionalityId": "displays a tooltip or contextual comment anchored to the middle of an element; positions a message callout at a central reference point",
+    "intentId": "show a centered tooltip or comment relative to a UI element; attach a note that points to the middle of a target"
+  },
+  "fa-comment-middle-top": {
+    "appearanceId": "speech bubble outline with the callout tail emerging from the center of the top edge pointing upward; rounded rectangular bubble with a centered upward-pointing triangular notch at the top",
+    "functionalityId": "displays a tooltip or annotation anchored above and centered over a UI element; positions a callout pointing upward from a midpoint",
+    "intentId": "show a centered tooltip appearing above a target element; attach an upward-pointing comment to a reference point"
+  },
+  "fa-comment-minus": {
+    "appearanceId": "speech bubble outline containing a horizontal minus or dash symbol at its center; chat bubble shape with an interior single horizontal bar",
+    "functionalityId": "removes a comment or reduces the reply count; hides or collapses a message within a thread",
+    "intentId": "delete or suppress a comment in a discussion; reduce or hide a message from a thread"
+  },
+  "fa-comment-music": {
+    "appearanceId": "speech bubble outline containing a musical note or eighth-note symbol inside; chat bubble shape with an interior single stemmed note or double-note glyph",
+    "functionalityId": "shares a music track or audio clip within a message; opens a music-related conversation or playlist chat",
+    "intentId": "send or discuss music content within a chat thread; share a song or audio recommendation through messaging"
+  },
+  "fa-comment-nodes": {
+    "appearanceId": "speech bubble outline containing two or more small circles connected by lines representing a network node diagram; chat bubble with an interior dot-and-line graph structure",
+    "functionalityId": "opens a comment thread related to a node-based workflow or graph structure; links a message to a specific node or connection point",
+    "intentId": "discuss or annotate a node in a workflow diagram; communicate about a specific connection in a graph or network"
+  },
+  "fa-comment-pen": {
+    "appearanceId": "speech bubble outline with a small pen or pencil shape overlaid at one corner; chat bubble combined with a diagonal writing instrument symbol",
+    "functionalityId": "edits an existing comment or opens a comment for text modification; activates an inline writing or annotation mode",
+    "intentId": "modify or revise a posted comment; annotate or write a note directly within a message"
+  },
+  "fa-comment-plus": {
+    "appearanceId": "speech bubble outline containing a plus or cross symbol at its center; chat bubble shape with an interior crosshair formed by a vertical and horizontal bar",
+    "functionalityId": "adds a new comment or reply to a thread; creates an additional annotation on a document or post",
+    "intentId": "post a new comment or start a reply in a conversation; add an annotation to a shared document"
+  },
+  "fa-comment-question": {
+    "appearanceId": "speech bubble outline containing a question mark with a curved top and a dot below; chat bubble shape with an interior query or inquiry symbol",
+    "functionalityId": "opens a help or FAQ chat thread; marks a comment as a question requiring an answer",
+    "intentId": "ask a question or seek clarification in a conversation; flag a message as an open inquiry needing a response"
+  },
+  "fa-comment-quote": {
+    "appearanceId": "speech bubble outline containing a pair of small curved quotation marks or typographic guillemets; chat bubble shape with two interior curled comma-like quote symbols",
+    "functionalityId": "inserts a quoted reply or block quote into a comment; marks a message as a quotation from another source",
+    "intentId": "cite or quote another message within a reply; attribute a statement to its original source in a discussion"
+  },
+  "fa-comment-slash": {
+    "appearanceId": "speech bubble outline with a diagonal slash line crossing through it; chat bubble shape overlaid with a forward-diagonal bar indicating negation",
+    "functionalityId": "mutes or disables comments on a post or item; turns off a message notification or blocks a chat thread",
+    "intentId": "silence or disable comments for a post or item; prevent further messages from appearing in a thread"
+  },
+  "fa-comment-smile": {
+    "appearanceId": "speech bubble outline containing a simple smiley face with two dot eyes and a curved upward mouth; chat bubble shape with an interior circular emoticon expression",
+    "functionalityId": "adds an emoji or emoticon reaction to a comment; opens an emoji picker within a message input",
+    "intentId": "express positive emotion or add a fun reaction to a message; insert an emoji into a chat or comment"
+  },
+  "fa-comment-text": {
+    "appearanceId": "speech bubble outline containing two or three short horizontal lines representing written words; chat bubble shape with interior stacked text-line bars",
+    "functionalityId": "opens or displays a text-based comment or message; shows the written content inside a comment thread",
+    "intentId": "read or compose a text comment in a discussion; view the written body of a message or annotation"
+  },
+  "fa-comment-times": {
+    "appearanceId": "speech bubble outline containing an X or times symbol at its center; chat bubble shape with two crossed diagonal bars forming an interior delete mark",
+    "functionalityId": "deletes or dismisses a comment or message; closes or removes a chat thread from view",
+    "intentId": "remove or discard a comment from a discussion; close a chat window or delete a posted message"
+  },
+  "fa-commenting": {
+    "appearanceId": "rounded speech bubble with horizontal text lines inside and a tail at the bottom corner, often rendered with emphasis marks suggesting active typing; chat bubble combined with interior text rows indicating live conversation",
+    "functionalityId": "indicates active commenting or triggers a live comment feed; opens a real-time discussion or annotation panel",
+    "intentId": "participate in an active discussion or comment thread; engage with a live conversation on a post or document"
+  },
+  "fa-comments": {
+    "appearanceId": "two overlapping speech bubbles of different sizes stacked or offset behind each other; a larger foreground chat bubble and a smaller background bubble indicating a conversation",
+    "functionalityId": "opens a group conversation or multi-user chat thread; navigates to a comments section with multiple replies",
+    "intentId": "view or participate in a multi-person discussion; access a comment section with multiple replies"
+  },
+  "fa-comments-dollar": {
+    "appearanceId": "two overlapping speech bubbles with a dollar sign visible inside the foreground bubble; dual chat bubble arrangement containing a currency S-stroke symbol",
+    "functionalityId": "opens a financial discussion thread or money-related chat; sends or reviews payment-linked messages",
+    "intentId": "discuss pricing, billing, or financial matters in a group conversation; access a money-related messaging thread"
+  },
+  "fa-comments-question": {
+    "appearanceId": "two overlapping speech bubbles with a question mark visible inside the foreground bubble; dual chat bubble arrangement containing a query symbol with a curved top and dot",
+    "functionalityId": "opens a Q&A or help discussion thread; marks a multi-person chat as containing an open question",
+    "intentId": "ask a question in a group chat or discussion forum; access a help or FAQ conversation thread"
+  },
+  "fa-comments-question-check": {
+    "appearanceId": "two overlapping speech bubbles with a question mark and a checkmark visible together inside the foreground bubble; dual chat bubble arrangement containing both a query glyph and a tick symbol",
+    "functionalityId": "marks a group discussion question as answered or resolved; confirms that an inquiry in a multi-person thread has been addressed",
+    "intentId": "indicate that a group question has been answered; close or resolve an open inquiry in a discussion thread"
+  },
+  "fa-compact-disc": {
+    "appearanceId": "flat circular disc with a small center hole and concentric ring lines radiating outward; round CD or DVD shape with a reflective ring pattern and a centered spindle hole",
+    "functionalityId": "represents optical media or a music album; opens a disc-based media player or audio album view",
+    "intentId": "access or play music from a CD or disc-based album; browse optical media content in a player"
+  },
+  "fa-compass": {
+    "appearanceId": "circular dial with cardinal direction markers and a rotating needle or pointer bisecting the circle; round compass rose with N-S-E-W labels and a central directional arrow",
+    "functionalityId": "opens a map, navigation, or location-finding feature; orients the user within a directional or geographic interface",
+    "intentId": "navigate to a destination or find current orientation; explore a map or directional feature"
+  },
+  "fa-compass-drafting": {
+    "appearanceId": "drafting compass tool with two pointed legs joined at a pivot hinge at the top, used for drawing circles; V-shaped mechanical drawing instrument with a pointed stylus and a pivot joint",
+    "functionalityId": "activates a circle-drawing or precision geometry tool; opens a drafting or CAD measurement feature",
+    "intentId": "draw a precise circle or arc in a design tool; use a geometric drafting feature for technical illustration"
+  }
+}

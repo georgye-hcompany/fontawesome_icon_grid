@@ -1,0 +1,242 @@
+{
+  "fa-circle-arrow-up-right": {
+    "appearanceId": "circle with a diagonal arrow pointing up and to the right inside",
+    "functionalityId": "open or navigate up-right",
+    "intentId": "go to an external or upper-right destination"
+  },
+  "fa-circle-bolt": {
+    "appearanceId": "circle containing a lightning bolt",
+    "functionalityId": "trigger a quick or powerful action",
+    "intentId": "activate something fast or energetic"
+  },
+  "fa-circle-dashed": {
+    "appearanceId": "circle outline made of dashed segments",
+    "functionalityId": "mark an incomplete or pending item",
+    "intentId": "indicate something is in progress or unfinished"
+  },
+  "fa-circle-divide": {
+    "appearanceId": "circle containing a division sign with dot above and below a horizontal bar",
+    "functionalityId": "divide or split a value",
+    "intentId": "perform or apply a division operation"
+  },
+  "fa-circle-dot": {
+    "appearanceId": "circle with a smaller dot in center",
+    "functionalityId": "select a radio button option",
+    "intentId": "choose a single option from a set"
+  },
+  "fa-circle-down": {
+    "appearanceId": "circle with a downward-pointing arrow inside",
+    "functionalityId": "download or scroll content down",
+    "intentId": "move or retrieve content going downward"
+  },
+  "fa-circle-down-left": {
+    "appearanceId": "circle with a diagonal arrow pointing down and to the left inside",
+    "functionalityId": "navigate or move content down-left",
+    "intentId": "direct action toward lower-left position"
+  },
+  "fa-circle-down-right": {
+    "appearanceId": "circle with a diagonal arrow pointing down and to the right inside",
+    "functionalityId": "navigate or move content down-right",
+    "intentId": "direct action toward lower-right position"
+  },
+  "fa-circle-ellipsis": {
+    "appearanceId": "circle containing three horizontal dots in a row",
+    "functionalityId": "open additional options or overflow menu",
+    "intentId": "access more actions not currently visible"
+  },
+  "fa-circle-ellipsis-vertical": {
+    "appearanceId": "circle containing three vertical dots stacked in a column",
+    "functionalityId": "open vertical overflow or options menu",
+    "intentId": "access more actions in a vertical list"
+  },
+  "fa-circle-envelope": {
+    "appearanceId": "circle containing an envelope shape with flap at top",
+    "functionalityId": "compose or open an email message",
+    "intentId": "send or view an email"
+  },
+  "fa-circle-euro": {
+    "appearanceId": "circle containing a euro currency symbol",
+    "functionalityId": "view or select euro currency",
+    "intentId": "indicate or apply euro-denominated pricing"
+  },
+  "fa-circle-exclamation": {
+    "appearanceId": "circle with exclamation mark inside",
+    "functionalityId": "show an alert or warning message",
+    "intentId": "draw attention to an important issue"
+  },
+  "fa-circle-exclamation-check": {
+    "appearanceId": "circle with an exclamation mark and a small checkmark combined inside",
+    "functionalityId": "confirm a warning has been acknowledged",
+    "intentId": "mark an alert as reviewed and resolved"
+  },
+  "fa-circle-f": {
+    "appearanceId": "circle containing uppercase letter F",
+    "functionalityId": "filter or label with letter F",
+    "intentId": "access or mark an F-categorized item"
+  },
+  "fa-circle-g": {
+    "appearanceId": "circle containing uppercase letter G",
+    "functionalityId": "filter or label with letter G",
+    "intentId": "access or mark a G-categorized item"
+  },
+  "fa-circle-gf": {
+    "appearanceId": "circle containing the letters G and F together",
+    "functionalityId": "label or represent a GF category",
+    "intentId": "identify or access a GF-tagged item"
+  },
+  "fa-circle-h": {
+    "appearanceId": "circle containing uppercase letter H",
+    "functionalityId": "navigate to a hospital or help section",
+    "intentId": "access healthcare or help resources"
+  },
+  "fa-circle-half": {
+    "appearanceId": "circle half filled, half empty",
+    "functionalityId": "toggle or indicate a half state",
+    "intentId": "represent a partial or 50% condition"
+  },
+  "fa-circle-heart": {
+    "appearanceId": "circle containing a heart shape",
+    "functionalityId": "like or favorite an item",
+    "intentId": "express love or add to favorites"
+  },
+  "fa-circle-i": {
+    "appearanceId": "circle containing uppercase letter I",
+    "functionalityId": "filter or label with letter I",
+    "intentId": "access or mark an I-categorized item"
+  },
+  "fa-circle-info": {
+    "appearanceId": "circle with lowercase letter i inside",
+    "functionalityId": "open an informational tooltip or panel",
+    "intentId": "learn more about an item or feature"
+  },
+  "fa-circle-j": {
+    "appearanceId": "circle containing uppercase letter J",
+    "functionalityId": "filter or label with letter J",
+    "intentId": "access or mark a J-categorized item"
+  },
+  "fa-circle-k": {
+    "appearanceId": "circle containing uppercase letter K",
+    "functionalityId": "filter or label with letter K",
+    "intentId": "access or mark a K-categorized item"
+  },
+  "fa-circle-l": {
+    "appearanceId": "circle containing uppercase letter L",
+    "functionalityId": "filter or label with letter L",
+    "intentId": "access or mark an L-categorized item"
+  },
+  "fa-circle-left": {
+    "appearanceId": "circle with a leftward-pointing arrow inside",
+    "functionalityId": "navigate or move content leftward",
+    "intentId": "go back or shift focus to the left"
+  },
+  "fa-circle-m": {
+    "appearanceId": "circle containing uppercase letter M",
+    "functionalityId": "filter or label with letter M",
+    "intentId": "access or mark an M-categorized item"
+  },
+  "fa-circle-microphone": {
+    "appearanceId": "circle containing a microphone shape",
+    "functionalityId": "start or manage audio recording",
+    "intentId": "record voice or enable microphone input"
+  },
+  "fa-circle-minus": {
+    "appearanceId": "circle with a horizontal minus bar inside",
+    "functionalityId": "remove or decrease a value",
+    "intentId": "delete an item or reduce a count"
+  },
+  "fa-circle-n": {
+    "appearanceId": "circle containing uppercase letter N",
+    "functionalityId": "filter or label with letter N",
+    "intentId": "access or mark an N-categorized item"
+  },
+  "fa-circle-nodes": {
+    "appearanceId": "circle with three dots connected by lines",
+    "functionalityId": "view or manage a network of nodes",
+    "intentId": "explore connected elements or a graph"
+  },
+  "fa-circle-notch": {
+    "appearanceId": "circle outline with a small gap segment",
+    "functionalityId": "indicate loading or processing state",
+    "intentId": "show that a task is in progress"
+  },
+  "fa-circle-o": {
+    "appearanceId": "circle containing uppercase letter O",
+    "functionalityId": "filter or label with letter O",
+    "intentId": "access or mark an O-categorized item"
+  },
+  "fa-circle-p": {
+    "appearanceId": "circle containing uppercase letter P",
+    "functionalityId": "filter or label with letter P",
+    "intentId": "access or mark a P-categorized item"
+  },
+  "fa-circle-parking": {
+    "appearanceId": "circle containing letter P",
+    "functionalityId": "find or mark a parking location",
+    "intentId": "navigate to or indicate a parking area"
+  },
+  "fa-circle-pause": {
+    "appearanceId": "circle with two vertical bars inside",
+    "functionalityId": "pause current playback or process",
+    "intentId": "temporarily stop audio or video playback"
+  },
+  "fa-circle-phone": {
+    "appearanceId": "circle containing a telephone handset shape",
+    "functionalityId": "initiate or access a phone call",
+    "intentId": "call a contact or open phone dialer"
+  },
+  "fa-circle-play": {
+    "appearanceId": "circle with right-pointing triangle inside",
+    "functionalityId": "start or resume media playback",
+    "intentId": "play audio or video content"
+  },
+  "fa-circle-plus": {
+    "appearanceId": "circle with plus sign inside",
+    "functionalityId": "add a new item or element",
+    "intentId": "create or insert something new"
+  },
+  "fa-circle-q": {
+    "appearanceId": "circle containing uppercase letter Q",
+    "functionalityId": "filter or label with letter Q",
+    "intentId": "access or mark a Q-categorized item"
+  },
+  "fa-circle-quarter": {
+    "appearanceId": "circle with one quarter segment filled",
+    "functionalityId": "indicate a 25% or quarter-filled state",
+    "intentId": "represent a one-quarter level or value"
+  },
+  "fa-circle-quarter-stroke": {
+    "appearanceId": "circle outline with one quarter arc segment stroked or highlighted",
+    "functionalityId": "indicate a quarter-progress or partial state",
+    "intentId": "show 25% completion or a quarter segment"
+  },
+  "fa-circle-quarters": {
+    "appearanceId": "circle divided into four equal quarter segments",
+    "functionalityId": "view or divide content into four parts",
+    "intentId": "split or categorize into four equal sections"
+  },
+  "fa-circle-question": {
+    "appearanceId": "circle with question mark inside",
+    "functionalityId": "open help or support documentation",
+    "intentId": "get assistance or clarify an unknown"
+  },
+  "fa-circle-r": {
+    "appearanceId": "circle containing uppercase letter R",
+    "functionalityId": "filter or label with letter R",
+    "intentId": "access or mark an R-categorized item"
+  },
+  "fa-circle-right": {
+    "appearanceId": "circle with a rightward-pointing arrow inside",
+    "functionalityId": "navigate or move content rightward",
+    "intentId": "advance forward or shift focus to the right"
+  },
+  "fa-circle-s": {
+    "appearanceId": "circle containing uppercase letter S",
+    "functionalityId": "filter or label with letter S",
+    "intentId": "access or mark an S-categorized item"
+  },
+  "fa-circle-small": {
+    "appearanceId": "small solid filled circle",
+    "functionalityId": "mark a point or bullet indicator",
+    "intentId": "highlight or denote a specific position"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-cloud-rainbow": {
+    "appearanceId": "cloud shape with a rainbow arc above it",
+    "functionalityId": "indicate post-storm or rainbow conditions",
+    "intentId": "show clearing weather after rain"
+  },
+  "fa-cloud-showers": {
+    "appearanceId": "cloud shape with a few downward rain drop lines below",
+    "functionalityId": "display light rain or shower forecast",
+    "intentId": "check current light rain conditions"
+  },
+  "fa-cloud-showers-heavy": {
+    "appearanceId": "cloud shape with many dense downward rain lines below",
+    "functionalityId": "display heavy rain or downpour forecast",
+    "intentId": "check severe or heavy rainfall conditions"
+  },
+  "fa-cloud-showers-water": {
+    "appearanceId": "cloud shape with downward rain lines ending in water droplets below",
+    "functionalityId": "display rain accumulation or water forecast",
+    "intentId": "check rainfall and water-level conditions"
+  },
+  "fa-cloud-slash": {
+    "appearanceId": "cloud shape with a diagonal slash line through it",
+    "functionalityId": "disable or disconnect cloud service",
+    "intentId": "turn off or indicate unavailable cloud access"
+  },
+  "fa-cloud-sleet": {
+    "appearanceId": "cloud shape with alternating rain and snowflake elements below",
+    "functionalityId": "display sleet or mixed precipitation forecast",
+    "intentId": "check mixed rain and snow weather conditions"
+  },
+  "fa-cloud-snow": {
+    "appearanceId": "cloud shape with snowflake pattern below",
+    "functionalityId": "display snowfall or winter weather forecast",
+    "intentId": "check snow or winter storm conditions"
+  },
+  "fa-cloud-sun": {
+    "appearanceId": "cloud shape with sun partially behind it",
+    "functionalityId": "display partly cloudy weather forecast",
+    "intentId": "check partly sunny weather conditions"
+  },
+  "fa-cloud-sun-rain": {
+    "appearanceId": "cloud with sun partially behind it and rain drop lines below",
+    "functionalityId": "display partly cloudy with rain forecast",
+    "intentId": "check mixed sun and rain weather conditions"
+  },
+  "fa-cloud-upload": {
+    "appearanceId": "cloud shape with an upward-pointing arrow inside or above it",
+    "functionalityId": "upload a file to cloud storage",
+    "intentId": "save or sync content to the cloud"
+  },
+  "fa-cloud-word": {
+    "appearanceId": "cloud shape containing small horizontal text lines or word marks",
+    "functionalityId": "open or view a cloud-based word document",
+    "intentId": "access a text document stored in the cloud"
+  },
+  "fa-cloud-xmark": {
+    "appearanceId": "cloud shape with an X mark inside it",
+    "functionalityId": "remove or cancel a cloud item",
+    "intentId": "delete or reject a cloud-stored file"
+  },
+  "fa-clouds-moon": {
+    "appearanceId": "two overlapping cloud shapes with a crescent moon partially visible behind",
+    "functionalityId": "display overcast nighttime weather forecast",
+    "intentId": "check cloudy nighttime weather conditions"
+  },
+  "fa-clouds-sun": {
+    "appearanceId": "two overlapping cloud shapes with a sun partially behind them",
+    "functionalityId": "display partly cloudy daytime forecast",
+    "intentId": "check mixed clouds and sun weather conditions"
+  },
+  "fa-code": {
+    "appearanceId": "left and right angle bracket chevrons with a forward slash between them",
+    "functionalityId": "view or edit source code",
+    "intentId": "access or toggle a code view"
+  },
+  "fa-coffee": {
+    "appearanceId": "filled cup or mug with steam lines rising above it",
+    "functionalityId": "indicate a break or coffee-related action",
+    "intentId": "take a break or access a cafe feature"
+  },
+  "fa-coffee-bean": {
+    "appearanceId": "oval bean shape with a central crease line",
+    "functionalityId": "represent or select a coffee bean item",
+    "intentId": "browse or identify a coffee ingredient"
+  },
+  "fa-coffee-beans": {
+    "appearanceId": "two oval bean shapes with central crease lines, slightly overlapping",
+    "functionalityId": "represent or browse coffee bean options",
+    "intentId": "view or select coffee ingredients"
+  },
+  "fa-coffee-pot": {
+    "appearanceId": "tall pot body with a spout, handle, and lid on top",
+    "functionalityId": "represent or access a coffee brewing function",
+    "intentId": "browse coffee-making or kitchen appliance options"
+  },
+  "fa-comment": {
+    "appearanceId": "rounded rectangular speech bubble with pointer tail at bottom-left",
+    "functionalityId": "open or write a comment",
+    "intentId": "add or view a comment on an item"
+  },
+  "fa-comment-arrow-down": {
+    "appearanceId": "rounded rectangular speech bubble with a downward arrow inside",
+    "functionalityId": "scroll down or download a comment thread",
+    "intentId": "view comments below or load more replies"
+  },
+  "fa-comment-arrow-up": {
+    "appearanceId": "rounded rectangular speech bubble with an upward arrow inside",
+    "functionalityId": "scroll up or submit a comment",
+    "intentId": "post or navigate upward in a comment thread"
+  },
+  "fa-comment-arrow-up-right": {
+    "appearanceId": "rounded rectangular speech bubble with a diagonal arrow pointing up-right inside",
+    "functionalityId": "share or forward a comment externally",
+    "intentId": "send a comment to an external destination"
+  },
+  "fa-comments": {
+    "appearanceId": "two overlapping rounded rectangular speech bubbles with pointer tails",
+    "functionalityId": "open a conversation or chat thread",
+    "intentId": "view or start a multi-person discussion"
+  },
+  "fa-compass": {
+    "appearanceId": "circular compass rose with N/S/E/W markers and needle",
+    "functionalityId": "open navigation or map orientation",
+    "intentId": "find direction or navigate to a location"
+  },
+  "fa-compass-drafting": {
+    "appearanceId": "drafting compass with two pointed legs forming a V shape",
+    "functionalityId": "access drawing or precision design tools",
+    "intentId": "use drafting or technical design features"
+  },
+  "fa-compass-slash": {
+    "appearanceId": "circular compass rose with a diagonal slash line through it",
+    "functionalityId": "disable or turn off navigation",
+    "intentId": "indicate navigation is unavailable or blocked"
+  },
+  "fa-compress": {
+    "appearanceId": "four inward-pointing corner arrows converging toward center",
+    "functionalityId": "collapse or minimize a view",
+    "intentId": "exit fullscreen or reduce content to smaller size"
+  },
+  "fa-cookie": {
+    "appearanceId": "round circle shape with multiple small dot chips scattered across it",
+    "functionalityId": "manage or accept browser cookies",
+    "intentId": "view or configure cookie consent settings"
+  },
+  "fa-cookie-bite": {
+    "appearanceId": "round circle shape with dot chips and a curved bite chunk missing from edge",
+    "functionalityId": "manage cookies or indicate a consumed item",
+    "intentId": "review cookie usage or a partially consumed treat"
+  },
+  "fa-copy": {
+    "appearanceId": "two overlapping document pages",
+    "functionalityId": "copy selected content to clipboard",
+    "intentId": "duplicate text, a file, or an element"
+  },
+  "fa-corn": {
+    "appearanceId": "elongated ear of corn with husk leaves at bottom and kernel rows along the body",
+    "functionalityId": "represent or select a corn food item",
+    "intentId": "browse or label a corn-related ingredient"
+  },
+  "fa-cow": {
+    "appearanceId": "side-profile cow silhouette with body, legs, head, horns, and udder",
+    "functionalityId": "represent livestock or dairy category",
+    "intentId": "browse farm animals or dairy-related content"
+  },
+  "fa-credit-card": {
+    "appearanceId": "horizontal rectangular card with a stripe or chip and horizontal lines on lower half",
+    "functionalityId": "enter or manage payment card details",
+    "intentId": "pay for something using a credit or debit card"
+  },
+  "fa-croissant": {
+    "appearanceId": "curved crescent-shaped pastry with pointed ends and layered texture",
+    "functionalityId": "represent or select a pastry or bakery item",
+    "intentId": "browse breakfast or bakery food options"
+  },
+  "fa-crop": {
+    "appearanceId": "two L-shaped corner brackets forming a crop frame",
+    "functionalityId": "crop or trim an image or canvas",
+    "intentId": "adjust the boundaries of an image or media"
+  },
+  "fa-crosshairs": {
+    "appearanceId": "circle with cross lines through center, targeting reticle",
+    "functionalityId": "target or pinpoint a location or element",
+    "intentId": "aim at or precisely select a specific point"
+  },
+  "fa-crow": {
+    "appearanceId": "side-profile bird silhouette with wings, tail, beak, and perched feet",
+    "functionalityId": "represent a crow or bird category",
+    "intentId": "identify or tag bird-related content"
+  },
+  "fa-d": {
+    "appearanceId": "uppercase letter D",
+    "functionalityId": "label or filter with letter D",
+    "intentId": "access or mark a D-categorized item"
+  },
+  "fa-database": {
+    "appearanceId": "stacked horizontal cylinders representing data storage",
+    "functionalityId": "view or manage a database",
+    "intentId": "access stored data or database settings"
+  },
+  "fa-desktop": {
+    "appearanceId": "wide rectangular monitor screen on a short stand with a base",
+    "functionalityId": "view or manage a desktop application",
+    "intentId": "access desktop or computer display settings"
+  },
+  "fa-desktop-arrow-down": {
+    "appearanceId": "wide rectangular monitor screen with a downward arrow overlaid or inside",
+    "functionalityId": "download content to a desktop device",
+    "intentId": "save or sync content to the local computer"
+  },
+  "fa-diagram-cells": {
+    "appearanceId": "grid of rectangular cells arranged in rows and columns",
+    "functionalityId": "view or edit a cell-based diagram or table",
+    "intentId": "organize or inspect data in a grid layout"
+  },
+  "fa-diagram-lean-canvas": {
+    "appearanceId": "rectangular canvas divided into multiple labeled smaller rectangular sections",
+    "functionalityId": "open or edit a lean canvas business diagram",
+    "intentId": "plan or review a business model structure"
+  },
+  "fa-diagram-nested": {
+    "appearanceId": "rectangles nested inside one another in concentric box arrangement",
+    "functionalityId": "view or edit a nested hierarchy diagram",
+    "intentId": "explore layered or nested structural relationships"
+  },
+  "fa-diagram-next": {
+    "appearanceId": "two boxes connected by a rightward arrow indicating sequence",
+    "functionalityId": "navigate to the next step in a diagram",
+    "intentId": "advance forward through a process or workflow"
+  },
+  "fa-diagram-predecessor": {
+    "appearanceId": "two boxes connected by a leftward arrow indicating prior dependency",
+    "functionalityId": "view the predecessor step in a diagram",
+    "intentId": "trace back to an earlier step or dependency"
+  },
+  "fa-diagram-previous": {
+    "appearanceId": "two boxes connected by a leftward arrow indicating sequence going back",
+    "functionalityId": "navigate to the previous step in a diagram",
+    "intentId": "go back to the prior step in a workflow"
+  }
+}

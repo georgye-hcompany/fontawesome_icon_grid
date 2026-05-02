@@ -1,0 +1,242 @@
+{
+  "fa-box-up": {
+    "appearanceId": "rectangular box with open top flaps folded upward on both sides; cardboard carton with outward-splayed lid panels",
+    "functionalityId": "uploads or sends a packaged item upward; expands or unpacks a boxed container",
+    "intentId": "ship or export a boxed item; open or unpack a package"
+  },
+  "fa-box-usd": {
+    "appearanceId": "rectangular box with a dollar sign overlaid or embedded on its face; cardboard carton with a currency symbol",
+    "functionalityId": "opens pricing or cost details for a packaged item; marks a box as containing monetary or purchase information",
+    "intentId": "view the price of a packaged product; manage financial details for a shipment"
+  },
+  "fa-boxes": {
+    "appearanceId": "two or more stacked rectangular box shapes grouped together; cluster of cardboard carton silhouettes",
+    "functionalityId": "navigates to an inventory or stock listing; opens a bulk items or warehouse management view",
+    "intentId": "manage multiple packages or inventory units; view a collection of stored goods"
+  },
+  "fa-boxes-packing": {
+    "appearanceId": "two rectangular boxes with a small human figure loading or placing items; stacked cartons beside a packing person silhouette",
+    "functionalityId": "initiates a packing or fulfillment workflow; opens order preparation or shipping queue",
+    "intentId": "prepare items for shipment or storage; start a packing or fulfillment process"
+  },
+  "fa-boxing-glove": {
+    "appearanceId": "large rounded padded glove with a cuffed wrist band; bulky mitten-shaped sports glove silhouette",
+    "functionalityId": "tags content as boxing or combat sport related; marks a fighting or training activity",
+    "intentId": "navigate to boxing or martial arts content; find fighting sports equipment or events"
+  },
+  "fa-bracket": {
+    "appearanceId": "single vertical left-facing square bracket; straight open-ended L-shaped punctuation mark pointing right",
+    "functionalityId": "inserts an opening square bracket character; wraps selected text in a left bracket",
+    "intentId": "begin a bracketed expression or code block; delimit the start of an array or annotation"
+  },
+  "fa-bracket-curly": {
+    "appearanceId": "single left-facing curly brace with a central knob; open curly bracket pointing rightward",
+    "functionalityId": "inserts an opening curly brace character; wraps selected content in a left curly bracket",
+    "intentId": "start a code block or object literal; open a curly-brace delimited expression"
+  },
+  "fa-bracket-curly-right": {
+    "appearanceId": "single right-facing curly brace with a central knob; closing curly bracket pointing leftward",
+    "functionalityId": "inserts a closing curly brace character; closes a curly-bracket-delimited expression",
+    "intentId": "end a code block or object literal; close a curly-brace delimited structure"
+  },
+  "fa-bracket-round-right": {
+    "appearanceId": "single right-facing curved parenthesis arc; closing round bracket pointing leftward",
+    "functionalityId": "inserts a closing parenthesis character; closes a round-bracket-delimited expression",
+    "intentId": "end a parenthetical expression or function call; close a grouped formula or annotation"
+  },
+  "fa-bracket-square-right": {
+    "appearanceId": "single right-facing square bracket; straight open-ended L-shape pointing leftward",
+    "functionalityId": "inserts a closing square bracket character; closes a square-bracket-delimited expression",
+    "intentId": "end an array, index, or bracketed annotation; close a square-bracket group"
+  },
+  "fa-brackets": {
+    "appearanceId": "matching pair of left and right square brackets flanking an empty space; two vertical L-shaped marks facing each other",
+    "functionalityId": "wraps selected text or code in square brackets; inserts a bracket pair around content",
+    "intentId": "enclose an expression, array, or annotation in square brackets; delimit a code element"
+  },
+  "fa-brackets-curly": {
+    "appearanceId": "matching pair of left and right curly braces flanking an empty space; two mirrored curly brackets facing each other",
+    "functionalityId": "wraps selected content in curly braces; inserts a curly-bracket pair around code or text",
+    "intentId": "enclose a code block, object, or template expression in curly braces; delimit a structured block"
+  },
+  "fa-braille": {
+    "appearanceId": "grid of raised dots arranged in two columns of three; six-dot tactile cell pattern",
+    "functionalityId": "toggles accessibility or braille output mode; opens braille or screen reader settings",
+    "intentId": "enable tactile or braille accessibility features; switch to an accessible reading format"
+  },
+  "fa-brain": {
+    "appearanceId": "rounded organ shape with convoluted folded ridges and a central vertical dividing line; wrinkled cerebral hemisphere pair",
+    "functionalityId": "opens AI, cognitive, or intelligence-related features; navigates to a machine learning or smart tool section",
+    "intentId": "access intelligent or AI-powered functionality; explore cognitive or knowledge-based tools"
+  },
+  "fa-brain-circuit": {
+    "appearanceId": "rounded brain shape overlaid with electronic circuit lines and nodes; cerebral silhouette combined with a PCB trace pattern",
+    "functionalityId": "opens an AI or neural network configuration panel; links to machine learning or smart automation settings",
+    "intentId": "configure or explore AI and neural processing features; access intelligent automation tools"
+  },
+  "fa-brake-warning": {
+    "appearanceId": "circular or exclamation-marked disc brake symbol with a warning indicator; brake pad outline with an alert badge",
+    "functionalityId": "triggers a brake system alert or vehicle warning notification; highlights a brake fault or maintenance requirement",
+    "intentId": "respond to a brake system warning; check or service a vehicle brake fault"
+  },
+  "fa-brazilian-real-sign": {
+    "appearanceId": "stylized letter R with two horizontal strike-through bars; currency glyph resembling a striped R",
+    "functionalityId": "inserts or displays the Brazilian real currency symbol; labels a monetary value in BRL",
+    "intentId": "indicate a price or amount in Brazilian reais; select BRL as the currency format"
+  },
+  "fa-bread-loaf": {
+    "appearanceId": "domed rectangular loaf shape with a scored top line; rounded elongated baked-bread silhouette",
+    "functionalityId": "navigates to a bakery or bread product category; marks a baked goods item or food listing",
+    "intentId": "find bread or bakery products; browse baked goods in a food catalog"
+  },
+  "fa-bread-slice": {
+    "appearanceId": "single trapezoidal or rounded square bread slice with a crust border; flat cut piece of loaf with an outer edge ring",
+    "functionalityId": "selects or marks a bread or toast item; opens a bakery or grain food category",
+    "intentId": "choose bread as a meal component; browse toast or sandwich ingredient options"
+  },
+  "fa-bread-slice-butter": {
+    "appearanceId": "square bread slice with a rectangular butter pat on top; toast shape with a small block overlay on its surface",
+    "functionalityId": "adds a butter topping or spread option to a food item; marks a toast-with-butter menu choice",
+    "intentId": "select buttered toast as a meal option; customize a bread order with a butter topping"
+  },
+  "fa-bridge": {
+    "appearanceId": "flat horizontal span supported by two vertical pillars or piers rising from below; simple beam bridge silhouette with support columns",
+    "functionalityId": "navigates to infrastructure or civil engineering content; marks a crossing point or route connection",
+    "intentId": "find a bridge or crossing location on a map; access infrastructure management or routing tools"
+  },
+  "fa-bridge-circle-check": {
+    "appearanceId": "beam bridge silhouette with a small circle containing a checkmark overlaid at the corner; bridge structure with a verified badge",
+    "functionalityId": "marks a bridge route as open, verified, or safe to use; confirms a crossing point is cleared",
+    "intentId": "confirm a bridge is operational and safe to cross; verify infrastructure status"
+  },
+  "fa-bridge-circle-exclamation": {
+    "appearanceId": "beam bridge silhouette with a small circle containing an exclamation mark at the corner; bridge structure with a warning badge",
+    "functionalityId": "alerts the user to a bridge hazard, closure, or issue; highlights an infrastructure warning",
+    "intentId": "investigate a bridge warning or hazard alert; check on a potentially compromised crossing"
+  },
+  "fa-bridge-circle-xmark": {
+    "appearanceId": "beam bridge silhouette with a small circle containing an X mark at the corner; bridge structure with a closed or rejected badge",
+    "functionalityId": "marks a bridge as closed, blocked, or unavailable; indicates a crossing route is impassable",
+    "intentId": "identify a bridge that is closed or unusable; reroute around an inaccessible crossing"
+  },
+  "fa-bridge-lock": {
+    "appearanceId": "beam bridge silhouette with a padlock shape overlaid or beside it; bridge structure combined with a lock symbol",
+    "functionalityId": "marks a bridge route as restricted or access-controlled; locks down a crossing point",
+    "intentId": "indicate a bridge with restricted or gated access; manage access control for a crossing"
+  },
+  "fa-bridge-suspension": {
+    "appearanceId": "two tall towers with cables drooping in a catenary curve to a horizontal deck; suspension bridge silhouette with hanging cable arcs",
+    "functionalityId": "navigates to suspension bridge information or a large-span infrastructure route; marks a major crossing point",
+    "intentId": "find or identify a suspension bridge on a map; access details about a large infrastructure crossing"
+  },
+  "fa-bridge-water": {
+    "appearanceId": "bridge arch or deck silhouette with wavy lines below representing water; spanning structure over horizontal wave shapes",
+    "functionalityId": "marks a bridge crossing over a body of water; navigates to waterway or river crossing information",
+    "intentId": "identify a bridge over water on a map; find a route that crosses a river or waterway"
+  },
+  "fa-briefcase": {
+    "appearanceId": "rectangular case with a central hinged handle on top and a horizontal clasp line; classic suitcase-style work bag profile",
+    "functionalityId": "opens a portfolio, work files, or job-related section; accesses professional documents or career features",
+    "intentId": "manage work files or professional documents; navigate to a career or business section"
+  },
+  "fa-briefcase-arrow-right": {
+    "appearanceId": "rectangular briefcase shape with a rightward-pointing arrow overlaid or beside it; work bag with a forward navigation symbol",
+    "functionalityId": "transfers or moves work files to another location; sends a briefcase or portfolio to a destination",
+    "intentId": "export or forward professional documents; move a work portfolio to a new location"
+  },
+  "fa-briefcase-blank": {
+    "appearanceId": "rectangular briefcase outline with a handle on top and no interior detail; plain empty work bag silhouette",
+    "functionalityId": "creates a new empty project or portfolio; opens a blank work container for new files",
+    "intentId": "start a new work folder or empty briefcase; create a blank professional workspace"
+  },
+  "fa-briefcase-medical": {
+    "appearanceId": "rectangular case with a top handle and a cross or plus symbol on the face; medical kit bag with a health cross emblem",
+    "functionalityId": "opens a medical kit, first-aid section, or health records panel; accesses clinical tools or patient files",
+    "intentId": "access medical supplies or health documentation; navigate to first-aid or clinical management features"
+  },
+  "fa-brightness": {
+    "appearanceId": "filled circle with evenly spaced rays radiating outward all around; solid sun shape with symmetric spoke lines",
+    "functionalityId": "adjusts the display brightness level; opens a screen luminance control slider",
+    "intentId": "increase or change the screen brightness; control display light output"
+  },
+  "fa-brightness-low": {
+    "appearanceId": "small circle with shorter or fewer radiating rays; diminished sun shape with stubby spoke lines",
+    "functionalityId": "sets or indicates a reduced brightness level; dims the display or lowers screen luminance",
+    "intentId": "lower the screen brightness for comfort or power saving; switch to a low-light display mode"
+  },
+  "fa-bring-forward": {
+    "appearanceId": "two overlapping rectangles where the front one is slightly offset and highlighted; stacked square shapes with the upper layer emphasized",
+    "functionalityId": "moves a selected layer or object one step forward in the stacking order; brings an element closer to the front",
+    "intentId": "place a design element in front of partially overlapping objects; adjust layer ordering forward by one step"
+  },
+  "fa-bring-front": {
+    "appearanceId": "two overlapping rectangles where the front rectangle is fully on top; stacked squares with the topmost layer fully covering others",
+    "functionalityId": "moves a selected element to the very front of the layer stack; places an object above all others",
+    "intentId": "ensure a design element is on top of all others; bring a layer to the absolute front"
+  },
+  "fa-broadcast-tower": {
+    "appearanceId": "tall triangular lattice tower with curved signal arc lines emanating from the top; antenna mast with radio wave arcs",
+    "functionalityId": "opens a live broadcast, streaming, or radio channel; manages a signal transmission or broadcasting feature",
+    "intentId": "start or tune into a live broadcast or radio stream; access signal transmission settings"
+  },
+  "fa-broccoli": {
+    "appearanceId": "rounded floret cluster on top of a thick stalk; vegetable silhouette with a bushy domed head and stem",
+    "functionalityId": "marks a vegetable or healthy food category; selects broccoli as a meal ingredient",
+    "intentId": "add broccoli to a recipe or food order; browse vegetables or healthy food options"
+  },
+  "fa-broom": {
+    "appearanceId": "long handle attached to a tapered wedge-shaped bristle head at the bottom; sweeping stick with a splayed brush end",
+    "functionalityId": "clears or purges selected data, cache, or items; sweeps away temporary files or notifications",
+    "intentId": "clean up or remove unwanted content; purge temporary data or reset a workspace"
+  },
+  "fa-broom-wide": {
+    "appearanceId": "long handle with a wider flat bristle head at the bottom; broad sweeping stick with an extended brush base",
+    "functionalityId": "performs a thorough or wide-area cleanup of data or content; clears a larger set of items or cache entries",
+    "intentId": "do a comprehensive cleanup of files or workspace; remove a broad range of unwanted items"
+  },
+  "fa-browser": {
+    "appearanceId": "rectangular frame with a horizontal address bar strip at the top and a blank content area below; web window outline with a toolbar header",
+    "functionalityId": "opens a web browser view or embedded web panel; navigates to a URL or web-based content",
+    "intentId": "visit a website or open a browser window; access web-based resources or pages"
+  },
+  "fa-browsers": {
+    "appearanceId": "two overlapping browser window rectangles each with a top address bar; stacked web window silhouettes",
+    "functionalityId": "manages or switches between multiple browser tabs or windows; opens a multi-window browsing view",
+    "intentId": "handle several open browser sessions at once; switch between multiple web pages"
+  },
+  "fa-brush": {
+    "appearanceId": "angled handle tapering to a pointed bristle tip; artist paintbrush with a ferrule and pointed head",
+    "functionalityId": "activates a paint or drawing brush tool; opens a stroke style or brush settings panel",
+    "intentId": "paint or draw freehand on a canvas; customize brush stroke appearance"
+  },
+  "fa-bucket": {
+    "appearanceId": "cylindrical container wider at the top than the bottom with a small handle arc; tapered pail silhouette with a bail grip",
+    "functionalityId": "activates a paint bucket fill tool; fills a selected area with color or pattern",
+    "intentId": "flood-fill a region with a chosen color; apply a background fill to a selected area"
+  },
+  "fa-bug": {
+    "appearanceId": "oval insect body with six legs, two antennae, and wing-like outlines; rounded beetle silhouette with appendages",
+    "functionalityId": "reports or opens a bug or error tracking entry; navigates to a defect or issue log",
+    "intentId": "submit or review a software bug report; access the issue tracker or error log"
+  },
+  "fa-bug-slash": {
+    "appearanceId": "oval insect silhouette crossed by a diagonal slash line; beetle shape with a line cutting through it",
+    "functionalityId": "marks a bug as resolved or dismissed; disables bug reporting for an item",
+    "intentId": "close or resolve a reported software bug; indicate that an issue has been fixed"
+  },
+  "fa-bugs": {
+    "appearanceId": "two insect silhouettes grouped together; pair of beetle or bug shapes side by side",
+    "functionalityId": "opens a list of multiple bugs or issues; indicates several defects or errors are present",
+    "intentId": "review multiple software bugs or defects; manage a collection of reported issues"
+  },
+  "fa-building": {
+    "appearanceId": "rectangular multi-story building facade with rows of small square windows; flat-front office block silhouette with window grid",
+    "functionalityId": "navigates to a company, organization, or location profile; marks a real-estate or corporate entity",
+    "intentId": "find an office, company, or building location; access organizational or real-estate information"
+  },
+  "fa-building-circle-arrow-right": {
+    "appearanceId": "rectangular building silhouette with a small circle containing a rightward arrow overlaid at the corner; office block with a forward navigation badge",
+    "functionalityId": "navigates away from or out of a building or organization record; transfers to a linked location or entity",
+    "intentId": "move to an associated building or organization; follow a link from a building to a related destination"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-train-tram": {
+    "appearanceId": "side-view tram car with windows, pantograph on top, and wheels",
+    "functionalityId": "select or view tram route",
+    "intentId": "navigate via tram transit"
+  },
+  "fa-train-tunnel": {
+    "appearanceId": "front-view train entering an arched tunnel opening",
+    "functionalityId": "indicate underground train passage",
+    "intentId": "find or navigate tunnel routes"
+  },
+  "fa-transporter-1": {
+    "appearanceId": "circular teleporter pad with one activation ring",
+    "functionalityId": "activate single-stage transporter",
+    "intentId": "initiate basic transport sequence"
+  },
+  "fa-transporter-2": {
+    "appearanceId": "circular teleporter pad with two activation rings",
+    "functionalityId": "activate two-stage transporter",
+    "intentId": "initiate mid-level transport sequence"
+  },
+  "fa-transporter-3": {
+    "appearanceId": "circular teleporter pad with three activation rings",
+    "functionalityId": "activate three-stage transporter",
+    "intentId": "initiate advanced transport sequence"
+  },
+  "fa-transporter-4": {
+    "appearanceId": "circular teleporter pad with four activation rings",
+    "functionalityId": "activate four-stage transporter",
+    "intentId": "initiate higher-level transport sequence"
+  },
+  "fa-transporter-5": {
+    "appearanceId": "circular teleporter pad with five activation rings",
+    "functionalityId": "activate five-stage transporter",
+    "intentId": "initiate enhanced transport sequence"
+  },
+  "fa-transporter-6": {
+    "appearanceId": "circular teleporter pad with six activation rings",
+    "functionalityId": "activate six-stage transporter",
+    "intentId": "initiate complex transport sequence"
+  },
+  "fa-transporter-7": {
+    "appearanceId": "circular teleporter pad with seven activation rings",
+    "functionalityId": "activate seven-stage transporter",
+    "intentId": "initiate maximum transport sequence"
+  },
+  "fa-tree": {
+    "appearanceId": "deciduous tree with rounded leafy canopy and trunk",
+    "functionalityId": "represent nature or environment",
+    "intentId": "mark a park or green area"
+  },
+  "fa-tree-alt": {
+    "appearanceId": "stylized tree with layered triangular canopy sections and trunk",
+    "functionalityId": "represent alternate nature symbol",
+    "intentId": "indicate woodland or forest area"
+  },
+  "fa-tree-christmas": {
+    "appearanceId": "triangular Christmas tree with ornaments and star at top",
+    "functionalityId": "mark Christmas or holiday content",
+    "intentId": "indicate festive holiday season"
+  },
+  "fa-tree-city": {
+    "appearanceId": "two trees flanking a city skyline silhouette",
+    "functionalityId": "represent urban green spaces",
+    "intentId": "find parks within a city"
+  },
+  "fa-tree-decorated": {
+    "appearanceId": "triangular tree with hanging ornaments, garland, and star topper",
+    "functionalityId": "mark decorated holiday tree",
+    "intentId": "indicate Christmas decoration or event"
+  },
+  "fa-tree-large": {
+    "appearanceId": "tall broad deciduous tree with large full canopy and thick trunk",
+    "functionalityId": "represent a large or mature tree",
+    "intentId": "indicate old-growth or landmark tree"
+  },
+  "fa-tree-palm": {
+    "appearanceId": "tall palm tree with arching fronds at top",
+    "functionalityId": "represent tropical environment",
+    "intentId": "find or mark tropical location"
+  },
+  "fa-trophy": {
+    "appearanceId": "cup trophy with two handles and base",
+    "functionalityId": "award or display achievement",
+    "intentId": "celebrate a win or top result"
+  },
+  "fa-truck": {
+    "appearanceId": "side-view delivery truck with box cargo section",
+    "functionalityId": "track or schedule delivery",
+    "intentId": "manage or view shipping status"
+  },
+  "fa-truck-arrow-right": {
+    "appearanceId": "side-view truck with rightward arrow overlay",
+    "functionalityId": "dispatch or forward a shipment",
+    "intentId": "send or advance a delivery"
+  },
+  "fa-truck-bolt": {
+    "appearanceId": "side-view truck with lightning bolt overlay",
+    "functionalityId": "select express or electric delivery",
+    "intentId": "request fast or electric shipping"
+  },
+  "fa-truck-clock": {
+    "appearanceId": "side-view truck with clock overlay on cargo section",
+    "functionalityId": "schedule or time a delivery",
+    "intentId": "check or set delivery time window"
+  },
+  "fa-truck-container": {
+    "appearanceId": "side-view truck hauling a sealed shipping container",
+    "functionalityId": "track container freight shipment",
+    "intentId": "manage container cargo logistics"
+  },
+  "fa-truck-container-empty": {
+    "appearanceId": "side-view truck with an open or hollow empty container",
+    "functionalityId": "indicate empty container availability",
+    "intentId": "find or dispatch an empty container"
+  },
+  "fa-truck-couch": {
+    "appearanceId": "side-view truck with a couch or sofa visible in cargo area",
+    "functionalityId": "schedule furniture delivery",
+    "intentId": "arrange large-item home delivery"
+  },
+  "fa-truck-droplet": {
+    "appearanceId": "side-view tanker truck with a liquid droplet symbol",
+    "functionalityId": "track liquid or water delivery",
+    "intentId": "order or manage fluid transport"
+  },
+  "fa-truck-fast": {
+    "appearanceId": "side-view truck with speed lines indicating rapid motion",
+    "functionalityId": "select expedited shipping option",
+    "intentId": "request fast or rush delivery"
+  },
+  "fa-truck-field": {
+    "appearanceId": "side-view agricultural truck or field vehicle",
+    "functionalityId": "assign field or farm vehicle",
+    "intentId": "manage agricultural transport"
+  },
+  "fa-truck-field-un": {
+    "appearanceId": "side-view field truck with UN emblem overlay",
+    "functionalityId": "track UN humanitarian field vehicle",
+    "intentId": "coordinate aid or relief transport"
+  },
+  "fa-truck-fire": {
+    "appearanceId": "side-view fire truck with hose reel and emergency equipment",
+    "functionalityId": "dispatch or locate fire truck",
+    "intentId": "report fire or emergency response"
+  },
+  "fa-truck-flatbed": {
+    "appearanceId": "side-view truck with open flat cargo bed and no enclosure",
+    "functionalityId": "schedule flatbed freight transport",
+    "intentId": "arrange oversized load shipping"
+  },
+  "fa-truck-front": {
+    "appearanceId": "front-view truck cab face with grill and headlights",
+    "functionalityId": "view or select truck vehicle",
+    "intentId": "identify or choose a truck type"
+  },
+  "fa-truck-ladder": {
+    "appearanceId": "side-view truck with an extended ladder mounted on top",
+    "functionalityId": "dispatch ladder or utility truck",
+    "intentId": "access elevated work or rescue vehicle"
+  },
+  "fa-truck-loading": {
+    "appearanceId": "side-view truck with boxes being loaded via ramp",
+    "functionalityId": "mark cargo loading in progress",
+    "intentId": "track or initiate truck loading"
+  },
+  "fa-truck-monster": {
+    "appearanceId": "front-view monster truck with oversized wheels",
+    "functionalityId": "select monster truck or off-road vehicle",
+    "intentId": "browse extreme or novelty vehicles"
+  },
+  "fa-truck-moving": {
+    "appearanceId": "side-view moving truck with open rear door and ramp",
+    "functionalityId": "schedule or track moving service",
+    "intentId": "arrange household or office relocation"
+  },
+  "fa-truck-pickup": {
+    "appearanceId": "side-view pickup truck with open cargo bed",
+    "functionalityId": "select or track pickup truck",
+    "intentId": "find or manage light-duty truck"
+  },
+  "fa-truck-plane": {
+    "appearanceId": "side-view truck with an airplane silhouette overlay",
+    "functionalityId": "coordinate air-and-ground freight",
+    "intentId": "manage multimodal cargo shipment"
+  },
+  "fa-truck-plow": {
+    "appearanceId": "side-view truck with a front-mounted snow plow blade",
+    "functionalityId": "dispatch or track snow plow truck",
+    "intentId": "request road clearing or snow removal"
+  },
+  "fa-truck-ramp": {
+    "appearanceId": "side-view truck with a deployed loading ramp at the rear",
+    "functionalityId": "indicate ramp-assisted loading",
+    "intentId": "arrange accessible cargo loading"
+  },
+  "fa-truck-tow": {
+    "appearanceId": "side-view tow truck with hook and lift arm",
+    "functionalityId": "request or dispatch tow service",
+    "intentId": "get a broken-down vehicle towed"
+  },
+  "fa-truck-utensils": {
+    "appearanceId": "side-view truck with fork and knife utensil overlay",
+    "functionalityId": "find or order from food truck",
+    "intentId": "locate nearby mobile food vendor"
+  },
+  "fa-turkey": {
+    "appearanceId": "standing turkey bird with fanned tail feathers and wattle",
+    "functionalityId": "mark Thanksgiving or holiday content",
+    "intentId": "indicate festive autumn celebration"
+  },
+  "fa-u": {
+    "appearanceId": "single uppercase letter U",
+    "functionalityId": "insert or label letter U",
+    "intentId": "represent the letter U"
+  },
+  "fa-underline": {
+    "appearanceId": "letter U with horizontal underline beneath it",
+    "functionalityId": "apply underline text formatting",
+    "intentId": "underline selected text"
+  },
+  "fa-upload": {
+    "appearanceId": "upward arrow above a horizontal line",
+    "functionalityId": "upload file or data",
+    "intentId": "send local file to server"
+  },
+  "fa-user": {
+    "appearanceId": "person silhouette with head and shoulder outline",
+    "functionalityId": "view or access user profile",
+    "intentId": "manage account or identity"
+  },
+  "fa-user-check": {
+    "appearanceId": "person silhouette with checkmark overlay",
+    "functionalityId": "verify or approve a user",
+    "intentId": "confirm user identity or approval"
+  },
+  "fa-user-minus": {
+    "appearanceId": "person silhouette with minus sign overlay",
+    "functionalityId": "remove or deactivate a user",
+    "intentId": "delete or revoke user access"
+  }
+}

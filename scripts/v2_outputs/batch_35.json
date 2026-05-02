@@ -1,0 +1,242 @@
+{
+  "fa-highlighter-line": {
+    "appearanceId": "a marker or highlighter pen shown at a diagonal angle with a broad flat chisel tip and a cap at the other end; angled felt-tip marker silhouette with a wide wedge nib",
+    "functionalityId": "highlights or marks a line of text in a document; applies a colored emphasis stroke to selected content",
+    "intentId": "annotate or highlight a specific line of text; draw attention to a passage in a document"
+  },
+  "fa-hiking": {
+    "appearanceId": "a human figure silhouette walking uphill with a backpack on the shoulders and a walking stick or trekking pole extended forward; striding person outline with a pack and a staff",
+    "functionalityId": "marks a hiking trail, route, or outdoor activity; represents a walking or trekking recreational option",
+    "intentId": "find a hiking trail or outdoor walking route; plan a trekking or nature walk activity"
+  },
+  "fa-hill-avalanche": {
+    "appearanceId": "a triangular hill or mountain outline with a large falling mass of snow or debris rolling down the slope and small lines indicating motion; sloped terrain silhouette with a cascading slide of material",
+    "functionalityId": "indicates an avalanche hazard or natural disaster warning on a terrain map; marks a zone at risk of snow or rock slide",
+    "intentId": "warn about an avalanche or landslide hazard; alert users to a natural disaster risk in a mountainous area"
+  },
+  "fa-hill-rockslide": {
+    "appearanceId": "a triangular hill outline with jagged rock shapes tumbling down its slope and motion lines suggesting a slide; sloped terrain silhouette with falling boulder fragments on the face",
+    "functionalityId": "indicates a rockslide or falling rock hazard on a terrain map; marks a zone at risk of geologic slide activity",
+    "intentId": "warn about a rockslide or falling rock danger; alert users to unstable terrain or geologic hazard"
+  },
+  "fa-hippo": {
+    "appearanceId": "a wide rounded hippo body silhouette with a massive blocky head, small ears, short stubby legs, and a tiny tail; heavy quadruped outline with a broad snout and barrel-shaped torso",
+    "functionalityId": "represents a hippopotamus in a wildlife or zoo app; marks an animal category related to large African mammals",
+    "intentId": "explore hippopotamus or African wildlife content; access zoo or large mammal information"
+  },
+  "fa-history": {
+    "appearanceId": "a circular clock face with hands and a curved counterclockwise arrow wrapping around the outside of the circle; round timepiece outline with a rotating back-arrow indicating time reversal",
+    "functionalityId": "opens a browsing or activity history list; navigates back to previously viewed items or actions",
+    "intentId": "review past actions or browsing history; access a log of previous activity"
+  },
+  "fa-hockey-mask": {
+    "appearanceId": "a rounded protective mask shape with a domed forehead, two oval eye cutouts, and a grill or bar pattern over the mouth and chin area; face-covering silhouette with eye holes and a ventilated lower section",
+    "functionalityId": "represents a hockey goalie mask or protective gear; marks a goaltender or hockey equipment category",
+    "intentId": "access hockey goalie gear or protective equipment content; find goaltender-related sports items"
+  },
+  "fa-hockey-puck": {
+    "appearanceId": "a flat circular disc shape with a slightly raised edge representing a hockey puck in profile or top view; solid round cylinder outline used in ice hockey",
+    "functionalityId": "represents a hockey game element or ice hockey sport category; marks a puck or ice sport item",
+    "intentId": "access ice hockey content or game scores; find hockey-related sports information"
+  },
+  "fa-hockey-stick-puck": {
+    "appearanceId": "an ice hockey stick with a long handle and angled blade positioned next to or in contact with a small circular puck; hockey stick silhouette with a blade tip touching a flat round disc",
+    "functionalityId": "represents an ice hockey sport action or game scene; marks a hockey play, team, or sport category",
+    "intentId": "access ice hockey game content or team information; find hockey sport categories or game details"
+  },
+  "fa-hockey-sticks": {
+    "appearanceId": "two crossed ice hockey sticks with handles extending diagonally and angled blades at the bottom forming an X pattern; a pair of hockey stick silhouettes crossed over each other",
+    "functionalityId": "marks an ice hockey team, equipment, or sport category; represents the sport of hockey with crossed equipment",
+    "intentId": "access ice hockey team or sport content; browse hockey equipment or league information"
+  },
+  "fa-holly-berry": {
+    "appearanceId": "two or three rounded berries clustered together with several pointed holly leaves radiating around them; small circular fruit shapes surrounded by spiky-edged leaf silhouettes",
+    "functionalityId": "marks a Christmas or winter holiday theme in an app; decorates content with a festive holly and berry motif",
+    "intentId": "indicate a Christmas or holiday seasonal theme; add festive holly decoration to content"
+  },
+  "fa-home": {
+    "appearanceId": "a simple house shape with a triangular peaked roof over a square or rectangular body and a centered door rectangle at the base; basic pitched-roof house silhouette with a single front door",
+    "functionalityId": "navigates to the home page or main dashboard; returns the user to the root or starting view",
+    "intentId": "go to the home page or main screen; return to the primary starting point of an application"
+  },
+  "fa-home-blank": {
+    "appearanceId": "a simple house shape with a triangular peaked roof over a rectangular body and no door or window details, leaving the facade entirely blank; plain pitched-roof house silhouette with an empty undecorated front wall",
+    "functionalityId": "represents a generic or empty home placeholder; marks a home slot that has no user or content assigned",
+    "intentId": "indicate an unassigned or empty home slot; use as a placeholder for a home location not yet configured"
+  },
+  "fa-home-heart": {
+    "appearanceId": "a simple house shape with a triangular peaked roof and a heart symbol centered on the front facade; basic pitched-roof house silhouette with a love heart overlay on the front wall",
+    "functionalityId": "marks a home as a favorite or loved location; saves a home address to a favorites or wishlist",
+    "intentId": "save or favorite a home location; indicate a loved or preferred home address"
+  },
+  "fa-home-lg": {
+    "appearanceId": "a larger or more detailed house shape with a pitched roof, a visible chimney on one side, a front door, and small window openings; fuller pitched-roof home silhouette with chimney and window details",
+    "functionalityId": "navigates to a home page with a more prominent or expanded layout; represents a full-featured home or primary residence",
+    "intentId": "go to a detailed or expanded home page view; represent a primary or full-sized home location"
+  },
+  "fa-home-user": {
+    "appearanceId": "a simple house shape with a triangular peaked roof and a small person or user silhouette centered on the front facade; basic pitched-roof house silhouette with a human figure overlay on the front wall",
+    "functionalityId": "links a user account to a home address or residence; shows which user is associated with a home location",
+    "intentId": "associate a user with a home address; access a personalized home profile for a specific user"
+  },
+  "fa-honey-pot": {
+    "appearanceId": "a round squat pot or jar with a narrow opening at the top and a wide rounded body, often with honeycomb or bee decorations or a dripping honey accent; ceramic crock silhouette with a small mouth and a bulging belly",
+    "functionalityId": "marks a honey or natural sweetener ingredient in a recipe app; represents a honeypot concept in a security or networking context",
+    "intentId": "find honey or natural sweetener recipes; access honeypot security decoy settings in a network app"
+  },
+  "fa-hood-cloak": {
+    "appearanceId": "a hooded cloak or cape shape with a large pointed hood at the top, sweeping fabric panels on each side, and no visible face; flowing garment silhouette with a prominent pointed cowl",
+    "functionalityId": "represents a stealth mode, anonymity, or hidden identity feature; marks a cloaked or disguised user status",
+    "intentId": "activate an anonymous or hidden identity mode; indicate stealth or incognito status in an application"
+  },
+  "fa-horizontal-rule": {
+    "appearanceId": "a single long horizontal straight line spanning the full width; a thin flat divider line with no decoration",
+    "functionalityId": "inserts a horizontal rule or divider line into a document; adds a visual separator between sections of content",
+    "intentId": "separate sections of a document with a divider line; insert a horizontal rule in a text editor or layout"
+  },
+  "fa-horse": {
+    "appearanceId": "a horse body silhouette in side profile with a flowing mane, four legs, and a long tail; full equine body outline showing head, neck, torso, and legs",
+    "functionalityId": "marks an equestrian, horse racing, or animal category; represents a horse in a nature, sports, or farm app",
+    "intentId": "access horse racing, equestrian, or animal content; find information about horses in a sports or farm app"
+  },
+  "fa-horse-head": {
+    "appearanceId": "a horse head silhouette in side profile with a pointed ear, flowing mane along the neck, and a long snout; equine head and neck outline with mane hair detail",
+    "functionalityId": "marks a horse or equestrian category focused on the animal's head; represents a thoroughbred or horse breed in a racing or animal app",
+    "intentId": "access horse breed or equestrian head-focused content; find thoroughbred or horse-related information"
+  },
+  "fa-horse-saddle": {
+    "appearanceId": "a Western or English riding saddle shape with a raised pommel at the front, a seat depression in the middle, and a cantle at the back, with stirrup loops visible; side-profile saddle silhouette with pommel, seat, and stirrup detail",
+    "functionalityId": "marks equestrian gear or riding equipment in a sports or outdoors app; represents saddlery or horse-riding accessories",
+    "intentId": "access horse riding gear or equestrian equipment; browse saddlery or riding accessory options"
+  },
+  "fa-hose": {
+    "appearanceId": "a coiled or straight flexible tube shape with an open nozzle end representing a garden or fire hose; cylindrical pipe silhouette with a curved or looped body and a tapered spray tip",
+    "functionalityId": "marks a water hose or watering tool in a garden or utilities app; represents a hose or pipe connection in a plumbing context",
+    "intentId": "find garden watering tools or hose accessories; access plumbing or water line connection options"
+  },
+  "fa-hose-reel": {
+    "appearanceId": "a circular spool or reel with a hose wrapped around it and a handle or mounting bracket on the side; round drum silhouette with coiled tubing wound around it",
+    "functionalityId": "marks a hose reel or garden water management tool; represents a retractable hose storage device",
+    "intentId": "manage or store a garden hose on a reel; access hose storage or retractable hose options"
+  },
+  "fa-hospital": {
+    "appearanceId": "a building facade with a large H letter displayed prominently on the front and a rectangular multi-story structure outline; institutional building silhouette with a hospital H sign on the face",
+    "functionalityId": "marks a hospital location on a map or in a directory; navigates to a healthcare facility or emergency services section",
+    "intentId": "find a nearby hospital or emergency healthcare facility; access hospital location or emergency services information"
+  },
+  "fa-hospital-user": {
+    "appearanceId": "a hospital building facade with an H sign and a small person or user silhouette overlaid or beside the structure; institutional building outline with a human figure badge indicating a patient or staff member",
+    "functionalityId": "links a patient or user to a hospital record or facility; manages a hospital patient profile or staff account",
+    "intentId": "access a patient or staff profile associated with a hospital; manage a user's healthcare facility records"
+  },
+  "fa-hospitals": {
+    "appearanceId": "two hospital building facades side by side or overlapping, each showing a rectangular structure with an H marker; a pair of institutional building silhouettes grouped together",
+    "functionalityId": "displays a list of multiple hospitals or healthcare facilities; marks a region with multiple hospital locations",
+    "intentId": "browse or compare multiple hospital facilities; access a list of healthcare facilities in an area"
+  },
+  "fa-hot-tub": {
+    "appearanceId": "a large rectangular or oval tub shape with wavy lines or bubbles inside indicating hot water, and a person figure seated inside; soaking tub silhouette with a human figure and water bubble marks",
+    "functionalityId": "marks a hot tub or jacuzzi amenity at a hotel or spa; indicates a hydrotherapy or hot water relaxation feature",
+    "intentId": "find a hotel or resort with a hot tub or jacuzzi; access spa or hydrotherapy amenity information"
+  },
+  "fa-hotdog": {
+    "appearanceId": "a long oval sausage shape nestled inside an elongated bun, shown in side profile; a frankfurter silhouette inside a hot dog roll outline",
+    "functionalityId": "marks a hot dog or fast food item in a restaurant or menu app; represents a sausage or ballpark food category",
+    "intentId": "find hot dog or fast food options; access ballpark or street food menu items"
+  },
+  "fa-hotel": {
+    "appearanceId": "a multi-story building facade with a rectangular grid of window rows and a front entrance at the base; tall commercial building silhouette with evenly spaced window openings",
+    "functionalityId": "marks a hotel or lodging location on a map; navigates to hotel booking or accommodation search",
+    "intentId": "find a hotel or lodging option; book or search for accommodations in a travel app"
+  },
+  "fa-hourglass": {
+    "appearanceId": "an hourglass shape with two triangular chambers connected at a narrow neck and a rectangular frame around them, with sand roughly half-distributed between both chambers; symmetrical double-cone vessel with equal sand fill in upper and lower sections",
+    "functionalityId": "represents a timer or waiting state in an application; indicates that a process is in progress or time is being counted",
+    "intentId": "track elapsed time or indicate a loading or waiting state; show that a timed process is active"
+  },
+  "fa-hourglass-1": {
+    "appearanceId": "an hourglass shape within a rectangular frame with sand filling most of the upper chamber and only a small amount in the lower chamber, with grains falling through the neck; double-cone vessel with sand predominantly in the top section",
+    "functionalityId": "represents a timer near the start with most time remaining; indicates that a process has just begun or has plenty of time left",
+    "intentId": "show that a timer has just started or has significant time remaining; indicate an early stage of a timed process"
+  },
+  "fa-hourglass-2": {
+    "appearanceId": "an hourglass shape within a rectangular frame with sand split roughly halfway between the upper and lower chambers, with grains flowing through the central neck; double-cone vessel with sand equally divided between top and bottom sections",
+    "functionalityId": "represents a timer at the halfway point with half the time elapsed; indicates that a process is midway through",
+    "intentId": "show that a timer or process is approximately halfway complete; indicate a midpoint in a timed operation"
+  },
+  "fa-hourglass-3": {
+    "appearanceId": "an hourglass shape within a rectangular frame with sand filling most of the lower chamber and only a small amount remaining in the upper chamber; double-cone vessel with sand predominantly in the bottom section",
+    "functionalityId": "represents a timer near expiration with very little time remaining; indicates that a process is almost complete",
+    "intentId": "show that a timer is nearly finished or a process is almost done; indicate that time is running out on a timed operation"
+  },
+  "fa-hourglass-clock": {
+    "appearanceId": "an hourglass shape with sand flowing through it and a small clock face badge overlaid at the lower corner; double-cone vessel silhouette with a timepiece indicator badge",
+    "functionalityId": "represents a scheduled timer or time-tracked process; combines countdown functionality with a clock schedule",
+    "intentId": "schedule a timed process or track duration with a clock; manage a timer event tied to a specific time of day"
+  },
+  "fa-house-building": {
+    "appearanceId": "a residential house with a peaked roof on the left beside a taller flat-roofed commercial building on the right; a small pitched-roof home silhouette adjacent to a multi-story rectangular structure",
+    "functionalityId": "represents a mixed residential and commercial property type; marks a real estate listing combining home and building use",
+    "intentId": "browse mixed-use or residential-commercial property listings; indicate a real estate category combining home and building types"
+  },
+  "fa-house-chimney-blank": {
+    "appearanceId": "a house shape with a triangular peaked roof, a chimney on one side, and a completely blank undecorated front facade with no door or window markings; chimney-equipped home silhouette with an empty plain front wall",
+    "functionalityId": "represents a generic home with a chimney but no additional details; marks a blank home template with chimney structure",
+    "intentId": "use a blank chimney house as a placeholder or template; indicate an unassigned home slot with a chimney"
+  },
+  "fa-house-chimney-heart": {
+    "appearanceId": "a house shape with a triangular peaked roof, a chimney on one side, and a heart symbol centered on the front facade; chimney-equipped home silhouette with a love heart overlay on the front wall",
+    "functionalityId": "marks a chimney home as a loved or favorited location; saves a house with a chimney to a favorites or wishlist",
+    "intentId": "favorite or love a chimney house location; indicate a cherished home with a chimney feature"
+  },
+  "fa-house-chimney-user": {
+    "appearanceId": "a house shape with a triangular peaked roof, a chimney on one side, and a person or user silhouette centered on the front facade; chimney-equipped home outline with a human figure badge on the front wall",
+    "functionalityId": "associates a user with a home that has a chimney; links a resident profile to a specific chimney house",
+    "intentId": "assign a user to a chimney house address; access a personalized home profile for a chimney residence"
+  },
+  "fa-house-chimney-window": {
+    "appearanceId": "a house shape with a triangular peaked roof, a chimney on one side, and a square window opening visible on the front facade; chimney-equipped home silhouette with a window cutout on the front wall",
+    "functionalityId": "represents a home with a chimney and window detail; marks a residential property with specific architectural features",
+    "intentId": "indicate a home with chimney and window features; access architectural details of a chimney house listing"
+  },
+  "fa-house-circle-check": {
+    "appearanceId": "a house shape with a triangular peaked roof and a small filled circle containing a checkmark badge overlaid at the lower right corner; basic pitched-roof home silhouette with a confirmation circle badge",
+    "functionalityId": "marks a home as verified, confirmed, or approved; indicates that a home address or property has passed a check",
+    "intentId": "confirm or verify a home address or property listing; indicate that a home has been approved or validated"
+  },
+  "fa-house-circle-exclamation": {
+    "appearanceId": "a house shape with a triangular peaked roof and a small filled circle containing an exclamation mark badge overlaid at the lower right corner; basic pitched-roof home silhouette with an alert circle badge",
+    "functionalityId": "indicates a warning or alert associated with a home address or property; marks a residence with a pending issue or caution flag",
+    "intentId": "alert the user to a problem or issue with a home; flag a property with a warning that requires attention"
+  },
+  "fa-house-circle-xmark": {
+    "appearanceId": "a house shape with a triangular peaked roof and a small filled circle containing an X mark badge overlaid at the lower right corner; basic pitched-roof home silhouette with a rejection or removal circle badge",
+    "functionalityId": "marks a home as removed, rejected, or unavailable; indicates that a home address or property has been denied or deleted",
+    "intentId": "remove or reject a home address or property listing; indicate that a home is unavailable or has been denied"
+  },
+  "fa-house-crack": {
+    "appearanceId": "a house shape with a triangular peaked roof and a jagged crack or fracture line running down the front facade; basic pitched-roof home silhouette with a structural damage fissure on the wall",
+    "functionalityId": "indicates structural damage or a hazard warning for a home; marks a property as damaged or in need of repair",
+    "intentId": "report or flag structural damage to a home; indicate that a property has been damaged or is unsafe"
+  },
+  "fa-house-damage": {
+    "appearanceId": "a house shape with a triangular peaked roof and visible damage such as a cracked wall, broken section, or missing piece on the facade; basic pitched-roof home silhouette with signs of deterioration or destruction",
+    "functionalityId": "indicates general damage or disaster impact on a home; marks a property as affected by an event causing structural harm",
+    "intentId": "report or document home damage after a disaster; indicate that a property has sustained significant damage"
+  },
+  "fa-house-day": {
+    "appearanceId": "a house shape with a triangular peaked roof and a small sun or sunburst symbol positioned above or beside the roofline; basic pitched-roof home silhouette with a daylight sun badge",
+    "functionalityId": "represents daytime home automation settings or solar energy features; marks a home with daytime or solar-powered status",
+    "intentId": "manage daytime home automation or solar energy settings; access a home's daytime or sun-related features"
+  },
+  "fa-house-fire": {
+    "appearanceId": "a house shape with a triangular peaked roof and a flame or fire shape rising from the top or engulfing part of the structure; basic pitched-roof home silhouette with a fire or flame badge",
+    "functionalityId": "indicates a fire hazard or active fire emergency at a home; marks a property as on fire or at risk from fire",
+    "intentId": "report a home fire or fire hazard emergency; alert users to a fire danger at a residential property"
+  },
+  "fa-house-flag": {
+    "appearanceId": "a house shape with a triangular peaked roof and a rectangular flag or pennant attached at the upper corner or roofline; basic pitched-roof home silhouette with a flag badge extending from the top",
+    "functionalityId": "marks a home with a flagged status or country/region association; indicates a home listing that has been flagged or tagged",
+    "intentId": "flag a home for review or associate it with a region; mark a property listing with a status flag"
+  }
+}

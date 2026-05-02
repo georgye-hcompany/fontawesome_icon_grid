@@ -1,0 +1,242 @@
+{
+  "fa-bowl-food": {
+    "appearanceId": "round bowl filled with food contents",
+    "functionalityId": "browse meal or food options",
+    "intentId": "find or log a meal"
+  },
+  "fa-bowl-rice": {
+    "appearanceId": "round bowl filled with small rice grains and chopsticks",
+    "functionalityId": "browse rice or Asian food options",
+    "intentId": "find or log a rice-based meal"
+  },
+  "fa-bowl-scoop": {
+    "appearanceId": "round bowl with single rounded scoop mound inside",
+    "functionalityId": "add or select a single scoop serving",
+    "intentId": "choose a scooped portion or serving"
+  },
+  "fa-bowl-scoops": {
+    "appearanceId": "round bowl with two rounded scoop mounds inside",
+    "functionalityId": "add or select multiple scoops",
+    "intentId": "choose a multi-scoop portion or serving"
+  },
+  "fa-bowl-soft-serve": {
+    "appearanceId": "round bowl with swirled soft-serve ice cream twist on top",
+    "functionalityId": "browse soft-serve or frozen dessert options",
+    "intentId": "order or find a soft-serve dessert"
+  },
+  "fa-bowl-spoon": {
+    "appearanceId": "round bowl with a spoon resting inside or across the rim",
+    "functionalityId": "access meal or soup serving options",
+    "intentId": "indicate a meal ready to eat"
+  },
+  "fa-bowling-ball": {
+    "appearanceId": "solid circle with three small finger holes grouped near top",
+    "functionalityId": "access bowling game or venue",
+    "intentId": "find or start a bowling activity"
+  },
+  "fa-bowling-ball-pin": {
+    "appearanceId": "solid circle bowling ball next to an upright bowling pin",
+    "functionalityId": "access bowling lane or scoring",
+    "intentId": "start or track a bowling game"
+  },
+  "fa-bowling-pins": {
+    "appearanceId": "two upright bowling pins side by side",
+    "functionalityId": "access bowling venue or league info",
+    "intentId": "find or join a bowling activity"
+  },
+  "fa-bread-loaf": {
+    "appearanceId": "rounded rectangular loaf with scored top lines",
+    "functionalityId": "browse bakery or bread products",
+    "intentId": "find or purchase a bread loaf"
+  },
+  "fa-bread-slice": {
+    "appearanceId": "single thick rounded rectangular bread slice",
+    "functionalityId": "access bread or bakery category",
+    "intentId": "select or log a bread serving"
+  },
+  "fa-bread-slice-butter": {
+    "appearanceId": "single bread slice with rectangular butter pat on top",
+    "functionalityId": "browse toast or buttered bread options",
+    "intentId": "select or log a buttered bread item"
+  },
+  "fa-brush": {
+    "appearanceId": "long handle tapering to a pointed bristle tip at bottom",
+    "functionalityId": "open paint or drawing tools",
+    "intentId": "draw, paint, or style an element"
+  },
+  "fa-bug": {
+    "appearanceId": "insect body with six legs and antennae",
+    "functionalityId": "report or view a software bug",
+    "intentId": "flag or track a code defect"
+  },
+  "fa-building": {
+    "appearanceId": "multi-story rectangular building outline with window grid",
+    "functionalityId": "navigate to organization or office section",
+    "intentId": "view or manage a building or company"
+  },
+  "fa-building-flag": {
+    "appearanceId": "multi-story building with flag on a pole at top",
+    "functionalityId": "mark or identify an official building",
+    "intentId": "indicate a flagged or notable facility"
+  },
+  "fa-building-lock": {
+    "appearanceId": "multi-story building with padlock badge overlay at corner",
+    "functionalityId": "restrict access to a building or facility",
+    "intentId": "secure or lock down a location"
+  },
+  "fa-building-magnifying-glass": {
+    "appearanceId": "multi-story building with magnifying glass badge overlay",
+    "functionalityId": "search for a building or location",
+    "intentId": "find or inspect a facility"
+  },
+  "fa-building-shield": {
+    "appearanceId": "multi-story building with shield badge overlay at corner",
+    "functionalityId": "indicate a secured or protected building",
+    "intentId": "secure or protect a building location"
+  },
+  "fa-building-un": {
+    "appearanceId": "multi-story building with UN laurel wreath badge overlay",
+    "functionalityId": "navigate to United Nations or international body",
+    "intentId": "access UN or international organization information"
+  },
+  "fa-bullseye-arrow": {
+    "appearanceId": "concentric circles target with arrow embedded in center",
+    "functionalityId": "hit target or confirm precise action",
+    "intentId": "indicate precise aim or exact goal achieved"
+  },
+  "fa-bus": {
+    "appearanceId": "rectangular side-view bus with windows and wheels",
+    "functionalityId": "find or schedule a bus route",
+    "intentId": "access public transit or bus service"
+  },
+  "fa-bus-alt": {
+    "appearanceId": "rounded front-facing bus with windshield and headlights",
+    "functionalityId": "find or schedule a bus route",
+    "intentId": "access public transit or bus service"
+  },
+  "fa-bus-school": {
+    "appearanceId": "rectangular side-view school bus with windows and wheels",
+    "functionalityId": "manage or find school bus routes",
+    "intentId": "track or schedule student transportation"
+  },
+  "fa-c": {
+    "appearanceId": "bold uppercase letter C",
+    "functionalityId": "insert or label letter C",
+    "intentId": "represent the letter C"
+  },
+  "fa-cake": {
+    "appearanceId": "layered cake with lit candle on top",
+    "functionalityId": "mark or celebrate a birthday event",
+    "intentId": "indicate a birthday or celebration"
+  },
+  "fa-calculator": {
+    "appearanceId": "rectangular device with display screen and rows of small buttons",
+    "functionalityId": "open or access calculation tool",
+    "intentId": "perform numeric calculations"
+  },
+  "fa-calendar": {
+    "appearanceId": "rectangular grid with date rows and header bar with two top hooks",
+    "functionalityId": "open or navigate calendar view",
+    "intentId": "schedule or view dates and events"
+  },
+  "fa-camera": {
+    "appearanceId": "rectangular body with circular lens and viewfinder bump on top",
+    "functionalityId": "open camera or capture a photo",
+    "intentId": "take or upload a photograph"
+  },
+  "fa-candy": {
+    "appearanceId": "wrapped candy with twisted ends",
+    "functionalityId": "browse candy or sweet treat options",
+    "intentId": "find or select a confectionery item"
+  },
+  "fa-candy-bar": {
+    "appearanceId": "rectangular bar with segmented score lines on top",
+    "functionalityId": "browse chocolate or candy bar options",
+    "intentId": "select or log a candy bar snack"
+  },
+  "fa-candy-cane": {
+    "appearanceId": "curved J-shaped cane with diagonal stripes",
+    "functionalityId": "browse holiday or seasonal candy",
+    "intentId": "indicate Christmas or festive content"
+  },
+  "fa-candy-corn": {
+    "appearanceId": "triangular three-toned candy corn kernel shape",
+    "functionalityId": "browse Halloween or seasonal candy",
+    "intentId": "indicate Halloween or fall seasonal content"
+  },
+  "fa-car": {
+    "appearanceId": "side-view sedan body with rounded roof and two wheels",
+    "functionalityId": "access vehicle or driving options",
+    "intentId": "find or manage a car or ride"
+  },
+  "fa-car-alt": {
+    "appearanceId": "side-view compact car with flat roof and two wheels",
+    "functionalityId": "access vehicle or transportation options",
+    "intentId": "find or manage a car or ride"
+  },
+  "fa-car-bolt": {
+    "appearanceId": "side-view car body with lightning bolt badge overlay",
+    "functionalityId": "find or manage an electric vehicle",
+    "intentId": "access EV charging or electric car options"
+  },
+  "fa-car-building": {
+    "appearanceId": "side-view car in front of a multi-story building",
+    "functionalityId": "navigate to automotive dealer or parking facility",
+    "intentId": "find a dealership or parking facility"
+  },
+  "fa-car-bump": {
+    "appearanceId": "side-view car with a raised bump shape on the roof",
+    "functionalityId": "indicate speed bump or road hazard alert",
+    "intentId": "warn about road surface hazard ahead"
+  },
+  "fa-car-burst": {
+    "appearanceId": "side-view car with burst or explosion lines radiating outward",
+    "functionalityId": "report a vehicle collision or accident",
+    "intentId": "report or flag a vehicle accident"
+  },
+  "fa-car-bus": {
+    "appearanceId": "side-view car and bus positioned together",
+    "functionalityId": "access mixed transportation or transit options",
+    "intentId": "choose between car and public bus transit"
+  },
+  "fa-car-circle-bolt": {
+    "appearanceId": "side-view car inside a circle with lightning bolt badge",
+    "functionalityId": "find or select an electric car service",
+    "intentId": "access EV or electric vehicle information"
+  },
+  "fa-car-garage": {
+    "appearanceId": "side-view car inside an arched garage door opening",
+    "functionalityId": "open or manage garage access",
+    "intentId": "access home garage or parking facility"
+  },
+  "fa-car-mirrors": {
+    "appearanceId": "side-view car with prominent side mirrors extended outward",
+    "functionalityId": "access mirror adjustment or vehicle settings",
+    "intentId": "adjust or check car mirrors"
+  },
+  "fa-car-on": {
+    "appearanceId": "side-view car with a power or on symbol badge",
+    "functionalityId": "start or activate a vehicle",
+    "intentId": "turn on or enable a car remotely"
+  },
+  "fa-car-side": {
+    "appearanceId": "side-view car silhouette with flat profile and two wheels",
+    "functionalityId": "access side-view vehicle details or information",
+    "intentId": "view or select a vehicle"
+  },
+  "fa-car-side-bolt": {
+    "appearanceId": "side-view car silhouette with lightning bolt overlay on side",
+    "functionalityId": "select or filter electric vehicles",
+    "intentId": "find an electric car or EV option"
+  },
+  "fa-car-tilt": {
+    "appearanceId": "side-view car tilted at an angle as if on a slope or tow",
+    "functionalityId": "request towing or roadside assistance",
+    "intentId": "request tow or roadside assistance"
+  },
+  "fa-car-tunnel": {
+    "appearanceId": "side-view car inside an arched tunnel opening",
+    "functionalityId": "navigate through a tunnel or underpass",
+    "intentId": "find or indicate a road tunnel ahead"
+  }
+}

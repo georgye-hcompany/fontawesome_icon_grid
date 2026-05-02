@@ -1,0 +1,242 @@
+{
+  "fa-cloud-drizzle": {
+    "appearanceId": "cloud shape with short dashed or dotted vertical lines falling below it; fluffy cloud outline with a sparse scatter of small drop marks",
+    "functionalityId": "displays a light rain or drizzle weather forecast; indicates current drizzle conditions in a weather widget",
+    "intentId": "check light precipitation or drizzle forecast; understand current mild wet weather conditions"
+  },
+  "fa-cloud-exclamation": {
+    "appearanceId": "cloud silhouette with an exclamation mark overlaid or emerging from its base; puffy cloud outline combined with a vertical bar and dot alert symbol",
+    "functionalityId": "alerts the user to a cloud service error or warning; triggers a cloud-related notification or critical status message",
+    "intentId": "respond to a cloud system alert or urgent error; investigate a cloud storage or sync warning"
+  },
+  "fa-cloud-hail": {
+    "appearanceId": "cloud shape with small circles or solid dots falling beneath it representing hailstones; fluffy cloud outline with a row of round pellet marks below",
+    "functionalityId": "displays a hail weather alert or forecast condition; indicates frozen precipitation in a weather status view",
+    "intentId": "check for hail risk in an upcoming weather forecast; prepare for frozen precipitation conditions"
+  },
+  "fa-cloud-hail-mixed": {
+    "appearanceId": "cloud outline with a mixture of round hail circles and angled rain lines falling below; cloud shape combined with both dot pellets and slash marks underneath",
+    "functionalityId": "displays a mixed hail and rain weather warning; indicates a wintry mix precipitation forecast in a weather panel",
+    "intentId": "check for mixed winter precipitation in a forecast; prepare for simultaneous hail and rain conditions"
+  },
+  "fa-cloud-meatball": {
+    "appearanceId": "cloud silhouette with a round sphere resembling a meatball or spaghetti-ball shape hanging below or within it; puffy cloud outline containing or dropping a circular food-like globe",
+    "functionalityId": "displays a humorous or novelty weather condition indicator; triggers a food-themed or playful cloud animation",
+    "intentId": "engage with a whimsical or entertainment weather feature; access a novelty food-drop or fun weather effect"
+  },
+  "fa-cloud-minus": {
+    "appearanceId": "cloud silhouette with a horizontal minus or dash symbol overlaid at its center; puffy cloud outline combined with a subtraction bar",
+    "functionalityId": "removes or reduces a cloud storage allocation; decrements a cloud item count or capacity setting",
+    "intentId": "reduce cloud storage space or quota; delete or subtract a resource from cloud services"
+  },
+  "fa-cloud-moon": {
+    "appearanceId": "cloud shape partially obscuring a crescent moon to one side; fluffy cloud outline overlapping a curved quarter-moon arc",
+    "functionalityId": "displays a partly cloudy nighttime weather condition; toggles a nighttime weather or dark-sky forecast view",
+    "intentId": "check overnight or nighttime cloud cover; view evening weather conditions for planning"
+  },
+  "fa-cloud-moon-rain": {
+    "appearanceId": "cloud outline with a crescent moon visible beside or behind it and rain lines falling below; nighttime cloud shape combined with a curved moon arc and downward streaks",
+    "functionalityId": "displays a rainy overnight or nighttime weather forecast; indicates rain during nighttime hours in a weather widget",
+    "intentId": "check for nighttime rain in an upcoming forecast; plan for wet overnight weather conditions"
+  },
+  "fa-cloud-music": {
+    "appearanceId": "cloud silhouette with a musical note or staff symbol overlaid or emerging from it; puffy cloud outline combined with a single eighth-note or double-note mark",
+    "functionalityId": "opens a cloud-based music streaming or storage service; accesses saved or synced audio files from the cloud",
+    "intentId": "stream or manage music stored in the cloud; access a cloud music library or playlist"
+  },
+  "fa-cloud-plus": {
+    "appearanceId": "cloud silhouette with a plus or cross symbol overlaid at its center; puffy cloud outline combined with a vertical and horizontal crosshair bar",
+    "functionalityId": "uploads or adds a new item to cloud storage; creates a new cloud resource or increments a cloud allocation",
+    "intentId": "add a file or resource to cloud storage; expand cloud capacity or create a new cloud item"
+  },
+  "fa-cloud-question": {
+    "appearanceId": "cloud silhouette with a question mark symbol overlaid or centered on it; fluffy cloud outline containing a curved query symbol with a dot below",
+    "functionalityId": "opens cloud service help or troubleshooting documentation; prompts a cloud status inquiry or FAQ lookup",
+    "intentId": "find help or answers about a cloud service issue; investigate an unknown cloud status or error"
+  },
+  "fa-cloud-rain": {
+    "appearanceId": "cloud shape with multiple vertical rain lines or streaks falling below it; rounded cloud outline with a row of evenly spaced downward bars",
+    "functionalityId": "displays a rainy weather forecast or current rain condition; indicates active precipitation in a weather status panel",
+    "intentId": "check for rain in an upcoming forecast; plan activities around current rainy weather"
+  },
+  "fa-cloud-rainbow": {
+    "appearanceId": "cloud shape at one end of a curved arc of concentric stripes representing a rainbow; fluffy cloud outline with a multi-band arched bow extending from it",
+    "functionalityId": "displays a post-rain or rainbow weather condition; indicates clearing skies or a colorful weather event in a forecast",
+    "intentId": "celebrate or share a rainbow weather moment; check post-storm clearing conditions"
+  },
+  "fa-cloud-showers": {
+    "appearanceId": "cloud shape with a moderate number of angled or vertical rain streaks below it; rounded cloud outline with a spread of shower lines underneath",
+    "functionalityId": "displays a shower or intermittent rain forecast condition; indicates scattered precipitation in a weather widget",
+    "intentId": "check for passing showers in a weather forecast; plan around intermittent rain conditions"
+  },
+  "fa-cloud-showers-heavy": {
+    "appearanceId": "cloud shape with dense thick downward streaks or wide lines falling heavily below; cloud outline with a concentrated cluster of bold rain marks",
+    "functionalityId": "displays a heavy rain or downpour weather alert; indicates intense precipitation conditions in a storm forecast",
+    "intentId": "check for heavy rainfall or storm warnings; prepare for severe precipitation or flooding risk"
+  },
+  "fa-cloud-showers-water": {
+    "appearanceId": "cloud outline with wavy or pooled water lines beneath the falling streaks; cloud shape with rain lines terminating in a ripple or water surface layer",
+    "functionalityId": "displays a flooding or standing-water rain alert; indicates water accumulation risk in a weather or environment panel",
+    "intentId": "assess flood or water accumulation risk from heavy rain; monitor precipitation and standing-water conditions"
+  },
+  "fa-cloud-slash": {
+    "appearanceId": "cloud silhouette overlaid with a diagonal slash line crossing through it; puffy cloud outline bisected by an angled prohibition bar",
+    "functionalityId": "disables or disconnects a cloud service or sync; indicates cloud connectivity is off or unavailable",
+    "intentId": "turn off cloud syncing or storage access; indicate that cloud services are blocked or disconnected"
+  },
+  "fa-cloud-sleet": {
+    "appearanceId": "cloud shape with a mix of small dots and angled diagonal lines falling below it; cloud outline with alternating round pellets and slash marks underneath",
+    "functionalityId": "displays a sleet or freezing rain weather forecast; indicates a wintry precipitation mix in a weather status view",
+    "intentId": "check for sleet or icy precipitation conditions; plan for hazardous winter weather travel"
+  },
+  "fa-cloud-snow": {
+    "appearanceId": "cloud shape with snowflake symbols or asterisk-like star marks falling below it; rounded cloud outline with a scatter of six-pointed crystalline shapes",
+    "functionalityId": "displays a snow forecast or current snowfall condition; indicates winter precipitation in a weather panel",
+    "intentId": "check for snow accumulation in an upcoming forecast; plan activities around snowy weather conditions"
+  },
+  "fa-cloud-sun": {
+    "appearanceId": "cloud shape with a partial sun or circular arc with rays peeking out from behind one side; fluffy cloud outline overlapping a sun disc with radiating lines",
+    "functionalityId": "displays a partly cloudy daytime weather condition; toggles a fair-weather or mixed-sky forecast view",
+    "intentId": "check partly cloudy daytime weather conditions; plan outdoor activities around mixed sun and cloud cover"
+  },
+  "fa-cloud-sun-rain": {
+    "appearanceId": "cloud outline with a sun partially visible behind it and rain lines falling below; daytime cloud shape combined with a peeking sun disc and downward streaks",
+    "functionalityId": "displays a sun-shower or partly cloudy rainy forecast; indicates simultaneous sunshine and rain in a weather widget",
+    "intentId": "check for sun-shower conditions in a forecast; plan around mixed sunny and rainy daytime weather"
+  },
+  "fa-cloud-upload": {
+    "appearanceId": "cloud silhouette with an upward-pointing arrow emerging from or pointing into its base; puffy cloud outline combined with a vertical shaft and arrowhead pointing up",
+    "functionalityId": "uploads a file or data to cloud storage; sends local content to a remote cloud server or service",
+    "intentId": "back up or transfer a file to the cloud; store or sync content in a remote cloud location"
+  },
+  "fa-cloud-word": {
+    "appearanceId": "cloud shape containing or overlaid with the letters of a word or a text block; puffy cloud outline with typographic content inside its silhouette",
+    "functionalityId": "opens a word cloud visualization or tag-cloud view; displays frequency-based text inside a cloud-shaped layout",
+    "intentId": "view a word cloud of frequent terms or topics; explore text analytics in a cloud-shaped display"
+  },
+  "fa-cloud-xmark": {
+    "appearanceId": "cloud silhouette with an X mark or cross symbol overlaid at its center; puffy cloud outline combined with two diagonal crossing lines forming an ex",
+    "functionalityId": "removes or deletes a cloud item or service connection; dismisses or closes a cloud notification or error",
+    "intentId": "delete a cloud resource or disconnect a cloud account; dismiss a cloud error or cancel a cloud operation"
+  },
+  "fa-clouds": {
+    "appearanceId": "two or more overlapping cloud silhouettes of varying sizes layered together; multiple rounded cloud shapes stacked or grouped to suggest an overcast sky",
+    "functionalityId": "displays an overcast or heavily cloudy weather condition; represents a cloudy-sky state in a weather or environment panel",
+    "intentId": "check for cloudy or overcast weather conditions; view a multi-cloud sky forecast or environment status"
+  },
+  "fa-clouds-moon": {
+    "appearanceId": "two cloud silhouettes with a crescent moon visible between or beside them; stacked cloud shapes alongside a curved quarter-moon arc in a night scene",
+    "functionalityId": "displays an overcast nighttime weather condition; indicates a cloudy night sky in a weather forecast panel",
+    "intentId": "check overnight cloud cover or nighttime weather; view an evening overcast forecast for planning"
+  },
+  "fa-clouds-sun": {
+    "appearanceId": "two cloud silhouettes with a partial sun or disc with rays peeking out from behind or between them; layered cloud shapes overlapping a sun with radiating lines",
+    "functionalityId": "displays a mostly cloudy daytime weather condition with some sun; indicates broken cloud cover in a weather status view",
+    "intentId": "check mostly cloudy daytime conditions with partial sun; plan around a partly overcast weather forecast"
+  },
+  "fa-clover": {
+    "appearanceId": "four-lobed symmetric leaf shape with rounded petals arranged in a cross pattern and a short stem; shamrock-like outline with four rounded sections and a vertical stalk",
+    "functionalityId": "marks a lucky or featured item in a game or promotion; indicates a nature, garden, or St. Patrick's Day themed element",
+    "intentId": "indicate luck or a seasonal celebration theme; access nature or garden-related content"
+  },
+  "fa-club": {
+    "appearanceId": "three-lobed trefoil shape with two round upper lobes, one lower lobe, and a short stem; playing card club suit silhouette with a rounded triangular top and stalk",
+    "functionalityId": "selects the clubs suit in a card game action; marks a club-category item in a game or membership context",
+    "intentId": "play a clubs-suited card or access a clubs category; identify or select a club-themed element in a game"
+  },
+  "fa-cny": {
+    "appearanceId": "Chinese yuan or renminbi currency symbol with a Y shape and two horizontal bars crossing the vertical stroke; yen-like glyph with double strikethrough lines",
+    "functionalityId": "selects Chinese yuan as a currency option; displays or converts a price into CNY renminbi",
+    "intentId": "view or set a price in Chinese yuan; access currency conversion or financial settings for CNY"
+  },
+  "fa-cocktail": {
+    "appearanceId": "wide-mouthed triangular martini glass with a long stem and base, containing liquid and sometimes a garnish on the rim; conical stemware silhouette with a straw or olive accessory",
+    "functionalityId": "opens a cocktail menu or drink ordering interface; filters alcoholic mixed-drink options in a bar or restaurant app",
+    "intentId": "browse or order a cocktail at a bar or event; access a drink menu or mixed-beverage selection"
+  },
+  "fa-coconut": {
+    "appearanceId": "round or slightly oval coconut shape with a textured husk surface and sometimes a small tuft at the top; spherical tropical fruit silhouette with hatch marks or fiber lines",
+    "functionalityId": "marks a tropical or exotic ingredient in a recipe app; indicates a coconut-flavored or tropical menu item",
+    "intentId": "find recipes or products featuring coconut; access tropical food or beverage options"
+  },
+  "fa-code": {
+    "appearanceId": "left-pointing and right-pointing angle brackets with a forward slash between them forming an HTML-like tag symbol; two chevron arrows facing outward with a diagonal bar in the center",
+    "functionalityId": "opens a code editor or source view; toggles the raw markup or programming syntax view of content",
+    "intentId": "view or edit source code or markup; switch to a developer or technical coding interface"
+  },
+  "fa-code-branch": {
+    "appearanceId": "vertical line splitting into two upward diverging paths with circular nodes at each endpoint; branching fork shape with a trunk and two separate upper arms ending in dots",
+    "functionalityId": "creates or switches to a new code branch in version control; displays branching history in a repository view",
+    "intentId": "branch a codebase to develop a feature in isolation; manage parallel development paths in version control"
+  },
+  "fa-code-commit": {
+    "appearanceId": "horizontal line passing through a central circle or node flanked by short segments; a dot or ring centered on a straight bar representing a point on a timeline",
+    "functionalityId": "records or views a specific commit snapshot in version control; saves staged changes as a commit in a repository",
+    "intentId": "commit code changes to a repository; review or navigate to a specific point in project history"
+  },
+  "fa-code-compare": {
+    "appearanceId": "two vertical branch lines side by side with nodes at top and bottom, connected by a horizontal crossbar or arrow; a diff-like parallel track diagram with linking bar between the two paths",
+    "functionalityId": "opens a diff or side-by-side comparison of two code versions; compares two branches or commits in a repository",
+    "intentId": "review differences between two code versions or branches; compare file changes in a code review workflow"
+  },
+  "fa-code-fork": {
+    "appearanceId": "single vertical line splitting upward into two diverging lines with nodes at each tip; a Y-shaped forking path with circular endpoints at each upper arm",
+    "functionalityId": "forks a repository or creates an independent copy of a codebase; initiates a project fork from a shared source",
+    "intentId": "create a personal fork of an open-source project; branch off an independent version of a codebase"
+  },
+  "fa-code-merge": {
+    "appearanceId": "two separate vertical lines converging downward into a single path with a curved join and nodes at the start points; a merging track diagram where two branches meet at a common node",
+    "functionalityId": "merges two branches or pull requests into a single codebase; combines separate development lines in version control",
+    "intentId": "integrate a feature branch back into the main codebase; complete a merge operation in a repository"
+  },
+  "fa-code-pull-request": {
+    "appearanceId": "two vertical branch lines with nodes connected by a curved arc or arrow indicating a merge proposal; a branching diagram with an arched linking path suggesting a pending integration",
+    "functionalityId": "opens or creates a pull request for code review; submits a branch for merging review in a repository",
+    "intentId": "propose code changes for review and merging; submit a pull request in a collaborative development workflow"
+  },
+  "fa-code-pull-request-closed": {
+    "appearanceId": "pull request branch diagram with an X mark or closed indicator on the arc or at a node; a branching fork connected by a curved line with a closure or rejection symbol",
+    "functionalityId": "displays or filters closed or rejected pull requests; marks a pull request as declined or no longer active",
+    "intentId": "review or manage closed or rejected pull requests; track declined code submissions in a repository"
+  },
+  "fa-code-pull-request-draft": {
+    "appearanceId": "pull request branch diagram with a dashed arc or incomplete connecting line indicating draft status; a branching fork with a dotted or broken curved path suggesting an unfinished merge proposal",
+    "functionalityId": "creates or views a draft pull request not yet ready for review; marks a work-in-progress branch submission in version control",
+    "intentId": "save a pull request as a draft for later completion; signal that a code submission is still in progress"
+  },
+  "fa-code-simple": {
+    "appearanceId": "left-pointing and right-pointing angle brackets or chevrons with no inner slash, forming a clean open-tag pair; two outward-facing arrow-like brackets without additional content between them",
+    "functionalityId": "opens a simplified or minimal code or markup view; toggles a lightweight syntax or developer mode display",
+    "intentId": "view or enter a simplified coding or markup interface; access a basic developer view without extra tooling"
+  },
+  "fa-coffee": {
+    "appearanceId": "wide cylindrical mug or cup shape with a handle on one side and two or three wavy steam lines rising above the rim; ceramic drinking vessel silhouette with curved vapor wisps above",
+    "functionalityId": "indicates a coffee break, café, or hot beverage option; opens a coffee shop locator or drink ordering feature",
+    "intentId": "find a nearby café or coffee option; take a break or access a hot beverage service"
+  },
+  "fa-coffee-bean": {
+    "appearanceId": "oval or oblong seed shape with a single central crease or groove running lengthwise; elongated ellipse outline split by a curved line suggesting a roasted bean",
+    "functionalityId": "marks a coffee or espresso ingredient or flavor option; indicates a coffee-bean category in a café or grocery app",
+    "intentId": "select or explore coffee bean types or roasts; access coffee product details or origin information"
+  },
+  "fa-coffee-beans": {
+    "appearanceId": "two or three overlapping oval bean shapes each with a central groove, arranged in a small cluster; a group of elongated ellipses with crease lines suggesting a handful of roasted beans",
+    "functionalityId": "displays a multi-bean selection or bulk coffee option; indicates a coffee variety or blend category in a product listing",
+    "intentId": "browse or purchase a quantity of coffee beans; explore blended or assorted bean options"
+  },
+  "fa-coffee-pot": {
+    "appearanceId": "tall or round carafe shape with a spout, a handle on one side, and a lid or knob on top; kettle or percolator silhouette with a pouring lip and a domed cover",
+    "functionalityId": "opens a coffee maker settings or brewing schedule interface; indicates a coffee pot or brewer device in a smart-home panel",
+    "intentId": "schedule or control a coffee brewing appliance; manage a coffee maker or brewer in a connected home app"
+  },
+  "fa-coffin": {
+    "appearanceId": "elongated hexagonal or tapered rectangular box shape with angled shoulders narrowing toward the head end; a casket silhouette with a wider upper body and narrower base",
+    "functionalityId": "marks a funeral, cemetery, or death-themed category; indicates a horror or Halloween-themed element in a game or app",
+    "intentId": "access funeral services or memorial-related content; navigate a horror or dark-themed section of an app"
+  },
+  "fa-coffin-cross": {
+    "appearanceId": "elongated hexagonal coffin silhouette with a cross symbol overlaid on its front face; tapered casket outline containing or topped by a vertical and horizontal bar cross",
+    "functionalityId": "marks a religious funeral or burial service option; indicates a Christian or faith-based memorial element",
+    "intentId": "access religious funeral or burial-related services; navigate faith-themed memorial or cemetery content"
+  }
+}

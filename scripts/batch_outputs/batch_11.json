@@ -1,0 +1,242 @@
+{
+  "fa-face-weary": {
+    "appearanceId": "round face with wide open eyes showing strain lines above, deeply furrowed brow, and open grimacing mouth with downturned corners",
+    "functionalityId": "express exhaustion or overwhelmed state",
+    "intentId": "convey extreme fatigue or burnout"
+  },
+  "fa-face-woozy": {
+    "appearanceId": "round face with one eye open and one eye as a spiral, raised eyebrow, and wavy uneven mouth",
+    "functionalityId": "express dizzy or disoriented reaction",
+    "intentId": "convey confusion or lightheaded feeling"
+  },
+  "fa-face-worried": {
+    "appearanceId": "round face with raised arched eyebrows, wide open eyes, and small downturned frown",
+    "functionalityId": "express concern or anxious reaction",
+    "intentId": "convey worry or apprehension about something"
+  },
+  "fa-face-zany": {
+    "appearanceId": "round face with one eye wide open, one eye closed in wink, stuck-out tongue, and raised eyebrow",
+    "functionalityId": "express silly or playful reaction",
+    "intentId": "convey humor or lighthearted goofiness"
+  },
+  "fa-face-zipper": {
+    "appearanceId": "round face with normal eyes and a zipper pull replacing the mouth in a closed horizontal line",
+    "functionalityId": "indicate silence or secrecy",
+    "intentId": "convey keeping a secret or staying quiet"
+  },
+  "fa-feather": {
+    "appearanceId": "single quill feather with pointed tip and barbs along central shaft",
+    "functionalityId": "compose or write lightweight content",
+    "intentId": "start writing or authoring text"
+  },
+  "fa-feather-alt": {
+    "appearanceId": "quill feather with pointed tip, barbs along shaft, and a thin nib line at the base",
+    "functionalityId": "compose or sign with a quill pen",
+    "intentId": "write, sign, or author a document"
+  },
+  "fa-ferry": {
+    "appearanceId": "side-view ferry boat with flat deck, enclosed cabin structure, and wide hull",
+    "functionalityId": "find or schedule a ferry transit route",
+    "intentId": "access water-based transit or crossing service"
+  },
+  "fa-field-hockey": {
+    "appearanceId": "curved-tip field hockey stick with a small ball near the hooked end",
+    "functionalityId": "browse or tag field hockey content",
+    "intentId": "access field hockey sport category"
+  },
+  "fa-file": {
+    "appearanceId": "single document page with folded top-right corner",
+    "functionalityId": "open or create a file",
+    "intentId": "access or manage a document"
+  },
+  "fa-file-alt": {
+    "appearanceId": "document page with folded top-right corner and horizontal text lines on the body",
+    "functionalityId": "open or view a text document",
+    "intentId": "read or edit a text-based file"
+  },
+  "fa-file-audio": {
+    "appearanceId": "document page with folded corner and a musical note symbol on the body",
+    "functionalityId": "open or play an audio file",
+    "intentId": "access or preview an audio document"
+  },
+  "fa-file-award": {
+    "appearanceId": "document page with folded corner and a circular medallion with ribbon badge on the body",
+    "functionalityId": "view or issue an award certificate",
+    "intentId": "access a certificate or credential document"
+  },
+  "fa-file-binary": {
+    "appearanceId": "document page with folded corner and binary digits 0 and 1 on the body",
+    "functionalityId": "open or inspect a binary data file",
+    "intentId": "access raw binary or machine-code content"
+  },
+  "fa-file-cad": {
+    "appearanceId": "document page with CAD label badge",
+    "functionalityId": "open or export a CAD drawing file",
+    "intentId": "access a computer-aided design document"
+  },
+  "fa-file-caret-down": {
+    "appearanceId": "document page with folded corner and a downward-pointing caret arrow on the body",
+    "functionalityId": "download or expand a file downward",
+    "intentId": "retrieve or open a file from below"
+  },
+  "fa-file-caret-up": {
+    "appearanceId": "document page with folded corner and an upward-pointing caret arrow on the body",
+    "functionalityId": "upload or promote a file upward",
+    "intentId": "send or submit a file to a higher destination"
+  },
+  "fa-file-chart-line": {
+    "appearanceId": "document page with folded corner and an upward-trending line chart on the body",
+    "functionalityId": "open or view a data report file",
+    "intentId": "access trend or analytics report document"
+  },
+  "fa-file-chart-pie": {
+    "appearanceId": "document page with folded corner and a pie chart divided into wedges on the body",
+    "functionalityId": "open or view a pie chart report file",
+    "intentId": "access a proportion or breakdown report"
+  },
+  "fa-file-check": {
+    "appearanceId": "document page with folded corner and a checkmark on the body",
+    "functionalityId": "mark a file as reviewed or approved",
+    "intentId": "confirm a document is complete or verified"
+  },
+  "fa-file-circle-check": {
+    "appearanceId": "document page with circle-check badge at corner",
+    "functionalityId": "confirm or approve a file",
+    "intentId": "mark a document as verified or complete"
+  },
+  "fa-file-circle-exclamation": {
+    "appearanceId": "document page with circle-exclamation badge at corner",
+    "functionalityId": "flag a file with a warning alert",
+    "intentId": "draw attention to a problematic document"
+  },
+  "fa-file-circle-info": {
+    "appearanceId": "document page with circle-info badge at corner",
+    "functionalityId": "view information or metadata about a file",
+    "intentId": "learn more about a document's details"
+  },
+  "fa-file-circle-minus": {
+    "appearanceId": "document page with circle-minus badge at corner",
+    "functionalityId": "remove or reduce content from a file",
+    "intentId": "delete or subtract from a document"
+  },
+  "fa-file-circle-plus": {
+    "appearanceId": "document page with circle-plus badge at corner",
+    "functionalityId": "add a new file or attachment",
+    "intentId": "create or append a new document"
+  },
+  "fa-file-circle-question": {
+    "appearanceId": "document page with circle-question badge at corner",
+    "functionalityId": "get help or clarification about a file",
+    "intentId": "investigate an unknown or unclear document"
+  },
+  "fa-file-circle-xmark": {
+    "appearanceId": "document page with circle-xmark badge at corner",
+    "functionalityId": "delete or reject a file",
+    "intentId": "remove or cancel a document"
+  },
+  "fa-file-code": {
+    "appearanceId": "document page with angle-bracket code symbols",
+    "functionalityId": "open or edit a source code file",
+    "intentId": "access a code or script document"
+  },
+  "fa-file-contract": {
+    "appearanceId": "document page with folded corner and horizontal text lines plus a signature line at the bottom",
+    "functionalityId": "open or sign a contract document",
+    "intentId": "review or execute a legal agreement"
+  },
+  "fa-file-csv": {
+    "appearanceId": "document page with CSV label badge",
+    "functionalityId": "open or export a CSV data file",
+    "intentId": "access comma-separated values data"
+  },
+  "fa-file-doc": {
+    "appearanceId": "document page with DOC label badge",
+    "functionalityId": "open or edit a Word-format document",
+    "intentId": "access a word processing document file"
+  },
+  "fa-file-download": {
+    "appearanceId": "document page with folded corner and a downward arrow on the body",
+    "functionalityId": "download a file to local storage",
+    "intentId": "save a document to the device"
+  },
+  "fa-file-eps": {
+    "appearanceId": "document page with EPS label badge",
+    "functionalityId": "open or export an EPS vector file",
+    "intentId": "access an Encapsulated PostScript graphic"
+  },
+  "fa-file-excel": {
+    "appearanceId": "document page with Excel spreadsheet grid badge",
+    "functionalityId": "open or edit a spreadsheet file",
+    "intentId": "access tabular or financial data in Excel"
+  },
+  "fa-file-exclamation": {
+    "appearanceId": "document page with folded corner and an exclamation mark on the body",
+    "functionalityId": "flag a file with a warning or alert",
+    "intentId": "highlight a critical or urgent document"
+  },
+  "fa-file-export": {
+    "appearanceId": "document page with folded corner and a rightward arrow exiting the body",
+    "functionalityId": "export a file to another location or format",
+    "intentId": "send or share a document externally"
+  },
+  "fa-file-fragment": {
+    "appearanceId": "document page outline with jagged or fragmented torn edge on one side",
+    "functionalityId": "indicate an incomplete or partial file",
+    "intentId": "access a fragment or broken piece of a document"
+  },
+  "fa-file-gif": {
+    "appearanceId": "document page with GIF label badge",
+    "functionalityId": "open or insert a GIF animation file",
+    "intentId": "access an animated image document"
+  },
+  "fa-file-half-dashed": {
+    "appearanceId": "document page outline with dashed lower half",
+    "functionalityId": "indicate a partially complete or draft file",
+    "intentId": "access an in-progress or unfinished document"
+  },
+  "fa-file-heart": {
+    "appearanceId": "document page with folded corner and a heart shape on the body",
+    "functionalityId": "favorite or like a file",
+    "intentId": "save a document to favorites or wish list"
+  },
+  "fa-file-image": {
+    "appearanceId": "document page with mountain-and-sun landscape thumbnail",
+    "functionalityId": "open or preview an image file",
+    "intentId": "access a photo or graphic document"
+  },
+  "fa-file-import": {
+    "appearanceId": "document page with folded corner and a leftward arrow entering the body",
+    "functionalityId": "import a file from an external source",
+    "intentId": "bring in a document from another location"
+  },
+  "fa-file-invoice": {
+    "appearanceId": "document page with folded corner and horizontal lines plus a small table or grid on the body",
+    "functionalityId": "open or create an invoice document",
+    "intentId": "review or send a billing statement"
+  },
+  "fa-file-invoice-dollar": {
+    "appearanceId": "document page with folded corner, horizontal text lines, and a dollar sign on the body",
+    "functionalityId": "open or create a dollar-value invoice",
+    "intentId": "review or issue a financial billing document"
+  },
+  "fa-file-jpg": {
+    "appearanceId": "document page with JPG label badge",
+    "functionalityId": "open or save a JPEG image file",
+    "intentId": "access a compressed photo or image document"
+  },
+  "fa-file-lock": {
+    "appearanceId": "document page with folded corner and a padlock symbol on the body",
+    "functionalityId": "lock or restrict access to a file",
+    "intentId": "protect a document from editing or viewing"
+  },
+  "fa-file-medical": {
+    "appearanceId": "document page with folded corner and a plus cross medical symbol on the body",
+    "functionalityId": "open or manage a medical record file",
+    "intentId": "access health or patient documentation"
+  },
+  "fa-file-minus": {
+    "appearanceId": "document page with folded corner and a horizontal minus bar on the body",
+    "functionalityId": "remove content or reduce a file",
+    "intentId": "delete or shrink a document"
+  }
+}

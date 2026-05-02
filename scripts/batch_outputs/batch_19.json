@@ -1,0 +1,242 @@
+{
+  "fa-square-dashed-circle-plus": {
+    "appearanceId": "dashed-border square with a circle containing a plus sign overlaid",
+    "functionalityId": "add a new item to a placeholder zone",
+    "intentId": "create or insert content into an empty slot"
+  },
+  "fa-square-divide": {
+    "appearanceId": "square containing a division sign with dot above and below a horizontal line",
+    "functionalityId": "perform or indicate a division operation",
+    "intentId": "divide a value or apply a division function"
+  },
+  "fa-square-down": {
+    "appearanceId": "square with arrow pointing down",
+    "functionalityId": "move or scroll content downward",
+    "intentId": "navigate or send an item downward"
+  },
+  "fa-square-down-left": {
+    "appearanceId": "square with arrow pointing down and to the left",
+    "functionalityId": "move or redirect content down-left",
+    "intentId": "navigate or collapse an item to lower-left"
+  },
+  "fa-square-down-right": {
+    "appearanceId": "square with arrow pointing down and to the right",
+    "functionalityId": "move or redirect content down-right",
+    "intentId": "navigate or collapse an item to lower-right"
+  },
+  "fa-square-e": {
+    "appearanceId": "square containing uppercase letter E",
+    "functionalityId": "select or label category E item",
+    "intentId": "identify or navigate to E-labeled option"
+  },
+  "fa-square-ellipsis": {
+    "appearanceId": "square containing three horizontal dots",
+    "functionalityId": "open overflow or additional options menu",
+    "intentId": "access more actions in a compact menu"
+  },
+  "fa-square-ellipsis-vertical": {
+    "appearanceId": "square containing three vertical dots",
+    "functionalityId": "open vertical overflow or options menu",
+    "intentId": "access more actions in a vertical menu"
+  },
+  "fa-square-f": {
+    "appearanceId": "square containing uppercase letter F",
+    "functionalityId": "select or label category F item",
+    "intentId": "identify or navigate to F-labeled option"
+  },
+  "fa-square-full": {
+    "appearanceId": "completely filled solid square",
+    "functionalityId": "indicate a fully selected or filled state",
+    "intentId": "mark an item as fully complete or occupied"
+  },
+  "fa-square-g": {
+    "appearanceId": "square containing uppercase letter G",
+    "functionalityId": "select or label category G item",
+    "intentId": "identify or navigate to G-labeled option"
+  },
+  "fa-square-i": {
+    "appearanceId": "square containing uppercase letter I",
+    "functionalityId": "select or label category I item",
+    "intentId": "identify or navigate to I-labeled option"
+  },
+  "fa-square-j": {
+    "appearanceId": "square containing uppercase letter J",
+    "functionalityId": "select or label category J item",
+    "intentId": "identify or navigate to J-labeled option"
+  },
+  "fa-square-k": {
+    "appearanceId": "square containing uppercase letter K",
+    "functionalityId": "select or label category K item",
+    "intentId": "identify or navigate to K-labeled option"
+  },
+  "fa-square-kanban": {
+    "appearanceId": "square with small kanban column bars inside",
+    "functionalityId": "open or view a kanban board",
+    "intentId": "manage tasks in a column-based workflow"
+  },
+  "fa-square-l": {
+    "appearanceId": "square containing uppercase letter L",
+    "functionalityId": "select or label category L item",
+    "intentId": "identify or navigate to L-labeled option"
+  },
+  "fa-square-left": {
+    "appearanceId": "square with left-pointing arrow inside",
+    "functionalityId": "navigate or move content to the left",
+    "intentId": "go back or shift an item leftward"
+  },
+  "fa-square-list": {
+    "appearanceId": "square with three small horizontal lines inside",
+    "functionalityId": "open or view a list view",
+    "intentId": "switch to or browse a list layout"
+  },
+  "fa-square-m": {
+    "appearanceId": "square containing uppercase letter M",
+    "functionalityId": "select or label category M item",
+    "intentId": "identify or navigate to M-labeled option"
+  },
+  "fa-square-n": {
+    "appearanceId": "square containing uppercase letter N",
+    "functionalityId": "select or label category N item",
+    "intentId": "identify or navigate to N-labeled option"
+  },
+  "fa-square-nfi": {
+    "appearanceId": "square containing the letters NFI",
+    "functionalityId": "indicate a no-further-information status",
+    "intentId": "flag an item with no further info available"
+  },
+  "fa-square-o": {
+    "appearanceId": "square containing uppercase letter O",
+    "functionalityId": "select or label category O item",
+    "intentId": "identify or navigate to O-labeled option"
+  },
+  "fa-square-p": {
+    "appearanceId": "square containing uppercase letter P",
+    "functionalityId": "select or label category P item",
+    "intentId": "identify or navigate to P-labeled option"
+  },
+  "fa-square-person-confined": {
+    "appearanceId": "square containing a person silhouette enclosed within vertical bars",
+    "functionalityId": "indicate a confined or restricted person status",
+    "intentId": "flag a person as detained or in a restricted area"
+  },
+  "fa-square-q": {
+    "appearanceId": "square containing uppercase letter Q",
+    "functionalityId": "select or label category Q item",
+    "intentId": "identify or navigate to Q-labeled option"
+  },
+  "fa-square-quarters": {
+    "appearanceId": "square divided into four equal quadrant sections",
+    "functionalityId": "split view into four equal sections",
+    "intentId": "organize or compare content in four quadrants"
+  },
+  "fa-square-quote": {
+    "appearanceId": "square containing a large opening quotation mark",
+    "functionalityId": "insert or highlight a block quote",
+    "intentId": "add or view a quoted passage in content"
+  },
+  "fa-square-r": {
+    "appearanceId": "square containing uppercase letter R",
+    "functionalityId": "select or label category R item",
+    "intentId": "identify or navigate to R-labeled option"
+  },
+  "fa-square-right": {
+    "appearanceId": "square with right-pointing arrow inside",
+    "functionalityId": "navigate or move content to the right",
+    "intentId": "go forward or shift an item rightward"
+  },
+  "fa-square-ring": {
+    "appearanceId": "square containing a hollow circle or ring shape",
+    "functionalityId": "indicate a ring or circular element in a grid",
+    "intentId": "select or mark a ring-shaped category item"
+  },
+  "fa-square-root": {
+    "appearanceId": "square root radical symbol with horizontal overbar",
+    "functionalityId": "calculate or apply a square root operation",
+    "intentId": "compute the root of a mathematical value"
+  },
+  "fa-square-root-alt": {
+    "appearanceId": "square root radical symbol with a small numeral inside the overbar",
+    "functionalityId": "calculate or apply an nth root operation",
+    "intentId": "compute a specified root of a mathematical value"
+  },
+  "fa-square-s": {
+    "appearanceId": "square containing uppercase letter S",
+    "functionalityId": "select or label category S item",
+    "intentId": "identify or navigate to S-labeled option"
+  },
+  "fa-square-sliders": {
+    "appearanceId": "square with three horizontal slider controls inside",
+    "functionalityId": "open settings or adjustment panel",
+    "intentId": "fine-tune parameters or filter settings"
+  },
+  "fa-square-small": {
+    "appearanceId": "small solid square shape",
+    "functionalityId": "indicate a small square marker or bullet",
+    "intentId": "mark a point or use as a compact indicator"
+  },
+  "fa-square-star": {
+    "appearanceId": "square containing a five-pointed star",
+    "functionalityId": "mark or favorite an item in a grid",
+    "intentId": "highlight or save a starred item"
+  },
+  "fa-square-t": {
+    "appearanceId": "square containing uppercase letter T",
+    "functionalityId": "select or label category T item",
+    "intentId": "identify or navigate to T-labeled option"
+  },
+  "fa-square-terminal": {
+    "appearanceId": "square with command-line prompt angle bracket and cursor",
+    "functionalityId": "open or access a terminal or CLI",
+    "intentId": "run commands or enter developer terminal mode"
+  },
+  "fa-square-u": {
+    "appearanceId": "square containing uppercase letter U",
+    "functionalityId": "select or label category U item",
+    "intentId": "identify or navigate to U-labeled option"
+  },
+  "fa-square-up": {
+    "appearanceId": "square with arrow pointing up",
+    "functionalityId": "move or scroll content upward",
+    "intentId": "navigate or send an item upward"
+  },
+  "fa-square-up-left": {
+    "appearanceId": "square with arrow pointing up and to the left",
+    "functionalityId": "move or redirect content up-left",
+    "intentId": "navigate or expand an item to upper-left"
+  },
+  "fa-square-up-right": {
+    "appearanceId": "square with arrow pointing up and to the right",
+    "functionalityId": "move or redirect content up-right",
+    "intentId": "navigate or expand an item to upper-right"
+  },
+  "fa-square-user": {
+    "appearanceId": "square containing a person silhouette",
+    "functionalityId": "open or view a user profile card",
+    "intentId": "access or identify a specific user account"
+  },
+  "fa-square-v": {
+    "appearanceId": "square containing uppercase letter V",
+    "functionalityId": "select or label category V item",
+    "intentId": "identify or navigate to V-labeled option"
+  },
+  "fa-square-virus": {
+    "appearanceId": "square containing a virus particle with spiky protrusions",
+    "functionalityId": "indicate a virus threat or infection warning",
+    "intentId": "flag or report a virus or health hazard"
+  },
+  "fa-square-w": {
+    "appearanceId": "square containing uppercase letter W",
+    "functionalityId": "select or label category W item",
+    "intentId": "identify or navigate to W-labeled option"
+  },
+  "fa-square-x": {
+    "appearanceId": "square containing uppercase letter X",
+    "functionalityId": "select or label category X item",
+    "intentId": "identify or navigate to X-labeled option"
+  },
+  "fa-square-xmark": {
+    "appearanceId": "square containing an X mark",
+    "functionalityId": "close, dismiss, or delete an item",
+    "intentId": "remove or reject a selected element"
+  }
+}

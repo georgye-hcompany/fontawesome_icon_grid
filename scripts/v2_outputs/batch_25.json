@@ -1,0 +1,242 @@
+{
+  "fa-face-disguise": {
+    "appearanceId": "a round face outline wearing a novelty disguise accessory with a large attached nose, bushy eyebrows, and glasses frames; circular face shape topped with a joke-shop disguise piece combining fake brows, nose bridge, and spectacles",
+    "functionalityId": "inserts a disguised or incognito reaction emoji into a message; marks content with a playful hiding or undercover sentiment",
+    "intentId": "express a playful or humorous disguised identity in a reaction; react with a fun undercover or anonymous personality"
+  },
+  "fa-face-dotted": {
+    "appearanceId": "a round face outline with small dots or spots scattered across the face surface in place of normal features, giving a textured or speckled appearance; circular face shape covered in tiny filled circles suggesting a dotted or polka-dot pattern",
+    "functionalityId": "inserts a dotted or textured face reaction emoji into a message; marks content with a quirky or abstract facial expression sentiment",
+    "intentId": "express a quirky, abstract, or unusual emotional state; react with a visually distinctive spotted-face emotion"
+  },
+  "fa-face-downcast-sweat": {
+    "appearanceId": "a round face outline with downward-angled sad eyebrows, closed or downward-cast eyes, and a small sweat droplet on the side of the face; circular face with a dejected or tired expression plus a teardrop-like sweat bead near the temple",
+    "functionalityId": "inserts a downcast or exhausted sweating reaction emoji into a message; marks content with a weary, deflated, or relieved-but-sad sentiment",
+    "intentId": "express weariness, defeat, or exhausted sadness in a reaction; communicate a feeling of being drained or downhearted with effort"
+  },
+  "fa-face-drooling": {
+    "appearanceId": "a round face outline with half-open or droopy eyes and a small drool or saliva droplet hanging from the corner of the open mouth; circular face shape with a slack-jawed expression and a dangling drool mark below the lip",
+    "functionalityId": "inserts a drooling or craving reaction emoji into a message; marks content with a hungry, infatuated, or intensely desiring sentiment",
+    "intentId": "express intense craving, hunger, or infatuation in a reaction; react to something extremely appealing with a drooling desire emotion"
+  },
+  "fa-face-exhaling": {
+    "appearanceId": "a round face outline with eyes in a neutral or slightly closed position and a mouth blowing out a visible puff of air or breath lines curling outward; circular face shape showing pursed lips with small curved exhale strokes emanating from the mouth",
+    "functionalityId": "inserts an exhaling or relieved sighing reaction emoji into a message; marks content with a releasing tension or tired-exhale sentiment",
+    "intentId": "express relief, exhaustion, or releasing pent-up stress in a reaction; communicate a deep sigh or breath-out emotional response"
+  },
+  "fa-face-explode": {
+    "appearanceId": "a round face outline with an explosive burst or starburst shape replacing or erupting from the top of the head, and wide shocked eyes below; circular face shape with an irregular jagged eruption emerging from the skull area suggesting a mind blown or exploding head",
+    "functionalityId": "inserts an exploding head or mind-blown reaction emoji into a message; marks content with an overwhelmed or shocking revelation sentiment",
+    "intentId": "express that something is mind-blowing or overwhelmingly shocking; react to incredible or unbelievable content with a head-exploding emotion"
+  },
+  "fa-face-expressionless": {
+    "appearanceId": "a round face outline with flat horizontal line eyes or small neutral dots and a perfectly straight flat horizontal line for a mouth; circular face shape conveying zero emotion with completely neutral level brows and a flat closed mouth",
+    "functionalityId": "inserts an expressionless or blank-faced reaction emoji into a message; marks content with a deadpan, unamused, or completely neutral sentiment",
+    "intentId": "express total indifference or a completely neutral unimpressed reaction; react to something with a blank deadpan emotional response"
+  },
+  "fa-face-eyes-xmarks": {
+    "appearanceId": "a round face outline with two X marks in place of the eyes and a small open or wavy mouth; circular face shape showing crossed-out eyes suggesting unconsciousness or defeat",
+    "functionalityId": "inserts a dizzy, knocked-out, or dead reaction emoji into a message; marks content with an overwhelmed, incapacitated, or defeated sentiment",
+    "intentId": "express feeling knocked out, overwhelmed, or utterly defeated; react with an incapacitated or dizzied emotional state"
+  },
+  "fa-face-fearful": {
+    "appearanceId": "a round face outline with wide open round eyes, raised and arched eyebrows pulled inward with fear, and an open mouth stretched into a frightened grimace; circular face shape showing large fearful eyes and a gaping scared mouth expression",
+    "functionalityId": "inserts a fearful or terrified reaction emoji into a message; marks content with a scared or frightened sentiment",
+    "intentId": "express fear, terror, or being deeply frightened in a reaction; react to something scary or alarming with a frightened emotion"
+  },
+  "fa-face-frown-slight": {
+    "appearanceId": "a round face outline with neutral or slightly angled brows and a gentle downward curve of the mouth that is less pronounced than a full frown; circular face shape with a subtle mild frown suggesting mild displeasure or disappointment",
+    "functionalityId": "inserts a slightly frowning or mildly unhappy reaction emoji into a message; marks content with a minor disappointment or subdued displeasure sentiment",
+    "intentId": "express mild dissatisfaction or slight disappointment in a reaction; react to something mildly negative with a gentle unhappy expression"
+  },
+  "fa-face-glasses": {
+    "appearanceId": "a round face outline with a pair of eyeglasses frames sitting on the face, showing two circular or rectangular lens outlines connected by a nose bridge; circular face shape wearing spectacles with visible frame shapes over the eye area",
+    "functionalityId": "inserts a bespectacled or intellectual-looking reaction emoji into a message; marks content with a nerdy, studious, or scholarly sentiment",
+    "intentId": "express a nerdy, studious, or intellectual personality in a reaction; react with a glasses-wearing brainy or scholarly emotion"
+  },
+  "fa-face-hand-over-mouth": {
+    "appearanceId": "a round face outline with wide or slightly squinted eyes and a hand shape covering the lower half of the face over the mouth area; circular face shape with a palm silhouette pressed across the mouth suggesting surprise or suppressed speech",
+    "functionalityId": "inserts a shocked hand-over-mouth or gasping reaction emoji into a message; marks content with a surprised, embarrassed, or speechless sentiment",
+    "intentId": "express surprise, shock, or embarrassed speechlessness in a reaction; react with a gasping or hand-covering-mouth emotional response"
+  },
+  "fa-face-hand-peeking": {
+    "appearanceId": "a round face outline with eyes peeking over a hand shape covering the lower portion of the face from below, as if hiding behind hands and looking over the top; circular face with eyes visible above fingers splayed across the lower face",
+    "functionalityId": "inserts a peeking or shy hiding-behind-hands reaction emoji into a message; marks content with a bashful, nervous, or hesitant sentiment",
+    "intentId": "express shyness, nervous anticipation, or hiding from something; react with a peeking or cautiously hiding emotional response"
+  },
+  "fa-face-hand-yawn": {
+    "appearanceId": "a round face outline with a wide-open yawning mouth and a hand shape raised up near the mouth in a covering-the-yawn gesture; circular face shape showing a large open oval mouth yawn with a palm partially obscuring it",
+    "functionalityId": "inserts a yawning or bored reaction emoji into a message; marks content with a tired, uninterested, or sleepy sentiment",
+    "intentId": "express boredom, drowsiness, or being unengaged in a reaction; react to uninteresting content with a yawning tired emotion"
+  },
+  "fa-face-head-bandage": {
+    "appearanceId": "a round face outline with a bandage or medical wrapping visible across the forehead or top of the head, and a simple or pained expression; circular face shape with a horizontal strip bandage across the upper face or skull area",
+    "functionalityId": "inserts a hurt or injured head reaction emoji into a message; marks content with a wounded, recovering, or pain-related sentiment",
+    "intentId": "express injury, pain, or a recovering hurt in a reaction; react with a bandaged head representing physical discomfort or sympathy"
+  },
+  "fa-face-holding-back-tears": {
+    "appearanceId": "a round face outline with trembling or quivering lower lip, wide glistening eyes with visible tear buildup, and raised inner eyebrows forming a sad arch; circular face shape showing the brink-of-crying expression with wet shimmering eyes and wobbling mouth",
+    "functionalityId": "inserts a holding-back-tears or emotionally overwhelmed reaction emoji into a message; marks content with a deeply touched, sad, or moved sentiment",
+    "intentId": "express being deeply moved, touched, or on the verge of tears; react with an emotionally overwhelmed or bittersweet feeling"
+  },
+  "fa-face-hushed": {
+    "appearanceId": "a round face outline with wide open eyes and a small tight or pursed oval mouth expressing a hushed or shushed look; circular face shape showing a surprised or startled expression with a small constrained open mouth",
+    "functionalityId": "inserts a hushed, startled, or quietly shocked reaction emoji into a message; marks content with a wide-eyed speechless or silent-surprise sentiment",
+    "intentId": "express a quiet shock, startled silence, or hushed surprise in a reaction; react with a speechless or silently startled emotional response"
+  },
+  "fa-face-icicles": {
+    "appearanceId": "a round face outline with small icicle or frost spike shapes hanging from the lower portion of the face or chin area, and a cold or shivering expression; circular face shape with pointed icicle drips at the bottom suggesting extreme cold",
+    "functionalityId": "inserts a freezing cold or icy reaction emoji into a message; marks content with an extremely cold, frozen, or chilled sentiment",
+    "intentId": "express being extremely cold, frozen, or chilled to the bone; react to cold conditions or icy content with a freezing emotion"
+  },
+  "fa-face-kiss-closed-eyes": {
+    "appearanceId": "a round face outline with both eyes closed in a content squint and a small puckered or heart-shaped kiss mouth; circular face shape showing blissfully closed eyes and pursed lips forming a kissing expression",
+    "functionalityId": "inserts a kissing or affectionate closed-eyes reaction emoji into a message; marks content with a loving, romantic, or tender sentiment",
+    "intentId": "express affection, love, or a tender kiss in a reaction; react with a romantic or warmly loving emotional response"
+  },
+  "fa-face-lying": {
+    "appearanceId": "a round face outline with a long elongated nose extending outward from the face similar to a Pinocchio nose, and a neutral or guilty-looking expression; circular face shape with an exaggerated long nose protrusion suggesting dishonesty",
+    "functionalityId": "inserts a lying or dishonest Pinocchio-style reaction emoji into a message; marks content with a deceptive, untruthful, or fibbing sentiment",
+    "intentId": "express that something is a lie or that someone is being dishonest; react to false or untruthful content with a Pinocchio emotion"
+  },
+  "fa-face-mask": {
+    "appearanceId": "a round face outline with a medical or surgical mask covering the lower half of the face over the nose and mouth area; circular face shape showing eyes above a flat rectangular mask band across the mouth region",
+    "functionalityId": "inserts a mask-wearing or health-conscious reaction emoji into a message; marks content with a sick, cautious, or health-protective sentiment",
+    "intentId": "express illness, caution about health, or mask-wearing in a reaction; react with a health-protective or sick-day emotional response"
+  },
+  "fa-face-melting": {
+    "appearanceId": "a round face outline that appears to be dripping or melting downward with features sliding toward the bottom, and an exaggerated distorted expression; circular face shape with drooping or liquefying lower contours suggesting a melting or overwhelmed look",
+    "functionalityId": "inserts a melting or overwhelmed-by-heat reaction emoji into a message; marks content with an overheated, melting, or intensely flustered sentiment",
+    "intentId": "express feeling overheated, intensely embarrassed, or completely melting away; react to overwhelming or extremely hot situations with a melting emotion"
+  },
+  "fa-face-monocle": {
+    "appearanceId": "a round face outline with a single monocle lens shape over one eye and a raised or inquisitive eyebrow above it, and an evaluating expression; circular face shape with one circular eyeglass lens framing a single eye suggesting scrutiny",
+    "functionalityId": "inserts a monocled or inquisitive-evaluating reaction emoji into a message; marks content with a scrutinizing, dubious, or critically examining sentiment",
+    "intentId": "express critical scrutiny, skeptical evaluation, or an inquisitive inspection; react with a judgmental or carefully examining emotional response"
+  },
+  "fa-face-nauseated": {
+    "appearanceId": "a round face outline with a green-tinted or pale complexion implication, a wavy or squiggly mouth suggesting nausea, and half-closed uncomfortable eyes; circular face shape with a sickly grimacing mouth curve and uneasy or drooping eyes",
+    "functionalityId": "inserts a nauseated or grossed-out reaction emoji into a message; marks content with a disgusted, sick-to-the-stomach, or revolted sentiment",
+    "intentId": "express nausea, disgust, or feeling sick in a reaction; react to revolting or gross content with a nauseated emotion"
+  },
+  "fa-face-nose-steam": {
+    "appearanceId": "a round face outline with small steam puff lines or wisps emanating from the nostrils, and a frustrated or angry furrowed expression; circular face shape showing an irritated scowl with visible steam clouds coming from the nose",
+    "functionalityId": "inserts a steaming-from-the-nose furious reaction emoji into a message; marks content with an intensely angry, fuming, or infuriated sentiment",
+    "intentId": "express intense fury, frustration, or boiling anger in a reaction; react to infuriating content with a steaming-mad emotional response"
+  },
+  "fa-face-party": {
+    "appearanceId": "a round face outline with a party hat or cone-shaped hat on top of the head, a festive expression, and possibly a party horn or noisemaker near the mouth; circular face shape wearing a pointed celebration hat with a cheerful or excited expression",
+    "functionalityId": "inserts a celebrating or party-time reaction emoji into a message; marks content with a festive, joyous, or celebratory sentiment",
+    "intentId": "express celebration, festivity, or party excitement in a reaction; react to good news or achievements with a celebratory emotion"
+  },
+  "fa-face-pensive": {
+    "appearanceId": "a round face outline with downward-tilted or slightly angled eyes looking to one side, slightly furrowed or flat brows, and a closed neutral to faintly downturned mouth suggesting deep thought; circular face shape conveying a contemplative or quietly sad reflective expression",
+    "functionalityId": "inserts a pensive or thoughtfully melancholy reaction emoji into a message; marks content with a reflective, quietly sad, or contemplative sentiment",
+    "intentId": "express pensiveness, quiet sadness, or deep contemplation in a reaction; react with a reflective or wistfully introspective emotional response"
+  },
+  "fa-face-persevering": {
+    "appearanceId": "a round face outline with tightly clenched or squinted shut eyes, raised inner brows forming a pained arch, and a grimacing or teeth-clenched mouth suggesting endurance; circular face shape showing a strained effortful expression of pushing through difficulty",
+    "functionalityId": "inserts a persevering or pushing-through-pain reaction emoji into a message; marks content with a determined-despite-struggle or enduring-hardship sentiment",
+    "intentId": "express perseverance, grit, or enduring a difficult situation; react with a determination to push through adversity or pain"
+  },
+  "fa-face-pleading": {
+    "appearanceId": "a round face outline with large wide puppy-dog eyes with a glossy or glistening sheen, upward-arched inner eyebrows forming a begging look, and a small downturned or trembling mouth; circular face shape with oversized pleading eyes and a hopeful begging expression",
+    "functionalityId": "inserts a pleading or begging reaction emoji into a message; marks content with an imploring, desperate-ask, or puppy-eyed sentiment",
+    "intentId": "express a pleading request, begging, or an earnest hopeful ask; react with an imploring or puppy-eyed emotional appeal"
+  },
+  "fa-face-pouting": {
+    "appearanceId": "a round face outline with downturned or puckered lips pushed outward in a pout, slightly furrowed brows, and narrowed or sulky eyes; circular face shape showing a sulky jutted lower lip and slightly scowling expression",
+    "functionalityId": "inserts a pouting or sulky reaction emoji into a message; marks content with a sullen, petulant, or mildly upset sentiment",
+    "intentId": "express sulkiness, petulance, or a pouty displeasure in a reaction; react with a sullen or mildly brooding emotional response"
+  },
+  "fa-face-raised-eyebrow": {
+    "appearanceId": "a round face outline with one eyebrow visibly arched upward higher than the other, and a neutral or skeptical mouth expression; circular face shape showing a single raised brow conveying skepticism or questioning curiosity",
+    "functionalityId": "inserts a raised-eyebrow skeptical or questioning reaction emoji into a message; marks content with a doubtful, curious, or suspicious sentiment",
+    "intentId": "express skepticism, suspicion, or a questioning curiosity in a reaction; react to something dubious or surprising with a raised-eyebrow emotion"
+  },
+  "fa-face-relieved": {
+    "appearanceId": "a round face outline with softly closed or crescent-shaped relieved eyes, slightly raised cheeks, and a gentle upward curve of the mouth suggesting peaceful relief; circular face shape showing a calm relaxed expression of tension released",
+    "functionalityId": "inserts a relieved or peacefully satisfied reaction emoji into a message; marks content with a tension-released, grateful, or stress-free sentiment",
+    "intentId": "express relief, gratitude, or a stress-free feeling after a difficult moment; react with a calm and relieved emotional response"
+  },
+  "fa-face-sad-sweat": {
+    "appearanceId": "a round face outline with downward-sad eyebrows, a frowning curved mouth, and a small sweat droplet on the side of the face; circular face shape combining a clear sad expression with a teardrop-like sweat bead near the temple",
+    "functionalityId": "inserts a sadly sweating or worried-and-upset reaction emoji into a message; marks content with a pained effort, nervous sadness, or unfortunate-outcome sentiment",
+    "intentId": "express sad frustration, nervous unhappiness, or a painful disappointment; react to stressful bad outcomes with a sad sweating emotion"
+  },
+  "fa-face-saluting": {
+    "appearanceId": "a round face outline with a hand raised up to the forehead in a saluting gesture, with a neutral or respectful expression; circular face shape showing a raised flat-handed arm near the brow in a military salute pose",
+    "functionalityId": "inserts a saluting or respectful acknowledgment reaction emoji into a message; marks content with a formal greeting, respect, or acknowledgment sentiment",
+    "intentId": "express respect, formal acknowledgment, or a saluting greeting; react to honor or authority with a crisp salute emotion"
+  },
+  "fa-face-scream": {
+    "appearanceId": "a round face outline with wide open round eyes, both hands raised to the sides of the face, and a wide gaping oval-shaped screaming mouth; circular face shape referencing The Scream pose with horror-wide eyes and a large open terrified mouth",
+    "functionalityId": "inserts a screaming or horror-stricken reaction emoji into a message; marks content with a terrified, panicked, or dramatic shock sentiment",
+    "intentId": "express terror, extreme panic, or a dramatic screaming fright; react to horrifying or extremely shocking content with a screaming emotion"
+  },
+  "fa-face-shush": {
+    "appearanceId": "a round face outline with one finger raised vertically in front of the mouth in a shushing gesture, and a neutral or stern expression with eyes looking forward; circular face shape showing an index finger pressed to the lips in a quiet-please shush pose",
+    "functionalityId": "inserts a shushing or silencing reaction emoji into a message; marks content with a quiet, silence-requested, or keep-it-secret sentiment",
+    "intentId": "tell someone to be quiet or to keep a secret; react with a shushing signal requesting silence or discretion"
+  },
+  "fa-face-sleeping": {
+    "appearanceId": "a round face outline with closed crescent-shaped eyes and small Z letter characters floating near the head suggesting sleep; circular face shape with shut eyes and rising Z bubbles indicating deep sleep",
+    "functionalityId": "inserts a sleeping or deeply asleep reaction emoji into a message; marks content with a tired, asleep, or totally disengaged sentiment",
+    "intentId": "express deep sleep, extreme tiredness, or total disengagement; react to boring content or signal bedtime with a sleeping emotion"
+  },
+  "fa-face-sleepy": {
+    "appearanceId": "a round face outline with one eye half-closed or drooping and the other barely open, with a drowsy or heavy-lidded expression and a slightly open or loose mouth; circular face shape showing heavy drooping eyelids suggesting drowsiness",
+    "functionalityId": "inserts a sleepy or drowsy reaction emoji into a message; marks content with a groggy, barely-awake, or nodding-off sentiment",
+    "intentId": "express drowsiness, grogginess, or barely-staying-awake tiredness; react with a sleepy half-awake emotional response"
+  },
+  "fa-face-smile-halo": {
+    "appearanceId": "a round face outline with a warm smiling expression and a glowing halo ring floating above the top of the head; circular face shape with a happy smile and a circular golden ring hovering above the head like an angel",
+    "functionalityId": "inserts an angelic or innocent smiling reaction emoji into a message; marks content with a virtuous, wholesome, or angelically good sentiment",
+    "intentId": "express innocent goodness, angelic virtue, or a wholesome pure reaction; react with a heavenly or saintly emotional expression"
+  },
+  "fa-face-smile-hearts": {
+    "appearanceId": "a round face outline with a warm smiling expression and small heart shapes floating around or near the face; circular face shape with a happy grinning mouth and little heart symbols emanating outward suggesting love",
+    "functionalityId": "inserts a smiling-with-hearts or love-struck reaction emoji into a message; marks content with an affectionate, adoring, or deeply loving sentiment",
+    "intentId": "express love, adoration, or a heart-filled joyful affection; react to something beloved or heartwarming with a love-smile emotion"
+  },
+  "fa-face-smile-horns": {
+    "appearanceId": "a round face outline with a mischievous or sly smiling expression and two small horn protrusions at the top of the head; circular face shape combining a devious grinning mouth with small pointed horns above suggesting a playful devil",
+    "functionalityId": "inserts a mischievous devil-smile or playfully evil reaction emoji into a message; marks content with a cheeky, devious, or impishly naughty sentiment",
+    "intentId": "express mischief, playful deviltry, or a cheeky naughty mood; react with a slyly grinning impish or devilish emotional tone"
+  },
+  "fa-face-smile-relaxed": {
+    "appearanceId": "a round face outline with softly upturned eyes and a gentle contented smile, conveying ease and calm happiness; circular face shape showing a serene relaxed grin with peacefully raised cheeks",
+    "functionalityId": "inserts a relaxed or contentedly smiling reaction emoji into a message; marks content with a calm, at-ease, or peacefully happy sentiment",
+    "intentId": "express contentment, calm happiness, or a relaxed peaceful mood; react with a serene and easygoing emotional response"
+  },
+  "fa-face-smile-tear": {
+    "appearanceId": "a round face outline with a smiling upturned mouth and a single teardrop streaming down from one eye; circular face shape showing a happy smiling expression with one visible tear on the cheek",
+    "functionalityId": "inserts a smiling-through-tears or bittersweet reaction emoji into a message; marks content with a joyfully crying, touched, or emotionally overwhelmed-in-a-good-way sentiment",
+    "intentId": "express bittersweet joy, happy crying, or being emotionally moved in a positive way; react with a touched or overwhelmingly happy emotional response"
+  },
+  "fa-face-smile-tongue": {
+    "appearanceId": "a round face outline with a wide grinning smile and a tongue sticking out from between the lips; circular face shape showing a broad happy grin with the tongue tip poking out playfully",
+    "functionalityId": "inserts a playfully grinning tongue-out reaction emoji into a message; marks content with a silly, teasing, or lightheartedly cheeky sentiment",
+    "intentId": "express playful silliness, teasing, or a tongue-out fun reaction; react with a goofy and lighthearted emotional expression"
+  },
+  "fa-face-smile-upside-down": {
+    "appearanceId": "a round face outline with a smile that is inverted or upside down as if the face itself is flipped, showing a curved mouth that is technically upward but reads as a frown in context; circular face shape rotated or mirrored so the grin appears on the wrong side",
+    "functionalityId": "inserts an upside-down sarcastic or passive-aggressive smile reaction emoji into a message; marks content with an ironic, awkward, or passive-resistance sentiment",
+    "intentId": "express sarcasm, passive aggression, or awkward forced positivity; react with an ironic or thinly-veiled frustrated smile"
+  },
+  "fa-face-smiling-hands": {
+    "appearanceId": "a round face outline with a warm happy smiling expression and two hand shapes raised or spread open on either side of the face in an open embrace or celebrating gesture; circular face shape flanked by open palms in a welcoming or joyful arms-open pose",
+    "functionalityId": "inserts a welcoming, hugging, or joyfully open-armed reaction emoji into a message; marks content with an enthusiastic, celebratory, or warmly inviting sentiment",
+    "intentId": "express enthusiastic joy, a welcoming open embrace, or celebratory excitement; react with an arms-open exuberant or hugging emotional response"
+  },
+  "fa-face-smirking": {
+    "appearanceId": "a round face outline with one corner of the mouth raised in a lopsided or one-sided smirk, and a slightly raised eyebrow giving a self-satisfied or knowing expression; circular face shape showing an asymmetric half-smile conveying smugness",
+    "functionalityId": "inserts a smirking or self-satisfied reaction emoji into a message; marks content with a smug, knowing, or slyly confident sentiment",
+    "intentId": "express smugness, sly confidence, or a knowing self-satisfied attitude; react with a smirking or cocky emotional expression"
+  },
+  "fa-face-spiral-eyes": {
+    "appearanceId": "a round face outline with two spiral or swirling concentric circle shapes in place of the eyes, and a dazed or overwhelmed open mouth; circular face shape showing spinning spiral eye symbols suggesting dizziness or hypnosis",
+    "functionalityId": "inserts a dizzy, hypnotized, or overwhelmed spiral-eyes reaction emoji into a message; marks content with a dazed, mind-spinning, or overstimulated sentiment",
+    "intentId": "express dizziness, hypnotic overwhelm, or complete mental disorientation; react to confusing or overstimulating content with a spinning spiral-eyes emotion"
+  }
+}
