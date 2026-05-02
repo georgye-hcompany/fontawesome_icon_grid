@@ -1,0 +1,242 @@
+{
+  "fa-road": {
+    "appearanceId": "a two-lane road in perspective view receding toward a vanishing point with a dashed center dividing line and road surface; straight highway perspective with lane markings",
+    "functionalityId": "represents a road, street, or driving route in a navigation or mapping interface; indicates a road segment or travel path",
+    "intentId": "navigate along a road or view a driving route on a map; indicate a road segment in a transportation or directions interface"
+  },
+  "fa-road-barrier": {
+    "appearanceId": "a two-lane road in perspective with a horizontal striped construction barrier or sawhorse barricade overlaid across the road surface; road perspective with a striped blockade obstacle",
+    "functionalityId": "represents a road closure, construction zone, or blocked route; indicates that a road segment is barricaded or impassable",
+    "intentId": "indicate a road closure or construction blockade on a navigation map; warn drivers of an impassable or restricted road segment"
+  },
+  "fa-road-bridge": {
+    "appearanceId": "a two-lane road in perspective with a curved arch bridge span rising over the roadway, showing arch supports and a deck surface; road perspective with an arched bridge structure overhead",
+    "functionalityId": "represents a bridge on a road route or a road crossing over water; indicates a bridge structure in a navigation or infrastructure context",
+    "intentId": "indicate a road bridge or overpass on a navigation map; represent a bridge infrastructure element in a transportation interface"
+  },
+  "fa-road-circle-check": {
+    "appearanceId": "a two-lane road in perspective with a small filled circle containing a checkmark badge overlaid in the upper corner; road perspective with a circular check approval badge",
+    "functionalityId": "marks a road as verified, open, or approved for travel; confirms that a road segment is clear and passable",
+    "intentId": "indicate that a road is confirmed open or approved for travel; confirm a road segment's passable status in a navigation interface"
+  },
+  "fa-road-circle-exclamation": {
+    "appearanceId": "a two-lane road in perspective with a small filled circle containing an exclamation mark badge overlaid in the upper corner; road perspective with a circular warning alert badge",
+    "functionalityId": "represents a road hazard, warning, or alert condition on a route; indicates that a road segment requires attention or has a reported issue",
+    "intentId": "warn of a road hazard or alert condition on a navigation map; indicate a road segment with an outstanding issue or caution"
+  },
+  "fa-road-circle-xmark": {
+    "appearanceId": "a two-lane road in perspective with a small filled circle containing an X mark badge overlaid in the upper corner; road perspective with a circular closed or blocked badge",
+    "functionalityId": "represents a road that is closed, blocked, or excluded from a route; indicates that a road segment is unavailable or denied",
+    "intentId": "indicate a closed or blocked road on a navigation map; exclude a road segment from a route due to closure or restriction"
+  },
+  "fa-road-lock": {
+    "appearanceId": "a two-lane road in perspective with a padlock silhouette overlaid on the road surface; road perspective with a lock symbol indicating restricted access",
+    "functionalityId": "represents a locked, restricted, or access-controlled road segment; indicates that a road requires authorization or is gated",
+    "intentId": "indicate a gated or access-controlled road on a navigation map; represent a restricted or locked road segment in a routing interface"
+  },
+  "fa-road-spikes": {
+    "appearanceId": "a two-lane road in perspective with a row of sharp upward-pointing spike strips or tire-deflation studs laid across the road surface; road perspective with a spike strip barrier overlay",
+    "functionalityId": "represents a spike strip, tire-deflation device, or vehicle-stopping barrier on a road; indicates a security checkpoint or forced stop on a route",
+    "intentId": "indicate a spike strip or vehicle-stopping security barrier on a road; represent a law enforcement checkpoint or access-control device on a route"
+  },
+  "fa-robot": {
+    "appearanceId": "a boxy robot head silhouette with rectangular eyes, an antenna on top, and a grid or panel body; classic square-headed robot face with antenna and facial feature details",
+    "functionalityId": "represents a robot, AI agent, or automated system; indicates automation, machine intelligence, or a bot-driven feature",
+    "intentId": "indicate an automated robot or AI agent feature; represent machine automation or bot functionality in an interface"
+  },
+  "fa-robot-astromech": {
+    "appearanceId": "a cylindrical astromech-style robot silhouette with a domed head, a central body panel with circular details, and a compact barrel-shaped torso reminiscent of a sci-fi droid; dome-headed cylindrical robot body with panel and port details",
+    "functionalityId": "represents a sci-fi astromech droid or companion robot; indicates a futuristic robotic assistant or space-themed automation feature",
+    "intentId": "represent a sci-fi droid or astromech robot in a space or gaming context; indicate a companion robot or futuristic automation theme"
+  },
+  "fa-rocket": {
+    "appearanceId": "a rocket ship silhouette with a pointed nose cone, a streamlined cylindrical body, and small fin stabilizers at the base with flame exhaust; pointed rocket body with tail fins and thruster nozzle",
+    "functionalityId": "represents a rocket launch, space travel, or fast startup action; indicates deployment, launch, or a high-speed or ambitious operation",
+    "intentId": "launch an application, deploy a project, or indicate a fast or ambitious startup action; represent space travel or a launch event"
+  },
+  "fa-rocket-launch": {
+    "appearanceId": "a rocket ship silhouette angled upward in mid-launch with a flame or exhaust plume trailing below the tail fins; rocket body tilted at a launch angle with a trailing flame blast",
+    "functionalityId": "represents an active rocket launch, deployment in progress, or a fast upward trajectory; indicates a launch event or deployment action underway",
+    "intentId": "indicate an active launch or deployment event in progress; represent the start of a project, mission, or high-speed initiative"
+  },
+  "fa-rod-snake": {
+    "appearanceId": "a vertical staff or rod with a single snake coiled or wrapped around the shaft, rising upward; a caduceus-like single snake entwined on an upright pole",
+    "functionalityId": "represents the Rod of Asclepius, medical practice, or healthcare; indicates a medical, pharmacy, or health-related feature",
+    "intentId": "indicate a medical, healthcare, or pharmacy context; represent a health professional or medical service in an interface"
+  },
+  "fa-roller-coaster": {
+    "appearanceId": "a roller coaster track silhouette with a steep hill peak, a loop or curved descent, and a coaster car near the top; amusement ride track outline with a loop and car on rails",
+    "functionalityId": "represents a roller coaster ride or amusement park attraction; indicates a theme park, thrill ride, or entertainment venue feature",
+    "intentId": "indicate a roller coaster or amusement park ride; represent a theme park attraction or thrill-ride context in an entertainment interface"
+  },
+  "fa-rotate": {
+    "appearanceId": "a circular arrow forming a full or near-full loop rotating clockwise or counterclockwise around a central point; single circular refresh arrow in a round rotation path",
+    "functionalityId": "rotates, refreshes, or reloads content in a circular motion; triggers a rotation or refresh action in an interface",
+    "intentId": "refresh or reload content by rotating it; indicate a rotation or refresh action in a media or data interface"
+  },
+  "fa-rotate-exclamation": {
+    "appearanceId": "a circular arrow forming a rotation loop with a small exclamation mark badge overlaid at the center or beside the arrow; rotation circular arrow with an alert exclamation badge",
+    "functionalityId": "represents a rotation or refresh action with a warning or error condition; indicates that a rotation or reload attempt has an associated alert",
+    "intentId": "indicate a rotation or refresh error or warning condition; alert the user that a reload or rotation action requires attention"
+  },
+  "fa-rotate-reverse": {
+    "appearanceId": "two circular arrows forming opposite-direction loops, one clockwise and one counterclockwise, suggesting a bidirectional or reverse rotation; paired circular arrows pointing in opposing rotation directions",
+    "functionalityId": "represents a reverse rotation, undo, or bidirectional cycling action; toggles the direction of rotation or reverses a previous action",
+    "intentId": "reverse or undo a rotation action; toggle between two rotation directions in a media or transform interface"
+  },
+  "fa-route": {
+    "appearanceId": "a curved S-shaped or winding path line with small circular endpoint markers at each end representing a start and finish; winding route line with terminal dot markers at both ends",
+    "functionalityId": "represents a navigation route, path, or directions between two points; displays or plans a travel route on a map",
+    "intentId": "plan or display a travel route between two locations; indicate a navigation path or directions in a mapping interface"
+  },
+  "fa-route-highway": {
+    "appearanceId": "a curved winding path line with a U.S. highway shield marker badge alongside the route line; route path with a rounded-top highway shield emblem",
+    "functionalityId": "represents a highway route or U.S. numbered highway path; indicates a major road or state highway segment on a navigation map",
+    "intentId": "display or navigate a U.S. highway route on a map; indicate a numbered highway road segment in a directions interface"
+  },
+  "fa-route-interstate": {
+    "appearanceId": "a curved winding path line with an interstate shield marker badge alongside the route line; route path with a blue-band-top interstate shield emblem",
+    "functionalityId": "represents an interstate route or numbered interstate highway path; indicates a major interstate road segment on a navigation map",
+    "intentId": "display or navigate a U.S. interstate highway route on a map; indicate an interstate highway segment in a directions interface"
+  },
+  "fa-router": {
+    "appearanceId": "a small rectangular network router device silhouette with two or three vertical antenna prongs on top and indicator lights on the front face; router hardware outline with antennas and status LEDs",
+    "functionalityId": "represents a network router or Wi-Fi access point device; indicates network connectivity, internet access, or router configuration",
+    "intentId": "manage or access a network router or Wi-Fi device; indicate network connectivity or internet routing in a device management interface"
+  },
+  "fa-rows": {
+    "appearanceId": "three or four horizontal rectangular bars stacked evenly one above the other, each spanning the full width; a set of uniform stacked horizontal rows or strips",
+    "functionalityId": "represents a row-based layout, list view, or table rows; switches to or indicates a horizontal row arrangement in a data display",
+    "intentId": "switch to or indicate a row-based list or table layout; display data as stacked horizontal rows in a grid or table interface"
+  },
+  "fa-rss": {
+    "appearanceId": "two or three concentric quarter-circle arc lines radiating outward from a small filled dot at the lower-left corner, resembling a radio signal or Wi-Fi fan; stacked arc waves emanating from a corner dot",
+    "functionalityId": "represents an RSS feed or web syndication subscription; subscribes to or accesses a content feed from a source",
+    "intentId": "subscribe to or manage an RSS content feed; access syndicated news or blog updates via a feed reader"
+  },
+  "fa-rss-square": {
+    "appearanceId": "a square container outline enclosing the same concentric quarter-circle arc waves radiating from a small filled dot at the lower-left corner; RSS signal arc waves contained inside a square badge",
+    "functionalityId": "represents an RSS feed subscription action within a square button or badge element; accesses a content feed from a square UI control",
+    "intentId": "subscribe to or manage an RSS feed from a square button interface; access syndicated content updates in a square-shaped badge control"
+  },
+  "fa-rub": {
+    "appearanceId": "a capital Cyrillic letter R with one or two horizontal crossbars through the lower stem, forming the Russian ruble currency symbol; ruble monetary glyph with a Р and horizontal bar strokes",
+    "functionalityId": "represents the Russian ruble currency unit; displays or labels a ruble monetary amount in a financial interface",
+    "intentId": "display or input a Russian ruble currency value; indicate a ruble denomination in a financial or e-commerce context"
+  },
+  "fa-rug": {
+    "appearanceId": "a rectangular or oval flat rug shape shown from above with a decorative border pattern and a fringed or tasseled edge along two short ends; flat area rug outline with border motif and fringe ends",
+    "functionalityId": "represents a floor rug or decorative area carpet; indicates a home furnishing, interior design, or flooring product category",
+    "intentId": "browse or select a floor rug in a home decor or interior design application; indicate a carpet or area rug product in a furnishing interface"
+  },
+  "fa-rugby-ball": {
+    "appearanceId": "an oval prolate spheroid rugby ball shape with a pointed tip at each end and lace or seam line markings along the length; elongated oval rugby ball with pointed ends and stitch lines",
+    "functionalityId": "represents a rugby ball or the sport of rugby; indicates a rugby match, team, or sporting activity",
+    "intentId": "indicate a rugby sport event or team category; access rugby-related content in a sports application"
+  },
+  "fa-ruler": {
+    "appearanceId": "a flat straight ruler strip lying horizontally with evenly spaced tick marks along one edge indicating measurement increments; long horizontal flat measuring ruler with tick marks",
+    "functionalityId": "represents a measuring ruler or linear measurement tool; measures distances or dimensions in a design or drawing interface",
+    "intentId": "measure a linear distance or dimension in a design or drawing tool; access a ruler measurement utility in a graphic or layout interface"
+  },
+  "fa-ruler-combined": {
+    "appearanceId": "two ruler strips joined at a right-angle corner forming an L-shaped measuring corner tool, with tick marks along both arms; L-shaped corner ruler with measurement ticks on both perpendicular arms",
+    "functionalityId": "represents a combination square or corner ruler for measuring both horizontal and vertical dimensions simultaneously; measures two perpendicular dimensions in a design interface",
+    "intentId": "measure or align elements along two perpendicular axes using a corner ruler; access a combination square measurement tool in a design interface"
+  },
+  "fa-ruler-horizontal": {
+    "appearanceId": "a single flat ruler strip oriented horizontally with evenly spaced tick marks along the bottom edge; straight horizontal measuring ruler with graduation marks along one edge",
+    "functionalityId": "represents a horizontal ruler or width measurement tool; measures horizontal distances or widths in a design or layout interface",
+    "intentId": "measure horizontal distances or widths in a design or layout tool; display a horizontal ruler guide in a graphic editing interface"
+  },
+  "fa-ruler-triangle": {
+    "appearanceId": "a right-angled triangular set-square shape with tick marks along the two straight edges and a hypotenuse completing the triangle; triangular set-square ruler with angle and measurement markings",
+    "functionalityId": "represents a set-square or triangular ruler for drafting angles and straight lines; measures angles or draws perpendicular lines in a design or drafting interface",
+    "intentId": "draw precise angles or perpendicular lines using a set-square ruler; access a triangle drafting tool in a technical drawing interface"
+  },
+  "fa-ruler-vertical": {
+    "appearanceId": "a single flat ruler strip oriented vertically with evenly spaced tick marks along the right edge; straight vertical measuring ruler with graduation marks along one side",
+    "functionalityId": "represents a vertical ruler or height measurement tool; measures vertical distances or heights in a design or layout interface",
+    "intentId": "measure vertical distances or heights in a design or layout tool; display a vertical ruler guide in a graphic editing interface"
+  },
+  "fa-running": {
+    "appearanceId": "a human stick-figure silhouette in a forward-leaning running stride with one leg extended back and arms bent at the elbows in a jog pose; person figure in a mid-run stride position",
+    "functionalityId": "represents a running activity, jogging, or physical exercise in motion; indicates a run tracking, fitness, or speed-related feature",
+    "intentId": "track a running or jogging activity in a fitness application; indicate physical exercise or movement in a health or sports interface"
+  },
+  "fa-rupee": {
+    "appearanceId": "a capital letter R with one or two horizontal crossbars through the upper stem, forming the Indian rupee currency symbol; rupee monetary glyph with an R and horizontal bar strokes",
+    "functionalityId": "represents the Indian rupee currency unit; displays or labels a rupee monetary amount in a financial interface",
+    "intentId": "display or input an Indian rupee currency value; indicate a rupee denomination in a financial or e-commerce context"
+  },
+  "fa-rupiah-sign": {
+    "appearanceId": "a stylized Rp ligature or a capital R with a subscript p forming the Indonesian rupiah currency symbol; rupiah monetary glyph showing an Rp currency mark",
+    "functionalityId": "represents the Indonesian rupiah currency unit; displays or labels a rupiah monetary amount in a financial interface",
+    "intentId": "display or input an Indonesian rupiah currency value; indicate a rupiah denomination in a financial or e-commerce context"
+  },
+  "fa-rv": {
+    "appearanceId": "a recreational vehicle or motorhome silhouette with a large boxy cab-over body, wheels along the base, and windows on the side; wide motorhome or RV vehicle outline with cabin windows and wheels",
+    "functionalityId": "represents a recreational vehicle, motorhome, or road-trip camper; indicates an RV rental, campsite, or overland travel feature",
+    "intentId": "find or book an RV campsite or rental; indicate a recreational vehicle or motorhome travel option in a trip planning interface"
+  },
+  "fa-s": {
+    "appearanceId": "a single uppercase or lowercase letter S typographic glyph with a curved double-arc shape; standard Roman alphabet S character",
+    "functionalityId": "represents the letter S in a text, label, keyboard, or alphabet reference; inserts or displays the character S",
+    "intentId": "display or insert the letter S in a text or label field; represent the S character in an alphabet or keyboard interface"
+  },
+  "fa-sack": {
+    "appearanceId": "a drawstring bag or burlap sack silhouette with a rounded bulging body and a tied or gathered neck at the top; cloth sack outline with a cinched top opening",
+    "functionalityId": "represents a bag, sack, or storage container for items or currency; indicates a collected loot, goods, or resource storage",
+    "intentId": "indicate a storage sack or bag of items in a game or inventory interface; represent a container of goods or resources"
+  },
+  "fa-sack-dollar": {
+    "appearanceId": "a drawstring sack silhouette with a rounded bulging body, a cinched neck, and a dollar sign printed or overlaid on the front face; cloth money bag with a $ symbol on the body",
+    "functionalityId": "represents a money bag, financial funds, or a cash reserve; indicates a payment, prize, or currency storage feature",
+    "intentId": "indicate a money bag or financial fund in a payment or reward interface; represent a cash prize, budget, or currency reserve"
+  },
+  "fa-sack-xmark": {
+    "appearanceId": "a drawstring sack silhouette with a rounded bulging body, a cinched neck, and an X mark printed or overlaid on the front face; cloth bag with an X or cross symbol indicating rejection or emptiness",
+    "functionalityId": "represents an empty, rejected, or cancelled sack or bag; indicates a failed delivery, empty container, or removed item set",
+    "intentId": "indicate an empty, rejected, or cancelled bag of items; represent a failed or cancelled delivery or resource container"
+  },
+  "fa-sad-cry": {
+    "appearanceId": "a circular face outline with downturned eyebrows, closed or squinting eyes with tear drop shapes streaming down the cheeks, and a wide open frowning mouth; crying face emoji with heavy tears and an open-mouth frown",
+    "functionalityId": "represents extreme sadness, crying, or distress in an emotional reaction; conveys an intensely sad or upset sentiment in a message",
+    "intentId": "express extreme sadness, crying, or distress in a message or reaction; indicate a very unhappy or grieving emotional state"
+  },
+  "fa-sad-tear": {
+    "appearanceId": "a circular face outline with downturned eyebrows, slightly closed eyes with a single small teardrop at the corner, and a gentle downturned mouth frown; mildly sad face with a single tear and soft frown",
+    "functionalityId": "represents mild sadness, a small tearful emotion, or a gentle unhappiness; conveys a softly sad or disappointed sentiment in a message",
+    "intentId": "express mild sadness or disappointment in a message or reaction; indicate a gentle unhappy or tearful emotional state"
+  },
+  "fa-sailboat": {
+    "appearanceId": "a sailboat silhouette viewed from the side with a curved hull, one or two triangular sails on a central mast, and a waterline base; side-profile sailboat outline with triangular sails and hull",
+    "functionalityId": "represents a sailboat, sailing activity, or nautical travel; indicates a marine, sailing, or water sports feature",
+    "intentId": "indicate a sailing or boating activity in a marine or water sports interface; represent a nautical travel or sailing vessel"
+  },
+  "fa-salad": {
+    "appearanceId": "a bowl shape viewed from above or at an angle filled with leafy greens and vegetable pieces, with a rounded bowl rim; salad bowl outline with leafy vegetable contents",
+    "functionalityId": "represents a salad dish or healthy food bowl; indicates a salad menu item, vegetarian option, or healthy meal category",
+    "intentId": "select or display a salad in a food menu or recipe application; indicate a healthy or vegetarian meal option in a dining interface"
+  },
+  "fa-salt-shaker": {
+    "appearanceId": "a cylindrical salt shaker silhouette with a rounded cap top, a narrow neck, and a wider base body with small holes on the cap for dispensing; tall cylindrical shaker outline with a perforated cap top",
+    "functionalityId": "represents a salt shaker or seasoning dispenser in a food or recipe context; indicates a seasoning, condiment, or table setting element",
+    "intentId": "indicate a salt or seasoning shaker in a recipe or food interface; represent a condiment dispenser in a kitchen or dining context"
+  },
+  "fa-sandwich": {
+    "appearanceId": "a sandwich silhouette viewed from the side showing two bread slices enclosing layered fillings such as lettuce, meat, and cheese; side-profile sandwich outline with bread slices and layered filling",
+    "functionalityId": "represents a sandwich food item or a lunch meal; indicates a food menu entry, deli item, or meal category",
+    "intentId": "select or display a sandwich in a food menu or restaurant application; indicate a lunch or deli meal option in a dining interface"
+  },
+  "fa-satellite": {
+    "appearanceId": "a satellite body silhouette with a central rectangular bus, two extended solar panel wings on either side, and a small dish or antenna extending from the body; orbital satellite outline with solar panels and antenna",
+    "functionalityId": "represents an orbital satellite, space-based communication, or remote sensing device; indicates satellite connectivity, GPS, or space technology",
+    "intentId": "indicate satellite communication, GPS, or space-based technology; represent an orbital satellite in a space, connectivity, or mapping interface"
+  },
+  "fa-satellite-dish": {
+    "appearanceId": "a parabolic satellite dish silhouette with a concave round reflector surface and a central feedhorn arm extending from the dish face; round parabolic dish outline with a central arm and feed element",
+    "functionalityId": "represents a satellite dish receiver or uplink antenna; indicates satellite television, signal reception, or broadcast communication",
+    "intentId": "indicate satellite TV reception or broadcast signal communication; represent a satellite dish or uplink antenna in a connectivity interface"
+  }
+}

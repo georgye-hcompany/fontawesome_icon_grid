@@ -1,0 +1,242 @@
+{
+  "fa-tombstone": {
+    "appearanceId": "a rounded-top rectangular grave marker slab standing upright with a smooth face and flat base; upright headstone silhouette with a curved top and no inscription",
+    "functionalityId": "represents a grave marker or cemetery headstone; indicates death, a burial site, or a Halloween or spooky theme",
+    "intentId": "mark a gravesite or indicate a death-related or Halloween context; represent cemetery or memorial content in an application"
+  },
+  "fa-tombstone-alt": {
+    "appearanceId": "a rounded-top rectangular grave marker slab with carved horizontal lines suggesting an inscription on the face; headstone silhouette with text lines engraved on its surface",
+    "functionalityId": "represents an inscribed grave marker with epitaph lines; indicates a named burial site, memorial record, or Halloween theme",
+    "intentId": "mark a named gravesite or display a memorial inscription context; represent cemetery or death-related content with a personalized headstone"
+  },
+  "fa-toolbox": {
+    "appearanceId": "a rectangular box with a hinged lid and a horizontal carrying handle arching over the top center; flat-topped tool storage case outline with a center carry handle",
+    "functionalityId": "represents a toolbox or collection of tools and utilities; opens or indicates a tools, utilities, or settings panel",
+    "intentId": "access a set of tools or utilities in an application; open a toolbox or developer utilities menu"
+  },
+  "fa-tools": {
+    "appearanceId": "a wrench and a screwdriver crossed diagonally over each other forming an X shape; two hand tools crossed in a diagonal arrangement",
+    "functionalityId": "represents maintenance, repair, or developer tools; opens or indicates a settings, configuration, or tools section",
+    "intentId": "access maintenance or configuration tools in an application; indicate a repair, build, or developer tools context"
+  },
+  "fa-tooth": {
+    "appearanceId": "a molar tooth silhouette with a wide crown showing cusps at the top and two or three short roots extending downward from the base; organic tooth outline with bumped crown and forked roots",
+    "functionalityId": "represents a tooth or dental health topic; indicates dental care, dentist appointments, or oral hygiene",
+    "intentId": "access dental health information or schedule a dentist appointment; represent oral care or dentistry content in a health application"
+  },
+  "fa-toothbrush": {
+    "appearanceId": "an elongated handle with a small rectangular bristle head at one end, angled slightly; slim toothbrush outline with a narrow head and long straight grip handle",
+    "functionalityId": "represents oral hygiene or teeth brushing; indicates dental care routines or personal hygiene tracking",
+    "intentId": "track or promote oral hygiene habits; represent dental care or personal hygiene in a health or wellness application"
+  },
+  "fa-torah": {
+    "appearanceId": "two scroll rollers (atzei chayyim) connected by a rolled parchment, forming the classic Torah scroll shape with cylindrical handles at each end; paired wooden handle scrolls with wrapped parchment between them",
+    "functionalityId": "represents the Jewish Torah scroll; indicates Jewish religious content, scripture, or spiritual study",
+    "intentId": "access Jewish religious texts or indicate a Judaic spiritual context; represent Torah study or Jewish faith content in a religious application"
+  },
+  "fa-torii-gate": {
+    "appearanceId": "a traditional Japanese torii gate with two upright pillars, a straight lower crossbeam, and a curved upper crossbeam with slightly projecting ends (kasagi); two-pillar gate silhouette with a double crossbeam and curved cap lintel",
+    "functionalityId": "represents a Shinto shrine entrance or Japanese cultural landmark; indicates Japanese culture, spirituality, or a sacred site",
+    "intentId": "indicate a Shinto shrine or Japanese cultural or religious context; mark a sacred or cultural landmark in a travel or spiritual application"
+  },
+  "fa-tornado": {
+    "appearanceId": "a funnel-shaped vortex with wide curved swirling bands at the top tapering to a narrow point at the bottom; inverted cone of spiraling lines narrowing to a tip",
+    "functionalityId": "represents a tornado or severe rotating storm; indicates extreme weather alerts or tornado warnings",
+    "intentId": "display a tornado or severe storm warning; represent extreme weather conditions in a weather or emergency alert application"
+  },
+  "fa-tower-cell": {
+    "appearanceId": "a tall lattice mast with diagonal cross-bracing and a small antenna or signal dish mounted at the top; open-frame cell tower structure with an antenna at the apex",
+    "functionalityId": "represents a cellular network tower or mobile signal transmitter; indicates cellular coverage, network strength, or telecommunications infrastructure",
+    "intentId": "display mobile network coverage or signal strength; indicate cellular infrastructure or telecommunications in a network or map application"
+  },
+  "fa-tower-control": {
+    "appearanceId": "an airport control tower building with a tall vertical shaft topped by a glass-enclosed cab with a wide observation deck ring; vertical tower structure with a flared windowed cab at the top",
+    "functionalityId": "represents an air traffic control tower; indicates airport operations, flight control, or aviation infrastructure",
+    "intentId": "navigate to airport or air traffic control information; represent aviation operations or flight management in a travel or aviation application"
+  },
+  "fa-tower-observation": {
+    "appearanceId": "a tall slender tower with an open or enclosed viewing platform or deck near the top; narrow vertical tower structure with a protruding observation platform level",
+    "functionalityId": "represents an observation tower or lookout structure; indicates a scenic viewpoint, tourist attraction, or elevated observation point",
+    "intentId": "mark or navigate to an observation tower or scenic viewpoint; represent a tourist landmark or elevated lookout in a travel or map application"
+  },
+  "fa-tractor": {
+    "appearanceId": "a farm tractor silhouette with a large rear wheel, small front wheel, boxy engine hood, and a raised exhaust pipe; side-profile agricultural tractor with oversized drive wheel and cab",
+    "functionalityId": "represents agricultural machinery or farming equipment; indicates farm operations, agriculture, or land cultivation",
+    "intentId": "access farming or agricultural equipment content; represent farm operations or rural land management in an agriculture application"
+  },
+  "fa-trademark": {
+    "appearanceId": "the letters TM in superscript style, typically rendered as a small raised two-letter monogram; trademark symbol comprising a T and M in small caps or raised format",
+    "functionalityId": "represents a trademark designation or brand protection mark; indicates proprietary branding or intellectual property status",
+    "intentId": "denote a trademarked name or brand; indicate intellectual property rights or brand ownership in a legal or product context"
+  },
+  "fa-traffic-cone": {
+    "appearanceId": "a tall narrow cone shape with one or two horizontal reflective stripe bands near the base, sitting on a wide flat square base; orange cone silhouette with stripe bands and a broad flat foot",
+    "functionalityId": "represents a road safety cone or construction zone marker; indicates road work, hazards, or traffic redirection",
+    "intentId": "mark a hazard or construction zone; indicate road work or traffic redirection in a mapping or safety application"
+  },
+  "fa-traffic-light": {
+    "appearanceId": "a vertical rectangular signal housing with three circular lights stacked top to bottom, all unlit or neutral; upright three-light signal box outline with no illuminated lens",
+    "functionalityId": "represents a generic traffic signal or stoplight; indicates road traffic control, signal status, or intersection management",
+    "intentId": "display or manage traffic signal information; represent road signal control in a transportation or smart city application"
+  },
+  "fa-traffic-light-go": {
+    "appearanceId": "a vertical rectangular signal housing with three circular lights, the bottom green light illuminated and the top two dark; three-light signal box with the lower green lens lit",
+    "functionalityId": "represents a green go signal on a traffic light; indicates permission to proceed, an all-clear status, or a go condition",
+    "intentId": "signal a go or proceed condition; indicate an all-clear or approved status in a workflow or traffic management application"
+  },
+  "fa-traffic-light-slow": {
+    "appearanceId": "a vertical rectangular signal housing with three circular lights, the middle yellow light illuminated and the top and bottom dark; three-light signal box with the center yellow lens lit",
+    "functionalityId": "represents a yellow caution signal on a traffic light; indicates a slow-down, warning, or transitional state",
+    "intentId": "signal a caution or slow-down condition; indicate a warning or transitional status in a workflow or traffic management application"
+  },
+  "fa-traffic-light-stop": {
+    "appearanceId": "a vertical rectangular signal housing with three circular lights, the top red light illuminated and the bottom two dark; three-light signal box with the upper red lens lit",
+    "functionalityId": "represents a red stop signal on a traffic light; indicates a halt, blocked, or stop condition",
+    "intentId": "signal a stop or blocked condition; indicate a halt or forbidden status in a workflow or traffic management application"
+  },
+  "fa-trailer": {
+    "appearanceId": "a long rectangular cargo box on a wheeled axle with a fifth-wheel hitch coupler at the front end; flat-sided box trailer silhouette with wheels and a forward coupling hitch",
+    "functionalityId": "represents a cargo trailer or towed vehicle; indicates freight transport, hauling, or logistics",
+    "intentId": "manage cargo transport or logistics operations; represent freight hauling or trailer fleet management in a shipping application"
+  },
+  "fa-train": {
+    "appearanceId": "a side-profile locomotive or train car with a rounded front, wheels on a rail track, and a rectangular body; front-facing or side-view train engine silhouette on rails",
+    "functionalityId": "represents a train or railway transit vehicle; indicates rail transport, train schedules, or station navigation",
+    "intentId": "navigate train schedules or rail transit options; access railway transportation information in a travel or transit application"
+  },
+  "fa-train-track": {
+    "appearanceId": "two parallel horizontal rails connected by evenly spaced perpendicular railroad ties (sleepers), viewed from above or slightly angled; parallel rail lines with crossties between them",
+    "functionalityId": "represents railway tracks or a train route path; indicates a rail line, train route, or railway infrastructure",
+    "intentId": "display a railway route or track layout; represent rail infrastructure in a mapping or transportation application"
+  },
+  "fa-train-tram": {
+    "appearanceId": "a boxy flat-fronted tram or streetcar silhouette with a pantograph arm extending upward from the roof and wheels on rails; compact tram car with an overhead pantograph collector",
+    "functionalityId": "represents an urban tram or streetcar; indicates tram routes, light rail transit, or urban public transport",
+    "intentId": "navigate tram or streetcar routes in a city; access urban light rail transit information in a transit or map application"
+  },
+  "fa-train-tunnel": {
+    "appearanceId": "a rounded arched tunnel portal with a train silhouette or rail tracks visible inside the opening; curved arch tunnel mouth framing a rail passage inside",
+    "functionalityId": "represents a railway tunnel or underground rail passage; indicates a train tunnel, underground route, or metro passage",
+    "intentId": "indicate a railway tunnel on a route map; represent underground or tunnel rail infrastructure in a transportation application"
+  },
+  "fa-tram": {
+    "appearanceId": "a cable car or aerial tram gondola silhouette hanging from an overhead cable line with a rectangular cabin body and suspension bracket at the top; hanging tram cabin with a cable attachment at the roof",
+    "functionalityId": "represents a cable car or aerial tramway gondola; indicates mountain tram, ski lift, or aerial ropeway transit",
+    "intentId": "navigate aerial tram or cable car routes; access mountain transit or ski resort lift information in a travel or map application"
+  },
+  "fa-transformer-bolt": {
+    "appearanceId": "a cylindrical drum or barrel shape representing an electrical transformer with a lightning bolt overlaid or adjacent; round transformer cylinder with a superimposed lightning bolt symbol",
+    "functionalityId": "represents an electrical transformer or power conversion device; indicates high-voltage power distribution or electrical infrastructure",
+    "intentId": "indicate an electrical transformer location or power infrastructure; represent high-voltage or power conversion in a utility or engineering application"
+  },
+  "fa-transgender": {
+    "appearanceId": "a circle with a combined arrow pointing upward-right (male), a cross pointing downward (female), and an additional diagonal upward-left arrow; gender symbol circle with three directional arrows representing all three gender directions",
+    "functionalityId": "represents the transgender gender identity symbol; indicates transgender identity, gender diversity, or inclusivity",
+    "intentId": "represent transgender identity or gender diversity; indicate inclusivity and LGBTQ+ identity options in a profile or settings interface"
+  },
+  "fa-transporter": {
+    "appearanceId": "a circular teleportation beam device with a human figure standing on a central platform surrounded by a glowing energy ring or beam column; round transporter pad with a person silhouette inside an energy beam",
+    "functionalityId": "represents a science-fiction teleportation device; indicates teleportation, fast travel, or instant movement in a game or sci-fi interface",
+    "intentId": "trigger a teleport or fast travel action; represent sci-fi transportation or instant movement in a game or futuristic application"
+  },
+  "fa-transporter-1": {
+    "appearanceId": "a beam platform with a human figure and one energy arc or ring surrounding the platform; transporter pad with a person silhouette and a single energy ring",
+    "functionalityId": "represents a teleportation device at activation level one with one energy ring; indicates the first stage or lowest power teleportation state",
+    "intentId": "indicate a first-level teleport activation; represent a minimal-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-2": {
+    "appearanceId": "a beam platform with a human figure and two energy arcs or rings surrounding the platform; transporter pad with a person silhouette and two concentric energy rings",
+    "functionalityId": "represents a teleportation device at activation level two with two energy rings; indicates the second stage teleportation state",
+    "intentId": "indicate a second-level teleport activation; represent a mid-low-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-3": {
+    "appearanceId": "a beam platform with a human figure and three energy arcs or rings surrounding the platform; transporter pad with a person silhouette and three concentric energy rings",
+    "functionalityId": "represents a teleportation device at activation level three with three energy rings; indicates the third stage teleportation state",
+    "intentId": "indicate a third-level teleport activation; represent a medium-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-4": {
+    "appearanceId": "a beam platform with a human figure and four energy arcs or rings surrounding the platform; transporter pad with a person silhouette and four concentric energy rings",
+    "functionalityId": "represents a teleportation device at activation level four with four energy rings; indicates the fourth stage teleportation state",
+    "intentId": "indicate a fourth-level teleport activation; represent an elevated-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-5": {
+    "appearanceId": "a beam platform with a human figure and five energy arcs or rings surrounding the platform; transporter pad with a person silhouette and five concentric energy rings",
+    "functionalityId": "represents a teleportation device at activation level five with five energy rings; indicates the fifth stage teleportation state",
+    "intentId": "indicate a fifth-level teleport activation; represent a high-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-6": {
+    "appearanceId": "a beam platform with a human figure and six energy arcs or rings surrounding the platform; transporter pad with a person silhouette and six concentric energy rings",
+    "functionalityId": "represents a teleportation device at activation level six with six energy rings; indicates the sixth stage teleportation state",
+    "intentId": "indicate a sixth-level teleport activation; represent a very high-energy transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-7": {
+    "appearanceId": "a beam platform with a human figure and seven energy arcs or rings surrounding the platform; transporter pad with a person silhouette and seven concentric energy rings",
+    "functionalityId": "represents a teleportation device at full activation with seven energy rings; indicates the maximum stage teleportation state",
+    "intentId": "indicate a maximum-level teleport activation; represent a fully powered transporter state in a sci-fi game or application"
+  },
+  "fa-transporter-empty": {
+    "appearanceId": "an empty beam platform with no human figure, showing only the circular pad and surrounding energy ring or beam column; transporter pad outline with an energy ring and no person silhouette",
+    "functionalityId": "represents an unoccupied teleportation platform; indicates an empty or ready-to-use transporter pad with no occupant",
+    "intentId": "indicate an available or unoccupied transporter pad; represent a ready teleportation station in a sci-fi game or application"
+  },
+  "fa-trash": {
+    "appearanceId": "a cylindrical waste bin with a flat lid on top and a narrow rim or lip; upright trash can silhouette with a flat-top lid",
+    "functionalityId": "deletes or moves an item to the trash; indicates a delete or discard action for files or content",
+    "intentId": "delete or discard an item permanently; remove unwanted files or content in an application"
+  },
+  "fa-trash-alt": {
+    "appearanceId": "a cylindrical waste bin with a separate flat lid displayed slightly above the open container top, suggesting a removable lid; trash can body with a detached hovering lid above it",
+    "functionalityId": "deletes or moves an item to trash using an alternate removable-lid style; indicates a delete or discard action as an alternative trash style",
+    "intentId": "delete or discard an item using the alternate trash style; remove content or files with a variant trash representation"
+  },
+  "fa-trash-alt-slash": {
+    "appearanceId": "a cylindrical waste bin with a detached lid and a diagonal slash line crossing through the entire symbol; trash can with hovering lid and a strikethrough diagonal line",
+    "functionalityId": "represents a disabled, excluded, or no-delete state using the alt trash style; indicates that deletion is blocked or an item is excluded from trash",
+    "intentId": "prevent deletion or indicate a no-discard restriction; show that an item cannot be or has not been trashed"
+  },
+  "fa-trash-can-check": {
+    "appearanceId": "a cylindrical trash can body with a checkmark badge overlaid on or near the container; waste bin silhouette with a check symbol",
+    "functionalityId": "confirms a successful deletion or marks an item as cleared from trash; indicates a verified or completed discard action",
+    "intentId": "confirm that an item has been successfully deleted or cleared; indicate a completed discard or verified deletion in an application"
+  },
+  "fa-trash-can-clock": {
+    "appearanceId": "a cylindrical trash can body with a clock face badge overlaid on or near the container; waste bin silhouette with a clock symbol",
+    "functionalityId": "represents a scheduled or timed deletion; indicates that an item is queued for automatic deletion at a future time",
+    "intentId": "schedule an item for automatic deletion at a specified time; manage timed or deferred discard actions in an application"
+  },
+  "fa-trash-can-list": {
+    "appearanceId": "a cylindrical trash can body with small horizontal lines suggesting a list overlaid on or near the container; waste bin silhouette with list lines",
+    "functionalityId": "represents a list of trashed or deleted items; opens or displays the contents of the trash or deletion queue",
+    "intentId": "view or manage a list of deleted items; access the trash contents or deletion history in an application"
+  },
+  "fa-trash-can-plus": {
+    "appearanceId": "a cylindrical trash can body with a plus sign badge overlaid on or near the container; waste bin silhouette with a plus symbol",
+    "functionalityId": "adds an item to the trash or creates a new trash collection; indicates an add-to-trash or new discard action",
+    "intentId": "add an item to the trash or create a new deletion entry; manage additions to a trash or recycle bin in an application"
+  },
+  "fa-trash-can-undo": {
+    "appearanceId": "a cylindrical trash can body with a curved undo arrow badge overlaid on or near the container; waste bin silhouette with a backward-curving arrow",
+    "functionalityId": "restores or recovers an item from the trash; indicates an undo-delete or restore-from-trash action",
+    "intentId": "recover or restore a deleted item from the trash; undo a discard action in an application"
+  },
+  "fa-trash-can-xmark": {
+    "appearanceId": "a cylindrical trash can body with an X mark badge overlaid on or near the container; waste bin silhouette with a cross or X symbol",
+    "functionalityId": "permanently empties or dismisses items from the trash; indicates a permanent delete or cancel-from-trash action",
+    "intentId": "permanently delete or dismiss items from the trash; confirm a permanent removal or empty-trash action in an application"
+  },
+  "fa-trash-check": {
+    "appearanceId": "a cylindrical trash can with a flat lid and a checkmark badge overlaid on or near the container; upright trash bin with a check symbol and flat-top lid",
+    "functionalityId": "confirms a successful deletion using the standard lid style; indicates a verified or completed discard action",
+    "intentId": "confirm that an item has been successfully deleted; indicate a verified deletion or completed discard with the standard trash style"
+  },
+  "fa-trash-clock": {
+    "appearanceId": "a cylindrical trash can with a flat lid and a clock face badge overlaid on or near the container; upright trash bin with a clock symbol and flat-top lid",
+    "functionalityId": "represents a scheduled or timed deletion using the standard lid style; indicates an item queued for automatic deletion",
+    "intentId": "schedule automatic deletion of an item at a future time; manage deferred discard actions using the standard trash in an application"
+  },
+  "fa-trash-list": {
+    "appearanceId": "a cylindrical trash can with a flat lid and small horizontal list lines overlaid on or near the container; upright trash bin with list lines and flat-top lid",
+    "functionalityId": "displays a list of trashed items using the standard lid style; opens or indicates the contents or deletion queue of the trash",
+    "intentId": "view or manage deleted items in the standard trash; access the trash contents or deletion history with the standard trash style"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-wave-square": {
+    "appearanceId": "a horizontal waveform made of right-angle steps alternating between flat top and flat bottom segments, forming a repeating rectangular step pattern; square wave signal line with sharp 90-degree corners",
+    "functionalityId": "represents a square wave signal or digital waveform; indicates a digital audio signal, electrical square wave, or oscilloscope pattern",
+    "intentId": "display or select a square wave signal type; represent digital audio waveform or electrical signal shape in an audio or electronics interface"
+  },
+  "fa-wave-triangle": {
+    "appearanceId": "a horizontal waveform made of repeating V-shaped zigzag lines rising and falling at equal angles, forming a continuous triangular wave pattern; triangle wave signal line with angled peak-and-valley zigzags",
+    "functionalityId": "represents a triangle wave signal or synthesizer waveform type; indicates an audio synthesis waveform, electrical triangle wave, or oscillator shape",
+    "intentId": "display or select a triangle wave signal type; represent an audio synthesizer or oscillator waveform in a music production or electronics interface"
+  },
+  "fa-waveform": {
+    "appearanceId": "a horizontal line of irregular vertical amplitude bars of varying heights forming an audio waveform pattern; an uneven sound wave visualization with tall and short vertical bars clustered along a baseline",
+    "functionalityId": "represents an audio waveform or sound recording visualization; indicates a sound clip, audio track, or voice recording amplitude display",
+    "intentId": "display or interact with an audio waveform; represent a sound recording or audio track in a media player or audio editing interface"
+  },
+  "fa-waveform-circle": {
+    "appearanceId": "a circular outline containing a miniature audio waveform pattern of varying-height vertical bars centered within the circle; a round badge enclosing an audio amplitude visualization",
+    "functionalityId": "represents an audio waveform contained within a circular badge; indicates a compact audio track, voice message, or sound recording indicator",
+    "intentId": "display or access a compact audio waveform or voice message; represent a sound recording in a circular badge in a messaging or media interface"
+  },
+  "fa-waveform-path": {
+    "appearanceId": "a curved or horizontal path line with an audio waveform of varying-height amplitude bars riding along it; an audio waveform visualization integrated along a curved timeline or path line",
+    "functionalityId": "represents an audio waveform along a timeline or path; indicates a sound track positioned along a timeline, path animation, or audio routing",
+    "intentId": "display an audio waveform along a timeline or path; represent a sound track's position in a video editor or audio routing interface"
+  },
+  "fa-waves-sine": {
+    "appearanceId": "two or more smooth S-shaped sine wave curves flowing horizontally across the frame, showing the characteristic rounded crest and trough of a sinusoidal wave; multiple smooth sine curves layered or offset horizontally",
+    "functionalityId": "represents a sine wave or sinusoidal signal; indicates an analog audio signal, AC power waveform, or smooth oscillating pattern",
+    "intentId": "display or select a sine wave signal type; represent analog audio, AC power, or smooth oscillation in an audio, electronics, or physics interface"
+  },
+  "fa-webcam": {
+    "appearanceId": "a small circular camera lens centered on a rounded rectangular body with a short stand or mount base extending below; webcam device silhouette with a circular lens aperture and a base mount",
+    "functionalityId": "represents a webcam or computer video camera device; indicates video capture, video call, or live streaming from a built-in or external camera",
+    "intentId": "enable or access a webcam for video capture or video calling; represent a camera device in a video conferencing or streaming interface"
+  },
+  "fa-webcam-slash": {
+    "appearanceId": "a webcam device silhouette with a circular lens on a rounded rectangular body, overlaid with a diagonal slash line cutting through it; webcam outline with a negation slash indicating disabled state",
+    "functionalityId": "represents a disabled, muted, or blocked webcam; indicates that video capture is turned off or the camera is unavailable",
+    "intentId": "disable or indicate a turned-off webcam; show that video is muted or the camera is blocked in a video conferencing or privacy interface"
+  },
+  "fa-webhook": {
+    "appearanceId": "a curved hook shape resembling the letter J or a fishhook with a small circular loop or notch at the tip, forming a webhook symbol; a hook curve with a circular endpoint suggesting a connection latch",
+    "functionalityId": "represents a webhook or API callback endpoint; indicates an automated HTTP event trigger or integration callback",
+    "intentId": "configure or indicate a webhook endpoint; set up an automated API callback or event-driven integration in a developer or integration settings interface"
+  },
+  "fa-weight": {
+    "appearanceId": "a rounded rectangular or trapezoid scale platform base with a flat top surface suggesting a weighing scale platform; a flat-top weight or balance scale surface silhouette",
+    "functionalityId": "represents body weight measurement or a weighing scale; indicates weight tracking, health monitoring, or mass measurement",
+    "intentId": "track or display body weight; represent a weight measurement feature in a health, fitness, or medical tracking interface"
+  },
+  "fa-weight-hanging": {
+    "appearanceId": "a rounded bulb or sphere shape tapering to a flat top with a small rectangular hanging hook or loop protruding from the top center; a hanging weight or counterweight with a loop at the top",
+    "functionalityId": "represents a hanging weight, counterweight, or heavy object; indicates mass, heaviness, or a weighted item in a physics or inventory context",
+    "intentId": "indicate a heavy item or counterweight; represent physical mass or a weighted object in a shipping, inventory, or physics interface"
+  },
+  "fa-whale": {
+    "appearanceId": "a large whale body silhouette with a rounded head, a curved back, small pectoral fins along the side, and a broad horizontal tail fluke at the rear; side-view whale outline with tail flukes and pectoral fins",
+    "functionalityId": "represents a whale animal or marine mammal; indicates ocean wildlife, marine biology, or a whale-themed branding element",
+    "intentId": "display or identify a whale or marine mammal; represent ocean wildlife or a whale theme in a nature, conservation, or branding interface"
+  },
+  "fa-wheat": {
+    "appearanceId": "a single upright wheat stalk with a long stem, several small leaf blades branching along the sides, and a rounded seed head cluster at the top; a tall grain stalk silhouette with leafy side blades and a seed head",
+    "functionalityId": "represents wheat grain, a cereal crop, or agricultural produce; indicates farming, food ingredients, or grain-based content",
+    "intentId": "represent wheat or grain in a food, farming, or ingredient context; indicate cereal crop content in a recipe, agricultural, or nutrition interface"
+  },
+  "fa-wheat-alt": {
+    "appearanceId": "an alternate wheat stalk silhouette with a stem, leaf blades, and a slightly different seed head arrangement compared to the standard wheat; a grain stalk variant with an alternate seed head or leaf pattern",
+    "functionalityId": "represents an alternate wheat or grain symbol; indicates cereal crops, farming, or grain-based food in an alternate visual style",
+    "intentId": "represent wheat or grain using an alternate visual style; indicate cereal crop content in a recipe, agricultural, or nutrition interface"
+  },
+  "fa-wheat-awn-circle-exclamation": {
+    "appearanceId": "a wheat stalk with a barbed awn-style seed head (bristled grain tips), accompanied by a circular badge containing an exclamation mark overlaid or adjacent; a barbed grain head with a warning exclamation circle badge",
+    "functionalityId": "represents a wheat or gluten allergen warning; indicates a gluten alert, wheat allergy caution, or grain-related dietary warning",
+    "intentId": "alert to a wheat or gluten allergy or dietary restriction; indicate a grain allergen warning in a food labeling, menu, or health interface"
+  },
+  "fa-wheat-awn-slash": {
+    "appearanceId": "a wheat stalk with a barbed awn-style seed head featuring bristled grain tips, overlaid with a diagonal slash line cutting through the stalk; a barbed grain head silhouette with a negation slash",
+    "functionalityId": "represents a gluten-free or no-wheat indicator; indicates the absence of wheat, gluten-free certification, or wheat exclusion",
+    "intentId": "mark food or a product as gluten-free or wheat-free; indicate the removal or exclusion of wheat in a dietary, menu, or food labeling interface"
+  },
+  "fa-wheat-slash": {
+    "appearanceId": "a standard wheat stalk silhouette with stem and seed head, overlaid with a diagonal slash line cutting through it; a plain wheat stalk outline with a negation slash",
+    "functionalityId": "represents a no-wheat or grain-free indicator; indicates wheat exclusion, grain-free diet, or wheat allergen removal",
+    "intentId": "mark a product as wheat-free or grain-free; indicate the absence of wheat in a dietary, menu, or food labeling interface"
+  },
+  "fa-wheelchair": {
+    "appearanceId": "a side-view silhouette of a person seated in a wheelchair with a large rear wheel, a small front caster wheel, and the figure's arm extended toward the wheel rim; standard wheelchair accessibility symbol with a seated figure and large wheel",
+    "functionalityId": "represents wheelchair accessibility or a person with mobility impairment; indicates an accessible route, disabled facilities, or mobility aid",
+    "intentId": "indicate wheelchair accessibility or a disability accommodation; represent accessible facilities or mobility aid needs in a building, transport, or public service interface"
+  },
+  "fa-wheelchair-alt": {
+    "appearanceId": "a side-view silhouette of a person in a wheelchair depicted in a more dynamic or modern posture, leaning forward with arms raised suggesting active propulsion; an active or dynamic wheelchair user silhouette with a forward-leaning figure",
+    "functionalityId": "represents an active wheelchair user or dynamic mobility accessibility symbol; indicates adaptive sports, active mobility, or an alternate accessibility symbol",
+    "intentId": "indicate active wheelchair use or adaptive mobility; represent a modern accessibility symbol or adaptive sports in an inclusive design or accessibility interface"
+  },
+  "fa-whiskey-glass-ice": {
+    "appearanceId": "a short wide tumbler glass shape with a thick base, containing rectangular ice cube shapes submerged in liquid; a rocks glass silhouette with visible ice cubes inside",
+    "functionalityId": "represents a whiskey on the rocks or iced cocktail drink; indicates a spirits serving, bar menu item, or an alcoholic beverage with ice",
+    "intentId": "browse or order whiskey on the rocks or an iced drink; represent a spirits menu item or cocktail in a bar, restaurant, or beverage interface"
+  },
+  "fa-whistle": {
+    "appearanceId": "a small oval or cylindrical whistle body with a short cylindrical mouthpiece extending from one end and a small loop or ring at the opposite end; a referee whistle silhouette with a mouthpiece and loop",
+    "functionalityId": "represents a whistle or alert signal device; indicates a referee action, safety alert, sports event signal, or attention-getting notification",
+    "intentId": "signal an alert, start, or stop event; represent a referee call or safety signal in a sports, event management, or emergency interface"
+  },
+  "fa-wifi": {
+    "appearanceId": "three concentric arc curves above a small central dot at the base, each arc growing larger from bottom to top, representing full wireless signal strength; full-strength wifi signal with three stacked arcs and a center dot",
+    "functionalityId": "represents a full-strength WiFi or wireless network connection; indicates wireless connectivity, network availability, or internet access",
+    "intentId": "connect to or display a WiFi network; indicate wireless internet availability or signal strength in a network or device settings interface"
+  },
+  "fa-wifi-1": {
+    "appearanceId": "a single small arc curve above a small central dot at the base, representing minimal one-bar wireless signal strength; low-signal wifi with one arc and a center dot",
+    "functionalityId": "represents a one-bar or minimal WiFi signal strength; indicates a very weak wireless connection or low network signal",
+    "intentId": "display a low or minimal WiFi signal strength indicator; warn about a weak wireless connection in a network status or device settings interface"
+  },
+  "fa-wifi-2": {
+    "appearanceId": "two concentric arc curves above a small central dot at the base, representing medium two-bar wireless signal strength; medium-signal wifi with two stacked arcs and a center dot",
+    "functionalityId": "represents a two-bar or medium WiFi signal strength; indicates a moderate wireless connection or partial network signal",
+    "intentId": "display a medium WiFi signal strength indicator; show a partial wireless connection status in a network status or device settings interface"
+  },
+  "fa-wifi-exclamation": {
+    "appearanceId": "three concentric arc curves above a small central dot with a small exclamation mark badge overlaid below or adjacent to the arcs; full wifi arc stack with a warning exclamation badge",
+    "functionalityId": "represents a WiFi connection warning or network error; indicates a wireless connection issue, authentication problem, or network alert",
+    "intentId": "alert to a WiFi connection problem or network warning; indicate a wireless error or login requirement in a network status or connectivity interface"
+  },
+  "fa-wifi-slash": {
+    "appearanceId": "three concentric arc curves above a small central dot, overlaid with a diagonal slash line cutting through the arcs; full wifi arc stack with a negation slash indicating no connection",
+    "functionalityId": "represents a disabled, disconnected, or unavailable WiFi connection; indicates no wireless network, WiFi turned off, or signal blocked",
+    "intentId": "indicate that WiFi is disconnected or disabled; show no wireless connection available in a network status or device settings interface"
+  },
+  "fa-wind": {
+    "appearanceId": "three or more curved horizontal lines of varying lengths tapering to points at the right end, each offset vertically, suggesting flowing wind or air movement; multiple curved airflow lines suggesting a blowing breeze",
+    "functionalityId": "represents wind, airflow, or a breeze; indicates weather conditions, ventilation, or air movement in a context",
+    "intentId": "display wind or air movement information; represent weather conditions or ventilation in a weather, outdoor activity, or HVAC interface"
+  },
+  "fa-wind-turbine": {
+    "appearanceId": "a vertical pole or tower with three elongated blade shapes radiating from a central hub at the top in a propeller or pinwheel arrangement; a wind turbine silhouette with a tower mast and three rotor blades",
+    "functionalityId": "represents a wind turbine or wind energy generator; indicates renewable energy, wind power generation, or sustainable electricity",
+    "intentId": "represent wind energy or a wind turbine installation; indicate renewable power generation in an energy, sustainability, or utility interface"
+  },
+  "fa-wind-warning": {
+    "appearanceId": "curved horizontal airflow lines suggesting wind movement, accompanied by a triangular warning badge with an exclamation mark; wind flow lines paired with a caution triangle badge",
+    "functionalityId": "represents a wind warning or high-wind weather alert; indicates dangerous wind conditions, storm warnings, or wind-related hazards",
+    "intentId": "alert to dangerous wind conditions or a high-wind weather warning; represent a wind hazard or storm alert in a weather or outdoor safety interface"
+  },
+  "fa-window": {
+    "appearanceId": "a rectangular frame outline divided into panes by a horizontal bar and a vertical bar forming a four-pane grid window; a rectangular window frame with a cross mullion dividing it into four sections",
+    "functionalityId": "represents a window pane or building window; indicates a window element in architecture, a GUI window frame, or a view panel",
+    "intentId": "represent a window in an architectural, real estate, or GUI context; indicate a panel or view in a building design or interface layout"
+  },
+  "fa-window-alt": {
+    "appearanceId": "a rectangular window frame outline with an alternate pane arrangement, such as a single horizontal dividing bar creating a two-pane window instead of four; an alternate rectangular window frame with a simplified pane division",
+    "functionalityId": "represents an alternate window frame style; indicates a simplified window view or alternate GUI window variant",
+    "intentId": "represent an alternate window style in an architectural or GUI context; indicate a simplified panel or view variant in an interface layout"
+  },
+  "fa-window-close": {
+    "appearanceId": "a rectangular window frame outline containing an X shape in the upper-right corner or centered within the frame, indicating a close control; a window frame with an X close button inside",
+    "functionalityId": "represents closing a window or dialog; indicates the close action for a modal, panel, or OS window",
+    "intentId": "close a window, modal, or dialog panel; dismiss an open interface element in a desktop or web application interface"
+  },
+  "fa-window-frame": {
+    "appearanceId": "a rectangular window frame outline without interior pane dividers, showing an empty open frame shape; a plain empty rectangular window frame border with no pane divisions",
+    "functionalityId": "represents an empty window frame or outer window border; indicates a window container, frame element, or empty panel structure",
+    "intentId": "represent an empty window frame or container; indicate a panel border or window structure in a GUI layout or design interface"
+  },
+  "fa-window-frame-open": {
+    "appearanceId": "a rectangular window frame outline with one side or panel shown open or ajar, indicated by a gap or an open flap in the frame; an empty window frame with an open or ajar side panel",
+    "functionalityId": "represents an open window frame or an unobstructed window opening; indicates ventilation, an accessible view, or an opened panel",
+    "intentId": "represent an open window or ventilation opening; indicate an accessible or open panel in an architectural, real estate, or GUI interface"
+  },
+  "fa-window-maximize": {
+    "appearanceId": "a rectangular window frame outline with small corner arrows or an expand indicator at the corners, suggesting full-screen or maximized state; a window frame with outward-pointing corner expansion markers",
+    "functionalityId": "represents maximizing a window to fill the screen; indicates the maximize control for a desktop window or panel",
+    "intentId": "maximize a window or panel to full screen; expand a view or interface element to fill the available screen space"
+  },
+  "fa-window-minimize": {
+    "appearanceId": "a rectangular window frame outline with a small horizontal bar or downward arrow at the bottom, suggesting a minimized or collapsed state; a window frame with a collapse indicator at the base",
+    "functionalityId": "represents minimizing or collapsing a window; indicates the minimize control for a desktop window or panel",
+    "intentId": "minimize a window or panel to the taskbar; collapse or hide an interface element in a desktop or application interface"
+  },
+  "fa-window-restore": {
+    "appearanceId": "two overlapping rectangular window frames, one offset diagonally behind the other, suggesting a restored or windowed state between maximized and minimized; a pair of layered offset window rectangles",
+    "functionalityId": "represents restoring a window to its previous size from maximized state; indicates the restore window control for a desktop panel",
+    "intentId": "restore a maximized window to its previous size; return a window to its windowed state from full screen in a desktop interface"
+  },
+  "fa-windsock": {
+    "appearanceId": "a tapered cone or tube shape open at the wide end and narrowing to a pointed tip, mounted on a short vertical pole, representing a wind direction indicator; a conical windsock sleeve on a pole showing wind direction",
+    "functionalityId": "represents a windsock or wind direction indicator; indicates wind direction, airfield conditions, or outdoor wind assessment",
+    "intentId": "indicate wind direction or airfield wind conditions; represent outdoor wind assessment in an aviation, weather, or outdoor activity interface"
+  },
+  "fa-wine-bottle": {
+    "appearanceId": "a tall slender bottle silhouette with a narrow cylindrical neck tapering from a wider lower body, representing a standard wine bottle profile; a wine bottle outline with a narrow neck and wider lower body",
+    "functionalityId": "represents a wine bottle or bottled wine product; indicates a wine selection, beverage inventory, or alcoholic drink option",
+    "intentId": "browse or select a wine bottle or wine product; represent a bottled beverage in a restaurant menu, wine cellar, or beverage inventory interface"
+  },
+  "fa-wine-glass": {
+    "appearanceId": "a stemmed wine glass silhouette with a curved bowl narrowing at the base to a thin stem and flat foot, representing a standard red or white wine glass; a classic stemmed wine glass outline with a rounded bowl and thin stem",
+    "functionalityId": "represents a wine glass or stemmed drink glass; indicates a wine serving, restaurant menu item, or fine dining context",
+    "intentId": "browse or select wine or a wine-glass serving; represent a wine serving or fine dining context in a restaurant, menu, or beverage interface"
+  },
+  "fa-wine-glass-alt": {
+    "appearanceId": "a stemmed wine glass silhouette with a more elongated or differently-shaped bowl compared to the standard wine glass, such as a narrower flute-like or alternate glass shape; an alternate stemmed wine glass outline with a varied bowl shape",
+    "functionalityId": "represents an alternate wine glass style or champagne flute; indicates a sparkling wine, champagne, or alternate glassware option",
+    "intentId": "browse or select champagne or an alternate wine glass serving; represent a sparkling wine or specialized glassware in a restaurant, menu, or beverage interface"
+  },
+  "fa-worm": {
+    "appearanceId": "a segmented worm body shape with a small rounded head at one end and a series of rounded body segments curving along a short undulating path; a segmented earthworm outline with a rounded head and wavy body",
+    "functionalityId": "represents a worm or earthworm creature; indicates gardening, composting, soil health, or a worm-themed element",
+    "intentId": "represent a worm or earthworm in a gardening, nature, or biology context; indicate soil health or composting in an agricultural or educational interface"
+  },
+  "fa-wreath": {
+    "appearanceId": "a circular ring shape made of overlapping leaf or foliage clusters forming a decorative wreath, with an open center; a round decorative wreath outline of leaves or foliage arranged in a circle",
+    "functionalityId": "represents a decorative wreath or holiday seasonal decoration; indicates celebration, festivity, or a seasonal decorative element",
+    "intentId": "represent a decorative wreath or seasonal holiday decoration; indicate a festive or celebratory element in a holiday, event, or greeting interface"
+  },
+  "fa-wreath-laurel": {
+    "appearanceId": "a circular ring made of elongated laurel leaf shapes arranged in a wreath pattern with pointed leaf tips, forming a classical laurel wreath; a round laurel leaf wreath with pointed leaves arranged in a circle",
+    "functionalityId": "represents a laurel wreath symbolizing victory, honor, or achievement; indicates an award, achievement badge, or classical honor symbol",
+    "intentId": "represent an achievement, honor, or award using a laurel wreath; indicate a victory or recognition symbol in a competition, education, or achievements interface"
+  },
+  "fa-wrench": {
+    "appearanceId": "an adjustable wrench silhouette with an elongated handle and an open jaw with a movable worm gear adjustment mechanism at the head; a standard adjustable wrench outline with a movable jaw at the head",
+    "functionalityId": "represents a wrench tool or maintenance action; indicates settings, configuration, repair, or technical tools in an interface",
+    "intentId": "access settings or perform maintenance; represent a repair or configuration tool in a settings, developer tools, or maintenance interface"
+  },
+  "fa-wrench-simple": {
+    "appearanceId": "a simplified wrench silhouette with a smooth handle and a fixed open-end jaw at the head, lacking the worm gear adjustment detail of the standard wrench; a plain open-end wrench outline with a simpler jaw and no adjustment mechanism",
+    "functionalityId": "represents a simplified wrench or basic tool; indicates basic settings, a simple repair action, or a minimal configuration control",
+    "intentId": "access basic settings or indicate a simple repair; represent a minimal configuration or maintenance control in a simplified settings interface"
+  },
+  "fa-x": {
+    "appearanceId": "a bold uppercase letter X character centered in the glyph space; a plain capital letter X letterform",
+    "functionalityId": "represents the letter X or a close or cancel action; indicates a keyboard shortcut, variable label, or a close or remove action",
+    "intentId": "display the letter X or indicate a close or cancel action; represent a variable, keyboard key, or dismiss control in an interface or document"
+  },
+  "fa-x-ray": {
+    "appearanceId": "a rectangular film frame outline containing a skeletal or bone structure silhouette such as a chest or hand skeleton, representing an X-ray radiograph image; a rectangular X-ray film border enclosing a skeletal bone outline",
+    "functionalityId": "represents an X-ray radiograph or medical imaging scan; indicates diagnostic imaging, bone examination, or radiology in a medical context",
+    "intentId": "access or display an X-ray or medical imaging scan; indicate a radiology or diagnostic imaging record in a healthcare or medical records interface"
+  }
+}

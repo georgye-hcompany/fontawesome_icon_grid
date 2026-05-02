@@ -1,0 +1,242 @@
+{
+  "fa-trumpet": {
+    "appearanceId": "a brass trumpet silhouette with a long cylindrical bore curving around at the bell end into a flared opening, three valve casings on top, and a mouthpiece at the rear; brass horn outline with coiled tubing, three valves, and a flared bell",
+    "functionalityId": "represents a trumpet or brass instrument in a music or performance context; indicates a brass section, jazz genre, or musical instrument category",
+    "intentId": "indicate a trumpet or brass instrument in a music, band, or performance interface; represent jazz, orchestral brass, or a wind instrument category"
+  },
+  "fa-try": {
+    "appearanceId": "a capital letter T with a horizontal crossbar at the top and a short vertical stroke, styled as the Turkish lira currency symbol; lira currency glyph with a T shape and double horizontal strokes through the upper vertical",
+    "functionalityId": "represents the Turkish lira currency symbol in a financial or commerce context; labels a price, amount, or monetary value in Turkish lira",
+    "intentId": "indicate a Turkish lira price or monetary amount; represent TRY currency in a financial, e-commerce, or exchange rate interface"
+  },
+  "fa-tty": {
+    "appearanceId": "a TTY or TDD device silhouette with a small rectangular keyboard base and a display or readout panel, resembling a teletype or text telephone; typewriter-style text telephone outline with a keyboard and small screen panel",
+    "functionalityId": "represents a TTY or text telephone device for hearing-impaired communication; indicates accessibility via teletype or TDD relay service",
+    "intentId": "indicate TTY or text telephone accessibility options for hearing-impaired users; represent a TDD or teletype relay service in an accessibility or contact interface"
+  },
+  "fa-tty-answer": {
+    "appearanceId": "a TTY device silhouette with a keyboard and display panel plus an incoming-call or answer indicator such as a downward phone arrow badge overlaid; teletype device outline with an answer or incoming-call indicator badge",
+    "functionalityId": "represents an answered or incoming TTY or TDD call in an accessibility context; indicates a teletype call being received or picked up",
+    "intentId": "indicate an incoming or answered TTY call for hearing-impaired users; represent a TDD relay response or answered teletype session in an accessibility interface"
+  },
+  "fa-tugrik-sign": {
+    "appearanceId": "a stylized letter T or U shape with two horizontal parallel lines crossing the upper vertical shaft, forming the Mongolian tugrik currency symbol; tugrik currency glyph with a crossbar-striped upper stem",
+    "functionalityId": "represents the Mongolian tugrik currency symbol in a financial or commerce context; labels a price or monetary value in Mongolian tugrik",
+    "intentId": "indicate a Mongolian tugrik price or monetary amount; represent MNT currency in a financial, e-commerce, or exchange rate interface"
+  },
+  "fa-turkey": {
+    "appearanceId": "a turkey bird silhouette with a plump rounded body, a small head with a wattle, fanned-out tail feathers spreading in a semicircle at the rear, and two legs; turkey outline with a fan of tail feathers and a small wattled head",
+    "functionalityId": "represents a turkey bird in a food, holiday, or animal context; indicates Thanksgiving, holiday cooking, or a poultry category",
+    "intentId": "indicate Thanksgiving, holiday cooking, or a poultry dish in a seasonal or food interface; represent a turkey bird in an animal or festive category"
+  },
+  "fa-turn-down": {
+    "appearanceId": "an L-shaped arrow that travels downward and then bends to point right or left at the bottom, showing a turn from a vertical path downward; downward arrow that bends at the base into a horizontal exit direction",
+    "functionalityId": "represents a downward turn or directional change going down in a navigation or routing context; indicates a turn-down action or redirect to a lower path",
+    "intentId": "navigate a downward turn or redirect content to a lower level; indicate a downward directional change in a routing, map, or UI navigation interface"
+  },
+  "fa-turn-down-left": {
+    "appearanceId": "an L-shaped arrow that enters from the top going downward and then bends at the bottom to point left, showing a down-then-left directional turn; arrow descending vertically then bending left at the base",
+    "functionalityId": "represents a directional turn going down then left in a navigation or routing context; indicates a down-and-left redirect or turn at a lower position",
+    "intentId": "navigate a down-then-left turn in a routing, map, or UI flow interface; indicate a downward then leftward directional change in a navigation path"
+  },
+  "fa-turn-down-right": {
+    "appearanceId": "an L-shaped arrow that enters from the top going downward and then bends at the bottom to point right, showing a down-then-right directional turn; arrow descending vertically then bending right at the base",
+    "functionalityId": "represents a directional turn going down then right in a navigation or routing context; indicates a down-and-right redirect at a lower position",
+    "intentId": "navigate a down-then-right turn in a routing, map, or UI flow interface; indicate a downward then rightward directional change in a navigation path"
+  },
+  "fa-turn-left": {
+    "appearanceId": "an L-shaped arrow that travels horizontally from the right and bends to point downward or upward at the left end, showing a leftward turn; horizontal arrow pointing left that curves or bends at the left end",
+    "functionalityId": "represents a leftward turn or directional change in a navigation or routing context; indicates a turn-left action or horizontal redirect to the left",
+    "intentId": "navigate a leftward turn or redirect to the left in a routing, map, or UI navigation interface; indicate a leftward directional change in a path or flow"
+  },
+  "fa-turn-left-down": {
+    "appearanceId": "an L-shaped arrow that enters from the right moving left and then bends downward at the left end, showing a left-then-down directional turn; arrow moving left that bends downward at the left terminus",
+    "functionalityId": "represents a directional turn going left then down in a navigation or routing context; indicates a left-then-downward redirect or bend in a path",
+    "intentId": "navigate a left-then-down turn in a routing, map, or UI flow interface; indicate a leftward then downward directional change in a navigation path"
+  },
+  "fa-turn-left-up": {
+    "appearanceId": "an L-shaped arrow that enters from the right moving left and then bends upward at the left end, showing a left-then-up directional turn; arrow moving left that bends upward at the left terminus",
+    "functionalityId": "represents a directional turn going left then up in a navigation or routing context; indicates a left-then-upward redirect or bend in a path",
+    "intentId": "navigate a left-then-up turn in a routing, map, or UI flow interface; indicate a leftward then upward directional change in a navigation path"
+  },
+  "fa-turn-right": {
+    "appearanceId": "an L-shaped arrow that travels horizontally from the left and bends to point downward or upward at the right end, showing a rightward turn; horizontal arrow pointing right that curves or bends at the right end",
+    "functionalityId": "represents a rightward turn or directional change in a navigation or routing context; indicates a turn-right action or horizontal redirect to the right",
+    "intentId": "navigate a rightward turn or redirect to the right in a routing, map, or UI navigation interface; indicate a rightward directional change in a path or flow"
+  },
+  "fa-turn-up": {
+    "appearanceId": "an L-shaped arrow that travels downward and then bends at the base to point upward, or enters from the bottom pointing upward and bends at the top; arrow ascending vertically with a bend indicating an upward turn",
+    "functionalityId": "represents an upward turn or directional change going up in a navigation or routing context; indicates a turn-up action or redirect to a higher level",
+    "intentId": "navigate an upward turn or redirect content to a higher level; indicate an upward directional change in a routing, map, or UI navigation interface"
+  },
+  "fa-turntable": {
+    "appearanceId": "a circular turntable platter silhouette viewed from above with a vinyl record disc, a central spindle hole, and a tonearm with a needle positioned at the outer groove edge; DJ turntable outline with a round platter, record, and tonearm",
+    "functionalityId": "represents a vinyl record turntable or DJ deck in a music or audio context; indicates DJ mixing, vinyl playback, or audio equipment in an interface",
+    "intentId": "indicate DJ equipment, vinyl playback, or music mixing in an audio or entertainment interface; represent a turntable or record player in a music or DJ context"
+  },
+  "fa-turtle": {
+    "appearanceId": "a turtle silhouette viewed from above or the side with a domed segmented shell, a small head extending from the front, short stubby legs at four corners, and a small tail; tortoise outline with a patterned dome shell and four short legs",
+    "functionalityId": "represents a turtle or tortoise animal in a nature, wildlife, or education context; indicates slow speed, longevity, or an aquatic reptile category",
+    "intentId": "indicate a turtle or tortoise in a nature, wildlife, or education interface; represent slow speed, aquatic reptile content, or an animal category"
+  },
+  "fa-tv": {
+    "appearanceId": "a thin flat-panel television silhouette in landscape orientation with a wide rectangular screen area, a slim border bezel, and a narrow base stand at the bottom center; flat-screen TV outline with a slim bezel and center stand base",
+    "functionalityId": "represents a television, display monitor, or screen device; indicates TV content, screen mirroring, or a display output option in an interface",
+    "intentId": "access TV content, display settings, or screen mirroring; represent a television or monitor device in a media or entertainment interface"
+  },
+  "fa-tv-music": {
+    "appearanceId": "a thin flat-panel television silhouette with a wide rectangular screen and a small music note badge or overlay in a corner of the screen indicating media playback; flat-screen TV outline with a music note badge on the display area",
+    "functionalityId": "represents a television playing music or a music video channel; indicates a TV-based music streaming or audio-visual media context",
+    "intentId": "access music or audio-visual content on a TV screen; indicate a music streaming or media playback mode on a television device"
+  },
+  "fa-tv-retro": {
+    "appearanceId": "a vintage CRT television silhouette with a boxy rounded rectangular cabinet body, a slightly rounded screen face with curved corners, two antenna rods extending upward from the top, and visible control knobs on the side; retro TV outline with a curved CRT body, top antennas, and side knobs",
+    "functionalityId": "represents a retro or vintage CRT television set in a nostalgia, media, or entertainment context; indicates old-fashioned TV, classic media, or vintage technology",
+    "intentId": "indicate retro or vintage TV content in a nostalgia or classic media interface; represent an old-fashioned television set in a technology history or entertainment context"
+  },
+  "fa-typewriter": {
+    "appearanceId": "a vintage typewriter silhouette with a rectangular body, a raised typehead or carriage mechanism at the top, a row of round key buttons across the middle, and a paper feed roller at the top rear; mechanical typewriter outline with key rows, a carriage, and paper roller",
+    "functionalityId": "represents a typewriter or vintage text-input machine in a writing or retro context; indicates manual typing, classic document creation, or vintage office equipment",
+    "intentId": "indicate typewriting, vintage writing, or classic document creation in a retro or office interface; represent a typewriter in a writing tool or historical technology context"
+  },
+  "fa-u": {
+    "appearanceId": "a single uppercase letter U glyph in a standard serif or sans-serif typeface; capital letter U typographic character",
+    "functionalityId": "represents the letter U as a label, keyboard key, or text identifier; indicates a U-category item, underline shortcut, or alphabetical marker in an interface",
+    "intentId": "label or identify an item with the letter U; indicate a U-keyed shortcut, underline action, or alphabetical marker in a design, editor, or keyboard interface"
+  },
+  "fa-ufo": {
+    "appearanceId": "a flying saucer silhouette with a domed upper hemisphere on a wider flat elliptical disc base, suggesting a classic UFO or alien spacecraft shape; disc-shaped spacecraft outline with a central dome on a flat oval hull",
+    "functionalityId": "represents a UFO or unidentified flying object in a sci-fi or extraterrestrial context; indicates alien spacecraft, science fiction content, or a space theme",
+    "intentId": "indicate UFO, alien, or science fiction content in a space or fantasy interface; represent an extraterrestrial spacecraft or unidentified aerial phenomenon"
+  },
+  "fa-ufo-beam": {
+    "appearanceId": "a flying saucer silhouette with a domed hull and a downward-pointing tractor beam or light cone radiating from the underside of the disc toward the ground; UFO disc outline with a triangular downward beam emanating from the bottom",
+    "functionalityId": "represents a UFO emitting a tractor beam or abduction light in a sci-fi context; indicates an alien abduction, extraterrestrial energy beam, or sci-fi interaction",
+    "intentId": "indicate a UFO tractor beam or alien abduction event in a sci-fi or space-themed interface; represent an extraterrestrial energy beam or abduction scenario"
+  },
+  "fa-umbrella": {
+    "appearanceId": "a domed umbrella canopy silhouette with scalloped or curved outer edges and a straight center pole handle extending downward; round umbrella canopy outline with a center shaft and curved drip edge",
+    "functionalityId": "represents an umbrella or weather protection tool; indicates rain protection, wet weather, or an insurance or coverage category in an interface",
+    "intentId": "indicate rain protection, wet weather, or insurance coverage in a weather or commerce interface; represent an umbrella accessory or rain-related category"
+  },
+  "fa-umbrella-alt": {
+    "appearanceId": "an alternative umbrella silhouette with a different handle style such as a curved crook handle at the bottom, or a slightly different canopy shape compared to the standard umbrella; alternate umbrella canopy outline with a curved crook handle variant",
+    "functionalityId": "represents an alternate umbrella style with a hooked handle in a weather or fashion context; indicates a cane-style umbrella or alternate rain-cover symbol",
+    "intentId": "indicate rain protection or umbrella accessory using an alternate crook-handle style; represent a fashion umbrella or weather coverage variant in an interface"
+  },
+  "fa-umbrella-beach": {
+    "appearanceId": "a wide beach umbrella silhouette with a large domed or pointed canopy and a long center pole with a pointed spike at the bottom for staking into sand; large patio beach umbrella outline with a pointed spike base pole",
+    "functionalityId": "represents a beach umbrella or outdoor sun shelter in a leisure or travel context; indicates a beach, resort, sunshade, or outdoor relaxation area",
+    "intentId": "indicate a beach, resort, or outdoor sun shelter in a travel or leisure interface; represent beach amenities or a sunny outdoor relaxation area"
+  },
+  "fa-underline": {
+    "appearanceId": "a single horizontal line drawn beneath a short text sample or a standalone underline bar with a letter or word above it; text underline formatting bar beneath a sample character or word",
+    "functionalityId": "applies or removes underline text formatting to selected text in an editor; toggles underline styling in a word processor or rich text field",
+    "intentId": "apply underline formatting to text in a document or text editor; toggle underline styling for emphasis or hyperlink indication in a writing interface"
+  },
+  "fa-undo": {
+    "appearanceId": "a single curved arrow bending counterclockwise from right to left with the arrowhead pointing left and a short trailing tail on the right; counterclockwise curved arrow with a left-pointing tip indicating reversal",
+    "functionalityId": "reverts the last action or change in an editor or application; undoes the most recent edit or operation to restore a previous state",
+    "intentId": "undo the last action or edit in a document, editor, or application; restore the previous state by reversing the most recent change"
+  },
+  "fa-undo-alt": {
+    "appearanceId": "an alternate counterclockwise curved arrow with a slightly different arc or tail style compared to the standard undo arrow, still bending counterclockwise with the tip pointing left; alternate counterclockwise undo arrow with a variant arc or tail rendering",
+    "functionalityId": "reverts the last action using an alternate undo symbol style; undoes the most recent edit in an editor with a visually distinct undo arrow",
+    "intentId": "undo the last action using an alternate undo arrow symbol; restore the previous state in a document or editor interface with a distinct undo variant"
+  },
+  "fa-unicorn": {
+    "appearanceId": "a horse silhouette with a single spiraling horn projecting from the forehead, four legs, a flowing mane, and a tail; horse outline with a single pointed spiral horn on the forehead",
+    "functionalityId": "represents a unicorn mythical creature in a fantasy, magic, or creative context; indicates magical, whimsical, or unique content in an application",
+    "intentId": "indicate magical, fantastical, or uniquely special content in a creative or fantasy interface; represent a unicorn or whimsical theme in a game or design context"
+  },
+  "fa-uniform-martial-arts": {
+    "appearanceId": "a martial arts uniform or gi silhouette showing the upper jacket with a V-neck crossed-lapel front, long sleeves, and a waist belt or sash; karate gi jacket outline with a crossed V-neck and belt",
+    "functionalityId": "represents a martial arts uniform or gi in a sports or training context; indicates karate, judo, or martial arts training, class, or equipment",
+    "intentId": "indicate martial arts training, a dojo, or combat sports equipment in a fitness or sports interface; represent a martial arts class or gi uniform category"
+  },
+  "fa-union": {
+    "appearanceId": "a mathematical union symbol consisting of a U-shaped curve open at the top, representing the set union operator; large open-top U-shaped arc forming the union set operator glyph",
+    "functionalityId": "represents the set union mathematical operator in a math, logic, or data context; applies or indicates a union operation combining two sets",
+    "intentId": "indicate a set union operation in a mathematical, logical, or data query interface; represent combining two datasets or sets in a math or programming context"
+  },
+  "fa-universal-access": {
+    "appearanceId": "a circle outline enclosing a stylized human figure with arms extended diagonally outward and downward and legs spread apart, similar to the universal accessibility symbol; person figure with outstretched limbs inside a circular border",
+    "functionalityId": "represents universal accessibility or ADA compliance in an interface; indicates accessible features, disability accommodations, or inclusive design options",
+    "intentId": "indicate accessibility features or ADA compliance in an interface; access or configure universal accessibility options in an application or website"
+  },
+  "fa-unlink": {
+    "appearanceId": "two chain link ovals that are broken apart or separated with a gap between them, showing a disconnected or severed chain link pair; pair of oval chain links with a gap or break between them indicating disconnection",
+    "functionalityId": "removes a hyperlink or breaks a connection between two linked items; unlinks or detaches associated elements in an editor or data model",
+    "intentId": "remove a hyperlink or break a link between connected items; unlink or detach associated content in a text editor, CMS, or data interface"
+  },
+  "fa-unlock": {
+    "appearanceId": "an open padlock silhouette with the shackle raised and swung open to one side above the padlock body, indicating an unlocked state; padlock body outline with the U-shaped shackle raised and open on one side",
+    "functionalityId": "unlocks or grants access to a secured resource, feature, or content area; removes a restriction or lock from a protected item",
+    "intentId": "unlock access to a secured resource or feature; remove a lock or restriction in a security, account, or access control interface"
+  },
+  "fa-unlock-alt": {
+    "appearanceId": "an open padlock silhouette with the shackle raised and open, rendered in an alternative style with slightly different proportions or shackle curvature compared to the standard unlock icon; alternate open-shackle padlock outline with a variant body or shackle shape",
+    "functionalityId": "unlocks or grants access using an alternate open padlock symbol; removes a security restriction with a visually distinct unlocked padlock style",
+    "intentId": "unlock access to a secured resource using an alternate padlock symbol; remove a lock or restriction in a security or access control interface with a distinct icon variant"
+  },
+  "fa-up": {
+    "appearanceId": "a simple upward-pointing arrow with a chevron or arrowhead tip at the top and a short vertical shaft below; upward arrow with a pointed tip and vertical stem",
+    "functionalityId": "moves, scrolls, or navigates content upward; indicates an upward direction or increment action in an interface",
+    "intentId": "scroll up, move content upward, or navigate to a higher position in an interface; indicate an upward directional action in a navigation or form control"
+  },
+  "fa-up-down": {
+    "appearanceId": "two arrows pointing in opposite vertical directions, one upward and one downward, sharing a common shaft or arranged end-to-end; bidirectional vertical arrow with tips pointing both up and down",
+    "functionalityId": "represents a bidirectional vertical movement or sortable column in a list or table; indicates up-down dragging, vertical resizing, or sort-order toggling",
+    "intentId": "drag, resize, or sort content in a vertical direction; indicate a bidirectional vertical movement or sort toggle in a list, table, or layout interface"
+  },
+  "fa-up-from-bracket": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft rising out of a horizontal bracket or base bar at the bottom, with the bracket's two ends pointing downward or inward; upward arrow emerging from an open-bottom bracket base",
+    "functionalityId": "represents an upload or export action out of a contained bracket region; indicates moving content upward out of a bounded area or container",
+    "intentId": "upload or export content out of a container or framed area; indicate an upward extraction or share action from a bracketed region in an interface"
+  },
+  "fa-up-from-dotted-line": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft rising from a horizontal dotted or dashed line at the bottom, with the line made of small evenly spaced dots or dashes; upward arrow ascending from a dotted baseline",
+    "functionalityId": "represents movement or extraction above a dotted boundary line; indicates content moving upward past a dashed threshold or divider",
+    "intentId": "move content above a dotted boundary or threshold line; indicate an upward transition past a dashed divider in a layout or document interface"
+  },
+  "fa-up-from-line": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft rising from a solid horizontal line at the bottom, with the line forming a firm baseline; upward arrow ascending from a solid baseline bar",
+    "functionalityId": "represents movement or extraction above a solid boundary line; indicates content moving upward past a solid baseline or floor element",
+    "intentId": "move content above a solid boundary line; indicate an upward transition from a fixed baseline in a layout or document interface"
+  },
+  "fa-up-left": {
+    "appearanceId": "a diagonal arrow pointing toward the upper-left corner, with the arrowhead at the upper-left and the shaft running diagonally from lower-right to upper-left; diagonal upward-left arrow with a pointed tip at the upper-left",
+    "functionalityId": "represents a diagonal movement or navigation toward the upper-left direction; indicates a move, resize, or directional change toward the upper-left corner",
+    "intentId": "move or navigate diagonally toward the upper-left in a canvas, map, or layout interface; indicate an upper-left directional action or resize handle"
+  },
+  "fa-up-long": {
+    "appearanceId": "a long upward-pointing arrow with an extended vertical shaft and a standard arrowhead at the top, the shaft noticeably longer than a regular up arrow; tall upward arrow with a long vertical stem and a pointed tip",
+    "functionalityId": "represents a large or extended upward movement, scroll, or navigation; indicates a long upward scroll, priority boost, or significant upward jump",
+    "intentId": "scroll far upward or indicate a large upward navigation jump; represent a high-priority or significant upward movement in a list, document, or queue interface"
+  },
+  "fa-up-right": {
+    "appearanceId": "a diagonal arrow pointing toward the upper-right corner, with the arrowhead at the upper-right and the shaft running diagonally from lower-left to upper-right; diagonal upward-right arrow with a pointed tip at the upper-right",
+    "functionalityId": "represents a diagonal movement or navigation toward the upper-right direction; indicates a move, expand, or directional change toward the upper-right corner",
+    "intentId": "move or navigate diagonally toward the upper-right in a canvas, map, or layout interface; indicate an upper-right directional action, expand, or external link cue"
+  },
+  "fa-up-to-bracket": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft whose top tip meets or touches a horizontal bracket bar above, with the bracket's ends pointing downward or inward; upward arrow pointing toward an open-top bracket ceiling bar",
+    "functionalityId": "represents movement or navigation upward into a bounded bracket region; indicates inserting or delivering content up into a framed container",
+    "intentId": "upload or deliver content into a framed or bracketed area; indicate an upward insertion action toward a bounded region in a layout or interface"
+  },
+  "fa-up-to-dotted-line": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft whose tip reaches up to a horizontal dotted or dashed line above it, with the line made of evenly spaced dots or dashes; upward arrow with its tip touching a dotted ceiling line",
+    "functionalityId": "represents movement or navigation upward to a dotted boundary line; indicates content moving upward to reach a dashed threshold or upper limit",
+    "intentId": "move content up to a dotted boundary or upper limit line; indicate an upward transition reaching a dashed threshold in a layout or document interface"
+  },
+  "fa-up-to-line": {
+    "appearanceId": "an upward-pointing arrow with a vertical shaft whose tip reaches or touches a solid horizontal line above it, with the line forming a firm ceiling boundary; upward arrow with its tip meeting a solid ceiling bar",
+    "functionalityId": "represents movement or navigation upward to a solid boundary line; indicates content moving upward to reach a solid upper limit or ceiling element",
+    "intentId": "move content up to a solid upper boundary line; indicate an upward transition reaching a fixed ceiling in a layout or document interface"
+  },
+  "fa-upload": {
+    "appearanceId": "an upward-pointing arrow above or emerging from a horizontal baseline bar or tray outline, suggesting data being sent upward from a local storage area; upward arrow rising from a flat tray or baseline bar indicating upload direction",
+    "functionalityId": "uploads a file, image, or data from a local device to a remote server or cloud storage; triggers a file upload or send action in an interface",
+    "intentId": "upload a file or data to a server or cloud storage; initiate a file transfer or data submission from a local device in an application interface"
+  }
+}

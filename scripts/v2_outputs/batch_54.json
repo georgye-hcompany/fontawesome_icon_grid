@@ -1,0 +1,242 @@
+{
+  "fa-sensor-fire": {
+    "appearanceId": "a small rectangular or circular sensor device body with upward-curling flame shapes rising above it; sensor unit outline with a fire flame overlay",
+    "functionalityId": "detects or reports a fire or heat event from a sensor device; triggers a fire alarm or heat threshold alert",
+    "intentId": "monitor for fire or heat hazards using a sensor; indicate a fire detection device in a smart building or safety system"
+  },
+  "fa-sensor-on": {
+    "appearanceId": "a small rectangular or circular sensor device body with a radio wave arc or signal burst radiating outward indicating active state; sensor unit outline with an active signal or power-on indicator",
+    "functionalityId": "activates or indicates that a sensor is powered on and transmitting; confirms a sensor is live and operational",
+    "intentId": "indicate an active or powered-on sensor in a smart home or IoT interface; confirm sensor connectivity and live status"
+  },
+  "fa-server": {
+    "appearanceId": "a stack of two or three horizontal rectangular server rack units each with small circle and line details indicating drive bays and indicator lights; server hardware outline with stacked rack slabs",
+    "functionalityId": "represents a physical or virtual server or backend infrastructure; accesses server configuration or status in a hosting or IT interface",
+    "intentId": "manage or monitor server hardware or backend infrastructure; access server settings or status in an IT or cloud management interface"
+  },
+  "fa-shapes": {
+    "appearanceId": "a circle, a square, and a triangle grouped together in a compact arrangement; basic geometric shapes trio outline with circle, square, and triangle",
+    "functionalityId": "represents geometric shapes, a design element library, or a drawing tool palette; opens a shape selection or categorization interface",
+    "intentId": "access a shape library or drawing tool palette; select or categorize geometric shapes in a design or educational application"
+  },
+  "fa-share": {
+    "appearanceId": "a rightward-pointing arrow curving upward from a vertical baseline, with the tail anchored at the left; share arrow silhouette with a curved upward-right trajectory",
+    "functionalityId": "shares or sends content to another person or platform; exports or forwards an item from its current location",
+    "intentId": "share content, a link, or a file with another user or external platform; forward or export an item from an application"
+  },
+  "fa-share-all": {
+    "appearanceId": "two or three rightward-pointing arrows stacked vertically and curving upward from a common baseline, suggesting multiple simultaneous share actions; multiple share arrows grouped and offset vertically",
+    "functionalityId": "shares or forwards all items or multiple selections simultaneously; broadcasts content to multiple recipients at once",
+    "intentId": "share multiple items or broadcast content to all recipients at once; forward an entire selection or batch to external destinations"
+  },
+  "fa-share-alt": {
+    "appearanceId": "three small circles connected by two diagonal lines in a branching network node pattern, with one circle on the left and two on the right; network share nodes with connecting branch lines",
+    "functionalityId": "shares content via a network or social sharing interface; opens a sharing menu connecting one source to multiple destinations",
+    "intentId": "share content through a social network or multi-destination sharing interface; open a share menu for distributing content to multiple recipients"
+  },
+  "fa-share-alt-square": {
+    "appearanceId": "a square or rounded-square container enclosing three small circles connected by two diagonal branch lines in a network node pattern; square badge with a network share node diagram inside",
+    "functionalityId": "shares content via a network sharing interface contained within a square button; opens a sharing menu from a square UI control",
+    "intentId": "share content from a square sharing button or social network control; access a multi-destination share menu within a square interface element"
+  },
+  "fa-share-square": {
+    "appearanceId": "a square outline with a rightward-curving share arrow in the upper-right corner suggesting an outward export from the container; square frame with an upward-right arrow exiting from the corner",
+    "functionalityId": "shares or exports content out of a square container or panel; forwards an item from a framed or boxed UI element",
+    "intentId": "share or export content from a boxed panel or framed element; forward an item out of a contained section of an interface"
+  },
+  "fa-sheep": {
+    "appearanceId": "a sheep or lamb silhouette with a fluffy cloud-like woolly body, four short legs, and a small head with a snout; sheep animal outline with a rounded fleece body and small limbs",
+    "functionalityId": "represents a sheep or lamb animal in an agricultural or farming context; indicates livestock, wool production, or a farm animal category",
+    "intentId": "indicate a sheep or lamb in a farming, agricultural, or livestock application; represent wool production or farm animal content"
+  },
+  "fa-sheet-plastic": {
+    "appearanceId": "a flat rectangular sheet shape with a slightly wavy or irregular edge suggesting a flexible plastic film or wrap; flat plastic sheet outline with a subtly rippled or curled corner",
+    "functionalityId": "represents a plastic sheet, film wrap, or protective covering material; indicates packaging, plastic sheeting, or material type in a product interface",
+    "intentId": "select or indicate a plastic sheet or protective film material; represent packaging wrap or plastic covering in a materials or product catalog"
+  },
+  "fa-shelves": {
+    "appearanceId": "a shelving unit outline showing two or three horizontal shelf boards stacked vertically with small rectangular objects or items resting on the shelves; bookcase or storage rack with items on each shelf",
+    "functionalityId": "represents a storage shelf unit or inventory shelving; accesses or manages items stored on shelving in a warehouse or retail interface",
+    "intentId": "manage or browse items on storage shelves; indicate a shelving unit or inventory rack in a warehouse, retail, or home organization interface"
+  },
+  "fa-shelves-empty": {
+    "appearanceId": "a shelving unit outline showing two or three horizontal shelf boards stacked vertically with no items or objects on any of the shelves; bookcase or storage rack with bare empty shelf surfaces",
+    "functionalityId": "represents an empty storage shelf unit with no inventory; indicates out-of-stock shelving or a cleared storage rack",
+    "intentId": "indicate empty shelves or an out-of-stock inventory state; represent a cleared or restocking-needed shelving unit in a warehouse or retail interface"
+  },
+  "fa-shield": {
+    "appearanceId": "a plain heraldic shield silhouette with a flat top edge, curved sides tapering to a pointed bottom, and no interior markings; solid shield outline with no overlay or decoration",
+    "functionalityId": "represents protection, security, or a defensive barrier; activates or indicates a shield or guard feature in a security interface",
+    "intentId": "indicate protection, security, or defensive coverage; access a security or shield feature in an application or game interface"
+  },
+  "fa-shield-alt": {
+    "appearanceId": "a heraldic shield silhouette with an alternative or slightly different contour from the standard shield, such as a more angular top or rounded bottom; alternative shield outline variant with a distinct border style",
+    "functionalityId": "represents an alternative shield or security badge; indicates a variant security level or alternate protection symbol",
+    "intentId": "indicate an alternative security or protection status; access an alternate shield or security badge in an interface"
+  },
+  "fa-shield-cat": {
+    "appearanceId": "a heraldic shield silhouette with a cat face or cat silhouette centered inside the shield body, including pointed ears and whisker details; shield outline with a cat face or feline profile overlay",
+    "functionalityId": "represents protection or a security profile associated with a cat or pet; indicates a pet safety feature or a feline-themed security badge",
+    "intentId": "protect or manage a pet cat's safety profile; indicate a feline-themed security or protection feature in a pet or smart home interface"
+  },
+  "fa-shield-check": {
+    "appearanceId": "a heraldic shield silhouette with a checkmark or tick mark centered inside the shield body; shield outline with a verification checkmark overlay",
+    "functionalityId": "represents a verified, approved, or passing security status; confirms that a security check has been completed successfully",
+    "intentId": "indicate a verified or approved security status; confirm that a protection check has passed in a security or compliance interface"
+  },
+  "fa-shield-cross": {
+    "appearanceId": "a heraldic shield silhouette with a cross or plus symbol centered inside the shield body, with arms extending toward the shield edges; shield outline with a centered cross or Christian cross overlay",
+    "functionalityId": "represents a medically protected status or a cross-bearing security emblem; indicates a health shield, crusader badge, or cross-themed protection symbol",
+    "intentId": "indicate a medical shield or cross-bearing protection emblem; represent a health-related security badge or crusader-themed shield"
+  },
+  "fa-shield-dog": {
+    "appearanceId": "a heraldic shield silhouette with a dog face or dog silhouette centered inside the shield body, including rounded ears and a snout; shield outline with a dog face or canine profile overlay",
+    "functionalityId": "represents protection or a security profile associated with a dog or pet; indicates a pet safety feature or a canine-themed security badge",
+    "intentId": "protect or manage a pet dog's safety profile; indicate a canine-themed security or protection feature in a pet or smart home interface"
+  },
+  "fa-shield-exclamation": {
+    "appearanceId": "a heraldic shield silhouette with an exclamation mark centered inside the shield body; shield outline with a warning or alert exclamation point overlay",
+    "functionalityId": "represents a security warning, threat alert, or protection issue requiring attention; indicates that a shield or security status has a critical alert",
+    "intentId": "indicate a security threat or protection warning; flag a critical alert or issue on a security shield in an interface"
+  },
+  "fa-shield-heart": {
+    "appearanceId": "a heraldic shield silhouette with a heart shape centered inside the shield body; shield outline with a heart or love symbol overlay",
+    "functionalityId": "represents protected health, loved ones' safety, or a health insurance shield; indicates a healthcare protection plan or a loved-ones security feature",
+    "intentId": "indicate health protection, loved ones' safety, or a health insurance shield; represent a caring or health-focused security feature"
+  },
+  "fa-shield-keyhole": {
+    "appearanceId": "a heraldic shield silhouette with a keyhole shape centered inside the shield body, showing the circular top and narrow vertical slot of a keyhole; shield outline with a keyhole privacy or lock overlay",
+    "functionalityId": "represents private security, locked protection, or access-controlled shielding; indicates a locked or private security state requiring authentication",
+    "intentId": "indicate a locked or private security state; represent access-controlled protection or a privacy shield in an authentication interface"
+  },
+  "fa-shield-minus": {
+    "appearanceId": "a heraldic shield silhouette with a horizontal minus bar centered inside the shield body; shield outline with a subtract or remove minus sign overlay",
+    "functionalityId": "removes or downgrades a security level or protection feature; decrements a shield tier or removes a security layer",
+    "intentId": "reduce or remove a security protection level; downgrade a shield status or remove a security layer in an interface"
+  },
+  "fa-shield-plus": {
+    "appearanceId": "a heraldic shield silhouette with a plus sign centered inside the shield body; shield outline with an add or upgrade plus sign overlay",
+    "functionalityId": "adds or upgrades a security level or protection feature; increments a shield tier or adds a new security layer",
+    "intentId": "add or upgrade a security protection level; enhance a shield status or add a security layer in an interface"
+  },
+  "fa-shield-quartered": {
+    "appearanceId": "a heraldic shield silhouette divided into four equal quadrants by a vertical and horizontal line crossing at the center, creating four separate interior sections; shield outline with four divided quarter sections",
+    "functionalityId": "represents a quartered heraldic shield or a four-part security classification; indicates a multi-zone or multi-tiered protection scheme",
+    "intentId": "indicate a multi-zone or four-part security configuration; represent a heraldic quartered shield or a segmented protection scheme"
+  },
+  "fa-shield-slash": {
+    "appearanceId": "a heraldic shield silhouette with a diagonal slash line drawn through the entire shield shape; shield outline with a forward-slash strikethrough across the full body",
+    "functionalityId": "indicates that a shield or security feature is disabled, blocked, or unavailable; removes or deactivates a protection layer",
+    "intentId": "disable or deactivate a security shield or protection feature; indicate that shielding or security is currently unavailable"
+  },
+  "fa-shield-times": {
+    "appearanceId": "a heraldic shield silhouette with an X mark or times symbol centered inside the shield body; shield outline with a close or cancel X glyph overlay",
+    "functionalityId": "rejects, cancels, or removes a security shield or protection status; indicates a failed or denied security check",
+    "intentId": "reject or cancel a security protection status; indicate a failed or denied security check in a protection interface"
+  },
+  "fa-shield-virus": {
+    "appearanceId": "a heraldic shield silhouette with a virus particle shape centered inside, showing a round body with short spike protrusions; shield outline with a spiky virus particle overlay",
+    "functionalityId": "represents antivirus protection or defense against a biological or digital virus threat; indicates a virus-blocking or antivirus security feature",
+    "intentId": "indicate antivirus or anti-malware protection; represent defense against a virus threat in a cybersecurity or health protection interface"
+  },
+  "fa-ship": {
+    "appearanceId": "a large cargo or passenger ship silhouette viewed from the side with a hull, deck superstructure, and smokestack or mast visible; ocean vessel outline with hull and upper deck structures",
+    "functionalityId": "represents a ship, ferry, or maritime vessel in a transport or logistics context; indicates sea freight, ocean travel, or shipping routes",
+    "intentId": "indicate sea freight, ocean shipping, or maritime travel; access shipping routes or vessel tracking in a logistics or travel interface"
+  },
+  "fa-shirt": {
+    "appearanceId": "a short-sleeved crew-neck t-shirt silhouette viewed from the front with a round neckline, short sleeves, and a rectangular body; classic t-shirt garment outline with short sleeves",
+    "functionalityId": "represents a t-shirt or casual shirt garment in a clothing or apparel interface; selects or categorizes a short-sleeved top",
+    "intentId": "select or browse a t-shirt or short-sleeved top in a clothing or e-commerce interface; indicate a casual shirt garment category"
+  },
+  "fa-shirt-long-sleeve": {
+    "appearanceId": "a long-sleeved crew-neck shirt silhouette viewed from the front with extended sleeves reaching the wrist and a rectangular body; long-sleeve garment outline with full-length sleeves",
+    "functionalityId": "represents a long-sleeved shirt or top in a clothing or apparel interface; selects or categorizes a full-sleeve garment",
+    "intentId": "select or browse a long-sleeved shirt in a clothing or e-commerce interface; indicate a full-sleeve garment category"
+  },
+  "fa-shirt-running": {
+    "appearanceId": "a sleeveless or short-sleeved athletic shirt silhouette with a racerback or running-specific cut, suggesting a performance sports top; athletic running jersey outline with a sporty or racerback cut",
+    "functionalityId": "represents a running or athletic jersey in a sports or apparel interface; selects or categorizes a performance running top",
+    "intentId": "select or browse a running jersey or athletic shirt in a sports or e-commerce interface; indicate a performance running garment category"
+  },
+  "fa-shirt-tank-top": {
+    "appearanceId": "a sleeveless tank top shirt silhouette with wide armhole cutouts, shoulder straps, and a rectangular body and no sleeves; tank top garment outline with open-shoulder armholes and straps",
+    "functionalityId": "represents a tank top or sleeveless shirt in a clothing or apparel interface; selects or categorizes a sleeveless top garment",
+    "intentId": "select or browse a tank top or sleeveless shirt in a clothing or e-commerce interface; indicate a sleeveless garment category"
+  },
+  "fa-shish-kebab": {
+    "appearanceId": "a long skewer stick with alternating pieces of meat and vegetables threaded along its length at regular intervals; kebab skewer outline with alternating food chunks",
+    "functionalityId": "represents a shish kebab dish in a food menu or recipe context; indicates grilled skewer food or a Middle Eastern cuisine category",
+    "intentId": "select or display a shish kebab in a food menu or recipe application; indicate a grilled skewer dish in a restaurant or culinary interface"
+  },
+  "fa-shoe-prints": {
+    "appearanceId": "two footprint or shoe-sole silhouettes shown in a walking stride pattern, one slightly ahead and offset from the other; left and right shoe print outlines in a stepping arrangement",
+    "functionalityId": "represents walking, footsteps, or a path of movement; indicates a pedestrian route, step counting, or footwear in a tracking or fitness context",
+    "intentId": "track walking steps or indicate a pedestrian path; represent footwear or step-counting in a fitness, navigation, or walking direction interface"
+  },
+  "fa-shop": {
+    "appearanceId": "a small storefront building silhouette with a rectangular facade, an awning or canopy over a display window, and an entry door; shop building outline with a canopy and storefront window",
+    "functionalityId": "represents a retail shop, store, or marketplace; opens or accesses a storefront, product listing, or retail location in an interface",
+    "intentId": "access a retail store or marketplace; browse or manage a shop or storefront in a commerce or location-based interface"
+  },
+  "fa-shop-lock": {
+    "appearanceId": "a small storefront building silhouette with an awning and a small padlock shape overlaid on or beside the facade; shop building outline with a lock badge indicating closure or restricted access",
+    "functionalityId": "represents a locked, closed, or restricted-access shop; indicates that a store is temporarily unavailable or access-controlled",
+    "intentId": "indicate a locked or closed store in a commerce interface; represent restricted access or temporary closure of a retail shop"
+  },
+  "fa-shop-slash": {
+    "appearanceId": "a small storefront building silhouette with a diagonal slash line drawn through the entire facade; shop building outline with a forward-slash strikethrough",
+    "functionalityId": "represents a closed, unavailable, or deactivated shop; indicates that a store or marketplace is not currently accessible",
+    "intentId": "indicate that a shop or store is closed or unavailable; deactivate or remove a storefront in a commerce or marketplace interface"
+  },
+  "fa-shopping-basket-alt": {
+    "appearanceId": "a woven or open-weave basket silhouette with two arching handles meeting at the top and a round or oval body with a lattice or crosshatch pattern; alternative shopping basket outline with arched handles and woven body",
+    "functionalityId": "represents an alternative shopping basket or cart in an e-commerce interface; adds items to or views a shopping basket",
+    "intentId": "add items to a shopping basket or view cart contents in an e-commerce interface; access an alternative shopping container in a retail application"
+  },
+  "fa-shortcake": {
+    "appearanceId": "a layered shortcake or strawberry shortcake silhouette showing a round cake base with a cream layer and a whole strawberry or berry on top; shortcake dessert outline with layers and a fruit topping",
+    "functionalityId": "represents a shortcake or layered fruit dessert in a food menu or bakery context; indicates a dessert category or shortcake recipe",
+    "intentId": "select or display a shortcake dessert in a food or bakery menu; indicate a layered fruit cake in a dessert or recipe application"
+  },
+  "fa-shovel": {
+    "appearanceId": "a shovel tool silhouette with a long straight handle and a wide flat rectangular or rounded blade at the bottom; digging shovel outline with a handle and spade-head blade",
+    "functionalityId": "represents a digging, gardening, or excavation tool; indicates a dig action, ground preparation, or construction task",
+    "intentId": "perform a digging or excavation task; select a shovel tool in a gardening, construction, or landscaping interface"
+  },
+  "fa-shovel-snow": {
+    "appearanceId": "a snow shovel silhouette with a long handle and a wide curved or flat scoop blade, often with small snow flakes or a wider scoop angle suggesting snow removal; snow shovel outline with a broad scoop blade",
+    "functionalityId": "represents a snow shovel or snow removal tool; indicates a snow-clearing task or winter maintenance action",
+    "intentId": "perform a snow removal or winter maintenance task; select a snow shovel in a weather or outdoor maintenance interface"
+  },
+  "fa-shower": {
+    "appearanceId": "a shower head silhouette viewed from below showing a round or rectangular perforated head with water droplet streams radiating downward from multiple holes; shower head outline with downward water spray pattern",
+    "functionalityId": "represents a shower fixture or bathroom feature; indicates a shower facility, water usage setting, or bathroom amenity",
+    "intentId": "indicate a shower facility or bathroom amenity; access shower settings or water usage controls in a home or hotel interface"
+  },
+  "fa-shower-alt": {
+    "appearanceId": "an alternative shower head silhouette with a slightly different head shape, mounting arm, or spray pattern compared to the standard shower icon; alternate shower head outline with a varied arm or spray orientation",
+    "functionalityId": "represents an alternative shower fixture or a second bathroom shower option; indicates an alternate shower setting or fixture style",
+    "intentId": "indicate an alternative shower fixture or secondary bathroom shower; access an alternate shower setting in a home or hospitality interface"
+  },
+  "fa-shredder": {
+    "appearanceId": "a paper shredder machine silhouette with a rectangular body, a slot opening at the top for paper insertion, and shredded paper strips visible below; shredder device outline with a paper feed slot and shredded strip output",
+    "functionalityId": "represents a paper shredder machine for destroying documents; shreds, destroys, or permanently deletes sensitive content",
+    "intentId": "shred or permanently destroy sensitive documents; indicate a document shredding or secure data deletion action in an office or security interface"
+  },
+  "fa-shrimp": {
+    "appearanceId": "a shrimp or prawn silhouette with a curved segmented body, tail fan, and small legs or antennae; crustacean outline with a curved body and tail fan shape",
+    "functionalityId": "represents a shrimp or prawn seafood item in a food menu or recipe context; indicates a seafood dish or crustacean ingredient",
+    "intentId": "select or display a shrimp or prawn in a seafood menu or recipe application; indicate a crustacean ingredient in a food or restaurant interface"
+  },
+  "fa-shutters": {
+    "appearanceId": "a pair of rectangular window shutter panels shown closed or slightly open, each panel with horizontal louvered slat lines; window shutters outline with horizontal slat details on two panels",
+    "functionalityId": "represents window shutters or louvered panels for light and privacy control; opens, closes, or adjusts window shutter settings",
+    "intentId": "control or adjust window shutters for light or privacy; indicate window shutter hardware or home automation shutter settings"
+  },
+  "fa-shuttle-space": {
+    "appearanceId": "a space shuttle silhouette viewed from the side showing a delta-winged orbiter with a pointed nose cone, a large tail fin, and engine nozzles at the rear; NASA-style space shuttle orbiter outline with delta wings and tail assembly",
+    "functionalityId": "represents a space shuttle vehicle or space exploration mission; indicates aerospace, space travel, or launch-related content",
+    "intentId": "indicate space travel, a shuttle launch, or aerospace content; represent a space mission or space exploration theme in an application"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-mobile": {
+    "appearanceId": "tall narrow rectangular smartphone body with a small circular home button centered below the screen and thin bezels on all sides; basic mobile phone silhouette with a bottom home button",
+    "functionalityId": "represents a mobile phone device or triggers a call or mobile-specific action; indicates mobile device compatibility or a phone contact",
+    "intentId": "access mobile device settings or contact someone by phone; indicate that content is optimized for a mobile device"
+  },
+  "fa-mobile-alt": {
+    "appearanceId": "tall narrow rectangular smartphone body with no home button, a thin bezel, and a speaker notch at the top center; slim modern mobile phone silhouette with a top speaker slot and minimal bezels",
+    "functionalityId": "represents a modern bezel-less smartphone or an alternate mobile device view; indicates a contemporary mobile form factor",
+    "intentId": "indicate a modern smartphone or mobile-optimized feature; access or configure a contemporary mobile device interface"
+  },
+  "fa-mobile-button": {
+    "appearanceId": "tall narrow rectangular smartphone body with a circular home button centered below the screen area; mobile phone silhouette with a distinct circular button on the bottom bezel",
+    "functionalityId": "represents a smartphone with a physical home button; indicates a device interaction or home-button press action",
+    "intentId": "identify a smartphone that has a home button; navigate to the home screen or trigger a device button action"
+  },
+  "fa-mobile-notch": {
+    "appearanceId": "tall narrow rectangular smartphone body with a small cutout notch centered at the top edge of the screen area; modern phone silhouette with a top-center notch cutout in the display",
+    "functionalityId": "represents a notch-display smartphone; indicates a notched-screen mobile device or camera cutout feature",
+    "intentId": "identify a notch-screen smartphone model; indicate a device with a notch display for camera and sensors"
+  },
+  "fa-mobile-retro": {
+    "appearanceId": "tall rectangular brick-style mobile phone body with a large physical keypad area below a small screen and a prominent antenna extending from the top corner; classic retro candy-bar phone silhouette with keypad and antenna",
+    "functionalityId": "represents a retro or classic mobile phone from an earlier era; indicates a vintage cellular device or nostalgic mobile communication",
+    "intentId": "evoke nostalgia for classic mobile phones; represent vintage cellular communication or a retro design theme"
+  },
+  "fa-mobile-screen": {
+    "appearanceId": "tall narrow rectangular smartphone body with a large display area showing content lines or a screen indicator and no home button; mobile phone silhouette with an active content-filled screen",
+    "functionalityId": "represents the phone screen or display content on a mobile device; shows or manages what appears on a smartphone screen",
+    "intentId": "view or manage content displayed on a mobile screen; indicate a smartphone display or mobile screen layout"
+  },
+  "fa-mobile-signal": {
+    "appearanceId": "tall narrow rectangular smartphone body with a small set of ascending signal-strength bars overlaid as a badge in the upper corner; mobile phone silhouette with a cellular signal bars badge",
+    "functionalityId": "represents cellular signal strength on a mobile device; displays or monitors the wireless signal reception level",
+    "intentId": "check or display the cellular signal strength on a mobile device; monitor wireless reception quality for a phone"
+  },
+  "fa-mobile-signal-out": {
+    "appearanceId": "tall narrow rectangular smartphone body with a small set of signal-strength bars badge where the bars are reduced or crossed out indicating no signal; mobile phone silhouette with a no-signal or low-signal bars badge",
+    "functionalityId": "indicates loss of cellular signal or a mobile device out of range; shows that a phone has no wireless reception",
+    "intentId": "indicate that a mobile device has lost signal or is out of coverage; display a no-signal status for a cellular device"
+  },
+  "fa-money-bill": {
+    "appearanceId": "a flat rectangular banknote shape with straight edges and a simple oval or decorative pattern in the center; plain paper currency bill outline with a central oval detail",
+    "functionalityId": "represents paper currency or a cash payment; indicates a monetary amount or financial transaction",
+    "intentId": "make a cash payment or indicate a monetary value; access financial transaction or currency-related features"
+  },
+  "fa-money-bill-1": {
+    "appearanceId": "a flat rectangular banknote shape with straight edges and a bold numeral 1 or denomination detail centered on the bill face; paper currency bill outline with a centered numeral badge",
+    "functionalityId": "represents a single-denomination banknote or a one-unit currency bill; indicates a minimal or single cash amount",
+    "intentId": "indicate a single-unit or lowest-denomination cash payment; represent a one-dollar or single-unit banknote in a transaction"
+  },
+  "fa-money-bill-1-wave": {
+    "appearanceId": "a rectangular banknote shape with undulating wavy top and bottom edges and a bold centered denomination detail; wavy-edged paper currency bill outline with a numeral badge",
+    "functionalityId": "represents a wavy banknote style for cash or currency transactions; indicates a flowing or dynamic monetary amount",
+    "intentId": "indicate a cash payment with a stylized wavy banknote; represent flowing or flexible financial transactions"
+  },
+  "fa-money-bill-simple": {
+    "appearanceId": "a flat minimal rectangular banknote shape with straight edges and no central decoration; plain simplified paper currency bill outline with bare rectangular form",
+    "functionalityId": "represents a simplified or generic banknote for cash transactions; indicates a minimal cash or payment amount",
+    "intentId": "indicate a basic cash payment or currency denomination; represent a generic banknote in a financial interface"
+  },
+  "fa-money-bill-simple-wave": {
+    "appearanceId": "a minimal flat rectangular banknote shape with undulating wavy top and bottom edges and no central decoration; simplified wavy-edged paper currency bill outline",
+    "functionalityId": "represents a simplified wavy banknote for cash or payment indication; indicates a flowing minimal currency form",
+    "intentId": "indicate a stylized minimal cash payment; represent a simple wavy banknote in a financial or payment context"
+  },
+  "fa-money-bill-transfer": {
+    "appearanceId": "a flat rectangular banknote shape with two horizontal arrows pointing in opposite directions overlaid across the bill; paper currency outline with left-pointing and right-pointing transfer arrows",
+    "functionalityId": "transfers or moves funds between accounts; represents a bank transfer or money movement transaction",
+    "intentId": "initiate a money transfer or fund movement between accounts; represent a bilateral financial transaction or wire transfer"
+  },
+  "fa-money-bill-trend-up": {
+    "appearanceId": "a flat rectangular banknote shape with a small rising trend line or upward-sloping arrow chart overlaid on the bill face; paper currency outline with an upward trend graph badge",
+    "functionalityId": "represents increasing monetary value or a rising financial trend; indicates currency appreciation or growing funds",
+    "intentId": "indicate growing or appreciating monetary value; represent a positive financial trend or currency gain"
+  },
+  "fa-money-bill-wave": {
+    "appearanceId": "a rectangular banknote shape with undulating wavy top and bottom edges and a central oval or decorative detail; standard wavy-edged paper currency bill outline with a center motif",
+    "functionalityId": "represents paper currency with a wave style; indicates a cash payment or financial transaction with flowing visual style",
+    "intentId": "indicate a cash payment using a wave-style banknote; represent a monetary transaction in a financial interface"
+  },
+  "fa-money-bill-wheat": {
+    "appearanceId": "a flat rectangular banknote shape with grain stalks or wheat sheaf shapes overlaid on the bill face; paper currency outline with agricultural grain or wheat stem badge",
+    "functionalityId": "represents agricultural subsidies, food aid, or grain-related financial transactions; indicates farm payment or crop-related currency",
+    "intentId": "indicate agricultural payments or food aid funding; represent farm subsidies or grain-related financial transactions"
+  },
+  "fa-money-bills": {
+    "appearanceId": "two or more flat rectangular banknote shapes stacked or fanned slightly behind one another; a stack of paper currency bills with offset layering to indicate multiple notes",
+    "functionalityId": "represents multiple banknotes or a stack of cash; indicates a larger sum of money or bulk currency",
+    "intentId": "represent a large cash amount or bundle of banknotes; indicate multiple currency bills in a financial transaction"
+  },
+  "fa-money-bills-alt": {
+    "appearanceId": "two or more flat rectangular banknote shapes stacked with a slight alternate arrangement or offset angle compared to the standard bills stack; alternate-style stacked currency bill silhouettes",
+    "functionalityId": "represents an alternate view of multiple banknotes or a differently arranged cash stack; indicates bulk currency in an alternative layout",
+    "intentId": "represent multiple currency bills using an alternate stacked arrangement; indicate a cash bundle in a varied visual style"
+  },
+  "fa-money-check": {
+    "appearanceId": "a flat rectangular cheque or check form shape with a horizontal line for a signature and a series of small lines representing printed fields; paper cheque outline with signature line and field markers",
+    "functionalityId": "represents a paper cheque for payment; processes or indicates a check-based financial transaction",
+    "intentId": "issue or process a payment cheque; represent check-based payment in a financial or banking interface"
+  },
+  "fa-money-check-alt": {
+    "appearanceId": "a flat rectangular cheque form shape with lines for the payee and amount fields and a signature line; alternate paper cheque outline with multiple horizontal field lines",
+    "functionalityId": "represents an alternate cheque form for financial transactions; fills in or manages a payment check with labeled fields",
+    "intentId": "process an alternate-style payment cheque; manage or issue a check-based financial transaction form"
+  },
+  "fa-money-check-edit-alt": {
+    "appearanceId": "a flat rectangular cheque form shape with field lines and a small pen or pencil tip overlaid in the lower corner; paper cheque outline with an editing pen badge",
+    "functionalityId": "edits or fills in a payment cheque form; modifies the details of an existing check transaction",
+    "intentId": "edit or complete a payment cheque form; modify check details in a banking or financial interface"
+  },
+  "fa-money-check-pen": {
+    "appearanceId": "a flat rectangular cheque form shape with field lines and a diagonal pen or pencil shape overlaid across the cheque body; paper cheque outline with a pen writing instrument badge",
+    "functionalityId": "fills in or writes a payment cheque; signs or completes check details with a pen",
+    "intentId": "write or complete a payment cheque; sign or fill in check details in a financial or payment interface"
+  },
+  "fa-money-from-bracket": {
+    "appearanceId": "a flat rectangular banknote shape emerging from or sliding out of a bracket or slot opening; paper currency bill exiting a rectangular bracket or card-slot shape",
+    "functionalityId": "represents a cash withdrawal or money dispensed from a slot or ATM; indicates funds being released or taken from a holder",
+    "intentId": "withdraw cash or retrieve money from a dispenser or bracket; indicate a cash-out or funds-dispensing operation"
+  },
+  "fa-money-simple-from-bracket": {
+    "appearanceId": "a minimal flat rectangular banknote shape emerging from or sliding out of a simple bracket slot; simplified paper currency bill exiting a bracket or slot opening",
+    "functionalityId": "represents a simplified cash withdrawal or funds released from a bracket; indicates a minimal cash-out operation",
+    "intentId": "retrieve cash or funds from a simplified dispenser or slot; indicate a basic cash withdrawal or payout action"
+  },
+  "fa-monitor-waveform": {
+    "appearanceId": "a desktop monitor or screen outline with a jagged or sinusoidal ECG waveform line displayed on the screen face; rectangular monitor silhouette with a heartbeat or audio waveform on the display",
+    "functionalityId": "displays a vital sign waveform or audio signal on a monitor screen; represents patient monitoring or signal visualization on a display",
+    "intentId": "monitor a vital sign or audio waveform on a screen display; view medical or signal data on a monitoring device"
+  },
+  "fa-monkey": {
+    "appearanceId": "a cartoon-style monkey silhouette with a round head, visible ears, and a curled or hanging tail; primate outline with large ears and a long arching tail",
+    "functionalityId": "represents a monkey animal in a wildlife, zoo, or emoji context; marks animal-related or playful content",
+    "intentId": "access animal or wildlife content featuring a monkey; add a playful primate element to a design or emoji set"
+  },
+  "fa-monument": {
+    "appearanceId": "a tall tapered obelisk or column shape with a flat base and a pointed or stepped top; vertical monumental pillar silhouette with a narrowing shaft and decorative base",
+    "functionalityId": "represents a monument, memorial, or historic landmark; marks a tourist attraction or cultural heritage site on a map",
+    "intentId": "indicate a historic monument or landmark location; browse or navigate to a cultural memorial or tourist site"
+  },
+  "fa-moon": {
+    "appearanceId": "a crescent moon shape formed by a circular arc with an inner curved cutout leaving a thin crescent sliver; classic crescent moon silhouette with concave inner edge",
+    "functionalityId": "represents nighttime, a dark mode toggle, or lunar-themed content; activates a dark theme or indicates night hours",
+    "intentId": "toggle dark mode or indicate nighttime; access lunar or night-sky related content in an app"
+  },
+  "fa-moon-cloud": {
+    "appearanceId": "a crescent moon shape partially obscured by or overlapping with a cloud puff shape; crescent moon silhouette combined with a cloud outline in a partly cloudy night scene",
+    "functionalityId": "represents a partly cloudy nighttime weather condition; indicates overcast or cloudy night sky in a weather forecast",
+    "intentId": "view a partly cloudy night weather forecast; indicate nighttime cloud cover in a weather or astronomy app"
+  },
+  "fa-moon-stars": {
+    "appearanceId": "a crescent moon shape surrounded by or paired with small star shapes or sparkle glints; crescent moon silhouette with several small star glyphs scattered nearby",
+    "functionalityId": "represents a clear starry night sky or night mode with stars; indicates nighttime with visible stars in a weather or sky app",
+    "intentId": "indicate a clear starry night; activate a night-sky or astronomy view in a weather or stargazing app"
+  },
+  "fa-moped": {
+    "appearanceId": "a side-profile moped or small motor scooter silhouette with a step-through frame, small wheels, a low seat, and a small engine body; compact scooter outline with a low frame and modest engine block",
+    "functionalityId": "represents a moped or motor scooter as a transportation option; indicates a two-wheeled low-speed vehicle for urban travel",
+    "intentId": "select a moped or scooter as a travel or delivery option; indicate urban two-wheeled motor transport"
+  },
+  "fa-mortar-board": {
+    "appearanceId": "a flat square academic cap with a horizontal board top and a tassel hanging from one corner on a circular head base; graduation cap silhouette with a square top and a side tassel",
+    "functionalityId": "represents academic graduation, education, or a degree completion; indicates a school, university, or learning milestone",
+    "intentId": "indicate academic achievement or a graduation event; access education or university-related content and features"
+  },
+  "fa-mortar-pestle": {
+    "appearanceId": "a rounded bowl or mortar shape with a thick cylindrical pestle stick resting inside at an angle; pharmacy or kitchen mortar bowl silhouette with an upright or angled grinding pestle",
+    "functionalityId": "represents a pharmacy, compounding, or ingredient grinding action; indicates medicinal preparation or culinary herb-grinding",
+    "intentId": "access pharmacy or compounding-related features; indicate ingredient preparation or traditional medicine in a health app"
+  },
+  "fa-mosque": {
+    "appearanceId": "a domed building silhouette with a large central dome, one or two flanking minarets with pointed tops, and an arched entrance; Islamic mosque outline with domes and tall minaret towers",
+    "functionalityId": "represents a mosque or Islamic place of worship; marks a religious site, prayer location, or Muslim community center on a map",
+    "intentId": "locate a mosque or Islamic place of worship on a map; indicate a Muslim religious or community landmark"
+  },
+  "fa-mosquito": {
+    "appearanceId": "a side-profile mosquito insect silhouette with a long thin proboscis, segmented body, and elongated legs; winged mosquito outline with a prominent needle-like biting mouthpart",
+    "functionalityId": "represents a mosquito insect or vector for disease; indicates pest control, insect repellent, or disease-transmission risk",
+    "intentId": "indicate a mosquito presence or pest control need; represent a disease vector or insect repellent context in a health or outdoor app"
+  },
+  "fa-mosquito-net": {
+    "appearanceId": "a draped tent or canopy net shape with mesh texture lines and an opening, suggesting a hanging bed net; rectangular hanging mesh net silhouette with draping sides and a visible interior opening",
+    "functionalityId": "represents a mosquito net or protective insect barrier; indicates malaria prevention or vector-borne disease protection measures",
+    "intentId": "indicate malaria prevention or mosquito protection equipment; represent insect net usage in a health or travel safety context"
+  },
+  "fa-motorcycle": {
+    "appearanceId": "a side-profile full-size motorcycle silhouette with two large wheels, a low seat, handlebars at the top, and a visible engine block between the wheels; classic motorbike outline with large spoked wheels and an exposed engine",
+    "functionalityId": "represents a motorcycle as a vehicle type for travel or delivery; indicates a two-wheeled motorized transport option",
+    "intentId": "select a motorcycle as a transport or delivery option; indicate motorcycle-related content in a travel or vehicle app"
+  },
+  "fa-mound": {
+    "appearanceId": "a low rounded hill or earthen mound silhouette with a smooth convex top and flat base; simple dome-shaped hill outline with a gentle arc and flat ground line",
+    "functionalityId": "represents a natural earthen mound, terrain feature, or baseball pitcher mound; indicates an elevation or raised ground area",
+    "intentId": "indicate a mound terrain feature or a baseball pitcher mound; represent a natural earthen rise in a map or sports context"
+  },
+  "fa-mountain": {
+    "appearanceId": "a single triangle or angular peak shape rising from a flat baseline; simple mountain silhouette with one pointed summit and sloping sides",
+    "functionalityId": "represents a mountain, peak, or high-elevation terrain; indicates a hiking, climbing, or outdoor adventure location",
+    "intentId": "indicate a mountain or high-elevation location on a map; access hiking, climbing, or outdoor mountain activity content"
+  },
+  "fa-mountain-city": {
+    "appearanceId": "a large triangular mountain peak silhouette with small rectangular building shapes representing a city skyline layered at the base of the mountain; mountain outline with a cluster of buildings at its foot",
+    "functionalityId": "represents a mountain city or urban area situated near or against a mountain range; indicates an alpine or mountain-adjacent urban location",
+    "intentId": "find a city located near mountains or in an alpine setting; indicate a mountain urban destination in a travel or map app"
+  },
+  "fa-mountain-sun": {
+    "appearanceId": "a large triangular mountain peak silhouette with a partial sun circle rising behind or above the summit; mountain outline with a sun shape partially visible above or behind the peak",
+    "functionalityId": "represents sunrise or sunset over a mountain; indicates a scenic outdoor landscape or a daytime mountain setting",
+    "intentId": "indicate a scenic mountain sunrise or sunset; represent outdoor daylight or a natural landscape in a travel or weather app"
+  },
+  "fa-mountains": {
+    "appearanceId": "two or three overlapping triangular mountain peak shapes of varying heights forming a range; multiple layered mountain silhouettes creating a mountain range outline",
+    "functionalityId": "represents a mountain range or multiple peaks; indicates a large-scale highland terrain or multi-peak wilderness area",
+    "intentId": "indicate a mountain range or multi-peak terrain in a map or travel app; represent an expansive wilderness or highland landscape"
+  },
+  "fa-mouse": {
+    "appearanceId": "an oval or rounded rectangular computer mouse body with a vertical line dividing left and right buttons at the top and a small scroll wheel in the center; standard two-button mouse silhouette with a center scroll wheel",
+    "functionalityId": "represents a computer mouse or pointer device; indicates cursor control or click input in a computing interface",
+    "intentId": "access mouse settings or indicate cursor input; represent a computer pointing device in a hardware or settings interface"
+  },
+  "fa-mouse-alt": {
+    "appearanceId": "an oval or rounded rectangular mouse body with a thin cord or cable line extending from the base; corded computer mouse silhouette with a cable tail at the bottom",
+    "functionalityId": "represents a wired computer mouse or an alternate pointer input device; indicates a corded cursor control peripheral",
+    "intentId": "indicate a wired mouse peripheral or cursor input device; access computer mouse settings in a hardware interface"
+  },
+  "fa-mouse-field": {
+    "appearanceId": "a small simplified mouse body shape placed within or over a rectangular field or grid area outline; compact mouse silhouette overlaid on a rectangular field or input area",
+    "functionalityId": "represents a mouse interacting with or clicking on an input field; indicates cursor-based selection within a form field or grid",
+    "intentId": "indicate cursor interaction with a form field or grid area; show a mouse click or selection on an input region"
+  },
+  "fa-mp3-player": {
+    "appearanceId": "a small rectangular portable music player body with a circular scroll wheel or control pad on the face and a small screen area above; handheld MP3 player silhouette with a front wheel control and a compact display",
+    "functionalityId": "represents a portable MP3 or digital music player device; indicates music playback or audio file management on a portable device",
+    "intentId": "access or manage music playback on a portable MP3 player; indicate a digital audio device or portable music library"
+  },
+  "fa-mug": {
+    "appearanceId": "a cylindrical mug or cup body with a curved handle attached to one side; plain drinking mug silhouette with a loop handle on the right side",
+    "functionalityId": "represents a beverage mug or coffee cup; indicates a hot drink, break time, or café-related feature",
+    "intentId": "indicate a hot beverage or coffee break; access café, drink menu, or beverage-related content in an app"
+  }
+}

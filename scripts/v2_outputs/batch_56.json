@@ -1,0 +1,242 @@
+{
+  "fa-slash": {
+    "appearanceId": "a single diagonal line stroke running from upper-left to lower-right across the icon area; forward-slash diagonal line mark",
+    "functionalityId": "strikes through or negates an element to indicate it is disabled or prohibited; overlays a slash to mark something as inactive",
+    "intentId": "indicate a disabled, prohibited, or inactive state on a UI element; mark an item as not allowed or turned off"
+  },
+  "fa-slash-back": {
+    "appearanceId": "a single diagonal line stroke running from upper-right to lower-left across the icon area; backslash diagonal line mark",
+    "functionalityId": "represents a backslash character in a file path, code, or text context; inserts or indicates a backslash separator",
+    "intentId": "insert or display a backslash character in a file path or code snippet; indicate a directory separator in a Windows-style path"
+  },
+  "fa-slash-forward": {
+    "appearanceId": "a single diagonal line stroke running from lower-left to upper-right across the icon area; forward-slash diagonal line mark",
+    "functionalityId": "represents a forward-slash character in a URL, file path, or code context; inserts or indicates a forward-slash separator",
+    "intentId": "insert or display a forward-slash character in a URL or file path; indicate a directory or URL path separator"
+  },
+  "fa-sledding": {
+    "appearanceId": "a person silhouette seated or lying on a sled with curved runners, shown in a downhill sliding pose; figure on a sled with curved runner blades beneath",
+    "functionalityId": "represents a sledding activity or winter recreational sport; indicates downhill sled riding in a sports or weather context",
+    "intentId": "indicate a sledding activity or winter sport; represent downhill sled riding in a recreation or outdoor sports interface"
+  },
+  "fa-sleigh": {
+    "appearanceId": "a traditional horse-drawn sleigh silhouette with a curved seat body, ornate runners, and sometimes a harness or reins suggesting holiday transport; holiday sleigh outline with curved runners and seat",
+    "functionalityId": "represents a Christmas sleigh or festive winter vehicle; indicates holiday transportation or a seasonal festive theme",
+    "intentId": "indicate a Christmas or holiday sleigh theme; represent festive winter transportation in a seasonal or holiday interface"
+  },
+  "fa-slider": {
+    "appearanceId": "a single horizontal track line with a circular or square thumb knob positioned along it; one-track slider control with a moveable thumb handle",
+    "functionalityId": "adjusts a single value by dragging a thumb along a horizontal track; controls a setting such as volume or brightness with a range slider",
+    "intentId": "adjust a single continuous setting using a range slider; control a value like volume, brightness, or playback position"
+  },
+  "fa-sliders": {
+    "appearanceId": "two or three horizontal track lines stacked vertically, each with a circular thumb knob positioned at different points along the track; multiple horizontal slider tracks with offset thumb positions",
+    "functionalityId": "adjusts multiple settings simultaneously using a set of horizontal range sliders; opens or displays a multi-parameter control panel",
+    "intentId": "fine-tune multiple settings at once using a multi-slider control panel; access advanced configuration options with adjustable range controls"
+  },
+  "fa-sliders-simple": {
+    "appearanceId": "two or three simplified horizontal track lines with small thumb knobs, rendered in a minimal or reduced-detail style compared to the standard sliders; simplified multi-track slider outline with minimal thumb details",
+    "functionalityId": "adjusts multiple settings using a simplified or compact slider panel; opens a streamlined multi-parameter control interface",
+    "intentId": "access a simplified slider control panel for adjusting multiple settings; use a compact or minimal multi-slider interface for configuration"
+  },
+  "fa-sliders-v": {
+    "appearanceId": "two or three vertical track lines arranged side by side, each with a circular or square thumb knob positioned at different heights; multiple vertical slider tracks with offset thumb positions",
+    "functionalityId": "adjusts multiple settings using vertically oriented range sliders; controls vertical parameters such as mixer channel levels or graphic equalizer bands",
+    "intentId": "fine-tune multiple vertical settings using vertical-orientation sliders; control mixer levels or equalizer bands with a vertical multi-slider panel"
+  },
+  "fa-sliders-v-square": {
+    "appearanceId": "two or three vertical track lines with thumb knobs enclosed within a square or rounded-square container border; vertical multi-slider tracks inside a square frame",
+    "functionalityId": "adjusts multiple vertical settings within a square-framed control panel; opens a vertical multi-slider interface contained in a square UI element",
+    "intentId": "access a vertical slider control panel within a square container; adjust multiple vertical settings from a square-framed interface element"
+  },
+  "fa-slot-machine": {
+    "appearanceId": "a slot machine silhouette with a rectangular cabinet body, three visible reel windows in the front, and a side lever arm handle; casino slot machine outline with reel windows and pull lever",
+    "functionalityId": "represents a slot machine or casino gambling game; initiates or indicates a random spin or chance-based game mechanic",
+    "intentId": "indicate a casino slot machine or gambling game; represent a random chance or spin mechanic in a gaming or entertainment interface"
+  },
+  "fa-smile": {
+    "appearanceId": "a round face circle with two small dot eyes and a simple curved upward arc smile; basic smiley face outline with dot eyes and arc mouth",
+    "functionalityId": "represents a happy, positive, or satisfied emotional state; inserts or selects a smile emoji or positive reaction",
+    "intentId": "express happiness or a positive reaction; select a smiley face emoji or indicate user satisfaction in a messaging or feedback interface"
+  },
+  "fa-smile-beam": {
+    "appearanceId": "a round face circle with two small raised dot or arc eyes and a wide open grin showing teeth or a broadly curved open mouth; beaming smiley face with wide open grin and raised eyes",
+    "functionalityId": "represents an extremely happy, elated, or beaming emotional state; inserts or selects a wide-grin smile emoji or strong positive reaction",
+    "intentId": "express extreme happiness or elation; select a beaming wide-grin emoji or indicate a very positive response in a messaging interface"
+  },
+  "fa-smile-plus": {
+    "appearanceId": "a round face circle with dot eyes and a curved smile arc, with a small plus sign badge attached at the corner or overlaid on the face; smiley face outline with an add plus badge",
+    "functionalityId": "adds a new smile reaction, emoji, or positive expression; creates or appends a smiley face element to a collection or message",
+    "intentId": "add a new smile emoji or positive reaction to a message or collection; create a new smiley face entry in a reaction or emoji library"
+  },
+  "fa-smile-wink": {
+    "appearanceId": "a round face circle with one open dot eye and one closed curved line eye suggesting a wink, plus a curved upward smile arc; winking smiley face with one closed eye and smile",
+    "functionalityId": "represents a playful, knowing, or teasing wink expression; inserts or selects a wink emoji or lighthearted reaction",
+    "intentId": "express a playful or teasing wink in a message; select a winking face emoji for a lighthearted or humorous reaction"
+  },
+  "fa-smog": {
+    "appearanceId": "a layered horizontal cloud or haze silhouette with multiple wavy or flat bands of fog suggesting thick smoggy air; smog cloud with stacked hazy horizontal layers",
+    "functionalityId": "represents smog, air pollution, or poor air quality conditions; indicates a smoggy weather state or environmental air quality alert",
+    "intentId": "indicate smog or air pollution conditions in a weather or environmental interface; alert users to poor air quality or hazy atmospheric conditions"
+  },
+  "fa-smoke": {
+    "appearanceId": "upward-rising wavy or curling smoke wisps emerging from a base point, suggesting active smoke or fumes; curling smoke plume outline rising from a source",
+    "functionalityId": "represents active smoke, fire byproduct, or a smoke alarm condition; indicates a smoke detection event or smoking-related content",
+    "intentId": "indicate an active smoke or fire event; represent a smoke alarm trigger or smoking-related content in a safety or health interface"
+  },
+  "fa-smoking": {
+    "appearanceId": "a lit cigarette silhouette held horizontally with a small glowing ember at the tip and a curling smoke wisp rising above it; cigarette with burning tip and rising smoke curl",
+    "functionalityId": "represents a cigarette or tobacco smoking activity; indicates a smoking-permitted area or a smoking-related content category",
+    "intentId": "indicate a smoking zone or tobacco-related content; represent cigarette use or a smoking-permitted area in a venue or health interface"
+  },
+  "fa-sms": {
+    "appearanceId": "a rectangular speech bubble outline with the text letters SMS or a chat bubble with small dots suggesting a text message; speech bubble with SMS label or text message indicator",
+    "functionalityId": "sends or receives an SMS text message; opens a text messaging interface or indicates an SMS communication channel",
+    "intentId": "send or receive an SMS text message; access a text messaging feature or SMS communication channel in an application"
+  },
+  "fa-snake": {
+    "appearanceId": "a snake silhouette in a coiled or S-curved body pose with a small triangular head and tapered tail; serpent outline with a curved or coiled body and pointed head",
+    "functionalityId": "represents a snake or serpent animal in a nature, wildlife, or gaming context; indicates a snake-related hazard, species, or game character",
+    "intentId": "indicate a snake or serpent in a wildlife, nature, or game interface; represent a reptile hazard or snake species in an educational or gaming application"
+  },
+  "fa-snow-blowing": {
+    "appearanceId": "a snowflake crystal with curved wind lines or motion streaks beside it suggesting snow being blown through the air; blowing snowflake with wind sweep lines",
+    "functionalityId": "represents blowing snow or a blizzard condition in a weather interface; indicates wind-driven snow or a snow-blowing weather event",
+    "intentId": "indicate blowing snow or blizzard conditions in a weather forecast; represent wind-driven snow in a winter weather or travel alert interface"
+  },
+  "fa-snowboarding": {
+    "appearanceId": "a person silhouette in a crouching or leaning stance mounted on a wide snowboard, shown in a downhill riding pose; figure on a snowboard in a downhill carving stance",
+    "functionalityId": "represents snowboarding as a winter sport activity; indicates a snowboarding event, trail, or sports category",
+    "intentId": "indicate a snowboarding activity or winter sport event; represent a snowboard trail or sport category in a recreation or outdoor sports interface"
+  },
+  "fa-snowflake": {
+    "appearanceId": "a single symmetrical six-pointed snowflake crystal with branching arms and small cross details at each tip; detailed snowflake crystal with six radial arms",
+    "functionalityId": "represents cold weather, winter conditions, or a freeze state; indicates a snowflake or winter theme in a weather or seasonal context",
+    "intentId": "indicate cold or winter weather conditions; represent a snowflake or freeze state in a weather, seasonal, or refrigeration interface"
+  },
+  "fa-snowflake-droplets": {
+    "appearanceId": "a six-pointed snowflake crystal shape with small water droplet shapes attached to or surrounding it, combining ice and liquid water elements; snowflake crystal with water droplet accents",
+    "functionalityId": "represents freezing rain, sleet, or mixed precipitation of snow and water droplets; indicates a wintry mix or icy precipitation weather condition",
+    "intentId": "indicate freezing rain or mixed snow-and-rain precipitation; represent a wintry mix or sleet weather condition in a forecast interface"
+  },
+  "fa-snowflakes": {
+    "appearanceId": "two or more snowflake crystal shapes of varying sizes scattered or clustered together; multiple snowflake crystals grouped in a scattered arrangement",
+    "functionalityId": "represents heavy snowfall, multiple snowflakes, or a snowstorm condition; indicates a snowy weather state or a winter decoration theme",
+    "intentId": "indicate heavy snowfall or a snowstorm in a weather forecast; represent a snowy winter theme or decoration in a seasonal interface"
+  },
+  "fa-snowman": {
+    "appearanceId": "a classic snowman silhouette with two or three stacked round snowball spheres, a top hat, stick arms, and a carrot nose; stacked snowball snowman with hat and stick arms",
+    "functionalityId": "represents a snowman or winter holiday character; indicates a winter season, Christmas, or cold weather theme",
+    "intentId": "indicate a winter or Christmas holiday theme; represent a snowman character or cold season decoration in a seasonal interface"
+  },
+  "fa-snowmobile": {
+    "appearanceId": "a snowmobile vehicle silhouette viewed from the side with a low chassis, a single ski or sled runner at the front, a track drive at the rear, and a handlebar at the top; motorized snowmobile outline with front ski and rear track",
+    "functionalityId": "represents a snowmobile vehicle for winter terrain travel; indicates a snowmobile trail, winter vehicle rental, or off-road winter transport",
+    "intentId": "indicate a snowmobile trail or winter vehicle in an outdoor recreation interface; represent motorized snow transport or snowmobile rental"
+  },
+  "fa-snowplow": {
+    "appearanceId": "a truck or heavy vehicle silhouette with a large angled blade mounted at the front for pushing snow; plow truck outline with a diagonal front blade attachment",
+    "functionalityId": "represents a snowplow vehicle or road-clearing operation; indicates snow removal service or winter road maintenance activity",
+    "intentId": "indicate a snow removal or winter road maintenance operation; represent a snowplow vehicle in a municipal services or weather response interface"
+  },
+  "fa-soap": {
+    "appearanceId": "a rectangular or oval bar of soap silhouette with small bubble or lather dots above or around it suggesting suds; soap bar outline with foam or bubble details",
+    "functionalityId": "represents soap or hygiene cleaning product; indicates a hand-washing step, cleanliness practice, or personal care item",
+    "intentId": "indicate handwashing or a hygiene step in a health or sanitation interface; represent soap or a cleaning product in a personal care or household inventory"
+  },
+  "fa-socks": {
+    "appearanceId": "a pair of socks or a single sock silhouette with a cuffed top, heel curve, and toe section visible; knitted sock outline with cuff top and heel and toe sections",
+    "functionalityId": "represents socks or hosiery as a clothing item; selects or categorizes a sock garment in an apparel or shopping interface",
+    "intentId": "select or browse socks or hosiery in a clothing or e-commerce interface; indicate a sock garment category in an apparel application"
+  },
+  "fa-solar-panel": {
+    "appearanceId": "a rectangular flat panel silhouette divided into a grid of smaller square cells with a mounting frame, resembling a photovoltaic solar panel; solar panel array outline with grid-cell interior and frame",
+    "functionalityId": "represents a solar panel or photovoltaic energy system; indicates solar power generation, renewable energy settings, or a solar installation",
+    "intentId": "indicate solar power generation or a renewable energy installation; access solar panel settings or monitor energy output in a smart home or energy interface"
+  },
+  "fa-solar-system": {
+    "appearanceId": "a central circle representing the sun with multiple concentric elliptical orbital rings around it and small planet dots at various positions on the rings; planetary orbit diagram with a central sun and elliptical orbital paths",
+    "functionalityId": "represents the solar system, planetary orbits, or an astronomy topic; indicates a space science, science education, or astronomy navigation theme",
+    "intentId": "indicate a solar system or planetary astronomy topic; represent a space science theme in an educational or astronomy application"
+  },
+  "fa-sort": {
+    "appearanceId": "a pair of vertical arrows pointing in opposite directions, one upward and one downward, stacked side by side or overlapping; up-down bidirectional sort arrows",
+    "functionalityId": "sorts a list or data set in either ascending or descending order; toggles the sort direction of a column or data view",
+    "intentId": "sort a list or table by a column in ascending or descending order; toggle the sort order of displayed data in a table or list view"
+  },
+  "fa-sort-alt": {
+    "appearanceId": "a pair of vertical arrows pointing in opposite directions with a small horizontal line or alternate styling differentiating it from the standard sort; alternative up-down bidirectional sort arrows with a variant detail",
+    "functionalityId": "sorts a list or data set using an alternate sort style or order; toggles an alternative sort direction or sort mode",
+    "intentId": "apply an alternative sort order or mode to a list or data set; toggle an alternate sorting direction in a table or data interface"
+  },
+  "fa-sort-amount-asc": {
+    "appearanceId": "a vertical downward-pointing arrow beside a set of short-to-long horizontal bars arranged in ascending height order from top to bottom; ascending bar lengths with a directional arrow indicating increasing sort",
+    "functionalityId": "sorts items by amount or quantity in ascending order from smallest to largest; arranges data values from low to high",
+    "intentId": "sort a list from smallest to largest amount or value; arrange data in ascending numeric or quantity order in a table or report"
+  },
+  "fa-sort-amount-desc": {
+    "appearanceId": "a vertical downward-pointing arrow beside a set of long-to-short horizontal bars arranged in descending height order from top to bottom; descending bar lengths with a directional arrow indicating decreasing sort",
+    "functionalityId": "sorts items by amount or quantity in descending order from largest to smallest; arranges data values from high to low",
+    "intentId": "sort a list from largest to smallest amount or value; arrange data in descending numeric or quantity order in a table or report"
+  },
+  "fa-sort-amount-up": {
+    "appearanceId": "an upward-pointing arrow beside horizontal bars of increasing length from top to bottom suggesting ascending sort with upward direction; upward arrow with ascending bar lengths indicating upward amount sort",
+    "functionalityId": "sorts items by amount or quantity upward in ascending order; arranges rows from the lowest to highest value moving upward",
+    "intentId": "sort data upward from smallest to largest amount; arrange a list in ascending numeric order with upward directionality"
+  },
+  "fa-sort-amount-up-alt": {
+    "appearanceId": "an upward-pointing arrow beside horizontal bars of increasing length in an alternative arrangement compared to sort-amount-up; alternate upward arrow with ascending bar-length sort indicator",
+    "functionalityId": "sorts items by amount upward in an alternate ascending arrangement; applies an alternative upward ascending sort to a data column",
+    "intentId": "apply an alternate ascending upward sort by amount to a data list; arrange values from low to high with an alternative ascending indicator"
+  },
+  "fa-sort-desc": {
+    "appearanceId": "a single downward-pointing filled triangle or chevron arrow indicating a descending sort direction; downward-pointing filled triangle sort arrow",
+    "functionalityId": "sorts a list or column in descending order from highest to lowest; applies a descending sort to a table column or data set",
+    "intentId": "sort a list or table column in descending order; arrange data from highest to lowest value in a table or data grid"
+  },
+  "fa-sort-shapes-down": {
+    "appearanceId": "a vertical downward-pointing arrow beside stacked shape icons such as a large circle above a smaller circle or triangle above square, arranged in descending size from top to bottom; descending shape size sequence with a downward arrow",
+    "functionalityId": "sorts a list of shapes or items in descending shape-based order from largest to smallest; arranges shape categories from big to small going downward",
+    "intentId": "sort shapes or categorized items in descending size order; arrange a shape list from largest to smallest in a design or sorting interface"
+  },
+  "fa-sort-shapes-down-alt": {
+    "appearanceId": "a vertical downward-pointing arrow beside an alternative arrangement of shape icons in descending order, using different shape types or ordering compared to sort-shapes-down; alternate descending shape sort with a downward arrow",
+    "functionalityId": "sorts shapes or categorized items in an alternate descending shape-based order; applies a variant descending sort to a shape list",
+    "intentId": "apply an alternate descending sort to a shape list or categorized items; arrange shapes from largest to smallest using an alternative ordering scheme"
+  },
+  "fa-sort-shapes-up": {
+    "appearanceId": "a vertical upward-pointing arrow beside stacked shape icons arranged in ascending size from top to bottom such as a small circle above a larger circle; ascending shape size sequence with an upward arrow",
+    "functionalityId": "sorts a list of shapes or items in ascending shape-based order from smallest to largest; arranges shape categories from small to big going upward",
+    "intentId": "sort shapes or categorized items in ascending size order; arrange a shape list from smallest to largest in a design or sorting interface"
+  },
+  "fa-sort-shapes-up-alt": {
+    "appearanceId": "a vertical upward-pointing arrow beside an alternative arrangement of shape icons in ascending order, using different shape types compared to sort-shapes-up; alternate ascending shape sort with an upward arrow",
+    "functionalityId": "sorts shapes or categorized items in an alternate ascending shape-based order; applies a variant ascending sort to a shape list",
+    "intentId": "apply an alternate ascending sort to a shape list or categorized items; arrange shapes from smallest to largest using an alternative ordering scheme"
+  },
+  "fa-sort-size-down": {
+    "appearanceId": "a vertical downward-pointing arrow beside horizontal bars or letter characters of decreasing size from top to bottom; descending size bars or text from large to small with a downward arrow",
+    "functionalityId": "sorts items by size in descending order from largest to smallest; arranges content from the biggest to the smallest size going downward",
+    "intentId": "sort items by size in descending order from largest to smallest; arrange a size-based list from big to small in a design or file management interface"
+  },
+  "fa-sort-size-down-alt": {
+    "appearanceId": "a vertical downward-pointing arrow beside an alternate representation of decreasing-size bars or characters; alternative descending size indicator with a downward arrow",
+    "functionalityId": "sorts items by size in an alternate descending arrangement; applies an alternative largest-to-smallest sort to a size-based list",
+    "intentId": "apply an alternate descending size sort to a list; arrange items from largest to smallest using an alternative size indicator"
+  },
+  "fa-sort-size-up": {
+    "appearanceId": "a vertical upward-pointing arrow beside horizontal bars or letter characters of increasing size from top to bottom; ascending size bars or text from small to large with an upward arrow",
+    "functionalityId": "sorts items by size in ascending order from smallest to largest; arranges content from the smallest to the biggest size going upward",
+    "intentId": "sort items by size in ascending order from smallest to largest; arrange a size-based list from small to big in a design or file management interface"
+  },
+  "fa-sort-size-up-alt": {
+    "appearanceId": "a vertical upward-pointing arrow beside an alternate representation of increasing-size bars or characters; alternative ascending size indicator with an upward arrow",
+    "functionalityId": "sorts items by size in an alternate ascending arrangement; applies an alternative smallest-to-largest sort to a size-based list",
+    "intentId": "apply an alternate ascending size sort to a list; arrange items from smallest to largest using an alternative size indicator"
+  },
+  "fa-sort-up": {
+    "appearanceId": "a single upward-pointing filled triangle or chevron arrow indicating an ascending sort direction; upward-pointing filled triangle sort arrow",
+    "functionalityId": "sorts a list or column in ascending order from lowest to highest; applies an ascending sort to a table column or data set",
+    "intentId": "sort a list or table column in ascending order; arrange data from lowest to highest value in a table or data grid"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-pot-food": {
+    "appearanceId": "a round cooking pot with two side handles and a domed lid, containing visible food or a ladle inside; stockpot outline with handles, lid, and food contents",
+    "functionalityId": "represents a cooked meal, stew, or hot food dish; indicates a food preparation or dining category",
+    "intentId": "browse or indicate a hot meal or cooked dish in a food or recipe application; represent a stew or soup dish in a dining interface"
+  },
+  "fa-potato": {
+    "appearanceId": "an oblong irregular tuber shape with small eye-dot indentations across the surface; potato vegetable outline with lumpy bumpy body and surface spots",
+    "functionalityId": "represents a potato vegetable in a food or recipe context; indicates a starchy ingredient or potato-based dish",
+    "intentId": "select or display a potato ingredient in a recipe or grocery application; indicate a potato food item in a culinary or agricultural context"
+  },
+  "fa-power-off": {
+    "appearanceId": "a circular ring with a gap at the top center and a short vertical line rising from the gap through the opening; power symbol outline with a broken circle and center stem",
+    "functionalityId": "powers a device on or off; toggles the active or standby state of a system or application",
+    "intentId": "turn a device or application on or off; access the shutdown or startup control in a system interface"
+  },
+  "fa-pray": {
+    "appearanceId": "a human figure silhouette kneeling or standing with hands pressed together in front of the chest in a prayer gesture; person outline with palms together in a devotional pose",
+    "functionalityId": "represents a prayer, meditation, or religious devotion action; indicates a spiritual or worship-related feature",
+    "intentId": "indicate a prayer, worship, or spiritual activity; access a meditation or religious content section in an application"
+  },
+  "fa-prescription": {
+    "appearanceId": "a stylized capital Rx symbol with a large R and a diagonal tail extending from the leg; medical prescription Rx glyph with a crossed leg",
+    "functionalityId": "represents a medical prescription or pharmacy order; indicates a prescribed medication or doctor-issued treatment",
+    "intentId": "access or display a medical prescription in a healthcare application; indicate a pharmacy order or prescribed medication"
+  },
+  "fa-prescription-bottle": {
+    "appearanceId": "a cylindrical medicine bottle with a flat cap and a label band around the body; tall round pharmacy bottle outline with a lid and label area",
+    "functionalityId": "represents a prescription medication container; indicates a pharmaceutical bottle or medicine storage item",
+    "intentId": "manage or display a prescription medication bottle in a pharmacy or health application; indicate a medicine container in a healthcare interface"
+  },
+  "fa-prescription-bottle-alt": {
+    "appearanceId": "a cylindrical medicine bottle with a child-resistant cap that has a different profile or locking tab style than the standard cap; pharmacy bottle outline with an alternate safety cap shape",
+    "functionalityId": "represents a prescription medication bottle with an alternative cap design; indicates a pharmaceutical container variant in a healthcare context",
+    "intentId": "manage or display an alternative prescription bottle in a pharmacy or health application; indicate a medicine container with a different cap style"
+  },
+  "fa-prescription-bottle-pill": {
+    "appearanceId": "a cylindrical medicine bottle with a flat cap and a small oval pill or tablet shape visible inside or on the face of the bottle; pharmacy bottle outline with a pill tablet overlay or inset",
+    "functionalityId": "represents a prescription bottle containing pills or tablets; indicates a specific pill-based medication in a pharmaceutical context",
+    "intentId": "manage or display a pill-based prescription medication in a health application; indicate a specific pill or tablet medicine in a pharmacy interface"
+  },
+  "fa-presentation": {
+    "appearanceId": "a rectangular easel-mounted display board or flip chart silhouette with a small chart or content area on the panel and two legs at the base; presentation board outline with easel legs and display panel",
+    "functionalityId": "represents a slideshow or presentation display; opens or indicates a presentation document or briefing screen",
+    "intentId": "start or view a presentation or slideshow; access a meeting or lecture display in a productivity application"
+  },
+  "fa-pretzel": {
+    "appearanceId": "a knotted pretzel shape with two crossed loops forming a heart-like twist at the top and two short stub ends at the bottom; twisted bread pretzel outline with looped knot body",
+    "functionalityId": "represents a pretzel snack food item or bakery product; indicates a snack category or food menu entry",
+    "intentId": "select or display a pretzel snack in a food or bakery application; indicate a baked snack item in a menu or recipe interface"
+  },
+  "fa-print": {
+    "appearanceId": "a desktop printer silhouette with a flat rectangular body, a paper tray slot at the top, and a page partially emerging from the output slot; printer outline with paper feed and output slot",
+    "functionalityId": "sends a document or page to a printer; initiates a print job or opens print settings",
+    "intentId": "print a document or page from an application; access print settings or send content to a physical printer"
+  },
+  "fa-print-search": {
+    "appearanceId": "a desktop printer silhouette with a magnifying glass overlaid at the corner or beside the printer body; printer outline with a search lens badge",
+    "functionalityId": "searches for available printers or locates a print job in a queue; finds a specific printer or document in a print management interface",
+    "intentId": "find or select a printer in a network or search a print queue; locate a specific print job in a document management interface"
+  },
+  "fa-print-slash": {
+    "appearanceId": "a desktop printer silhouette with a diagonal slash line drawn through the entire printer body; printer outline with a forward-slash strikethrough",
+    "functionalityId": "indicates that printing is disabled, unavailable, or blocked; cancels or disables a print action in an interface",
+    "intentId": "disable or block printing in an application; indicate that a printer is offline or print access is restricted"
+  },
+  "fa-pro": {
+    "appearanceId": "the uppercase text letters P, R, O forming the word PRO in a bold or stylized typeface; three-letter PRO wordmark glyph",
+    "functionalityId": "indicates a professional tier, premium upgrade, or pro-level feature; marks content or functionality as belonging to a paid or advanced subscription",
+    "intentId": "upgrade to a professional or premium plan; indicate that a feature or content requires a pro-level subscription"
+  },
+  "fa-projector": {
+    "appearanceId": "a video projector device silhouette with a rectangular body, a lens protruding from the front, and a ventilation slot or mount on top; projector box outline with front lens and body housing",
+    "functionalityId": "represents a video or slideshow projector device; activates or indicates a projection display in a presentation or media context",
+    "intentId": "start a projected display or presentation screen; manage a projector device in a meeting or media playback interface"
+  },
+  "fa-pronoun": {
+    "appearanceId": "a speech bubble or text badge containing a small pronoun abbreviation label such as he/him or they/them; dialogue bubble outline with a pronoun text glyph inside",
+    "functionalityId": "displays or sets a preferred personal pronoun; indicates a pronoun preference or identity label in a profile or contact form",
+    "intentId": "add or display a personal pronoun on a user profile or contact card; indicate gender pronoun preference in an identity or social interface"
+  },
+  "fa-pump": {
+    "appearanceId": "a hand-pump or liquid pump silhouette with a nozzle head at the top, a cylindrical body, and a flat base; standard liquid dispenser pump outline with nozzle and body",
+    "functionalityId": "represents a liquid pump or dispenser for fluid delivery; activates or selects a pump or fluid dispensing action",
+    "intentId": "dispense or pump a liquid in a fuel, industrial, or product context; indicate a fluid pump or dispenser in an equipment interface"
+  },
+  "fa-pump-medical": {
+    "appearanceId": "a hand-pump dispenser silhouette with a nozzle head and cylindrical body, with a small medical cross badge overlaid on the body; pump dispenser outline with a plus or cross medical badge",
+    "functionalityId": "represents a medical-grade pump or sanitizer dispenser for healthcare use; indicates a sterile fluid dispensing action in a medical setting",
+    "intentId": "dispense a medical fluid or sanitizer in a healthcare or clinical environment; indicate a medical pump or sterile dispenser in a health application"
+  },
+  "fa-pump-soap": {
+    "appearanceId": "a foaming or liquid soap dispenser silhouette with a pump nozzle head, a rounded or oval body, and a flat base typical of a countertop soap bottle; soap pump bottle outline with nozzle head and rounded body",
+    "functionalityId": "represents a soap or hand-wash dispenser for hygiene use; indicates a hand-washing or sanitizing station",
+    "intentId": "indicate a hand-washing or hygiene station; access a soap dispensing or personal care feature in a restroom or health interface"
+  },
+  "fa-pumpkin": {
+    "appearanceId": "a round ribbed pumpkin silhouette with a short curved stem at the top and vertical lobe lines on the body; pumpkin gourd outline with stem and ribbed segments",
+    "functionalityId": "represents a pumpkin vegetable or Halloween seasonal decoration; indicates a fall harvest, seasonal, or holiday-themed content",
+    "intentId": "indicate a Halloween or autumn seasonal theme; select or display a pumpkin in a food, holiday, or seasonal application"
+  },
+  "fa-puzzle": {
+    "appearanceId": "multiple interlocking puzzle pieces assembled together showing tabs and blank connector shapes fitting into each other; assembled jigsaw puzzle grid outline with interlocking tab-and-blank pieces",
+    "functionalityId": "represents a puzzle game or a components-fitting-together concept; indicates a challenge, brain teaser, or modular assembly feature",
+    "intentId": "access a puzzle game or indicate a modular assembly concept; represent a challenge or problem-solving activity in an application"
+  },
+  "fa-puzzle-piece": {
+    "appearanceId": "a single jigsaw puzzle piece with one or two rounded tabs protruding and corresponding blank indentations on the adjacent sides; individual puzzle piece outline with tab and blank connector shapes",
+    "functionalityId": "represents a single puzzle component or a plugin module concept; indicates a missing piece, extension, or modular add-on",
+    "intentId": "add a plugin or module extension to an application; indicate a missing or connecting component in a puzzle or software interface"
+  },
+  "fa-puzzle-piece-alt": {
+    "appearanceId": "a single jigsaw puzzle piece with more rounded or curved tab and blank connector shapes compared to the standard sharp-tab variant; puzzle piece outline with softer rounded tab-and-blank connectors",
+    "functionalityId": "represents an alternative puzzle piece style or a rounded module connector concept; indicates a softer-edged variant of a plugin or puzzle component",
+    "intentId": "add an alternative-style plugin or module to an application; indicate a connecting component using a rounded puzzle piece variant"
+  },
+  "fa-q": {
+    "appearanceId": "an uppercase or lowercase letter Q glyph in a plain serif or sans-serif typeface; single alphabetic Q character outline",
+    "functionalityId": "represents the letter Q as an index entry, keyboard shortcut label, or alphabetic category marker; inserts or displays the letter Q in a text or navigation interface",
+    "intentId": "navigate to or indicate items beginning with the letter Q; use the letter Q as a label, shortcut, or index marker in an interface"
+  },
+  "fa-qrcode": {
+    "appearanceId": "a square QR code matrix with three corner finder squares and a grid of small black and white data modules filling the interior; QR code square matrix outline with corner registration squares",
+    "functionalityId": "generates, displays, or scans a QR code for data encoding; links a physical or digital object to a URL or encoded data string via a scannable code",
+    "intentId": "scan or generate a QR code to access linked content or share information; encode or decode data using a QR code in a mobile or web interface"
+  },
+  "fa-question": {
+    "appearanceId": "a standard question mark glyph with a curved upper arc, a vertical stem, and a dot at the base; plain question mark punctuation symbol",
+    "functionalityId": "indicates a help topic, unknown value, or frequently asked question; opens a help dialog or tooltip in an interface",
+    "intentId": "access help, documentation, or a FAQ section; indicate an unknown or uncertain value in an application"
+  },
+  "fa-question-square": {
+    "appearanceId": "a square or rounded-square outline containing a question mark glyph centered inside; square badge with a question mark symbol inside",
+    "functionalityId": "represents a help button or unknown-state indicator within a square UI element; opens a help panel or tooltip from a square control",
+    "intentId": "access help or documentation from a square button control; indicate an unknown or help-needed state in a square-shaped interface element"
+  },
+  "fa-quidditch": {
+    "appearanceId": "a flying broomstick silhouette with bristles at one end and a ring or hoop goal post shape nearby; broomstick outline with a circular goal hoop element",
+    "functionalityId": "represents the fictional sport of Quidditch or a fantasy sports activity; indicates a Harry Potter-themed or fantasy flying sport feature",
+    "intentId": "access Quidditch or fantasy sports content; indicate a Harry Potter-themed or broomstick-based flying sport in a game or fan interface"
+  },
+  "fa-quote-left": {
+    "appearanceId": "a pair of opening double curly quotation marks, two raised comma-shaped glyphs curving inward at the top-left of a text block; left-side opening typographic double quote marks",
+    "functionalityId": "inserts or marks the beginning of a block quotation or inline quote; indicates the start of a cited or quoted text passage",
+    "intentId": "add an opening block quote to a text document or rich-text editor; indicate the beginning of a quoted passage in a content or blogging interface"
+  },
+  "fa-quote-right": {
+    "appearanceId": "a pair of closing double curly quotation marks, two raised comma-shaped glyphs curving outward at the top-right of a text block; right-side closing typographic double quote marks",
+    "functionalityId": "inserts or marks the end of a block quotation or inline quote; indicates the close of a cited or quoted text passage",
+    "intentId": "add a closing block quote to a text document or rich-text editor; indicate the end of a quoted passage in a content or blogging interface"
+  },
+  "fa-quotes": {
+    "appearanceId": "a pair of opening and closing double curly quotation marks displayed together, with an opening set on the left and a closing set on the right flanking a text space; matched opening and closing typographic double quote mark pair",
+    "functionalityId": "represents a full quotation enclosure with both opening and closing marks; inserts or styles a complete quoted text passage",
+    "intentId": "wrap a text selection in opening and closing quotation marks; indicate a complete quoted statement in a text or publishing interface"
+  },
+  "fa-quran": {
+    "appearanceId": "a closed book silhouette with an ornate or embossed cover and a decorative pattern or geometric Islamic motif on the front; religious book outline with a decorative cover design",
+    "functionalityId": "represents the Islamic holy scripture or a religious reading feature; indicates Quran content, Islamic text, or a religious study section",
+    "intentId": "access Quran or Islamic scripture content in a religious or educational application; indicate a Muslim holy book or Quranic study feature"
+  },
+  "fa-r": {
+    "appearanceId": "an uppercase or lowercase letter R glyph in a plain serif or sans-serif typeface; single alphabetic R character outline",
+    "functionalityId": "represents the letter R as an index entry, keyboard shortcut label, or alphabetic category marker; inserts or displays the letter R in a text or navigation interface",
+    "intentId": "navigate to or indicate items beginning with the letter R; use the letter R as a label, shortcut, or index marker in an interface"
+  },
+  "fa-rabbit": {
+    "appearanceId": "a rabbit animal silhouette with two tall upright ears, a round body, and a small fluffy tail; bunny outline with long ear pair, round body, and a small tail",
+    "functionalityId": "represents a rabbit animal in a nature, pet, or Easter-themed context; indicates a small mammal or animal category feature",
+    "intentId": "indicate a rabbit or bunny animal in a nature, pet, or holiday application; represent a small mammal in an educational or seasonal interface"
+  },
+  "fa-rabbit-fast": {
+    "appearanceId": "a rabbit silhouette in a running or leaping posture with motion lines or a speed indicator beside it; running bunny outline with forward motion or speed lines",
+    "functionalityId": "represents high speed, fast processing, or a quick-action feature; indicates an accelerated or turbo mode in a system or application",
+    "intentId": "enable a fast or turbo mode in an application; indicate high-speed processing or quick action in a performance interface"
+  },
+  "fa-raccoon": {
+    "appearanceId": "a raccoon animal silhouette with a distinctive masked face marking around the eyes and a ringed striped tail; raccoon outline with eye mask markings and striped tail",
+    "functionalityId": "represents a raccoon animal in a nature, wildlife, or character context; indicates a raccoon-related category or mascot feature",
+    "intentId": "indicate a raccoon animal in a nature, wildlife, or character application; represent a masked woodland creature in an educational or entertainment interface"
+  },
+  "fa-racquet": {
+    "appearanceId": "a tennis or racquetball racquet silhouette with an oval string head and a long handle grip; sports racquet outline with oval head and handle",
+    "functionalityId": "represents a racquet sport such as tennis, badminton, or squash; indicates a racquet sports equipment or activity category",
+    "intentId": "access racquet sports content or equipment selection; indicate a tennis, badminton, or squash activity in a sports or fitness application"
+  },
+  "fa-radar": {
+    "appearanceId": "a radar sweep silhouette showing concentric arc rings and a sweeping radial line emanating from the center point; radar screen outline with concentric rings and a sweep arm line",
+    "functionalityId": "represents a radar scanning or detection system; indicates proximity detection, tracking, or signal scanning features",
+    "intentId": "track nearby objects or signals using a radar-style scan; access a proximity detection or scanning feature in a navigation or security application"
+  },
+  "fa-radiation": {
+    "appearanceId": "a trefoil radiation symbol with three equal fan-blade sectors radiating from a central circle, enclosed within an outer circle; circular trefoil hazard symbol with three-blade fan shape",
+    "functionalityId": "indicates the presence of radioactive material or a radiation hazard zone; warns users of ionizing radiation danger",
+    "intentId": "warn of a radiation hazard or radioactive area; indicate nuclear or ionizing radiation risk in a safety or scientific interface"
+  },
+  "fa-radiation-alt": {
+    "appearanceId": "an alternate trefoil radiation symbol with three fan-blade sectors arranged slightly differently or with varied proportions compared to the standard symbol; alternate three-blade trefoil radiation hazard glyph",
+    "functionalityId": "indicates an alternative radiation warning or nuclear hazard marker; represents a variant radiation symbol for hazard labeling",
+    "intentId": "warn of a radiation hazard using an alternate symbol style; indicate nuclear or radioactive risk in a safety or scientific labeling interface"
+  },
+  "fa-radio": {
+    "appearanceId": "a tabletop radio receiver silhouette with a rectangular body, a circular tuning dial, and a horizontal speaker grille; classic AM/FM radio outline with dial and speaker slots",
+    "functionalityId": "represents a radio receiver or audio broadcast device; accesses or indicates a radio streaming or broadcast feature",
+    "intentId": "listen to radio broadcasts or access audio streaming; indicate an AM/FM radio or broadcast receiver in a media application"
+  },
+  "fa-radio-alt": {
+    "appearanceId": "an alternate radio receiver silhouette with a different body shape or control layout compared to the standard radio, such as a portable or walkie-talkie style; alternate radio device outline with a variant form factor",
+    "functionalityId": "represents an alternative radio receiver or two-way radio communication device; indicates a variant broadcast or communication radio feature",
+    "intentId": "access an alternative radio or two-way communication device; indicate a variant broadcast radio or walkie-talkie in a media or communication interface"
+  },
+  "fa-rainbow": {
+    "appearanceId": "a semicircular arc composed of multiple concentric curved bands forming a rainbow shape; multi-band arched rainbow outline with concentric colored stripe layers",
+    "functionalityId": "represents a rainbow weather phenomenon or a diversity and pride symbol; indicates a color spectrum, optimism, or inclusivity concept",
+    "intentId": "indicate a rainbow weather event or represent diversity and inclusivity; use a rainbow symbol in a weather, pride, or colorful theme context"
+  },
+  "fa-raindrops": {
+    "appearanceId": "two or more teardrop-shaped raindrop silhouettes grouped together, each with a rounded bottom and tapered top; multiple raindrop teardrop shapes clustered together",
+    "functionalityId": "represents rainfall, precipitation, or a rainy weather condition; indicates a wet weather or watering feature in a weather or gardening interface",
+    "intentId": "indicate rainy weather or precipitation in a weather application; represent water drops or rainfall in a nature or gardening interface"
+  },
+  "fa-ram": {
+    "appearanceId": "a ram animal silhouette with large curved spiral horns on either side of the head and a stocky body; male sheep outline with prominent curved horn pair and heavy build",
+    "functionalityId": "represents a ram animal or an Aries zodiac sign; indicates a livestock, astrology, or wildlife category feature",
+    "intentId": "indicate a ram animal, Aries zodiac sign, or livestock category; represent a male sheep in an agricultural, zodiac, or nature application"
+  },
+  "fa-ramp-loading": {
+    "appearanceId": "a truck or trailer with a loading ramp extended downward from the rear cargo door, with a box or pallet shape on the ramp; cargo truck silhouette with a rear ramp and load element",
+    "functionalityId": "represents a loading dock ramp or freight loading operation; indicates a cargo loading, logistics, or delivery ramp feature",
+    "intentId": "indicate a freight loading or unloading operation at a dock ramp; manage a cargo delivery or logistics ramp action in a shipping interface"
+  },
+  "fa-random": {
+    "appearanceId": "two crossing diagonal arrows forming an X-like shuffle pattern, with each arrow head pointing in opposite diverging directions; intersecting diagonal shuffle arrows crossing in the middle",
+    "functionalityId": "shuffles or randomizes the order of a list, playlist, or sequence; triggers a random selection or shuffle mode",
+    "intentId": "shuffle a playlist or randomize the order of items in a list; enable random or shuffle playback mode in a media application"
+  },
+  "fa-ranking-star": {
+    "appearanceId": "a five-pointed star silhouette with a small ranking number or podium bar chart element beside or below it; gold star shape with a rank number or bar chart badge",
+    "functionalityId": "represents a ranking, rating, or scored position; displays or indicates a ranked score or leaderboard position",
+    "intentId": "view or assign a ranking or rating score; indicate a leaderboard position or star-based rating in a review or competition interface"
+  }
+}

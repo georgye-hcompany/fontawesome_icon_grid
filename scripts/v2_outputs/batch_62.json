@@ -1,0 +1,242 @@
+{
+  "fa-text-slash": {
+    "appearanceId": "a horizontal text line or letter T shape with a diagonal slash line crossing through it, indicating text is disabled or hidden; typographic text glyph with a forward-slash strikethrough overlay",
+    "functionalityId": "disables, hides, or clears text formatting or content; removes or strips text from a selected element in an editor or interface",
+    "intentId": "hide or remove text from a design or content element; disable text display in a formatting or layout editor interface"
+  },
+  "fa-text-width": {
+    "appearanceId": "a horizontal text line or letter T shape with two opposing inward-pointing arrows on either side indicating width measurement; typographic text glyph flanked by horizontal bidirectional width arrows",
+    "functionalityId": "adjusts or sets the width of a text block or column; controls the horizontal span of text in a layout or typography editor",
+    "intentId": "set or adjust the width of a text column or text block; control typographic layout width in a design or document editing interface"
+  },
+  "fa-th": {
+    "appearanceId": "a small square grid of nine evenly sized cells arranged in a three-by-three layout with thin dividing lines between each cell; compact three-by-three cell grid pattern",
+    "functionalityId": "switches a view to a compact grid or tile layout; displays items in a small multi-column thumbnail grid",
+    "intentId": "view items in a compact grid layout; switch to a tile or thumbnail grid display mode in a file browser or gallery interface"
+  },
+  "fa-th-large": {
+    "appearanceId": "a grid of four evenly sized large square cells arranged in a two-by-two layout with dividing lines; large two-by-two cell grid pattern with bigger blocks than a standard grid",
+    "functionalityId": "switches a view to a large-block grid or tile layout; displays items in a two-column or large-thumbnail grid",
+    "intentId": "view items in a large tile or block grid layout; switch to a big-thumbnail display mode in a gallery or content browser"
+  },
+  "fa-th-list": {
+    "appearanceId": "a small grid-like icon with a left column of small square cells and a wider right column of horizontal bars suggesting a list-view hybrid; compact grid with row-based list lines indicating a list-view layout",
+    "functionalityId": "switches a view from a grid to a list or table row layout; displays items as a detailed row-by-row list",
+    "intentId": "view items in a list or table row layout; switch from a grid to a list display mode in a file browser or data interface"
+  },
+  "fa-thermometer": {
+    "appearanceId": "a vertical cylindrical thermometer with a narrow tube body, graduated tick marks along the side, and a circular bulb at the bottom; temperature gauge outline with a tube column and round bulb base",
+    "functionalityId": "represents a temperature measurement or thermometer reading; displays or sets a temperature value in a weather, health, or environmental interface",
+    "intentId": "check or display a temperature reading in a weather, health, or environment interface; monitor thermal conditions or set a temperature threshold"
+  },
+  "fa-theta": {
+    "appearanceId": "an uppercase or lowercase Greek letter theta, resembling an oval or circle shape with a horizontal bar crossing through the center; Greek theta letterform with a central horizontal midline stroke",
+    "functionalityId": "represents the Greek letter theta as a mathematical, scientific, or labeling symbol; inserts or indicates a theta variable in an equation or formula editor",
+    "intentId": "insert or reference the Greek letter theta in a mathematical, scientific, or educational context; label an angle or variable with theta in a formula or diagram editor"
+  },
+  "fa-thought-bubble": {
+    "appearanceId": "a large cloud-shaped speech bubble with rounded lobes along the top edge and a trail of small ascending circles or dots below leading toward the speaker; cloud-form thought bubble with a dotted ellipsis tail curving downward",
+    "functionalityId": "represents a thought, idea, or internal dialogue in a conversational or comic context; adds a thought bubble annotation to a diagram or illustration",
+    "intentId": "indicate a character's thought or idea in a comic, diagram, or messaging interface; represent an internal thought or creative brainstorm visually"
+  },
+  "fa-thumbs-down": {
+    "appearanceId": "a hand silhouette with the thumb pointing downward and the remaining fingers curled inward, forming the universal thumbs-down dislike gesture; fist with downward-pointing thumb indicating disapproval",
+    "functionalityId": "registers a dislike, downvote, or negative rating on content or a comment; marks an item with negative feedback in a rating or review interface",
+    "intentId": "express disapproval or dislike for content; submit a negative rating or downvote in a social, review, or feedback interface"
+  },
+  "fa-thumbs-up": {
+    "appearanceId": "a hand silhouette with the thumb pointing upward and the remaining fingers curled inward, forming the universal thumbs-up like gesture; fist with upward-pointing thumb indicating approval",
+    "functionalityId": "registers a like, upvote, or positive rating on content or a comment; marks an item with positive feedback in a rating or review interface",
+    "intentId": "express approval or like for content; submit a positive rating or upvote in a social, review, or feedback interface"
+  },
+  "fa-thumbtack": {
+    "appearanceId": "a push pin or thumbtack silhouette with a round flat head and a short sharp pointed shaft extending downward; pin outline with a circular top head and a downward-pointing needle",
+    "functionalityId": "pins or bookmarks an item to keep it fixed or prominently visible; marks a location, post, or note as pinned in a board or map interface",
+    "intentId": "pin an item or location to keep it visible or saved; mark a note, post, or map location as a pinned favorite in an application"
+  },
+  "fa-thumbtack-slash": {
+    "appearanceId": "a push pin or thumbtack silhouette with a round head and a pointed shaft, overlaid with a diagonal slash line through the entire shape; pin outline with a forward-slash strikethrough indicating it is unpinned",
+    "functionalityId": "unpins or removes a pinned item from a fixed or bookmarked position; releases a previously pinned note, post, or location",
+    "intentId": "unpin an item or remove a pinned bookmark; release a map location or note from a pinned state in a board or application interface"
+  },
+  "fa-tick": {
+    "appearanceId": "a simple checkmark or tick mark shape with a short angled downstroke and a longer upward diagonal stroke forming a V-like check; classic checkmark glyph with a short left arm and longer right arm",
+    "functionalityId": "marks an item as completed, confirmed, or correct; indicates a successful check or validation in a form or task list",
+    "intentId": "confirm or mark an item as complete or correct; indicate task completion or a successful validation in a checklist or form interface"
+  },
+  "fa-ticket": {
+    "appearanceId": "a horizontal rectangular ticket shape with a serrated or wavy cut edge on one or both short ends and a simple flat body; admission ticket outline with notched or perforated short-side edges",
+    "functionalityId": "represents an admission ticket, coupon, or event pass; accesses or validates a ticket for an event, transit, or service in a booking interface",
+    "intentId": "manage or access an event ticket or admission pass; validate or redeem a ticket in an event, transit, or ticketing application"
+  },
+  "fa-ticket-alt": {
+    "appearanceId": "a rectangular event ticket with a small circular cutout on each long side creating a semi-circle notch and a dashed or perforated tear line dividing the ticket into a stub and main body; ticket outline with side notch cutouts and a dashed center perforation line",
+    "functionalityId": "represents an alternate ticket style for events, transit, or admission; accesses or displays a ticket with a perforated stub in a booking or event interface",
+    "intentId": "access or display an event ticket with a perforated stub; manage admission passes or coupons in a ticketing or event booking interface"
+  },
+  "fa-ticket-perforated": {
+    "appearanceId": "a rectangular ticket shape with a prominent dotted or dashed perforated tear line running vertically through the body, dividing it into a main section and a detachable stub; ticket outline with a dotted vertical perforation dividing line",
+    "functionalityId": "represents a perforated ticket with a detachable stub for events or transit; indicates a tear-off coupon or stubbed admission pass in a ticketing interface",
+    "intentId": "manage or redeem a perforated ticket with a detachable stub; indicate a tear-off coupon or admission pass in an event or transit ticketing application"
+  },
+  "fa-ticket-plane": {
+    "appearanceId": "a rectangular ticket shape with a small airplane silhouette overlaid or printed on the ticket body, indicating an airline boarding pass or flight ticket; admission ticket outline with an airplane overlay badge on the body",
+    "functionalityId": "represents an airline ticket or flight boarding pass; accesses or displays a flight reservation or airline e-ticket in a travel interface",
+    "intentId": "access or manage an airline ticket or flight boarding pass; view or book a flight reservation in a travel or booking application"
+  },
+  "fa-tickets": {
+    "appearanceId": "two or more rectangular ticket shapes stacked or fanned slightly behind one another, indicating a plurality of admission tickets; multiple overlapping ticket outlines showing a stack of passes",
+    "functionalityId": "represents multiple tickets or a collection of event passes; accesses or manages a group of tickets in a ticketing or event management interface",
+    "intentId": "manage or access multiple event tickets or a batch of admission passes; view a collection of tickets in a ticketing or booking application"
+  },
+  "fa-tickets-perforated": {
+    "appearanceId": "two or more rectangular ticket shapes with dotted perforation lines stacked or slightly fanned, showing multiple perforated tickets; multiple overlapping perforated ticket outlines with dotted tear lines",
+    "functionalityId": "represents multiple perforated tickets with detachable stubs; accesses or manages a batch of tear-off admission passes in a ticketing interface",
+    "intentId": "manage or access multiple perforated tickets with detachable stubs; view or redeem a batch of tear-off passes in a ticketing or event application"
+  },
+  "fa-tickets-plane": {
+    "appearanceId": "two or more rectangular ticket shapes with a small airplane silhouette overlaid, stacked or fanned to indicate multiple airline tickets or boarding passes; multiple overlapping airline ticket outlines with an airplane badge",
+    "functionalityId": "represents multiple airline tickets or a group of flight boarding passes; accesses or manages a collection of flight reservations in a travel interface",
+    "intentId": "manage or access multiple airline tickets or boarding passes; view or book a group of flight reservations in a travel or booking application"
+  },
+  "fa-tickets-simple": {
+    "appearanceId": "two or more simple rectangular ticket shapes with clean flat edges and no perforation or overlay details, stacked or fanned to indicate multiple basic tickets; multiple overlapping plain ticket outlines without additional markings",
+    "functionalityId": "represents multiple simple admission tickets without detailed features; accesses or displays a basic collection of tickets in a ticketing interface",
+    "intentId": "manage a collection of basic admission tickets in a ticketing or event interface; view or assign a simple batch of passes in an application"
+  },
+  "fa-tilde": {
+    "appearanceId": "a wavy horizontal tilde character with a gentle S-curve shape, resembling the punctuation or diacritical tilde symbol; typographic tilde glyph with a single smooth undulating wave",
+    "functionalityId": "inserts or represents a tilde character in text or a mathematical approximation symbol; indicates an approximate value or a diacritical mark in a text or formula editor",
+    "intentId": "insert a tilde character or approximation symbol in a text or formula editor; represent an approximate value or diacritical mark in a document or coding interface"
+  },
+  "fa-timeline": {
+    "appearanceId": "a horizontal line with evenly or variably spaced vertical tick marks and dots along its length, representing a sequence of events or time points; horizontal timeline bar with event marker dots and ticks",
+    "functionalityId": "represents a chronological timeline of events or milestones; displays or navigates a sequence of dated events in a project or history interface",
+    "intentId": "view or manage a chronological sequence of events or project milestones; navigate a historical or project timeline in a planning or scheduling interface"
+  },
+  "fa-timeline-arrow": {
+    "appearanceId": "a horizontal line with event marker dots or ticks along its length and an arrowhead pointing to the right at the far end, indicating a forward-moving timeline; horizontal timeline bar with markers and a right-pointing terminal arrow",
+    "functionalityId": "represents a forward-progressing timeline advancing toward a future goal or endpoint; navigates or extends a timeline in a project or scheduling interface",
+    "intentId": "advance or project a timeline toward a future goal or endpoint; navigate forward along a chronological sequence in a planning or project management interface"
+  },
+  "fa-timer": {
+    "appearanceId": "a circular clock-face or countdown dial with a single hand or filled arc segment indicating elapsed or remaining time, and a small start button or crown at the top; round timer dial outline with a countdown hand or arc indicator and a top button",
+    "functionalityId": "starts, pauses, or resets a countdown timer; measures a defined time interval in a cooking, fitness, or productivity interface",
+    "intentId": "set and run a countdown timer for a task, recipe, or workout; measure a specific time interval in a productivity, cooking, or fitness application"
+  },
+  "fa-tint": {
+    "appearanceId": "a water droplet silhouette with a rounded bottom and a pointed tip at the top, resembling a falling drop of liquid; teardrop or droplet outline with a round base and upward pointed tip",
+    "functionalityId": "represents a water droplet, ink tint, or color dye; adds or adjusts a color tint, ink, or liquid element in a design or environmental interface",
+    "intentId": "add a color tint or ink element in a design or creative interface; indicate water, liquid, or dye in an environmental, painting, or health application"
+  },
+  "fa-tint-slash": {
+    "appearanceId": "a water droplet silhouette with a pointed tip and a diagonal slash line drawn through the entire droplet shape; teardrop droplet outline with a forward-slash strikethrough indicating no tint or dry",
+    "functionalityId": "removes or disables a tint, water, or color dye element; indicates no liquid or a dry condition in a design or environmental interface",
+    "intentId": "remove a tint or water element from a design or environmental context; indicate a dry or no-liquid condition in a creative or environmental application"
+  },
+  "fa-tire": {
+    "appearanceId": "a circular ring tire outline with a thick tread band forming the outer ring and a hollow center hole representing the wheel rim opening; concentric ring tire shape with a wide outer tread band and open center",
+    "functionalityId": "represents a vehicle tire or wheel component; indicates automotive maintenance, tire selection, or a vehicle part in a transport or service interface",
+    "intentId": "indicate a vehicle tire or wheel in an automotive, maintenance, or service interface; represent a tire replacement or vehicle part category"
+  },
+  "fa-tire-flat": {
+    "appearanceId": "a circular tire ring shape that appears deflated or squashed at the bottom, with the lower arc flattened or deformed to indicate a flat tire; tire ring outline with a flattened or drooping lower section indicating deflation",
+    "functionalityId": "represents a flat or deflated tire requiring repair or replacement; indicates a roadside emergency or vehicle breakdown condition",
+    "intentId": "indicate a flat tire emergency or vehicle breakdown; access roadside assistance or tire repair in an automotive or navigation interface"
+  },
+  "fa-tire-pressure-warning": {
+    "appearanceId": "a circular tire ring outline with a small warning triangle or exclamation mark badge overlaid, indicating a tire pressure alert; tire ring shape with a caution warning badge indicating low or high pressure",
+    "functionalityId": "represents a tire pressure monitoring warning or low-pressure alert; notifies the driver of abnormal tire pressure in a vehicle dashboard interface",
+    "intentId": "alert the driver to a tire pressure issue or monitoring warning; check or address a low-pressure tire condition in a vehicle dashboard or automotive application"
+  },
+  "fa-tire-rugged": {
+    "appearanceId": "a circular tire ring outline with a pronounced knobby or blocky tread pattern around the outer band, indicating an off-road or all-terrain tire; tire ring shape with chunky raised tread knobs on the outer surface",
+    "functionalityId": "represents a rugged, all-terrain, or off-road tire with knobby tread; indicates off-road vehicle capability or a heavy-duty tire option in an automotive interface",
+    "intentId": "indicate an off-road or all-terrain tire in an automotive, adventure, or vehicle configuration interface; represent rugged tire capability or a heavy-duty tire selection"
+  },
+  "fa-tired": {
+    "appearanceId": "a circular face outline with downward-angled furrowed brows creating a stressed or exhausted expression, and half-closed drooping eyes and a small frown; round emoji face with drooping eyes and a stressed downturned brow indicating fatigue",
+    "functionalityId": "represents a tired, exhausted, or stressed emotional reaction; indicates fatigue, burnout, or an overwhelmed state in a messaging or feedback interface",
+    "intentId": "express tiredness, exhaustion, or stress in a messaging or emoji context; indicate a fatigued or overwhelmed state in a feedback or wellness interface"
+  },
+  "fa-toggle-large-off": {
+    "appearanceId": "a wide oval pill-shaped rocker switch with a circular knob positioned on the left side inside the pill, indicating the off state; large horizontal pill toggle with the knob on the left in the off position",
+    "functionalityId": "represents a large-format toggle switch in the off or disabled state; disables or deactivates a feature using a large toggle control",
+    "intentId": "disable or turn off a feature using a large toggle switch; indicate an inactive or off state in a settings or control panel interface"
+  },
+  "fa-toggle-large-on": {
+    "appearanceId": "a wide oval pill-shaped rocker switch with a circular knob positioned on the right side inside the pill, indicating the on state; large horizontal pill toggle with the knob on the right in the on position",
+    "functionalityId": "represents a large-format toggle switch in the on or enabled state; enables or activates a feature using a large toggle control",
+    "intentId": "enable or turn on a feature using a large toggle switch; indicate an active or on state in a settings or control panel interface"
+  },
+  "fa-toggle-off": {
+    "appearanceId": "an oval pill-shaped rocker switch with a circular knob positioned on the left side inside the pill, indicating the off state; standard horizontal pill toggle with the knob on the left in the off position",
+    "functionalityId": "represents a toggle switch in the off or disabled state; deactivates or disables a setting or feature using a toggle control",
+    "intentId": "disable or turn off a setting or feature using a toggle switch; indicate an inactive or off state in a settings or preferences interface"
+  },
+  "fa-toggle-on": {
+    "appearanceId": "an oval pill-shaped rocker switch with a circular knob positioned on the right side inside the pill, indicating the on state; standard horizontal pill toggle with the knob on the right in the on position",
+    "functionalityId": "represents a toggle switch in the on or enabled state; activates or enables a setting or feature using a toggle control",
+    "intentId": "enable or turn on a setting or feature using a toggle switch; indicate an active or on state in a settings or preferences interface"
+  },
+  "fa-toilet": {
+    "appearanceId": "a toilet bowl silhouette viewed from the front with a rounded bowl basin, a seat lid, and a rectangular water tank at the back; bathroom toilet outline with a tank, lid, and bowl",
+    "functionalityId": "represents a toilet or bathroom fixture; indicates restroom facilities, bathroom equipment, or plumbing in a building or facility interface",
+    "intentId": "indicate a restroom or toilet facility in a building map or facility directory; represent bathroom plumbing or a sanitary fixture in a facilities or maintenance interface"
+  },
+  "fa-toilet-paper": {
+    "appearanceId": "a cylindrical roll of toilet paper mounted on a horizontal bar with the paper feeding over the top of the roll; toilet paper roll outline on a wall-mount bar with the sheet hanging over the top",
+    "functionalityId": "represents a toilet paper roll or bathroom tissue supply; indicates restroom supplies, hygiene products, or bathroom amenities in an interface",
+    "intentId": "indicate toilet paper or bathroom tissue in a restroom supply, hygiene, or facilities interface; manage bathroom amenity stock or restroom supply status"
+  },
+  "fa-toilet-paper-alt": {
+    "appearanceId": "a cylindrical roll of toilet paper with the paper sheet hanging and a slightly different mount orientation or roll profile compared to the standard roll; alternate toilet paper roll outline with a variant hanging or mount configuration",
+    "functionalityId": "represents an alternate toilet paper roll style or mount orientation; indicates bathroom tissue with a different visual configuration in a restroom or hygiene interface",
+    "intentId": "indicate an alternate toilet paper roll or mount style in a restroom or facility interface; represent bathroom tissue supplies with a different visual format"
+  },
+  "fa-toilet-paper-blank-under": {
+    "appearanceId": "a cylindrical roll of toilet paper mounted on a bar with the paper feeding under the bottom of the roll and hanging down without any printed design; toilet paper roll with the sheet feeding under and no surface pattern on the paper",
+    "functionalityId": "represents toilet paper mounted with the sheet feeding under the roll; indicates an under-mount tissue orientation in a restroom or hygiene setting",
+    "intentId": "indicate toilet paper in an under-roll mount configuration; represent bathroom tissue supply orientation in a restroom or facility interface"
+  },
+  "fa-toilet-paper-check": {
+    "appearanceId": "a cylindrical roll of toilet paper with a small checkmark badge overlaid on or beside the roll, indicating it has been verified or is in stock; toilet paper roll outline with a check or tick badge overlay",
+    "functionalityId": "represents a verified, stocked, or confirmed toilet paper supply; marks bathroom tissue as available or replenished in a facilities management interface",
+    "intentId": "confirm or verify toilet paper stock is available; mark a restroom supply as replenished or checked in a facilities or maintenance interface"
+  },
+  "fa-toilet-paper-slash": {
+    "appearanceId": "a cylindrical roll of toilet paper with a diagonal slash line crossing through the roll, indicating no paper or an empty roll; toilet paper roll outline with a forward-slash strikethrough indicating unavailability",
+    "functionalityId": "represents an empty, unavailable, or depleted toilet paper roll; indicates that bathroom tissue is out of stock in a restroom or facility interface",
+    "intentId": "indicate an empty or out-of-stock toilet paper roll; alert facilities management that bathroom tissue needs restocking in a maintenance interface"
+  },
+  "fa-toilet-paper-under": {
+    "appearanceId": "a cylindrical roll of toilet paper mounted on a bar with the paper feeding under the bottom of the roll and hanging down with a visible sheet; toilet paper roll outline with the sheet feeding beneath the roll in an under-mount position",
+    "functionalityId": "represents toilet paper mounted with the sheet feeding under the roll in the under orientation; indicates an under-mount tissue configuration in a restroom interface",
+    "intentId": "indicate toilet paper in the under-roll mounting orientation; represent a bathroom tissue supply configuration in a restroom or facility application"
+  },
+  "fa-toilet-paper-under-slash": {
+    "appearanceId": "a cylindrical roll of toilet paper with the sheet feeding under the roll and a diagonal slash line crossing through the entire image, indicating empty or unavailable under-mount paper; under-mount toilet paper roll outline with a forward-slash strikethrough",
+    "functionalityId": "represents an empty or depleted under-mount toilet paper roll; indicates no bathroom tissue available in an under-roll configuration",
+    "intentId": "indicate an empty under-mounted toilet paper roll; alert facilities management that under-mount bathroom tissue is out of stock in a maintenance interface"
+  },
+  "fa-toilet-paper-xmark": {
+    "appearanceId": "a cylindrical roll of toilet paper with a small X mark or times symbol badge overlaid on or beside the roll, indicating removal, error, or unavailability; toilet paper roll outline with an X badge overlay",
+    "functionalityId": "represents a toilet paper roll that is unavailable, removed, or marked for disposal; indicates an error or out-of-stock condition for bathroom tissue in a facility interface",
+    "intentId": "indicate a toilet paper roll that is removed or unavailable; mark bathroom tissue as out-of-stock or flagged for replacement in a facilities management interface"
+  },
+  "fa-toilet-portable": {
+    "appearanceId": "a portable or standalone toilet unit silhouette resembling a small enclosed booth or outhouse with a hinged lid, a holding tank base, and a carry handle; portable toilet or camping toilet outline with a tank base and seat lid",
+    "functionalityId": "represents a portable toilet, camp toilet, or chemical WC unit; indicates temporary sanitation facilities in an outdoor, event, or camping context",
+    "intentId": "indicate a portable toilet or temporary sanitation unit in an outdoor event, camping, or construction site interface; represent field sanitation facilities"
+  },
+  "fa-toilets-portable": {
+    "appearanceId": "two or more portable toilet booth silhouettes arranged side by side or grouped together, indicating a bank of portable toilets or a temporary restroom facility; multiple portable toilet outlines grouped in a row",
+    "functionalityId": "represents multiple portable toilets or a portable restroom facility; indicates a bank of temporary sanitation units at an event, construction site, or outdoor venue",
+    "intentId": "indicate a portable restroom facility or group of portable toilets at an event or worksite; represent temporary multi-unit sanitation in an outdoor or facility map interface"
+  },
+  "fa-tomato": {
+    "appearanceId": "a round tomato fruit silhouette with a smooth circular body and a small green leafy calyx star and short stem at the top; tomato outline with a round body and a star-shaped green calyx cap",
+    "functionalityId": "represents a tomato fruit or vegetable ingredient in a food, recipe, or grocery context; indicates a tomato item, produce category, or vegetable ingredient",
+    "intentId": "select or display a tomato in a recipe, food menu, or grocery interface; indicate a tomato ingredient or produce category in a culinary or agricultural application"
+  }
+}

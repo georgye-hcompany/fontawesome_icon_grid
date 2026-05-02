@@ -1,0 +1,242 @@
+{
+  "fa-people-pulling": {
+    "appearanceId": "two human silhouettes facing each other with arms extended and leaning backward in a tug-of-war pose, a horizontal line or rope between them; pair of figures straining away from a central point",
+    "functionalityId": "represents a tug-of-war, competitive pulling action, or opposing forces between two parties; illustrates tension or conflict between two groups",
+    "intentId": "depict a competition, conflict, or opposing forces between two parties; represent teamwork under tension or a dispute scenario"
+  },
+  "fa-people-robbery": {
+    "appearanceId": "two human silhouettes with one figure holding an outstretched arm toward the other in a threatening gesture, suggesting a holdup or mugging; aggressor and victim stick-figure pair",
+    "functionalityId": "represents a robbery, mugging, or criminal threat scenario; indicates a safety alert or crime-related event involving two people",
+    "intentId": "report or warn about a robbery or mugging incident; indicate a personal safety threat or criminal activity scenario"
+  },
+  "fa-people-roof": {
+    "appearanceId": "two human silhouettes standing beneath a triangular roof or peaked shelter outline, centered between the two figures; pair of stick figures under a house gable shape",
+    "functionalityId": "represents people under shelter or housed individuals; indicates a housing, refugee, or community shelter context",
+    "intentId": "indicate access to shelter or housing for displaced or vulnerable people; represent a community housing or refugee support program"
+  },
+  "fa-people-simple": {
+    "appearanceId": "two simplified human stick-figure silhouettes standing side by side with circular heads and straight bodies; minimal paired person outlines with no detailed features",
+    "functionalityId": "represents a group of people, a pair, or a population count; indicates a multi-person or community context in a simplified style",
+    "intentId": "represent a group, pair, or general population in a simple visual; indicate multi-user or community-level context"
+  },
+  "fa-pepper": {
+    "appearanceId": "a smooth bell pepper silhouette with a rounded lobed body and a short stem at the top; sweet pepper outline with a curved multi-lobed shape",
+    "functionalityId": "represents a bell pepper vegetable in food or recipe contexts; labels a pepper ingredient in a cooking or grocery interface",
+    "intentId": "identify or select a bell pepper in a recipe or grocery list; indicate a vegetable ingredient in a food or nutrition interface"
+  },
+  "fa-pepper-hot": {
+    "appearanceId": "a curved chili pepper silhouette with a pointed tip, tapered body, and a short stem at the top; hot chili pepper outline with a slender arching shape",
+    "functionalityId": "represents a hot or spicy chili pepper in food or recipe contexts; indicates a spiciness level or hot ingredient in a menu or cooking interface",
+    "intentId": "indicate spicy or hot food content in a recipe or menu; label a hot chili pepper ingredient in a cooking or dining application"
+  },
+  "fa-percent": {
+    "appearanceId": "a percent sign glyph with two small circles positioned at the upper-left and lower-right connected by a diagonal slash stroke; standard percentage typographic symbol",
+    "functionalityId": "represents a percentage value, ratio, or proportion; inserts or displays a percent sign in a numeric or financial field",
+    "intentId": "display or enter a percentage value in a numeric or financial interface; indicate a ratio or proportional measurement"
+  },
+  "fa-period": {
+    "appearanceId": "a single small filled circle or dot centered at the baseline of the icon space; typographic period or full-stop punctuation mark",
+    "functionalityId": "represents a period, full stop, or decimal point punctuation mark; inserts a terminal punctuation character in a text field",
+    "intentId": "insert a period or full-stop character in a text editing interface; indicate end of a sentence or a decimal separator"
+  },
+  "fa-person-arrow-down-to-line": {
+    "appearanceId": "a human stick-figure silhouette with a downward-pointing arrow above or beside it and a horizontal baseline or floor line below the arrow tip; person figure with a descending arrow to a ground line",
+    "functionalityId": "represents a person arriving, landing, or being directed downward to a baseline; indicates check-in, arrival, or descent to a floor level",
+    "intentId": "indicate a person arriving at or descending to a specific level or location; represent a check-in, landing, or placement action"
+  },
+  "fa-person-arrow-up-from-line": {
+    "appearanceId": "a human stick-figure silhouette with an upward-pointing arrow above it and a horizontal baseline or floor line below the figure; person figure rising upward from a ground line",
+    "functionalityId": "represents a person departing, rising, or being directed upward from a baseline; indicates evacuation, departure, or ascending from a floor",
+    "intentId": "indicate a person departing from or rising above a specific level; represent evacuation, check-out, or an upward movement action"
+  },
+  "fa-person-booth": {
+    "appearanceId": "a human stick-figure silhouette standing inside or beside a rectangular vertical booth or curtained enclosure outline; person figure within a narrow vertical chamber shape",
+    "functionalityId": "represents a person in a voting booth, phone booth, or private enclosure; indicates voting, privacy, or a single-occupancy space",
+    "intentId": "indicate a voting booth or private enclosure for a single person; represent civic participation or a privacy screen context"
+  },
+  "fa-person-breastfeeding": {
+    "appearanceId": "a seated human silhouette cradling a small infant figure at the chest in a nursing pose; mother-and-baby silhouette in a breastfeeding position",
+    "functionalityId": "represents breastfeeding or infant nursing; indicates a nursing room, lactation area, or maternal feeding context",
+    "intentId": "locate a nursing or lactation room; indicate breastfeeding support resources or a maternal care context"
+  },
+  "fa-person-burst": {
+    "appearanceId": "a human stick-figure silhouette surrounded by short radiating burst lines or spikes emanating outward from the body in multiple directions; person figure with explosion or energy burst lines",
+    "functionalityId": "represents a person in distress, an explosion near a person, or a dramatic impact event; indicates an emergency, crisis, or sudden energetic action involving a person",
+    "intentId": "indicate a person in an emergency or explosion scenario; represent a crisis event or sudden impact affecting an individual"
+  },
+  "fa-person-cane": {
+    "appearanceId": "a human stick-figure silhouette in an upright standing pose holding a diagonal cane or walking stick at one side; elderly or mobility-assisted person figure with a cane prop",
+    "functionalityId": "represents an elderly person, mobility aid user, or individual with a walking cane; indicates accessibility, senior care, or disability accommodation",
+    "intentId": "indicate accessibility needs or elderly care services; represent a mobility-assisted individual in a healthcare or accessibility context"
+  },
+  "fa-person-carry": {
+    "appearanceId": "a human stick-figure silhouette in a forward-leaning pose with both arms extended downward holding or supporting a box or rectangular load; person figure carrying a package or cargo",
+    "functionalityId": "represents a person carrying a package, box, or heavy item; indicates moving, delivery, or manual handling of cargo",
+    "intentId": "indicate package carrying, delivery, or manual freight handling; represent a moving or logistics action involving a person"
+  },
+  "fa-person-chalkboard": {
+    "appearanceId": "a human stick-figure silhouette standing beside or in front of a large rectangular chalkboard or whiteboard panel, with one arm raised toward the board; presenter figure next to a board surface",
+    "functionalityId": "represents a teacher, presenter, or instructor at a chalkboard; indicates a lecture, training session, or educational presentation context",
+    "intentId": "indicate a teaching, training, or presentation activity; represent an instructor or educator at a board in an educational interface"
+  },
+  "fa-person-circle-check": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing a checkmark overlaid in the lower-right or upper-right corner; person figure with a check badge overlay",
+    "functionalityId": "represents a verified, approved, or confirmed person; indicates that a user profile or individual has passed a check or been approved",
+    "intentId": "confirm or approve a person's status or identity; indicate a verified or cleared individual in a user management interface"
+  },
+  "fa-person-circle-exclamation": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing an exclamation mark overlaid in the lower-right or upper-right corner; person figure with an alert badge overlay",
+    "functionalityId": "represents a person with a warning or alert status; indicates that a user profile requires attention or has an outstanding issue",
+    "intentId": "flag a person with a warning or alert; indicate that a user has an outstanding issue requiring attention"
+  },
+  "fa-person-circle-minus": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing a horizontal minus bar overlaid in the lower-right or upper-right corner; person figure with a remove or subtract badge overlay",
+    "functionalityId": "removes or demotes a person from a group or list; indicates that a user is being deducted or downgraded",
+    "intentId": "remove or deduct a person from a group, team, or permission list; indicate a user removal or demotion action"
+  },
+  "fa-person-circle-plus": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing a plus sign overlaid in the lower-right or upper-right corner; person figure with an add or new-member badge overlay",
+    "functionalityId": "adds or enrolls a new person to a group or list; indicates that a user is being added or promoted",
+    "intentId": "add a new person or member to a group, team, or permission list; indicate a user enrollment or addition action"
+  },
+  "fa-person-circle-question": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing a question mark overlaid in the lower-right or upper-right corner; person figure with an unknown or inquiry badge overlay",
+    "functionalityId": "represents an unknown, unidentified, or questionable person; indicates that a user's status or identity is uncertain or under review",
+    "intentId": "flag an unidentified or uncertain user; indicate that a person's status or identity needs clarification"
+  },
+  "fa-person-circle-xmark": {
+    "appearanceId": "a human stick-figure silhouette with a small filled circle containing an X mark overlaid in the lower-right or upper-right corner; person figure with a rejected or blocked badge overlay",
+    "functionalityId": "rejects, blocks, or disqualifies a person from a group or access list; indicates that a user has been denied or removed",
+    "intentId": "block, reject, or disqualify a user from a group or access list; indicate that a person has been denied access or removed from a system"
+  },
+  "fa-person-dolly": {
+    "appearanceId": "a human stick-figure silhouette standing beside or holding a hand truck or dolly frame with a stacked load or boxes on the base; person figure with a dolly cart and cargo",
+    "functionalityId": "represents a worker using a hand truck or dolly to move cargo; indicates loading, unloading, or material handling with a dolly",
+    "intentId": "indicate moving, loading, or transporting heavy cargo with a dolly; represent a warehouse or logistics worker handling freight"
+  },
+  "fa-person-dolly-empty": {
+    "appearanceId": "a human stick-figure silhouette standing beside or holding an empty hand truck or dolly frame with no load on the base; person figure with an unloaded dolly cart",
+    "functionalityId": "represents a worker with an empty dolly ready to load cargo; indicates an available or unloaded material-handling cart",
+    "intentId": "indicate an available or empty dolly ready for loading; represent a worker prepared to transport goods with an unloaded cart"
+  },
+  "fa-person-dress-burst": {
+    "appearanceId": "a skirted human silhouette in a dress shape surrounded by short radiating burst lines or spikes emanating outward from the body; dress-wearing figure with explosion or energy burst lines",
+    "functionalityId": "represents a person in a dress involved in an explosion, emergency, or dramatic impact; indicates a crisis or sudden energetic event affecting a dress-wearing figure",
+    "intentId": "indicate an emergency or explosion scenario involving a dress-wearing person; represent a crisis event affecting a female-presenting individual"
+  },
+  "fa-person-dress-fairy": {
+    "appearanceId": "a skirted human silhouette in a dress shape with small butterfly or insect wings extending from the upper back; fairy figure with a dress and delicate wing shapes",
+    "functionalityId": "represents a fairy character in a fantastical or whimsical context; indicates a magical, fantasy, or costume-based theme",
+    "intentId": "represent a fairy character or magical theme in a fantasy application; indicate a costume, fairy tale, or whimsical design element"
+  },
+  "fa-person-dress-simple": {
+    "appearanceId": "a simplified skirted human silhouette with a dress or skirt shape and circular head, rendered in minimal detail; basic dress-wearing figure outline with no decorative elements",
+    "functionalityId": "represents a female-presenting person or dress-wearing individual in a generic context; indicates a restroom, gender marker, or basic person category",
+    "intentId": "indicate a female-presenting or dress-wearing person in a sign or category; represent a restroom designation or gender-neutral person marker with a skirt"
+  },
+  "fa-person-drowning": {
+    "appearanceId": "a human stick-figure silhouette with arms raised upward and the lower body submerged below wavy horizontal water lines; person figure partially underwater with raised arms",
+    "functionalityId": "represents a drowning or water distress emergency; indicates a water safety hazard or aquatic rescue situation",
+    "intentId": "indicate a water drowning emergency or aquatic safety hazard; represent a water rescue or distress scenario"
+  },
+  "fa-person-fairy": {
+    "appearanceId": "a human stick-figure silhouette with small butterfly or insect wings extending from the upper back; fairy figure without a dress with delicate wing shapes attached to the torso",
+    "functionalityId": "represents a fairy character in a fantastical or whimsical context; indicates a magical, fantasy, or costume-based theme involving a non-dress figure",
+    "intentId": "represent a fairy character or magical theme in a fantasy application; indicate a costume or whimsical design element for a non-skirted figure"
+  },
+  "fa-person-falling": {
+    "appearanceId": "a human stick-figure silhouette in a diagonal falling pose with limbs splayed and body tilted at an angle; person figure in a mid-fall or slip position",
+    "functionalityId": "represents a person falling or slipping; indicates a slip-and-fall hazard, accident risk, or fall detection event",
+    "intentId": "indicate a slip-and-fall hazard or accident warning; represent a fall detection alert or personal safety incident"
+  },
+  "fa-person-falling-burst": {
+    "appearanceId": "a human stick-figure silhouette in a diagonal falling pose surrounded by short radiating burst lines; falling person figure with explosion or impact burst lines",
+    "functionalityId": "represents a person falling with an explosive or dramatic impact; indicates a severe fall, explosion-caused fall, or high-impact accident",
+    "intentId": "indicate a severe or explosion-related fall incident; represent a high-impact accident or emergency fall scenario"
+  },
+  "fa-person-half-dress": {
+    "appearanceId": "a human silhouette where the left half of the body is depicted in pants or trousers and the right half wears a skirt or dress; vertically split figure with contrasting gender-presentation halves",
+    "functionalityId": "represents gender diversity, a non-binary identity, or an all-gender restroom designation; indicates inclusivity or a combined gender marker",
+    "intentId": "indicate an all-gender or gender-neutral restroom or space; represent gender diversity or a non-binary identity in a signage or profile context"
+  },
+  "fa-person-harassing": {
+    "appearanceId": "two human stick-figure silhouettes with one figure in an aggressive leaning posture toward the other who appears to be recoiling or shielding; aggressor-and-target pair with confrontational body language",
+    "functionalityId": "represents workplace harassment, bullying, or interpersonal aggression between two figures; indicates a harassment incident or reporting scenario",
+    "intentId": "report or indicate a harassment or bullying incident; represent workplace aggression or interpersonal conflict in a safety or HR context"
+  },
+  "fa-person-military-pointing": {
+    "appearanceId": "a uniformed military figure silhouette with one arm fully extended forward in a pointing gesture; soldier or service member figure with an outstretched directing arm",
+    "functionalityId": "represents a military officer directing, commanding, or giving orders; indicates a command, navigation, or tactical direction action",
+    "intentId": "indicate a military command, direction, or tactical instruction; represent a service member directing personnel or resources"
+  },
+  "fa-person-military-rifle": {
+    "appearanceId": "a uniformed military figure silhouette in an upright stance holding a long rifle weapon at the side or across the body; soldier figure with a rifle prop",
+    "functionalityId": "represents an armed military or security personnel figure; indicates a military, armed forces, or weapon-carrying role",
+    "intentId": "represent armed military or security personnel in an interface; indicate a military role or armed forces context"
+  },
+  "fa-person-military-to-person": {
+    "appearanceId": "a uniformed military figure silhouette on one side handing off or transitioning toward a civilian stick-figure silhouette on the other side, with an arrow or directional cue between them; soldier-to-civilian handoff pair",
+    "functionalityId": "represents a military-to-civilian transition, handoff, or transfer of responsibility; indicates a demobilization, outreach, or service transition scenario",
+    "intentId": "indicate a military-to-civilian transition or service handoff; represent outreach, demobilization, or transfer of personnel between roles"
+  },
+  "fa-person-pinball": {
+    "appearanceId": "a human stick-figure silhouette in a dynamic airborne or bouncing pose reminiscent of a pinball being launched, with limbs spread; person figure in a pinball-like launched or bouncing position",
+    "functionalityId": "represents a pinball game character, a bouncing or launched person, or a playful energetic motion; indicates a game, fun activity, or arcade context",
+    "intentId": "represent a pinball game or playful arcade activity; indicate a fun or energetic bounce or launch action in a game interface"
+  },
+  "fa-person-pregnant": {
+    "appearanceId": "a human stick-figure silhouette with a prominently rounded abdomen indicating pregnancy; pregnant person figure with an extended belly profile",
+    "functionalityId": "represents a pregnant person or maternity-related context; indicates prenatal care, maternity services, or pregnancy status",
+    "intentId": "indicate pregnancy, maternity care, or prenatal services; represent a pregnant individual in a healthcare or family planning context"
+  },
+  "fa-person-rays": {
+    "appearanceId": "a human stick-figure silhouette surrounded by longer radiating ray lines emanating outward in multiple directions; person figure with sunburst or radiance rays extending around the body",
+    "functionalityId": "represents a person emitting energy, radiation, influence, or prominence; indicates wellness, radiance, a holy or iconic figure, or radiation exposure",
+    "intentId": "indicate a person emitting energy, radiance, or influence; represent a wellness aura, saintly figure, or radiation exposure context"
+  },
+  "fa-person-rifle": {
+    "appearanceId": "a civilian human stick-figure silhouette holding a long rifle weapon at the side or in a shooting stance; non-uniformed person figure with a rifle prop",
+    "functionalityId": "represents a civilian firearm holder, hunter, or armed individual; indicates gun ownership, hunting, or a shooting sport context",
+    "intentId": "represent a hunter, shooter, or civilian firearm user; indicate a hunting, gun ownership, or shooting sport context"
+  },
+  "fa-person-running-fast": {
+    "appearanceId": "a human stick-figure silhouette in an exaggerated sprinting or fast-running pose with forward-leaning body and extended limbs showing speed motion; person figure in a high-speed running stride",
+    "functionalityId": "represents rapid movement, sprinting, or an urgent fast-paced action; indicates speed, urgency, or athletic sprinting",
+    "intentId": "indicate fast movement, urgency, or sprint-speed activity; represent a high-speed running or racing context"
+  },
+  "fa-person-seat": {
+    "appearanceId": "a human stick-figure silhouette in a seated upright position on a flat horizontal surface or chair base with legs extended forward; person figure in an upright seated pose",
+    "functionalityId": "represents a seated person or an occupied seat; indicates seating availability, seat selection, or passenger placement",
+    "intentId": "indicate a seated person or an occupied seat in a seating plan; represent seat selection or passenger placement in a venue or transport interface"
+  },
+  "fa-person-seat-reclined": {
+    "appearanceId": "a human stick-figure silhouette in a reclined or backward-leaning seated pose with the upper body tilted back; person figure in a reclining seat position",
+    "functionalityId": "represents a reclined seat, a reclining passenger, or a lie-flat position; indicates seat recline functionality in a transport or furniture context",
+    "intentId": "indicate a reclining seat option or reclined passenger position; represent seat recline controls in an aircraft, vehicle, or furniture interface"
+  },
+  "fa-person-shelter": {
+    "appearanceId": "a human stick-figure silhouette crouched or standing beneath a small triangular roof or shelter canopy outline; person figure under a peaked protective shelter shape",
+    "functionalityId": "represents a person seeking or taking shelter; indicates emergency shelter, disaster relief, or a protected safe zone",
+    "intentId": "indicate emergency shelter availability or a person seeking protection; represent disaster relief, safe zones, or humanitarian shelter resources"
+  },
+  "fa-person-sign": {
+    "appearanceId": "a human stick-figure silhouette holding or standing beside a rectangular sign or placard with both hands raised; person figure holding a sign or banner at chest or head level",
+    "functionalityId": "represents a person holding a protest sign, informational placard, or announcement board; indicates advocacy, demonstration, or wayfinding signage",
+    "intentId": "represent a protester, demonstrator, or sign holder in a civic or wayfinding context; indicate advocacy, announcement, or informational signage carried by a person"
+  },
+  "fa-person-simple": {
+    "appearanceId": "a single simplified human stick-figure silhouette with a circular head and straight-line body in a neutral standing pose; minimal single person outline with no decorative detail",
+    "functionalityId": "represents a generic individual person or user in a simplified style; indicates a single user, person count, or general human presence",
+    "intentId": "represent a single generic person or user in an interface; indicate individual presence or a single user in a count or profile context"
+  },
+  "fa-person-through-window": {
+    "appearanceId": "a human stick-figure silhouette in a diving or falling pose passing through or emerging from a rectangular window frame outline; person figure mid-passage through a window opening",
+    "functionalityId": "represents a person jumping through or falling out of a window; indicates an emergency exit, break-in, escape, or hazardous window scenario",
+    "intentId": "indicate an emergency window escape or break-in scenario; represent a hazardous fall-through-window situation or emergency egress"
+  },
+  "fa-person-to-door": {
+    "appearanceId": "a human stick-figure silhouette walking or standing in front of a tall rectangular door outline with a door knob detail; person figure approaching or at a door opening",
+    "functionalityId": "represents a person approaching, entering, or exiting through a door; indicates access control, entry, check-in, or departure through a doorway",
+    "intentId": "indicate a person entering or exiting through a door; represent access control, check-in, or arrival and departure at a doorway"
+  }
+}

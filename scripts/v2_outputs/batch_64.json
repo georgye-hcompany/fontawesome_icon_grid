@@ -1,0 +1,242 @@
+{
+  "fa-trash-plus": {
+    "appearanceId": "a trash can silhouette with a lid and a small plus sign badge overlaid at the bottom-right corner; waste bin outline with an add or plus symbol indicator",
+    "functionalityId": "adds a new item to a trash or recycle bin collection; creates a new discard or deletion entry",
+    "intentId": "add an item to the trash or create a new deletable entry; manage disposal or discard actions in a content or file management interface"
+  },
+  "fa-trash-restore": {
+    "appearanceId": "a trash can silhouette with a curved counterclockwise restore arrow looping around or overlaid on the bin body; waste bin outline with a circular undo or restore arrow",
+    "functionalityId": "restores a previously deleted item from the trash back to its original location; undoes a deletion by recovering the item",
+    "intentId": "recover a deleted item from the trash to its original location; undo a deletion in a file manager or content management interface"
+  },
+  "fa-trash-restore-alt": {
+    "appearanceId": "a trash can silhouette with an alternative restore arrow design, such as a clockwise arc or a differently positioned undo arrow around the bin body; waste bin outline with an alternate curved restore arrow",
+    "functionalityId": "restores a deleted item from the trash using an alternate restore action; recovers discarded content with a variant undo arrow style",
+    "intentId": "recover a deleted item from the trash using an alternate restore control; undo a deletion in a file or content management interface"
+  },
+  "fa-trash-slash": {
+    "appearanceId": "a trash can silhouette with a diagonal slash line drawn through the entire bin body; waste bin outline with a forward-slash strikethrough indicating disabled or restricted deletion",
+    "functionalityId": "disables or prevents deletion of a selected item; indicates that an item cannot be moved to the trash",
+    "intentId": "prevent or disable deletion of an item; indicate that trashing or discarding is restricted in a file or content management interface"
+  },
+  "fa-trash-undo": {
+    "appearanceId": "a trash can silhouette with a curved leftward-pointing undo arrow overlaid on or beside the bin body; waste bin outline with an undo arrow indicating reversal",
+    "functionalityId": "undoes the last trash or deletion action; reverts a recently discarded item back out of the trash",
+    "intentId": "undo a recent deletion or trash action; revert a discarded item in a file manager or document editing interface"
+  },
+  "fa-trash-xmark": {
+    "appearanceId": "a trash can silhouette with a small X mark badge overlaid at the corner or center of the bin body; waste bin outline with a cancel or close X symbol indicator",
+    "functionalityId": "permanently deletes or empties an item from the trash; cancels or removes a trash entry entirely",
+    "intentId": "permanently delete an item or empty the trash; remove a discard entry without recovery in a file or content management interface"
+  },
+  "fa-treasure-chest": {
+    "appearanceId": "a rectangular wooden chest silhouette with a domed curved lid, metal latch hardware on the front, and banded or planked sides; pirate treasure chest outline with a rounded top lid and front clasp",
+    "functionalityId": "represents a treasure chest containing rewards, loot, or valuable items; opens or indicates a reward cache in a game or prize interface",
+    "intentId": "open or reveal a treasure chest for rewards or loot; indicate a prize cache or valuable item collection in a game or reward interface"
+  },
+  "fa-tree": {
+    "appearanceId": "a conical or rounded deciduous tree silhouette with a broad canopy on top and a short straight trunk at the base; standard tree outline with a rounded canopy and a simple trunk",
+    "functionalityId": "represents a tree, plant life, or a natural environment; indicates an outdoor, nature, or environmental category in an interface",
+    "intentId": "indicate nature, outdoor, or environmental content; represent a tree or plant in an ecology, park, or landscape interface"
+  },
+  "fa-tree-alt": {
+    "appearanceId": "an alternative tree silhouette with a differently shaped canopy such as a more irregular or stylized outline compared to the standard rounded tree, and a trunk at the base; variant tree outline with an alternate canopy shape and trunk",
+    "functionalityId": "represents an alternative or stylized tree shape for nature or environmental contexts; indicates a variant plant or tree in an outdoor or ecology interface",
+    "intentId": "indicate nature or outdoor content with an alternate tree symbol; represent a stylized tree or plant variant in an ecology or landscape interface"
+  },
+  "fa-tree-christmas": {
+    "appearanceId": "a conical Christmas tree silhouette with tiered layered branches decorated with small ornament dots and a star or topper at the apex, and a small trunk base; triangular Christmas tree outline with ornament decorations and a star topper",
+    "functionalityId": "represents a decorated Christmas tree or holiday festivity symbol; indicates a Christmas season, holiday decoration, or festive theme",
+    "intentId": "indicate a Christmas or holiday season theme; represent a Christmas tree decoration in a festive or seasonal interface"
+  },
+  "fa-tree-city": {
+    "appearanceId": "a tree silhouette with a rounded canopy positioned beside or in front of small rectangular building outlines representing an urban skyline; tree outline combined with city building silhouettes",
+    "functionalityId": "represents urban greenery, a tree-lined city, or a parks-in-city concept; indicates a green city initiative or urban nature category",
+    "intentId": "indicate urban greenery, city parks, or environmental urban planning; represent a tree-in-city or green infrastructure concept in an environmental or municipal interface"
+  },
+  "fa-tree-decorated": {
+    "appearanceId": "a conical tree silhouette with round ornament ball decorations hanging from the branches and a trunk at the base, without a star topper; triangular tree outline with circular ornament ball decorations and no top star",
+    "functionalityId": "represents a decorated holiday tree with ornament balls; indicates a Christmas or holiday decoration theme with hanging ornaments",
+    "intentId": "indicate a decorated holiday tree with ornaments; represent Christmas decorating or a festive ornament-hung tree in a seasonal interface"
+  },
+  "fa-tree-large": {
+    "appearanceId": "a tall conical or rounded tree silhouette with a proportionally taller or wider canopy compared to the standard tree, and a longer trunk; large tall tree outline with an oversized canopy and elongated trunk",
+    "functionalityId": "represents a large or mature tree in a nature or landscaping context; indicates a tall tree species or a significant natural landmark",
+    "intentId": "indicate a large or mature tree in a nature, forestry, or landscaping interface; represent a tall tree species or significant natural feature"
+  },
+  "fa-tree-palm": {
+    "appearanceId": "a palm tree silhouette with a curved or arching slender trunk and a cluster of long feathery fronds radiating from the top; palm tree outline with a curving trunk and drooping leaf fronds at the crown",
+    "functionalityId": "represents a palm tree or tropical vegetation in a nature or travel context; indicates a tropical, beach, or warm-climate environment",
+    "intentId": "indicate a tropical or beach environment; represent a palm tree or tropical destination in a travel, nature, or climate interface"
+  },
+  "fa-trees": {
+    "appearanceId": "two or more conical or rounded tree silhouettes grouped together side by side forming a small cluster or forest grouping; multiple tree outlines arranged as a grove or forest cluster",
+    "functionalityId": "represents a cluster of trees, a forest, or a wooded area; indicates a forest zone, multi-tree planting, or woodland nature category",
+    "intentId": "indicate a forest, woodland, or multi-tree nature area; represent a grove or forested environment in an ecology, hiking, or landscape interface"
+  },
+  "fa-triangle": {
+    "appearanceId": "a plain equilateral triangle shape with three equal straight sides and equal angles, with no interior decoration; solid or outlined equilateral triangle silhouette",
+    "functionalityId": "represents a triangular geometric shape for use in design, charting, or directional contexts; serves as a geometric element or directional pointer",
+    "intentId": "use a triangle shape as a geometric element, warning indicator, or directional pointer; represent a triangular form in a design or diagramming interface"
+  },
+  "fa-triangle-music": {
+    "appearanceId": "an equilateral triangle shape with a small musical note symbol displayed inside the interior of the triangle; triangle outline with a music note glyph centered inside",
+    "functionalityId": "represents a musical triangle instrument or a music category indicated by a triangular shape; indicates a percussion instrument or music-related content",
+    "intentId": "indicate a musical triangle instrument or a music category; represent a percussion item or musical element in a music or instrument interface"
+  },
+  "fa-tricycle": {
+    "appearanceId": "a small child's tricycle silhouette viewed from the side with a large front wheel, two smaller rear wheels, a seat, handlebars, and pedals; child tricycle outline with one large front wheel and two rear wheels",
+    "functionalityId": "represents a tricycle or child's three-wheeled bike; indicates a children's ride-on toy, cycling activity, or recreational vehicle",
+    "intentId": "indicate a child's tricycle or three-wheeled bike in a toy, recreational, or cycling interface; represent a children's ride-on vehicle"
+  },
+  "fa-tricycle-adult": {
+    "appearanceId": "an adult-sized tricycle silhouette viewed from the side with three wheels, a rear cargo basket or frame, an upright seat, and handlebars; adult tricycle outline with three wheels and a rear cargo area",
+    "functionalityId": "represents an adult tricycle or three-wheeled adult cycling vehicle; indicates an adaptive cycling, senior mobility, or cargo tricycle context",
+    "intentId": "indicate an adult tricycle for mobility, recreation, or cargo transport; represent adaptive cycling or a three-wheeled adult bike in a transportation or accessibility interface"
+  },
+  "fa-trillium": {
+    "appearanceId": "a trillium flower silhouette with three broad rounded petals arranged symmetrically around a center point and three narrow sepals alternating between the petals; three-petal trillium flower outline with alternating sepals",
+    "functionalityId": "represents a trillium wildflower in a botanical, nature, or floral context; indicates a spring wildflower, native plant, or floral decoration",
+    "intentId": "indicate a trillium flower in a botanical, nature, or floral design interface; represent a spring wildflower or native plant category"
+  },
+  "fa-trophy": {
+    "appearanceId": "a cup trophy silhouette with two curved side handles, a wide goblet-shaped bowl on top, and a narrow stem and base pedestal; classic award trophy outline with side handles, a cup bowl, and a base",
+    "functionalityId": "represents an award, achievement, or competition victory; indicates a top-ranked result, winner status, or achievement badge",
+    "intentId": "indicate an award, achievement, or competition win; display a trophy or victory symbol in a leaderboard, game, or recognition interface"
+  },
+  "fa-trophy-alt": {
+    "appearanceId": "an alternative trophy silhouette with a slightly different cup shape, handle style, or base configuration compared to the standard trophy; alternate award cup outline with a varied handle or bowl design",
+    "functionalityId": "represents an alternative award or achievement trophy style; indicates a variant winner or achievement symbol in a leaderboard or reward interface",
+    "intentId": "indicate an award or achievement using an alternate trophy symbol; display a variant trophy in a leaderboard, game, or recognition interface"
+  },
+  "fa-trowel": {
+    "appearanceId": "a masonry trowel silhouette with a flat triangular or diamond-shaped blade and a short handle attached at the blunt end; trowel tool outline with a flat pointed blade and a grip handle",
+    "functionalityId": "represents a trowel tool used for spreading mortar, plaster, or soil; indicates masonry, gardening, or construction tool usage",
+    "intentId": "indicate masonry, construction, or gardening work with a trowel; represent a spreading or plastering tool in a construction or gardening interface"
+  },
+  "fa-trowel-bricks": {
+    "appearanceId": "a masonry trowel silhouette positioned beside or above a small stack of rectangular brick shapes; trowel outline with a brick stack indicating masonry construction",
+    "functionalityId": "represents bricklaying or masonry construction with a trowel and bricks; indicates a construction, building, or masonry category",
+    "intentId": "indicate bricklaying, masonry, or construction work; represent a construction or building activity in a contractor, home improvement, or architecture interface"
+  },
+  "fa-truck": {
+    "appearanceId": "a side-view truck silhouette with a cab at the front, a long cargo box trailer, and wheels at the front axle and rear axle; delivery truck profile outline with a cab and enclosed cargo box",
+    "functionalityId": "represents a delivery truck or freight vehicle; indicates shipping, logistics, or cargo transport in a commerce or fleet interface",
+    "intentId": "indicate freight shipping, cargo delivery, or logistics; represent a delivery truck or transport vehicle in a commerce or fleet management interface"
+  },
+  "fa-truck-arrow-right": {
+    "appearanceId": "a side-view truck silhouette with a rightward-pointing arrow overlaid on or beside the cargo body; delivery truck profile outline with a right-direction arrow badge",
+    "functionalityId": "represents a truck departing, moving forward, or being redirected to the right; indicates outbound delivery, forwarding, or a route change",
+    "intentId": "indicate outbound shipping, truck departure, or a rightward route in a logistics interface; represent a delivery truck moving to a new destination"
+  },
+  "fa-truck-bolt": {
+    "appearanceId": "a side-view truck silhouette with a lightning bolt symbol overlaid on the cargo body; delivery truck profile outline with an electric bolt badge indicating electric power",
+    "functionalityId": "represents an electric delivery truck or electrified freight vehicle; indicates an EV truck, fast delivery, or electrically powered transport",
+    "intentId": "indicate an electric truck or fast electrified delivery vehicle; represent EV freight, rapid shipping, or electric transport in a logistics or sustainability interface"
+  },
+  "fa-truck-clock": {
+    "appearanceId": "a side-view truck silhouette with a clock face symbol overlaid on the cargo area; delivery truck profile outline with a clock badge indicating scheduled or timed delivery",
+    "functionalityId": "represents a scheduled delivery truck or time-based freight dispatch; indicates delivery timing, ETA, or a timed shipment notification",
+    "intentId": "track or schedule a timed truck delivery or freight dispatch; indicate delivery ETA or a time-sensitive shipment in a logistics or e-commerce interface"
+  },
+  "fa-truck-container": {
+    "appearanceId": "a side-view truck silhouette with a large rectangular shipping container box on the trailer bed, showing visible container panel lines; truck cab profile with a standard ISO shipping container body",
+    "functionalityId": "represents a container truck or intermodal freight vehicle carrying a shipping container; indicates container transport, port logistics, or intermodal shipping",
+    "intentId": "indicate container shipping or intermodal freight transport; represent a container truck in a port, logistics, or supply chain interface"
+  },
+  "fa-truck-container-empty": {
+    "appearanceId": "a side-view truck silhouette with an empty or open-top rectangular container frame on the trailer, showing an unfilled or hollow container body; truck cab profile with an empty open container frame",
+    "functionalityId": "represents an empty container truck returning without cargo; indicates an empty container return, repositioning, or a vacant freight vehicle",
+    "intentId": "indicate an empty container truck or a vehicle returning without cargo; represent empty container repositioning or availability in a logistics or port interface"
+  },
+  "fa-truck-couch": {
+    "appearanceId": "a side-view truck silhouette with a couch or sofa shape visible through or overlaid on the cargo box area; moving truck profile outline with a furniture couch silhouette inside the cargo body",
+    "functionalityId": "represents a furniture delivery or moving truck carrying household items; indicates a moving service, furniture transport, or home delivery vehicle",
+    "intentId": "indicate a furniture delivery or household moving service; represent a moving truck carrying furniture in a relocation or delivery interface"
+  },
+  "fa-truck-droplet": {
+    "appearanceId": "a side-view truck silhouette with a water droplet shape overlaid on the cargo tank or body; tanker truck profile outline with a liquid droplet badge indicating liquid transport",
+    "functionalityId": "represents a water tanker truck or liquid delivery vehicle; indicates liquid freight, water transport, or chemical tanker logistics",
+    "intentId": "indicate liquid freight transport or a water tanker delivery; represent a liquid or chemical tanker truck in a logistics or utilities interface"
+  },
+  "fa-truck-fast": {
+    "appearanceId": "a side-view truck silhouette with horizontal speed lines extending behind the cab or cargo area to suggest rapid motion; delivery truck profile outline with motion speed streaks indicating fast movement",
+    "functionalityId": "represents express or fast delivery service with a truck; indicates rapid shipping, expedited freight, or same-day delivery",
+    "intentId": "indicate express or expedited delivery service; represent fast shipping or rush freight in an e-commerce or logistics interface"
+  },
+  "fa-truck-field": {
+    "appearanceId": "a side-view truck silhouette with terrain bumps, grass tufts, or field ground elements beneath the wheels; truck profile outline with off-road or agricultural field ground detail",
+    "functionalityId": "represents a field service truck or off-road agricultural vehicle; indicates field operations, agricultural transport, or off-road fleet vehicles",
+    "intentId": "indicate field service, agricultural transport, or off-road vehicle operations; represent a field truck in an agricultural, utility, or off-road logistics interface"
+  },
+  "fa-truck-field-un": {
+    "appearanceId": "a side-view truck silhouette on field terrain with a UN or organizational badge overlaid on the cargo body; field truck profile outline with an identification or organizational marker badge",
+    "functionalityId": "represents a UN or humanitarian field operations truck used in disaster relief or peacekeeping; indicates an official or marked humanitarian vehicle",
+    "intentId": "indicate a UN or humanitarian aid vehicle operating in field conditions; represent official or relief organization transport in a humanitarian or emergency operations interface"
+  },
+  "fa-truck-fire": {
+    "appearanceId": "a side-view truck silhouette with a flame shape overlaid on the cargo area or cab; truck profile outline with a fire or flame badge indicating fire-related operations",
+    "functionalityId": "represents a fire truck or emergency fire response vehicle; indicates firefighting operations, fire department fleet, or emergency response",
+    "intentId": "indicate a fire truck or emergency fire response vehicle; represent firefighting operations or fire department fleet in an emergency services interface"
+  },
+  "fa-truck-flatbed": {
+    "appearanceId": "a side-view truck silhouette with an open flat platform trailer bed with no enclosed sides or roof behind the cab; truck cab profile with an open flatbed trailer platform",
+    "functionalityId": "represents a flatbed truck used for carrying large or oversized cargo; indicates flatbed freight, heavy equipment transport, or open cargo hauling",
+    "intentId": "indicate flatbed freight or oversized cargo transport; represent a flatbed truck in a heavy equipment, construction, or logistics interface"
+  },
+  "fa-truck-front": {
+    "appearanceId": "a front-facing truck cab view showing the grille, headlights, bumper, and windshield of the truck from a head-on perspective; front-view truck cab outline showing grille and headlights",
+    "functionalityId": "represents the front face of a truck or a head-on vehicle view; indicates a truck approaching, a front-view vehicle identifier, or a transport symbol",
+    "intentId": "indicate a truck from the front or represent a vehicle approaching head-on; use as a transport or fleet identifier in a logistics or routing interface"
+  },
+  "fa-truck-ladder": {
+    "appearanceId": "a side-view truck silhouette with an extended ladder or boom arm elevated above the cargo area; truck profile outline with a raised aerial ladder or extension boom",
+    "functionalityId": "represents an aerial ladder truck or elevated-access emergency vehicle; indicates fire department aerial operations or utility elevated-access work",
+    "intentId": "indicate an aerial ladder truck or elevated-access vehicle; represent fire department or utility aerial operations in an emergency services or infrastructure interface"
+  },
+  "fa-truck-loading": {
+    "appearanceId": "a side-view truck silhouette backed up to a loading dock ramp with boxes or cargo items shown transferring from the dock into the cargo area; truck backed to a dock with cargo boxes being loaded",
+    "functionalityId": "represents a truck at a loading dock actively loading or unloading cargo; indicates loading dock operations, freight handling, or shipment processing",
+    "intentId": "indicate loading dock operations or freight loading and unloading; represent cargo processing or warehouse logistics in a supply chain interface"
+  },
+  "fa-truck-monster": {
+    "appearanceId": "a side-view truck silhouette with exaggeratedly oversized raised suspension and very large off-road monster truck wheels under the cab and body; truck cab outline with giant oversized monster truck tires",
+    "functionalityId": "represents a monster truck or extreme off-road vehicle with oversized wheels; indicates a monster truck event, extreme vehicle, or entertainment spectacle",
+    "intentId": "indicate a monster truck event or extreme off-road vehicle; represent entertainment motorsports or an oversized truck in a game or events interface"
+  },
+  "fa-truck-moving": {
+    "appearanceId": "a side-view moving truck silhouette with a large enclosed cargo box body and motion lines or open rear doors suggesting active relocation; moving van profile outline with a large box body and relocation indicators",
+    "functionalityId": "represents a moving truck or relocation van for household or office moves; indicates a moving service, relocation, or home goods transport",
+    "intentId": "indicate a household or office moving service; represent a relocation or moving van in a home services or real estate interface"
+  },
+  "fa-truck-pickup": {
+    "appearanceId": "a side-view pickup truck silhouette with a cab at the front and an open cargo bed at the rear without a cover; pickup truck profile outline with a cab and open rear bed",
+    "functionalityId": "represents a pickup truck or light-duty utility vehicle; indicates a pickup truck category, utility vehicle, or personal cargo hauling",
+    "intentId": "indicate a pickup truck or light utility vehicle; represent a personal cargo hauling or utility vehicle in an automotive or fleet interface"
+  },
+  "fa-truck-plane": {
+    "appearanceId": "a side-view truck silhouette with a small airplane or aircraft shape overlaid on the cargo body; delivery truck profile outline with an airplane badge indicating air freight partnership",
+    "functionalityId": "represents multimodal freight combining truck and air transport; indicates air freight, ground-to-air logistics, or intermodal shipping",
+    "intentId": "indicate multimodal or air-and-ground freight logistics; represent a truck-and-plane shipping combination in a logistics or supply chain interface"
+  },
+  "fa-truck-plow": {
+    "appearanceId": "a side-view truck silhouette with a large angled plow blade attached to the front bumper area; truck profile outline with a front-mounted snowplow or grading blade",
+    "functionalityId": "represents a snowplow truck or road-clearing vehicle with a front plow blade; indicates snow removal, road maintenance, or winter operations",
+    "intentId": "indicate snowplow or road-clearing operations; represent a plow truck in a winter services, road maintenance, or municipal fleet interface"
+  },
+  "fa-truck-ramp": {
+    "appearanceId": "a side-view truck silhouette with a loading ramp extended from the rear of the cargo body down to ground level; moving truck profile outline with a rear ramp extension deployed",
+    "functionalityId": "represents a truck with a rear loading ramp for rolling cargo on and off; indicates ramp-access loading, furniture moves, or equipment loading",
+    "intentId": "indicate ramp-access loading or unloading from a truck; represent furniture or equipment loading via a rear ramp in a moving or freight interface"
+  },
+  "fa-truck-tow": {
+    "appearanceId": "a side-view truck silhouette with a tow hook or tow arm attached at the rear, and a smaller vehicle or a tow cable visible behind; tow truck profile outline with a rear tow hook or lift arm",
+    "functionalityId": "represents a tow truck or vehicle recovery service; indicates roadside assistance, vehicle towing, or breakdown recovery",
+    "intentId": "indicate vehicle towing or roadside recovery assistance; represent a tow truck or breakdown service in a roadside assistance or automotive interface"
+  },
+  "fa-truck-utensils": {
+    "appearanceId": "a side-view truck silhouette with a fork and knife or dining utensil symbols overlaid on the cargo body; food truck profile outline with a fork-and-knife badge indicating food service",
+    "functionalityId": "represents a food truck or mobile catering vehicle serving meals; indicates street food, mobile dining, or catering service",
+    "intentId": "indicate a food truck or mobile catering service; find or represent a street food vendor or mobile dining option in a food discovery or events interface"
+  }
+}

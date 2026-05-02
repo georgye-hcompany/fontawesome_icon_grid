@@ -1,0 +1,242 @@
+{
+  "fa-person-walking-arrow-loop-left": {
+    "appearanceId": "walking human figure silhouette with a curved looping arrow wrapping back to the left beside or above the figure; pedestrian outline with a leftward loop-back arrow",
+    "functionalityId": "redirects or loops a walking route back to the left; represents a U-turn or return path for a pedestrian",
+    "intentId": "indicate a walking route that loops back or reverses to the left; navigate a pedestrian back along a return path"
+  },
+  "fa-person-walking-arrow-right": {
+    "appearanceId": "walking human figure silhouette with a straight rightward-pointing arrow beside or ahead of the figure; pedestrian outline with a forward right directional arrow",
+    "functionalityId": "directs a walking person to continue or proceed to the right; indicates a pedestrian route heading rightward",
+    "intentId": "guide a pedestrian to move or continue in the right direction; indicate a rightward exit or walking path"
+  },
+  "fa-person-walking-dashed-line-arrow-right": {
+    "appearanceId": "walking human figure silhouette beside a dashed vertical boundary line and a rightward-pointing arrow crossing past it; pedestrian outline with a dashed divider and exit arrow",
+    "functionalityId": "represents crossing a boundary or exiting through a dashed border to the right; directs a pedestrian past a threshold or zone boundary",
+    "intentId": "indicate a pedestrian crossing a zone boundary or exiting a restricted area; guide someone through a checkpoint or border to the right"
+  },
+  "fa-person-walking-luggage": {
+    "appearanceId": "walking human figure silhouette pulling or carrying a rolling suitcase or luggage bag beside the figure; pedestrian outline with a wheeled travel bag",
+    "functionalityId": "represents a traveler walking with luggage or a passenger in transit; indicates travel, departure, or baggage pickup",
+    "intentId": "indicate a traveler departing or moving through an airport or transit area; represent baggage handling or travel check-in"
+  },
+  "fa-peseta-sign": {
+    "appearanceId": "a stylized currency glyph resembling two vertical strokes crossed by one or two horizontal bars, forming the Pts peseta symbol; monetary sign with double vertical strokes and crossbar",
+    "functionalityId": "represents the Spanish peseta currency unit; displays or labels a peseta monetary amount in a financial interface",
+    "intentId": "display or input a peseta currency value; indicate a Spanish peseta denomination in a historical or financial context"
+  },
+  "fa-peso-sign": {
+    "appearanceId": "a capital letter P with one or two horizontal crossbars through the upper stem, forming the peso currency symbol; peso monetary glyph with a P and horizontal bar strokes",
+    "functionalityId": "represents the Philippine or Mexican peso currency unit; displays or labels a peso monetary amount in a financial interface",
+    "intentId": "display or input a peso currency value; indicate a Latin American peso denomination in a financial or e-commerce context"
+  },
+  "fa-phone": {
+    "appearanceId": "a classic telephone handset silhouette with a curved receiver body, earpiece at the top, and mouthpiece at the bottom; standard phone receiver outline",
+    "functionalityId": "initiates a phone call or opens a call interface; represents voice communication via telephone",
+    "intentId": "make or receive a phone call; access a voice communication feature in an application"
+  },
+  "fa-phone-alt": {
+    "appearanceId": "a modern or stylized telephone handset silhouette with a slightly different curve or proportions than the classic receiver; alternative phone receiver outline",
+    "functionalityId": "initiates a phone call or represents an alternative phone contact option; indicates a secondary or modern voice communication channel",
+    "intentId": "make a phone call using an alternative contact method; access a secondary voice communication option"
+  },
+  "fa-phone-arrow-right": {
+    "appearanceId": "a telephone handset silhouette with a small rightward-pointing arrow overlaid or beside the receiver body; phone receiver outline with a forward or transfer arrow badge",
+    "functionalityId": "forwards or transfers a phone call to another party; redirects an incoming call to a different number or extension",
+    "intentId": "forward or transfer a phone call to another line or contact; redirect an active call in a PBX or VoIP interface"
+  },
+  "fa-phone-arrow-up": {
+    "appearanceId": "a telephone handset silhouette with a small upward-pointing arrow overlaid or beside the receiver body; phone receiver outline with an upward arrow badge",
+    "functionalityId": "escalates or upgrades a phone call; indicates an outbound or elevated call action such as a callback or priority call",
+    "intentId": "escalate a call to a higher priority or senior agent; indicate an outbound or upgraded call action"
+  },
+  "fa-phone-circle-alt": {
+    "appearanceId": "a filled or outlined circle containing an alternative-style telephone handset silhouette centered inside; circular badge with a stylized phone receiver",
+    "functionalityId": "represents a phone call action within a circular button or avatar element; activates or displays an alternative phone contact in a round UI control",
+    "intentId": "tap a circular phone button to initiate a call; access an alternative phone contact from a round interface element"
+  },
+  "fa-phone-circle-down": {
+    "appearanceId": "a circle outline or filled badge containing a telephone handset silhouette with a small downward-pointing arrow below or overlaid; circular phone badge with a downward arrow indicator",
+    "functionalityId": "represents an incoming call notification or a declining call action within a circular control; indicates a call being received or sent downward in priority",
+    "intentId": "indicate an incoming call or decline an active call using a circular phone button; manage inbound call routing in a phone interface"
+  },
+  "fa-phone-hangup": {
+    "appearanceId": "a telephone handset silhouette rotated horizontally with the receiver facing downward in a cradle-resting position; phone receiver outline in a hung-up or end-call orientation",
+    "functionalityId": "ends or hangs up an active phone call; represents the end-call action in a voice communication interface",
+    "intentId": "end or hang up an active phone call; access the disconnect button in a calling interface"
+  },
+  "fa-phone-incoming": {
+    "appearanceId": "a telephone handset silhouette with a small inward-pointing or downward-left arrow indicating an incoming direction overlaid beside the receiver; phone receiver outline with an inbound arrow badge",
+    "functionalityId": "represents an incoming phone call notification; indicates a call being received from an external caller",
+    "intentId": "alert to an incoming phone call; manage or accept an inbound call in a telephony interface"
+  },
+  "fa-phone-intercom": {
+    "appearanceId": "a rectangular intercom panel shape with a speaker grille or button layout and a small handset receiver element; intercom unit outline with speaker slots and call button",
+    "functionalityId": "represents an intercom system for two-way communication; activates or accesses a building entry or room-to-room intercom",
+    "intentId": "use or manage a building intercom or two-way communication panel; access a door entry or office intercom system"
+  },
+  "fa-phone-laptop": {
+    "appearanceId": "a telephone handset silhouette overlapping or combined with an open laptop computer outline; phone receiver paired with a laptop screen and keyboard shape",
+    "functionalityId": "represents a softphone or VoIP application running on a laptop; connects phone call capabilities to a computer device",
+    "intentId": "make calls or access telephony features through a laptop or desktop application; use a softphone or VoIP client on a computer"
+  },
+  "fa-phone-missed": {
+    "appearanceId": "a telephone handset silhouette with a diagonal slash or an X mark overlaid, indicating a missed or unanswered call; phone receiver outline with a strikethrough or cross badge",
+    "functionalityId": "represents a missed or unanswered phone call; indicates that an incoming call was not picked up",
+    "intentId": "view or respond to a missed phone call notification; track unanswered calls in a call log"
+  },
+  "fa-phone-office": {
+    "appearanceId": "a multi-line office telephone handset silhouette with a wider base and multiple button rows suggesting a PBX or desk phone with several line keys; office desk phone receiver outline with a multi-button panel",
+    "functionalityId": "represents an office or PBX desk phone with multiple line support; manages multi-line business telephony in a corporate communication interface",
+    "intentId": "manage multi-line office phone calls or a PBX system; access business desk phone features in a corporate telephony interface"
+  },
+  "fa-phone-plus": {
+    "appearanceId": "a telephone handset silhouette with a small plus sign overlaid or beside the receiver body; phone receiver outline with an addition or new-call badge",
+    "functionalityId": "adds a new call, contact, or phone line; initiates a conference call or creates a new phone entry",
+    "intentId": "add a new phone call or contact to a communication interface; start a conference call or create an additional phone line"
+  },
+  "fa-phone-rotary": {
+    "appearanceId": "a classic rotary dial telephone silhouette with a handset receiver and a circular dial face with finger holes; vintage rotary phone outline with dial plate and handset",
+    "functionalityId": "represents a vintage rotary telephone or retro communication style; indicates a classic or legacy phone system",
+    "intentId": "evoke a retro or vintage telephone aesthetic; indicate a classic landline or historical communication device"
+  },
+  "fa-phone-slash": {
+    "appearanceId": "a telephone handset silhouette with a diagonal slash line drawn through the entire receiver shape; phone receiver outline with a forward-slash strikethrough",
+    "functionalityId": "indicates that phone calls are disabled, blocked, or unavailable; mutes or blocks a phone communication channel",
+    "intentId": "disable or block phone calls in a communication interface; indicate that voice calling is currently unavailable"
+  },
+  "fa-phone-square": {
+    "appearanceId": "a square or rounded-square outline container with a telephone handset silhouette centered inside; square badge with a classic phone receiver inside",
+    "functionalityId": "represents a phone contact or call button in a square UI element; triggers a call action from a square interface control",
+    "intentId": "initiate a phone call from a square button or contact card; access phone dialing in a square-shaped UI component"
+  },
+  "fa-phone-square-alt": {
+    "appearanceId": "a square or rounded-square outline container with an alternative-style telephone handset silhouette centered inside; square badge with a stylized or modern phone receiver",
+    "functionalityId": "represents an alternative phone contact action housed in a square UI element; accesses a secondary calling option from a square control",
+    "intentId": "initiate an alternative phone call from a square button; access a secondary or modern phone option in a square interface element"
+  },
+  "fa-phone-square-down": {
+    "appearanceId": "a square or rounded-square outline container with a telephone handset silhouette and a small downward-pointing arrow badge inside; square phone badge with a downward arrow indicator",
+    "functionalityId": "represents an incoming or declining call action within a square phone control; indicates a call being received or reduced in priority",
+    "intentId": "manage an incoming call or decline a call from a square phone button; indicate inbound call routing in a square telephony control"
+  },
+  "fa-phone-volume": {
+    "appearanceId": "a telephone handset silhouette with two or three curved sound-wave arcs radiating outward from the earpiece end; phone receiver outline with speaker wave lines",
+    "functionalityId": "adjusts or indicates the speaker volume of a phone call; represents a hands-free or speakerphone mode",
+    "intentId": "adjust phone call volume or enable speakerphone mode; control audio output level during a phone call"
+  },
+  "fa-phone-xmark": {
+    "appearanceId": "a telephone handset silhouette with a small X mark overlaid or beside the receiver body; phone receiver outline with a close or cancel glyph badge",
+    "functionalityId": "ends, cancels, or rejects a phone call; removes or deletes a phone contact or call entry",
+    "intentId": "reject or end a phone call; remove a phone contact or cancel a call action in a telephony interface"
+  },
+  "fa-photo-film": {
+    "appearanceId": "a rectangular photograph or image frame overlapping with a strip of film reel with sprocket holes along the edges; photo print combined with a filmstrip outline",
+    "functionalityId": "represents a media library containing both photos and video; accesses or manages combined photo and film content",
+    "intentId": "browse or manage a mixed media library of photos and videos; access photo and film content in a media application"
+  },
+  "fa-photo-film-music": {
+    "appearanceId": "a rectangular photograph overlapping a filmstrip with sprocket holes and a small musical note glyph added as a badge; photo-film composite with a music note overlay",
+    "functionalityId": "represents a multimedia library containing photos, video, and audio; accesses or manages combined photo, film, and music content",
+    "intentId": "browse or manage a multimedia collection of photos, videos, and music; access a combined media library in an entertainment application"
+  },
+  "fa-pi": {
+    "appearanceId": "the Greek lowercase pi symbol with two vertical legs and a horizontal crossbar at the top; mathematical pi glyph with two downward strokes under a flat cap",
+    "functionalityId": "represents the mathematical constant pi or a circular calculation; inserts or displays the pi symbol in a mathematical or scientific context",
+    "intentId": "use or display the mathematical constant pi in a formula or calculation; access pi in a scientific or educational application"
+  },
+  "fa-piano": {
+    "appearanceId": "a grand or upright piano silhouette with a recognizable keyboard row of white keys and a raised lid or body casing; piano instrument outline showing keys and cabinet",
+    "functionalityId": "represents a piano instrument in a music application; selects a piano sound or opens a piano-related feature",
+    "intentId": "play or select a piano instrument in a music application; access piano-related content or sound in a musical interface"
+  },
+  "fa-piano-keyboard": {
+    "appearanceId": "a horizontal row of piano keys showing alternating white keys and shorter black keys in a keyboard strip; piano octave keyboard outline with white and black key layout",
+    "functionalityId": "represents a piano keyboard or MIDI input strip; opens a virtual keyboard or accesses musical note input",
+    "intentId": "play notes on a virtual piano keyboard; access a MIDI or music note input interface in a music application"
+  },
+  "fa-pickaxe": {
+    "appearanceId": "a pickaxe tool silhouette with a long diagonal handle and a double-headed metal head with a pointed pick end and a chisel end; mining pick outline with a handle and bifurcated metal head",
+    "functionalityId": "represents a mining, excavation, or digging tool; indicates a dig action or resource extraction in a game or construction interface",
+    "intentId": "perform a mining or excavation action; select a pickaxe tool for digging or resource gathering"
+  },
+  "fa-pickleball": {
+    "appearanceId": "a round perforated ball shape with small holes across its surface similar to a wiffle ball, or paired with a flat paddle outline; pickleball with hole-pattern surface or with a paddle silhouette",
+    "functionalityId": "represents the sport of pickleball or its equipment; indicates a pickleball game, court, or sporting activity",
+    "intentId": "access pickleball sport content or equipment selection; indicate a pickleball game or recreational activity"
+  },
+  "fa-pie": {
+    "appearanceId": "a round pie dish shape viewed from above or at an angle, showing a full circular crust with a crimped or fluted edge; whole pie outline with a round pastry shell",
+    "functionalityId": "represents a baked pie food item or a recipe; indicates a food menu entry or culinary category",
+    "intentId": "select or display a pie dish in a food or recipe application; indicate a baked dessert or savory pie in a menu"
+  },
+  "fa-pig": {
+    "appearanceId": "a cartoon pig silhouette with a round snout, small ears, and a curly tail; pig animal outline with distinctive round nose and ear shapes",
+    "functionalityId": "represents a pig animal, farm setting, or piggy bank concept; indicates a farming, livestock, or savings-related feature",
+    "intentId": "indicate a farm animal or livestock category; represent a pig in an agricultural, educational, or financial savings context"
+  },
+  "fa-piggy-bank": {
+    "appearanceId": "a round pig-shaped coin bank silhouette with a slot on top for inserting coins, pig ears, a snout, and a small plug or coin at the base; piggy bank outline with a coin slot and pig features",
+    "functionalityId": "represents saving money or a savings account; indicates a financial savings goal or piggy bank deposit action",
+    "intentId": "save money or access a savings account or fund; indicate a financial goal or personal savings feature"
+  },
+  "fa-pills": {
+    "appearanceId": "two oval or capsule-shaped pills overlapping or side-by-side, each with a two-tone color division along the midline; pharmaceutical capsule pair with a split-color body",
+    "functionalityId": "represents medication, pharmaceutical dosage, or a pill reminder; indicates a medical prescription or drug intake feature",
+    "intentId": "manage medication schedules or prescriptions; access a pharmacy or drug information feature in a health application"
+  },
+  "fa-pinata": {
+    "appearanceId": "a colorful star-shaped or donkey-shaped piñata silhouette with fringed paper strips hanging from a hanging rope; festive piñata outline with fringe details and a suspension string",
+    "functionalityId": "represents a piñata party decoration or a celebration game element; indicates a festive or birthday party activity",
+    "intentId": "indicate a birthday party or festive celebration event; access party planning or celebration content"
+  },
+  "fa-pinball": {
+    "appearanceId": "a pinball machine playfield outline or a small ball near flippers and bumpers; arcade pinball table silhouette with ball, flippers, and bumper elements",
+    "functionalityId": "represents a pinball arcade game; opens a pinball game or indicates an arcade entertainment feature",
+    "intentId": "play a pinball arcade game; access retro arcade or gaming content in an entertainment interface"
+  },
+  "fa-pineapple": {
+    "appearanceId": "a pineapple fruit silhouette with a segmented oval body showing a cross-hatch pattern and a crown of pointed leaf fronds at the top; tropical pineapple outline with textured body and leafy crown",
+    "functionalityId": "represents a pineapple fruit or tropical food category; indicates a tropical-themed recipe, drink, or food menu item",
+    "intentId": "select or display a pineapple in a food, beverage, or tropical theme context; indicate a tropical fruit in a recipe or menu application"
+  },
+  "fa-pipe": {
+    "appearanceId": "a single short vertical or horizontal cylindrical pipe section with open ends; plain pipe tube outline with hollow round ends",
+    "functionalityId": "represents a pipe segment in a plumbing or pipeline schematic; indicates a conduit, connection, or flow path element",
+    "intentId": "represent a pipe or conduit segment in a plumbing or infrastructure diagram; indicate a flow connection in a pipeline interface"
+  },
+  "fa-pipe-circle-check": {
+    "appearanceId": "a cylindrical pipe section shape with a small circle containing a checkmark badge overlaid at one end or corner; pipe tube outline with a circular check approval badge",
+    "functionalityId": "marks a pipe segment as inspected, approved, or passing a check; confirms the integrity or compliance of a pipe connection",
+    "intentId": "indicate that a pipe or conduit has passed inspection or meets requirements; confirm a plumbing component is approved in a maintenance interface"
+  },
+  "fa-pipe-collar": {
+    "appearanceId": "a cylindrical pipe section with a wider flanged collar or ring band around the middle or at one end; pipe tube outline with a raised ring or collar fitting",
+    "functionalityId": "represents a pipe collar fitting or coupling element in a plumbing schematic; indicates a joint or reinforcement component on a pipe",
+    "intentId": "select or identify a pipe collar or coupling fitting in a plumbing or construction diagram; represent a pipe joint or reinforcement component"
+  },
+  "fa-pipe-section": {
+    "appearanceId": "a short cylindrical pipe segment shown as a standalone cross-section piece with visible open-end circles; pipe cross-section tube outline with two open circular ends",
+    "functionalityId": "represents an individual pipe section in a pipeline layout; indicates a replaceable or individual pipe component in a plumbing interface",
+    "intentId": "select or identify a pipe section component in a plumbing or infrastructure diagram; indicate a replaceable pipe piece in a maintenance interface"
+  },
+  "fa-pipe-smoking": {
+    "appearanceId": "a classic smoking pipe silhouette with a curved stem and a round bowl at the end; curved tobacco pipe outline with bowl and mouthpiece",
+    "functionalityId": "represents a tobacco smoking pipe or a vintage smoking accessory; indicates a smoking, tobacco, or old-fashioned leisure context",
+    "intentId": "indicate a tobacco pipe or vintage smoking item; represent a smoking-related product or retro leisure activity"
+  },
+  "fa-pipe-valve": {
+    "appearanceId": "a pipe section outline with a valve handle or wheel overlaid at the midpoint; cylindrical pipe with a circular or T-shaped valve control handle",
+    "functionalityId": "represents a pipe valve control for opening or closing flow; adjusts or shuts off fluid flow in a plumbing or industrial pipeline",
+    "intentId": "control or shut off fluid flow through a pipe valve; manage a pipeline valve in a plumbing or industrial control interface"
+  },
+  "fa-pizza": {
+    "appearanceId": "a full round pizza viewed from above showing a circular pie with a crust edge and topping details; whole pizza disc outline with crust rim and topping patterns",
+    "functionalityId": "represents a full pizza pie in a food menu or ordering interface; indicates a pizza food item or category",
+    "intentId": "order or browse a pizza in a food delivery or restaurant menu; indicate a pizza food category in a culinary application"
+  },
+  "fa-pizza-slice": {
+    "appearanceId": "a single triangular pizza slice silhouette with a pointed tip, a curved crust edge at the top, and topping details on the surface; wedge-shaped pizza piece outline with crust arc and toppings",
+    "functionalityId": "represents a single slice of pizza in a food menu or ordering interface; indicates a portion or serving of pizza",
+    "intentId": "select or display a single pizza slice in a food ordering or restaurant application; indicate a pizza serving or portion size"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-square-xmark": {
+    "appearanceId": "a square or rounded-square container enclosing a large X or times symbol centered inside; square badge with a bold close or cancel X glyph overlay",
+    "functionalityId": "closes, dismisses, or removes an item within a square UI control; cancels or clears a selection inside a boxed element",
+    "intentId": "dismiss or cancel an action within a square button or badge; remove or close a tagged item in a list or form interface"
+  },
+  "fa-square-y": {
+    "appearanceId": "a square or rounded-square container enclosing a capital letter Y centered inside; square badge with a Y letterform glyph overlay",
+    "functionalityId": "labels or identifies an item with the letter Y inside a square badge; represents a Y-keyed shortcut or Y-category marker",
+    "intentId": "indicate a Y-labeled category, keyboard shortcut, or alphabetical marker within a square badge; use as an alphabetic index or controller button label"
+  },
+  "fa-square-z": {
+    "appearanceId": "a square or rounded-square container enclosing a capital letter Z centered inside; square badge with a Z letterform glyph overlay",
+    "functionalityId": "labels or identifies an item with the letter Z inside a square badge; represents a Z-keyed shortcut or Z-category marker",
+    "intentId": "indicate a Z-labeled category, keyboard shortcut, or alphabetical marker within a square badge; use as the final alphabetic index entry or a sleep or zzz indicator"
+  },
+  "fa-squid": {
+    "appearanceId": "a squid silhouette with a elongated mantle body, two side fins, large eyes, and multiple tentacles extending downward from the head; cephalopod outline with a torpedo-shaped body and dangling tentacles",
+    "functionalityId": "represents a squid or cephalopod sea creature in a marine or food context; indicates seafood, ocean wildlife, or an aquatic category",
+    "intentId": "indicate a squid in a seafood menu, marine biology, or ocean wildlife interface; represent a cephalopod ingredient or aquatic creature category"
+  },
+  "fa-squirrel": {
+    "appearanceId": "a squirrel silhouette with a round head, small ears, plump body, tiny forepaws, and a large bushy tail curling up behind the body; rodent outline with a distinctive fluffy upright tail",
+    "functionalityId": "represents a squirrel animal in a nature, wildlife, or forest context; indicates a woodland creature or small mammal category",
+    "intentId": "indicate a squirrel in a nature, wildlife, or forest-themed application; represent a woodland or small mammal in an animal or park interface"
+  },
+  "fa-staff": {
+    "appearanceId": "a long vertical straight rod or staff with rounded or simple ends, resembling a walking stick or ceremonial rod without ornamentation; plain tall vertical stick outline",
+    "functionalityId": "represents a magical, ceremonial, or walking staff in a fantasy or utility context; indicates a walking aid, magic wand base, or ceremonial rod",
+    "intentId": "indicate a magical staff, walking stick, or ceremonial rod in a game, fantasy, or accessibility interface; represent a staff weapon or mobility aid"
+  },
+  "fa-stairs": {
+    "appearanceId": "a staircase silhouette showing a stepped ascending profile with three or more horizontal treads and vertical risers forming a stair-step pattern from lower-left to upper-right; stepped stairway outline viewed from the side",
+    "functionalityId": "represents stairs, a staircase, or vertical floor navigation in a building or accessibility context; indicates a stair route or floor-change path",
+    "intentId": "indicate a staircase or floor-change route in a building map or accessibility interface; navigate between floors using stairs in a wayfinding or facility application"
+  },
+  "fa-stamp": {
+    "appearanceId": "a rubber stamp silhouette with a flat rectangular ink pad base and a wider handle block on top connected by a narrow neck; stamp tool outline with a flat base and a top handle grip",
+    "functionalityId": "applies a stamp, seal, or official mark to a document or item; approves, validates, or marks content with an official impression",
+    "intentId": "apply an official stamp or seal to approve or validate a document; mark content as certified or processed in an administrative or approval interface"
+  },
+  "fa-stapler": {
+    "appearanceId": "a desk stapler silhouette viewed from the side with a rectangular body, a flat base plate, and a hinged top arm that angles down toward the front jaw; office stapler outline with a hinged top and flat anvil base",
+    "functionalityId": "represents a stapler or document fastening tool in an office context; staples, binds, or fastens pages together in a document management interface",
+    "intentId": "bind or fasten documents together using a stapler; indicate office supply or document fastening in an office or stationery interface"
+  },
+  "fa-star": {
+    "appearanceId": "a five-pointed star with smooth outward-pointing tips and inward concave curves between each point; classic five-point star silhouette with rounded tips",
+    "functionalityId": "marks an item as a favorite, featured, or highly rated; assigns or displays a star rating or bookmark",
+    "intentId": "mark content as a favorite or highly rated item; display a star rating or featured status in a product or content interface"
+  },
+  "fa-star-and-crescent": {
+    "appearanceId": "a five-pointed star positioned adjacent to and partially overlapping or beside a crescent moon shape, forming the Islamic crescent-and-star symbol; star silhouette paired with an open crescent arc",
+    "functionalityId": "represents the star and crescent symbol associated with Islamic faith or culture; indicates a Muslim religious context or cultural marker",
+    "intentId": "indicate an Islamic religious context or cultural symbol; represent Muslim faith or heritage in a religious or cultural interface"
+  },
+  "fa-star-christmas": {
+    "appearanceId": "a four-pointed or eight-pointed decorative star with alternating long and short diamond-shaped points, resembling a Christmas or starburst ornament; decorative multi-pointed Christmas star outline with elongated diamond tips",
+    "functionalityId": "represents a Christmas star decoration or holiday ornament; indicates a festive holiday theme or Christmas-related content",
+    "intentId": "indicate a Christmas star decoration or holiday festivity; represent a Christmas ornament or seasonal star in a holiday-themed interface"
+  },
+  "fa-star-exclamation": {
+    "appearanceId": "a five-pointed star with a small exclamation mark badge or overlay positioned at one corner or center of the star shape; star silhouette with an alert exclamation point indicator",
+    "functionalityId": "represents an urgent, flagged, or alert-rated item with a star indicator; highlights a starred item that requires immediate attention",
+    "intentId": "flag a starred item as urgent or requiring attention; indicate an important alert on a favorite or featured item in a notification interface"
+  },
+  "fa-star-half": {
+    "appearanceId": "a five-pointed star filled on the left half and empty or outlined on the right half, with a clean vertical centerline dividing the fill; half-filled five-point star with a left-side fill and right-side outline",
+    "functionalityId": "represents a half-star rating or partial score in a review or rating system; displays a fractional star value between whole numbers",
+    "intentId": "display a half-star rating or partial score in a review or rating interface; indicate a fractional quality or satisfaction level"
+  },
+  "fa-star-half-alt": {
+    "appearanceId": "a five-pointed star with the left half filled in solid and the right half outlined or unfilled, shown with slightly rounded or alternative styling compared to the standard half star; alternative half-filled five-point star with a distinct left-fill rendering",
+    "functionalityId": "represents an alternative half-star rating with a different visual style; displays a fractional star score using an alternate fill treatment",
+    "intentId": "display an alternative half-star rating or partial score in a review system; indicate a fractional rating with a visually distinct star rendering"
+  },
+  "fa-star-of-david": {
+    "appearanceId": "a six-pointed Star of David formed by two overlapping equilateral triangles creating a hexagram with six outward points and a hexagonal center; hexagram silhouette with six equally spaced points",
+    "functionalityId": "represents the Star of David symbol associated with Judaism and Jewish identity; indicates a Jewish religious context or cultural marker",
+    "intentId": "indicate a Jewish religious context or cultural symbol; represent Jewish faith or heritage in a religious or cultural interface"
+  },
+  "fa-star-of-life": {
+    "appearanceId": "a six-armed asterisk or snowflake shape enclosed within or forming the Star of Life, with a staff and serpent (Rod of Asclepius) or a plain asterisk of six equal bars inside a circle; six-pointed asterisk star outline associated with emergency medical services",
+    "functionalityId": "represents the Star of Life emergency medical services symbol; indicates an EMS, paramedic, or emergency medical context",
+    "intentId": "indicate an emergency medical services or paramedic context; represent EMS, first responder, or medical emergency symbolism in a health or safety interface"
+  },
+  "fa-star-sharp": {
+    "appearanceId": "a five-pointed star with straight edges and sharply pointed tips and angular concave curves between points, giving a more geometric and rigid appearance than the standard star; five-point star with sharp angular points and no rounding",
+    "functionalityId": "marks an item as a favorite or featured with a sharp-tipped star variant; assigns or displays a sharp-style star rating or bookmark",
+    "intentId": "mark content as a favorite or featured item using a sharp-pointed star style; display a star rating with a distinct angular appearance"
+  },
+  "fa-star-sharp-half": {
+    "appearanceId": "a five-pointed sharp-edged star filled on the left half and empty or outlined on the right half, with angular points and a clean vertical centerline dividing the fill; half-filled sharp five-point star with angular tips and a left-side solid fill",
+    "functionalityId": "represents a half-star rating using the sharp-tipped star style; displays a fractional star value with angular sharp-edged rendering",
+    "intentId": "display a half-star rating with a sharp-edged star in a review or rating interface; indicate a fractional score using the angular star variant"
+  },
+  "fa-star-sharp-half-alt": {
+    "appearanceId": "a five-pointed sharp-edged star with the left half filled and the right half outlined, rendered in an alternative style with slightly different point or fill treatment compared to the base sharp-half star; alternative half-filled sharp-tipped five-point star with a distinct rendering",
+    "functionalityId": "represents an alternative half-star rating using the sharp-tipped star style with a different visual treatment; displays a fractional sharp-star score with an alternate fill",
+    "intentId": "display an alternative half-star rating using a sharp angular star in a review system; indicate a fractional score with a visually distinct sharp star rendering"
+  },
+  "fa-star-shooting": {
+    "appearanceId": "a five-pointed star with a long trailing tail or streak of lines extending behind it, resembling a meteor or shooting star in motion; star silhouette with a diagonal tail streak suggesting rapid movement",
+    "functionalityId": "represents a shooting star, meteor, or wish-making symbol; indicates a special event, achievement, or dynamic highlight in an interface",
+    "intentId": "indicate a shooting star, meteor event, or special achievement; represent a wish, highlight, or dynamic star effect in a creative or notification interface"
+  },
+  "fa-starfighter": {
+    "appearanceId": "a sleek angular spaceship or fighter jet silhouette viewed from above or the side with swept-back wings, a pointed nose cone, and engine pods; sci-fi fighter spacecraft outline with swept wings and pointed fuselage",
+    "functionalityId": "represents a starfighter spacecraft or sci-fi combat vessel; indicates a space combat, science fiction, or aerospace game context",
+    "intentId": "indicate a starfighter or sci-fi combat spacecraft in a game or space-themed interface; represent aerospace combat or space fiction content"
+  },
+  "fa-starfighter-alt": {
+    "appearanceId": "an alternative sleek spaceship silhouette with a different wing configuration, fuselage shape, or cockpit profile compared to the primary starfighter; alternate sci-fi fighter spacecraft outline with a varied wing or body design",
+    "functionalityId": "represents an alternative starfighter or variant combat spacecraft design; indicates a different class or model of sci-fi combat vessel",
+    "intentId": "indicate an alternate starfighter design or variant space combat vessel in a game or sci-fi interface; represent a different spacecraft class or model"
+  },
+  "fa-starfighter-alt-advanced": {
+    "appearanceId": "an advanced alternative starfighter silhouette with more complex detailing, additional wing elements, engine vents, or a more intricate fuselage compared to earlier variants; advanced sci-fi fighter spacecraft outline with enhanced structural details",
+    "functionalityId": "represents an advanced or upgraded starfighter spacecraft with enhanced capabilities; indicates a high-tier or elite class of sci-fi combat vessel",
+    "intentId": "indicate an advanced or upgraded starfighter in a space game or sci-fi interface; represent an elite combat spacecraft or high-tier vessel class"
+  },
+  "fa-stars": {
+    "appearanceId": "a cluster or grouping of multiple five-pointed stars of varying sizes scattered or arranged together; multiple star silhouettes grouped in a constellation or sparkle pattern",
+    "functionalityId": "represents multiple stars, a high rating, or a starry night sky; displays an overall star rating summary or a celestial night sky element",
+    "intentId": "display a multi-star rating or overall excellence indicator; represent a starry sky, constellation, or sparkle effect in a UI or celestial context"
+  },
+  "fa-starship": {
+    "appearanceId": "a large interstellar spacecraft silhouette viewed from the side or above with a wide saucer or elongated hull, engine nacelles, and a central bridge or command section; large sci-fi starship outline with nacelles and a main hull body",
+    "functionalityId": "represents a starship or large interstellar vessel in a sci-fi or space exploration context; indicates space travel, a fleet vessel, or an interstellar mission",
+    "intentId": "indicate a starship or large interstellar spacecraft in a space game or sci-fi interface; represent space exploration, a fleet vessel, or interstellar travel"
+  },
+  "fa-starship-freighter": {
+    "appearanceId": "a bulky or wide-bodied starship silhouette with a cargo hold shape, reinforced hull sections, and engine units at the rear suggesting a freight or cargo-carrying vessel; large freight starship outline with a wide cargo hull and rear engines",
+    "functionalityId": "represents a starship freighter or cargo-carrying interstellar vessel; indicates space cargo transport, logistics, or a freight mission in a sci-fi context",
+    "intentId": "indicate a starship freighter or space cargo vessel in a sci-fi or game interface; represent interstellar freight, cargo transport, or a supply ship"
+  },
+  "fa-steak": {
+    "appearanceId": "a steak cut silhouette showing a thick irregular meat portion with a bone on one side and characteristic grill marks or a marbled texture; beef steak outline with a bone and grilled surface detail",
+    "functionalityId": "represents a steak or beef cut in a food menu or restaurant context; indicates a meat dish, grilled protein, or steakhouse category",
+    "intentId": "select or display a steak dish in a restaurant or food menu interface; indicate a beef or grilled meat category in a culinary or dining application"
+  },
+  "fa-steering-wheel": {
+    "appearanceId": "a circular steering wheel silhouette with a center hub, three or four spokes radiating outward, and a round rim connecting all spokes; automotive steering wheel outline with center hub and radiating spokes",
+    "functionalityId": "represents a vehicle steering wheel or driving control; indicates automotive, driving, or vehicle navigation in a transport or game interface",
+    "intentId": "indicate vehicle driving controls or automotive content; access steering or navigation settings in a driving simulation, automotive, or transport interface"
+  },
+  "fa-stethoscope": {
+    "appearanceId": "a stethoscope silhouette with a round chest piece at one end, a Y-shaped flexible tube leading up to two earpieces, forming a characteristic medical listening device shape; doctor stethoscope outline with a round diaphragm and earpiece tubing",
+    "functionalityId": "represents a stethoscope or medical diagnostic tool; indicates a healthcare provider, patient examination, or medical context",
+    "intentId": "indicate a medical examination, healthcare provider, or clinical context; represent a doctor, nurse, or health diagnostic tool in a medical interface"
+  },
+  "fa-stocking": {
+    "appearanceId": "a hanging Christmas stocking silhouette with a long upper tube section and a curved toe and heel at the bottom, resembling a traditional holiday stocking; Christmas stocking outline with a cuffed top and curved foot",
+    "functionalityId": "represents a Christmas stocking or holiday gift container; indicates a Christmas or holiday season decoration or gift-related item",
+    "intentId": "indicate a Christmas stocking or holiday season decoration; represent holiday gifting or Christmas-themed content in a seasonal interface"
+  },
+  "fa-stomach": {
+    "appearanceId": "a stylized stomach organ silhouette with a curved J-shaped or pouch-like body showing the esophageal inlet at the top and the pyloric outlet at the lower right; anatomical stomach outline with inlet and outlet openings",
+    "functionalityId": "represents the human stomach organ in a medical, health, or anatomy context; indicates digestive health, gastric function, or a gastrointestinal condition",
+    "intentId": "indicate digestive health, stomach-related symptoms, or gastrointestinal content; represent the stomach organ in a medical anatomy or health tracking interface"
+  },
+  "fa-stop": {
+    "appearanceId": "a solid filled square or rectangle centered and symmetrical, representing the universal stop or halt symbol; plain filled square shape with no overlay or decoration",
+    "functionalityId": "stops, halts, or ends a media playback, recording, or running process; terminates an active action in a media player or process control interface",
+    "intentId": "stop media playback, a recording, or a running process; terminate an active action in a media player, audio, or video control interface"
+  },
+  "fa-stopwatch": {
+    "appearanceId": "a circular clock face with a crown button or crown-lug at the top center for starting and stopping, two small side buttons on the rim, and clock hands pointing within the dial face; handheld stopwatch outline with a top crown and side lap buttons",
+    "functionalityId": "starts, stops, or tracks elapsed time with a stopwatch; measures a timed duration or lap interval in a timer or sports interface",
+    "intentId": "track elapsed time or measure a timed interval using a stopwatch; access timing or countdown controls in a sports, fitness, or productivity interface"
+  },
+  "fa-stopwatch-20": {
+    "appearanceId": "a circular stopwatch face with a crown button at the top and the numerals '20' displayed prominently on the clock dial face; stopwatch outline with a top crown button and a '20' numeral badge on the face",
+    "functionalityId": "represents a 20-second or 20-minute stopwatch timer preset; starts or indicates a countdown or elapsed timer set to 20 units",
+    "intentId": "set or indicate a 20-second or 20-unit timer countdown; access a preset timed interval of 20 units in a fitness, game, or productivity interface"
+  },
+  "fa-store": {
+    "appearanceId": "a storefront building silhouette with a rectangular facade, a horizontal awning or canopy extending over a display window, and an entry doorway; store building outline with a front awning and display window",
+    "functionalityId": "represents a retail store, shop, or marketplace location; opens or accesses a storefront, product listing, or retail venue in an interface",
+    "intentId": "access a retail store or marketplace; browse or manage a storefront in a commerce or location-based application"
+  },
+  "fa-store-lock": {
+    "appearanceId": "a storefront building silhouette with an awning and a small padlock shape overlaid on or beside the facade; store building outline with a lock badge indicating restricted access or closure",
+    "functionalityId": "represents a locked, closed, or restricted-access store; indicates a temporarily unavailable or access-controlled retail location",
+    "intentId": "indicate a locked or closed store in a commerce interface; represent restricted access or temporary closure of a retail location"
+  },
+  "fa-store-slash": {
+    "appearanceId": "a storefront building silhouette with a diagonal slash line drawn through the entire facade; store building outline with a forward-slash strikethrough indicating unavailability",
+    "functionalityId": "represents a closed, deactivated, or unavailable store location; indicates that a retail store or marketplace is not currently accessible",
+    "intentId": "indicate that a store is closed or unavailable; deactivate or remove a storefront in a commerce or marketplace interface"
+  },
+  "fa-strawberry": {
+    "appearanceId": "a strawberry fruit silhouette with a plump heart-shaped body covered in small seed dots and a green leafy calyx cap at the top; strawberry outline with seed surface texture and a leafy stem cap",
+    "functionalityId": "represents a strawberry fruit in a food, recipe, or agriculture context; indicates a berry ingredient, fruity flavor, or produce category",
+    "intentId": "select or display a strawberry in a food menu, recipe, or produce catalog; indicate a berry ingredient or fruity flavor in a culinary or agricultural interface"
+  },
+  "fa-stream": {
+    "appearanceId": "a series of three or more horizontal lines of varying widths stacked vertically, suggesting flowing lines or a streaming data feed; layered horizontal flow lines suggesting continuous data or media streaming",
+    "functionalityId": "represents a data stream, live feed, or continuous flow of content; accesses or manages a streaming data pipeline, media stream, or live broadcast",
+    "intentId": "access or manage a data stream, live feed, or continuous broadcast; represent streaming media or a real-time data pipeline in a media or developer interface"
+  },
+  "fa-street-view": {
+    "appearanceId": "a standing human figure silhouette with a circular halo or ring around the head suggesting a 360-degree street-level viewpoint; person outline with a top halo ring indicating panoramic ground-level perspective",
+    "functionalityId": "activates or enters a street-level or ground-level panoramic view of a location; switches a map interface to a pedestrian street view perspective",
+    "intentId": "enter street-level or panoramic ground view of a map location; explore a neighborhood or address from a pedestrian perspective in a mapping interface"
+  },
+  "fa-stretcher": {
+    "appearanceId": "a wheeled stretcher or gurney silhouette with a flat padded bed platform, a reclining mattress, and two or four wheel castor outlines beneath; emergency gurney outline with a flat bed and wheels",
+    "functionalityId": "represents a medical stretcher or emergency gurney used for patient transport; indicates emergency medical transport or hospital patient handling",
+    "intentId": "indicate emergency medical patient transport or hospital gurney use; represent first responder equipment or emergency medical services in a healthcare interface"
+  },
+  "fa-strikethrough": {
+    "appearanceId": "a horizontal line drawn through the center of a word or text line, crossing through the middle of the letterforms; a text sample with a centered horizontal strikethrough bar overlaid",
+    "functionalityId": "applies or removes a strikethrough text formatting style; marks text as deleted, deprecated, or crossed out in a text editor",
+    "intentId": "apply strikethrough formatting to mark text as deleted or deprecated; indicate completed or removed content in a text editor or document interface"
+  },
+  "fa-stroopwafel": {
+    "appearanceId": "a round flat waffle or cookie silhouette with a grid or crosshatch waffle pattern across the entire circular surface, resembling a Dutch stroopwafel; circular waffle disc outline with a grid or lattice waffle pattern",
+    "functionalityId": "represents a stroopwafel or round waffle cookie in a food or snack context; indicates a Dutch treat, pastry, or confectionery category",
+    "intentId": "display or select a stroopwafel or round waffle cookie in a snack or food interface; indicate a Dutch treat or confectionery item in a food catalog"
+  },
+  "fa-subscript": {
+    "appearanceId": "a capital letter with a smaller letter positioned below and to the right of the baseline of the main letter, showing a superimposed subscript character; text character outline with a smaller subscript letter below the baseline",
+    "functionalityId": "applies or toggles subscript text formatting, lowering selected text below the baseline; formats a character or number as a subscript in a text editor",
+    "intentId": "apply subscript formatting to text or numbers in a document or text editor; format chemical formulas, mathematical notation, or footnote references below the baseline"
+  },
+  "fa-subtitles": {
+    "appearanceId": "a rectangular screen frame with two or three short horizontal text lines displayed in a caption bar along the lower portion of the frame, resembling closed caption subtitle text; screen frame outline with subtitle text bars at the bottom",
+    "functionalityId": "enables, displays, or manages subtitle or closed caption text overlaid on video content; toggles subtitle visibility in a media player",
+    "intentId": "enable or manage subtitles or closed captions for video content; improve accessibility by displaying subtitle text in a media player interface"
+  },
+  "fa-subtitles-slash": {
+    "appearanceId": "a rectangular screen frame with subtitle text bars at the bottom and a diagonal slash line drawn through the entire frame, indicating subtitles are off; screen frame outline with caption bars and a forward-slash strikethrough",
+    "functionalityId": "disables or hides subtitle or closed caption text on video content; turns off subtitle visibility in a media player",
+    "intentId": "disable or hide subtitles or closed captions for video content; turn off caption display in a media player or accessibility settings interface"
+  },
+  "fa-subway": {
+    "appearanceId": "a subway or metro train car silhouette viewed from the front or side with a rounded rectangular body, windows along the side, and a front windshield with headlights; underground metro train outline with windows and front cab details",
+    "functionalityId": "represents a subway, metro, or underground rail transit system; accesses transit routes, schedules, or nearby subway stations in a map or transit interface",
+    "intentId": "access subway or metro transit routes, schedules, or nearby stations; indicate underground rail transport in a map, transit, or urban mobility interface"
+  }
+}

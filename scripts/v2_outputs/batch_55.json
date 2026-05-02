@@ -1,0 +1,242 @@
+{
+  "fa-shuttle-van": {
+    "appearanceId": "a minivan or shuttle van silhouette viewed from the side with a boxy roofline, passenger windows along the side, and sliding or hinged rear door; wide-body transport van outline with passenger windows and a high roof",
+    "functionalityId": "represents a shuttle van or shared transport vehicle; indicates a passenger transport service, hotel shuttle, or group transit option",
+    "intentId": "book or indicate a shuttle van or group transport service; represent a shared passenger vehicle in a travel, hotel, or transit interface"
+  },
+  "fa-shuttlecock": {
+    "appearanceId": "a badminton shuttlecock silhouette with a rounded cork or rubber base and a conical skirt of overlapping feathers or plastic vanes flaring upward; projectile with a dome tip and fan-shaped feather crown",
+    "functionalityId": "represents a badminton shuttlecock or birdie used in racket sports; indicates a badminton game, court, or sports equipment category",
+    "intentId": "select or indicate badminton in a sports or recreational activity interface; represent a shuttlecock in a sports equipment or game category"
+  },
+  "fa-sickle": {
+    "appearanceId": "a sickle tool silhouette with a short handle and a short deeply curved crescent blade sweeping inward at the tip; small curved harvesting blade with a short grip handle",
+    "functionalityId": "represents a sickle harvesting tool used for cutting crops; indicates agriculture, harvest, or a hand-held cutting action",
+    "intentId": "indicate a harvest or agricultural cutting task; represent a sickle tool in a farming, historical, or seasonal harvest interface"
+  },
+  "fa-sidebar": {
+    "appearanceId": "a rectangular UI panel layout with a narrow vertical column on the left side separated from the wider main content area on the right; two-column layout with a left sidebar panel and a larger right content region",
+    "functionalityId": "toggles or represents a sidebar navigation panel on the left side of a layout; opens or collapses a side panel in a UI",
+    "intentId": "show or hide a left sidebar navigation panel in an application layout; manage sidebar visibility in a dashboard or editor interface"
+  },
+  "fa-sidebar-flip": {
+    "appearanceId": "a rectangular UI panel layout with a narrow vertical column on the right side separated from the wider main content area on the left; two-column layout with a right sidebar panel and a larger left content region",
+    "functionalityId": "toggles or represents a sidebar navigation panel on the right side of a layout; opens or collapses a flipped side panel in a UI",
+    "intentId": "show or hide a right sidebar navigation panel in an application layout; manage flipped sidebar visibility in a dashboard or editor interface"
+  },
+  "fa-sigma": {
+    "appearanceId": "an uppercase Greek sigma character glyph with a wide horizontal top bar, a diagonal stroke descending to a point, and a horizontal bottom bar; capital Greek letter shaped like a stylized E with angled middle",
+    "functionalityId": "inserts or represents the Greek sigma symbol used for summation in mathematics or statistics; indicates a sum, aggregate, or statistical total",
+    "intentId": "insert a sigma summation symbol in a mathematical or statistical context; represent a total or aggregate calculation in a formula editor"
+  },
+  "fa-sign": {
+    "appearanceId": "a rectangular sign board on a vertical post with a flat face and a short pole below; flat-faced sign panel mounted on a single upright post",
+    "functionalityId": "represents a physical sign, notice board, or signage element; indicates a posted notice, label, or informational sign in a context",
+    "intentId": "indicate a physical sign or notice board in a location or navigation interface; represent a posted label or informational signage"
+  },
+  "fa-sign-in": {
+    "appearanceId": "a vertical rectangle or door frame shape with a rightward-pointing arrow entering from the left side through an opening; door outline with an inward-pointing arrow entering the frame",
+    "functionalityId": "signs in or logs into an account or system; authenticates a user entering a secured area or application",
+    "intentId": "log in or sign into a user account or secured application; authenticate entry into a system or protected resource"
+  },
+  "fa-sign-in-alt": {
+    "appearanceId": "a rightward-pointing arrow with a vertical line or bar on the right side indicating entry; horizontal arrow pointing into a vertical boundary or threshold marker",
+    "functionalityId": "signs in or logs into a system using an alternative sign-in control; enters a secured session via an alternate authentication pathway",
+    "intentId": "log in or authenticate into a system using an alternate sign-in control; enter a secured session in an application or portal"
+  },
+  "fa-sign-out": {
+    "appearanceId": "a vertical rectangle or door frame shape with a leftward-pointing arrow exiting from the right side through an opening; door outline with an outward-pointing arrow leaving the frame",
+    "functionalityId": "signs out or logs out of an account or system; ends a user session and exits a secured area or application",
+    "intentId": "log out or sign out of a user account or secured application; end a session and exit a system or protected resource"
+  },
+  "fa-sign-out-alt": {
+    "appearanceId": "a leftward-pointing arrow with a vertical line or bar on the left side indicating exit; horizontal arrow pointing away from a vertical boundary or threshold marker",
+    "functionalityId": "signs out or logs out of a system using an alternative sign-out control; exits a secured session via an alternate logout pathway",
+    "intentId": "log out or end a session using an alternate sign-out control; exit a secured application or portal"
+  },
+  "fa-sign-post": {
+    "appearanceId": "a single vertical post with one or two directional arrow-shaped sign boards pointing left or right attached near the top; signpost pole with one horizontal arrow-shaped placard",
+    "functionalityId": "represents a directional signpost or wayfinding marker; indicates a route, direction, or navigational guide at a location",
+    "intentId": "indicate a direction or route with a wayfinding signpost; represent a navigational guide or directional marker in a map or location interface"
+  },
+  "fa-sign-posts": {
+    "appearanceId": "a single vertical post with multiple directional arrow-shaped sign boards stacked at different heights pointing in various directions; signpost pole with several stacked horizontal arrow placards",
+    "functionalityId": "represents multiple directional signs or a multi-destination wayfinding marker; indicates several route options or navigation choices from one point",
+    "intentId": "indicate multiple directions or route options from a single wayfinding point; represent a multi-directional signpost in a navigation or mapping interface"
+  },
+  "fa-sign-posts-wrench": {
+    "appearanceId": "a vertical signpost with multiple stacked arrow-shaped sign boards and a small wrench icon overlaid as a badge; multi-placard signpost outline with a maintenance wrench badge",
+    "functionalityId": "represents a signpost under maintenance or configuration; indicates editing, repairing, or managing directional signage in a system",
+    "intentId": "configure or maintain directional signage in a navigation or mapping system; represent sign post maintenance or editing in a wayfinding interface"
+  },
+  "fa-signal": {
+    "appearanceId": "five vertical bars increasing in height from left to right, all fully filled representing maximum cellular or wireless signal strength; full five-bar signal strength indicator with all bars active",
+    "functionalityId": "indicates the current wireless or cellular signal strength level; displays full connectivity or maximum signal reception",
+    "intentId": "show cellular or wireless signal strength in a network or device status interface; indicate maximum connectivity in a communication application"
+  },
+  "fa-signal-1": {
+    "appearanceId": "five vertical bars increasing in height from left to right with only the first shortest bar filled and the remaining four bars empty or faint; one-bar signal strength indicator out of five bars",
+    "functionalityId": "indicates a very weak or minimal wireless signal strength of one out of five bars; shows poor connectivity or near-loss reception",
+    "intentId": "show very poor or minimal signal strength in a network or device status interface; indicate near-zero connectivity in a communication application"
+  },
+  "fa-signal-2": {
+    "appearanceId": "five vertical bars increasing in height from left to right with the two shortest bars filled and the remaining three bars empty or faint; two-bar signal strength indicator out of five bars",
+    "functionalityId": "indicates a weak wireless signal strength of two out of five bars; shows low connectivity or marginal reception",
+    "intentId": "show low or weak signal strength in a network or device status interface; indicate marginal connectivity in a communication application"
+  },
+  "fa-signal-3": {
+    "appearanceId": "five vertical bars increasing in height from left to right with the three shortest bars filled and the remaining two bars empty or faint; three-bar signal strength indicator out of five bars",
+    "functionalityId": "indicates a moderate wireless signal strength of three out of five bars; shows acceptable or medium connectivity",
+    "intentId": "show moderate or medium signal strength in a network or device status interface; indicate acceptable connectivity in a communication application"
+  },
+  "fa-signal-4": {
+    "appearanceId": "five vertical bars increasing in height from left to right with four bars filled and only the tallest fifth bar empty or faint; four-bar signal strength indicator out of five bars",
+    "functionalityId": "indicates a strong wireless signal strength of four out of five bars; shows good connectivity approaching full reception",
+    "intentId": "show strong or near-full signal strength in a network or device status interface; indicate good connectivity in a communication application"
+  },
+  "fa-signal-alt": {
+    "appearanceId": "four vertical bars of increasing height all fully filled arranged in an alternative or compressed style compared to the standard five-bar signal icon; full alternative-style bar signal strength indicator with all bars active",
+    "functionalityId": "indicates full signal strength in an alternative bar-style presentation; displays maximum connectivity using an alternate signal icon variant",
+    "intentId": "show full signal strength using an alternate signal style indicator; indicate maximum connectivity in a network or device interface"
+  },
+  "fa-signal-alt-1": {
+    "appearanceId": "four vertical bars of increasing height in the alternative style with only the first shortest bar filled and the remaining three empty or faint; one-bar alternative-style signal indicator out of four bars",
+    "functionalityId": "indicates very weak signal strength in the alternative bar-style; shows minimal connectivity in the alternate signal variant",
+    "intentId": "show very poor signal strength using an alternate one-bar signal style; indicate near-zero connectivity in a network or device interface"
+  },
+  "fa-signal-alt-2": {
+    "appearanceId": "four vertical bars of increasing height in the alternative style with the two shortest bars filled and the remaining two empty or faint; two-bar alternative-style signal indicator out of four bars",
+    "functionalityId": "indicates weak signal strength in the alternative bar-style; shows low connectivity in the alternate signal variant",
+    "intentId": "show low or weak signal strength using an alternate two-bar signal style; indicate poor connectivity in a network or device interface"
+  },
+  "fa-signal-alt-3": {
+    "appearanceId": "four vertical bars of increasing height in the alternative style with three bars filled and only the tallest fourth bar empty or faint; three-bar alternative-style signal indicator out of four bars",
+    "functionalityId": "indicates good signal strength in the alternative bar-style; shows strong connectivity in the alternate signal variant",
+    "intentId": "show strong signal strength using an alternate three-bar signal style; indicate good connectivity in a network or device interface"
+  },
+  "fa-signal-alt-slash": {
+    "appearanceId": "four vertical bars in the alternative signal style with a diagonal slash line drawn through all bars; alternative-style signal bar group with a strikethrough slash indicating no signal",
+    "functionalityId": "indicates that the alternative signal is disabled, lost, or unavailable; shows a no-signal state in the alternate signal variant",
+    "intentId": "show a lost or disabled alternate signal; indicate no connectivity or signal blockage in a network or device interface"
+  },
+  "fa-signal-slash": {
+    "appearanceId": "five vertical bars of increasing height with a diagonal slash line drawn through all the bars; standard five-bar signal strength indicator with a diagonal strikethrough across all bars",
+    "functionalityId": "indicates that the wireless signal is disabled, lost, or unavailable; shows a no-signal or disconnected state",
+    "intentId": "show a lost or disabled signal in a network or device status interface; indicate no connectivity or a disconnected state in a communication application"
+  },
+  "fa-signal-stream": {
+    "appearanceId": "a series of curved concentric arcs or waveform lines radiating outward resembling a streaming signal broadcast; curved expanding wave arcs suggesting a live signal or streaming emission",
+    "functionalityId": "represents a live signal stream or broadcast transmission; indicates a real-time data stream, live feed, or wireless broadcast",
+    "intentId": "indicate a live streaming signal or broadcast transmission; represent real-time data flow or a wireless stream in a media or communications interface"
+  },
+  "fa-signal-stream-slash": {
+    "appearanceId": "curved concentric arc waveform lines resembling a streaming signal with a diagonal slash line drawn through them; expanding wave arc signal shape with a strikethrough slash indicating stream interruption",
+    "functionalityId": "indicates that a live signal stream or broadcast has been cut off or disabled; shows a stream interruption or lost broadcast state",
+    "intentId": "indicate an interrupted or disabled signal stream; show a lost broadcast or cut-off live feed in a media or communications interface"
+  },
+  "fa-signature": {
+    "appearanceId": "a cursive handwritten line stroke with flowing loops and a trailing underline sweep, resembling a personal signature; freehand cursive script stroke with looping ascending and descending curves",
+    "functionalityId": "represents a handwritten signature field or signing action; indicates a place to sign, a digital signature input, or a personal sign-off",
+    "intentId": "sign a document or indicate a signature field in a form or contract interface; represent a personal handwritten sign-off in a digital document"
+  },
+  "fa-signature-lock": {
+    "appearanceId": "a cursive handwritten line stroke resembling a signature with a small padlock badge overlaid near the signature mark; flowing cursive script stroke with a lock badge indicating a secured or sealed signature",
+    "functionalityId": "represents a locked or sealed digital signature that cannot be altered; indicates a finalized or cryptographically secured signing state",
+    "intentId": "lock or finalize a digital signature to prevent modification; indicate a cryptographically sealed sign-off in a document or contract interface"
+  },
+  "fa-signature-slash": {
+    "appearanceId": "a cursive handwritten line stroke resembling a signature with a diagonal slash line drawn through it; flowing cursive script stroke with a strikethrough slash indicating a voided or removed signature",
+    "functionalityId": "represents a voided, removed, or declined signature; indicates that a signing action has been cancelled or a signature has been invalidated",
+    "intentId": "void or remove a signature from a document; indicate a cancelled or invalidated sign-off in a form or contract interface"
+  },
+  "fa-sim-card": {
+    "appearanceId": "a small rectangular SIM card silhouette with one clipped or angled corner and a contact pad area on the front face; mobile subscriber card outline with a notched corner and chip contact area",
+    "functionalityId": "represents a SIM card for mobile network authentication; indicates a cellular subscriber identity module or carrier settings",
+    "intentId": "manage or identify a SIM card in a mobile device or carrier settings interface; represent a cellular subscriber identity in a telecommunications context"
+  },
+  "fa-sim-cards": {
+    "appearanceId": "two SIM card silhouettes overlapping or arranged side-by-side, each with a clipped corner and contact pad area; pair of mobile subscriber card outlines with notched corners arranged together",
+    "functionalityId": "represents dual SIM cards or a multi-SIM device configuration; indicates a dual-SIM phone, multiple carrier slots, or SIM management",
+    "intentId": "manage dual or multiple SIM cards in a device; indicate a multi-SIM configuration or dual-carrier setup in a telecommunications interface"
+  },
+  "fa-sink": {
+    "appearanceId": "a bathroom or kitchen sink silhouette with a wide basin bowl, a faucet spout above the basin, and drain details at the bottom; basin sink outline with a mounted faucet and drain",
+    "functionalityId": "represents a sink fixture in a bathroom, kitchen, or utility context; indicates plumbing, water access, or sanitation facilities",
+    "intentId": "indicate a sink or basin fixture in a home, bathroom, or kitchen interface; represent plumbing or sanitation facilities in a building or property listing"
+  },
+  "fa-siren": {
+    "appearanceId": "a dome-shaped emergency siren or strobe light housing on a flat base with a rounded flashing beacon cap; hemispherical siren housing outline with a wide dome on a flat mounting base",
+    "functionalityId": "represents an emergency siren or alarm device; indicates an active alert, emergency signal, or alarm activation",
+    "intentId": "trigger or indicate an emergency siren or alarm; represent an active alert or emergency signal in a safety or IoT interface"
+  },
+  "fa-siren-on": {
+    "appearanceId": "a dome-shaped siren housing with radiating arc lines or flash lines emanating from the dome indicating an active or flashing state; hemispherical siren outline with outward flash or light-burst lines showing activation",
+    "functionalityId": "represents an actively flashing or sounding emergency siren; indicates that an alarm or emergency signal is currently active",
+    "intentId": "indicate that an emergency siren or alarm is currently active and flashing; represent a live alert state in a safety or monitoring interface"
+  },
+  "fa-sitemap": {
+    "appearanceId": "a hierarchical tree diagram with a single top node connected by lines to multiple second-level nodes, which in turn connect to further child nodes below; org-chart node tree with tiered rectangular boxes and connecting lines",
+    "functionalityId": "represents a sitemap, organizational chart, or hierarchical content structure; displays or navigates a tree of pages, departments, or nodes",
+    "intentId": "view or manage a site structure, organization chart, or content hierarchy; navigate a tree of pages or entities in a site management or planning interface"
+  },
+  "fa-skating": {
+    "appearanceId": "a human figure silhouette in a skating pose with one leg extended behind and arms outstretched for balance, wearing an ice skate boot on the grounded foot; skater body in a gliding posture with a blade boot on one foot",
+    "functionalityId": "represents ice skating or figure skating as a sport or activity; indicates a skating rink, skating event, or winter sports category",
+    "intentId": "indicate ice skating or a skating activity in a sports or recreation interface; represent a skating rink, figure skating event, or winter sports category"
+  },
+  "fa-skeleton": {
+    "appearanceId": "a full human skeleton silhouette showing a skull, rib cage, spine, arm and leg bones in an upright anatomical arrangement; complete skeletal body outline with skull, ribs, pelvis, and limb bones",
+    "functionalityId": "represents a human skeleton in a medical, educational, or Halloween context; indicates anatomy, bone structure, or a spooky seasonal theme",
+    "intentId": "indicate human anatomy, bone structure, or a medical context; represent a skeleton in a Halloween, horror, or educational application"
+  },
+  "fa-skeleton-ribs": {
+    "appearanceId": "a partial or full skeletal torso silhouette focused on the rib cage with curved rib bones arching symmetrically from a central spine; rib cage and spine outline with arching bilateral rib bone pairs",
+    "functionalityId": "represents the rib cage or thoracic skeletal structure; indicates chest anatomy, respiratory protection, or a medical bone context",
+    "intentId": "indicate rib cage anatomy or thoracic skeletal structure in a medical or educational context; represent chest bones or respiratory protection in an anatomy interface"
+  },
+  "fa-ski-boot": {
+    "appearanceId": "a stiff ski boot silhouette with a high rigid cuff, buckle closures along the shaft, and a flat sole with a toe binding ledge; hard-shell ski boot outline with buckle straps and a flat boot sole",
+    "functionalityId": "represents a ski boot or alpine skiing footwear; indicates skiing equipment, ski rentals, or a winter sports category",
+    "intentId": "select or indicate ski boot equipment in a winter sports or ski rental interface; represent alpine skiing footwear in a sports or outdoor gear catalog"
+  },
+  "fa-ski-boot-ski": {
+    "appearanceId": "a stiff ski boot silhouette attached to or combined with a long flat ski plank beneath; hard-shell ski boot outline with a long ski board extending below",
+    "functionalityId": "represents a ski boot affixed to a ski, indicating a complete alpine skiing setup; indicates a bound ski-and-boot combination in a skiing context",
+    "intentId": "indicate a complete alpine skiing setup with boot and ski combined; represent bound ski equipment in a winter sports or rental interface"
+  },
+  "fa-ski-jump": {
+    "appearanceId": "a human figure silhouette in a ski jump pose with skis extended forward and body leaning aerodynamically over the skis in flight; airborne skier body in a forward-lean jump posture with parallel skis",
+    "functionalityId": "represents ski jumping as a winter sport; indicates a ski jump event, slope, or aerial skiing activity",
+    "intentId": "indicate a ski jump event or aerial skiing activity in a winter sports interface; represent a ski jumping competition or ramp in a sports or event catalog"
+  },
+  "fa-ski-lift": {
+    "appearanceId": "a ski lift or gondola silhouette with a suspended cable car or chair hanging from an overhead wire on a support tower; cable-hung lift cabin or chairlift outline with support tower and overhead line",
+    "functionalityId": "represents a ski lift, gondola, or chairlift for mountain transport; indicates a ski resort lift access or mountain cable car service",
+    "intentId": "indicate a ski lift or gondola in a ski resort or mountain transport interface; represent lift access or cable car service in a winter sports or travel application"
+  },
+  "fa-skiing": {
+    "appearanceId": "a human figure silhouette in a downhill skiing pose with bent knees, poles extended, and parallel skis pointing downhill; alpine skier body in a crouched downhill posture with ski poles",
+    "functionalityId": "represents downhill or alpine skiing as a sport or activity; indicates a ski slope, skiing event, or winter sports category",
+    "intentId": "indicate downhill skiing or a ski slope in a winter sports or recreation interface; represent alpine skiing in a sports, travel, or event catalog"
+  },
+  "fa-skiing-nordic": {
+    "appearanceId": "a human figure silhouette in a cross-country skiing pose with one leg forward and opposite arm extended, using long thin Nordic skis and a pole; Nordic skier body in a striding cross-country posture with a ski pole",
+    "functionalityId": "represents Nordic or cross-country skiing as a sport or activity; indicates a cross-country ski trail, Nordic skiing event, or winter fitness activity",
+    "intentId": "indicate Nordic or cross-country skiing in a winter sports or recreation interface; represent a cross-country ski trail or event in a sports or travel catalog"
+  },
+  "fa-skull": {
+    "appearanceId": "a human skull silhouette with a rounded cranium, two hollow eye socket ovals, a triangular nasal cavity, and a row of teeth along the jaw line; bare skull with eye sockets, nasal cavity, and teeth",
+    "functionalityId": "represents danger, death, poison, or a skull symbol in a hazard or thematic context; indicates a fatal warning, pirate theme, or Halloween decoration",
+    "intentId": "indicate a danger, poison, or death warning; represent a skull symbol in a hazard label, pirate theme, or Halloween context"
+  },
+  "fa-skull-cow": {
+    "appearanceId": "a bovine skull silhouette with a broad flat cranium, two long curved horn projections extending from the sides of the skull, and empty eye socket ovals; wide cattle skull with large curving horns and hollow eye sockets",
+    "functionalityId": "represents a cow skull or longhorn cattle skull in a Western, ranch, or wilderness context; indicates a desert, cowboy, or animal remains theme",
+    "intentId": "indicate a Western, ranch, or desert theme with a cow skull; represent cattle remains or a longhorn skull in a cowboy or wilderness interface"
+  },
+  "fa-skull-crossbones": {
+    "appearanceId": "a human skull silhouette positioned above two crossing bones forming an X shape beneath the jaw, the classic poison or pirate symbol; skull with two crossed femur bones beneath forming a crossbones pattern",
+    "functionalityId": "represents a poison hazard, pirate emblem, or mortal danger warning; indicates a toxic substance, fatal risk, or pirate-themed content",
+    "intentId": "warn about a toxic, poisonous, or deadly hazard; represent a pirate symbol or fatal danger warning in a safety or thematic interface"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-raygun": {
+    "appearanceId": "a retro sci-fi ray gun silhouette with a pistol grip handle, a barrel pointing forward, and a bulbous emitter nozzle; futuristic blaster outline with trigger grip and flared muzzle",
+    "functionalityId": "represents a science fiction laser weapon or retro futuristic shooting device; indicates a sci-fi game action or space-themed attack element",
+    "intentId": "select a sci-fi weapon or laser blaster in a game or space-themed interface; indicate a retro futuristic shooting action"
+  },
+  "fa-receipt": {
+    "appearanceId": "a rectangular paper slip with horizontal lines representing printed text and a serrated or wavy torn bottom edge; receipt paper outline with ruled lines and jagged bottom",
+    "functionalityId": "displays a purchase receipt or transaction record; accesses billing history or order confirmation details",
+    "intentId": "view or manage a purchase receipt or transaction summary; access billing records in a shopping or finance application"
+  },
+  "fa-record-vinyl": {
+    "appearanceId": "a circular vinyl record disc silhouette with a small center hole and concentric ring grooves on the surface; round phonograph record outline with a center label circle and groove rings",
+    "functionalityId": "represents a vinyl record or analog audio playback medium; indicates a music track, album, or retro audio collection",
+    "intentId": "browse or play vinyl record music; indicate a retro audio or record collection in a music application"
+  },
+  "fa-rectangle": {
+    "appearanceId": "a plain filled or outlined horizontal rectangle shape with no additional badges or markings; flat landscape-oriented rectangular box",
+    "functionalityId": "represents a basic rectangular shape element in a design or drawing tool; indicates a layout block or placeholder region",
+    "intentId": "insert or select a rectangle shape in a design or drawing application; represent a basic layout block or content region"
+  },
+  "fa-rectangle-code": {
+    "appearanceId": "a horizontal rectangle outline containing a pair of angle-bracket less-than and greater-than symbols resembling code brackets inside; rectangular box with code angle-bracket glyphs",
+    "functionalityId": "represents a code block or programming snippet within a rectangular container; inserts or views source code in a formatted text region",
+    "intentId": "insert or display a code block in a document or editor; access a formatted source code region in a development interface"
+  },
+  "fa-rectangle-hd": {
+    "appearanceId": "a horizontal rectangle outline containing the letters HD in uppercase centered inside; wide rectangular badge with HD text label",
+    "functionalityId": "indicates high-definition video resolution for a media element; toggles or displays HD quality video content",
+    "intentId": "select or display high-definition video quality; indicate HD resolution in a media player or video settings interface"
+  },
+  "fa-rectangle-history": {
+    "appearanceId": "a horizontal rectangle with two or three smaller stacked rectangles overlapping behind it, suggesting a layered history stack; landscape rectangle with layered shadow copies behind it",
+    "functionalityId": "represents a browsing or document history stack; accesses previously viewed pages or items in a history panel",
+    "intentId": "view or navigate browser or document history; access a history or recently visited items panel"
+  },
+  "fa-rectangle-history-circle-plus": {
+    "appearanceId": "a horizontal rectangle with stacked history layers behind it and a small circle containing a plus sign as a badge overlaid at a corner; history-stack rectangle with a circular add badge",
+    "functionalityId": "adds a new entry to a history or recently viewed list; creates a new history record or bookmarks an item to a history stack",
+    "intentId": "add a new item to a browsing or document history list; bookmark or save a page into a history collection"
+  },
+  "fa-rectangle-history-circle-user": {
+    "appearanceId": "a horizontal rectangle with stacked history layers behind it and a small circle containing a user silhouette badge overlaid at a corner; history-stack rectangle with a circular user profile badge",
+    "functionalityId": "associates a user profile with a history entry or browsing session; displays user-specific browsing or document history",
+    "intentId": "view a user's personal browsing or document history; associate a history record with a specific user account"
+  },
+  "fa-rectangle-portrait": {
+    "appearanceId": "a vertical portrait-oriented rectangle taller than it is wide with no additional markings; tall upright rectangular box in portrait aspect ratio",
+    "functionalityId": "represents a portrait-orientation layout or card element; switches a view or canvas to vertical portrait mode",
+    "intentId": "set or indicate a portrait orientation for a document, card, or canvas; select a vertical layout in a design interface"
+  },
+  "fa-rectangle-sd": {
+    "appearanceId": "a horizontal rectangle outline containing the letters SD in uppercase centered inside; wide rectangular badge with SD text label",
+    "functionalityId": "indicates standard-definition video resolution for a media element; toggles or displays SD quality video content",
+    "intentId": "select or display standard-definition video quality; indicate SD resolution in a media player or video settings interface"
+  },
+  "fa-rectangle-terminal": {
+    "appearanceId": "a horizontal rectangle outline containing a terminal prompt symbol such as a greater-than sign or underscore cursor; rectangular box with a command-line prompt glyph inside",
+    "functionalityId": "represents a terminal window or command-line interface panel; opens or indicates a shell or CLI session",
+    "intentId": "open or access a terminal or command-line interface; indicate a shell session or developer console window"
+  },
+  "fa-rectangle-vertical-history": {
+    "appearanceId": "a vertical portrait rectangle with two or three smaller stacked portrait rectangles overlapping behind it, suggesting a vertical history stack; tall portrait rectangle with layered shadow copies behind it",
+    "functionalityId": "represents a vertical stack of history items or pages; navigates a vertical history panel of previously viewed portrait-oriented items",
+    "intentId": "view or navigate a vertical history stack of pages or items; access a vertically stacked history panel in an application"
+  },
+  "fa-rectangle-wide": {
+    "appearanceId": "a wide low-aspect-ratio horizontal rectangle with a notably wider width-to-height ratio than a standard rectangle; extra-wide landscape rectangular bar shape",
+    "functionalityId": "represents a wide banner or header layout block; indicates a full-width or wide-format content region",
+    "intentId": "insert or select a wide banner or full-width layout element; indicate a wide-format content region in a design tool"
+  },
+  "fa-rectangles-mixed": {
+    "appearanceId": "a group of multiple rectangles of different sizes and orientations arranged together, mixing portrait and landscape shapes; assorted rectangle collection with varying aspect ratios grouped together",
+    "functionalityId": "represents a mixed or varied layout of multiple rectangle elements; indicates a mosaic or multi-size tile arrangement in a grid",
+    "intentId": "arrange or display a mixed layout of varied rectangle tiles; indicate a multi-size grid or mosaic layout in a design interface"
+  },
+  "fa-recycle": {
+    "appearanceId": "three curved arrows arranged in a triangular chase pattern forming the universal recycling symbol; three-arrow chasing triangular recycling loop",
+    "functionalityId": "represents recycling or environmental sustainability; indicates a recyclable material category or a recycle action",
+    "intentId": "indicate recyclable content or an environmental sustainability action; mark an item for recycling in a waste management interface"
+  },
+  "fa-redo": {
+    "appearanceId": "a single circular arrow curving clockwise forming a forward loop with an arrowhead at the end; clockwise circular redo arrow loop",
+    "functionalityId": "reapplies the last undone action in an editor or application; moves forward in the action history",
+    "intentId": "redo a previously undone action in an editor or form; move forward through the history of changes in an application"
+  },
+  "fa-redo-alt": {
+    "appearanceId": "a curved right-turning arrow with a long shaft looping back to the right and an arrowhead pointing rightward; alternative curved forward-direction redo arrow",
+    "functionalityId": "reapplies the last undone action using an alternative arrow style; represents a forward or redo navigation action",
+    "intentId": "redo a previously undone action using an alternative control style; move forward in edit history in an application"
+  },
+  "fa-reel": {
+    "appearanceId": "a circular film reel silhouette with a central hub, spoke dividers, and sprocket or notch cutouts around the outer ring; round film reel outline with hub spokes and edge notches",
+    "functionalityId": "represents a film reel or video footage element; accesses or plays film content from a media library",
+    "intentId": "browse or access a film reel or video content in a media application; indicate a cinema or film production asset"
+  },
+  "fa-reflect-both": {
+    "appearanceId": "a shape duplicated and mirrored across both a horizontal and vertical axis simultaneously, creating four symmetric copies around a center point; object reflected across both axes with four-way symmetry",
+    "functionalityId": "applies both horizontal and vertical reflection to a design element simultaneously; creates a four-way mirrored symmetry on a shape",
+    "intentId": "mirror a design element across both axes at once; apply four-way symmetric reflection in a design or drawing tool"
+  },
+  "fa-reflect-horizontal": {
+    "appearanceId": "a shape and its mirror image placed side by side with a vertical center axis line between them; object reflected across a vertical axis with a left-right mirror pair",
+    "functionalityId": "applies a horizontal flip or left-right mirror to a design element; reflects a shape across a vertical axis",
+    "intentId": "flip a design element horizontally or create a left-right mirror copy; apply horizontal reflection in a design or drawing tool"
+  },
+  "fa-reflect-vertical": {
+    "appearanceId": "a shape and its mirror image stacked above and below with a horizontal center axis line between them; object reflected across a horizontal axis with a top-bottom mirror pair",
+    "functionalityId": "applies a vertical flip or top-bottom mirror to a design element; reflects a shape across a horizontal axis",
+    "intentId": "flip a design element vertically or create a top-bottom mirror copy; apply vertical reflection in a design or drawing tool"
+  },
+  "fa-refrigerator": {
+    "appearanceId": "a tall upright kitchen appliance silhouette with a rectangular body, a top compartment door and a lower compartment door with handles on both; refrigerator outline with upper and lower door panels and handles",
+    "functionalityId": "represents a kitchen refrigerator appliance; indicates a cold storage, food preservation, or smart appliance feature",
+    "intentId": "manage or indicate a refrigerator appliance in a smart home or kitchen application; represent food storage or cold chain management"
+  },
+  "fa-registered": {
+    "appearanceId": "a capital letter R with a small superscript circle enclosing it forming the registered trademark symbol; circled R registered trademark glyph",
+    "functionalityId": "indicates a registered trademark status for a brand or product name; displays the registered trademark symbol in a legal or branding context",
+    "intentId": "mark a brand name or logo as a registered trademark; display the registered trademark symbol in a legal or product labeling context"
+  },
+  "fa-repeat": {
+    "appearanceId": "two horizontal arrows forming a rectangular loop, one pointing right on top and one pointing left on the bottom, creating a continuous cycle; rectangular two-arrow looping repeat symbol",
+    "functionalityId": "enables looping or repeating playback of a media track or playlist; cycles through content continuously",
+    "intentId": "loop or repeat audio or video playback in a media player; enable continuous repeat of a playlist or track"
+  },
+  "fa-repeat-1": {
+    "appearanceId": "two horizontal arrows forming a rectangular loop with a small numeral 1 centered inside the loop area; rectangular two-arrow loop with a number one badge inside",
+    "functionalityId": "enables single-track or single-item repeat playback; loops the currently playing item exactly once",
+    "intentId": "repeat only the current track or item once in a media player; enable single-loop playback mode"
+  },
+  "fa-repeat-1-alt": {
+    "appearanceId": "two horizontal arrows forming a rectangular loop with a small numeral 1 inside and an alternative arrow direction or style compared to the standard repeat-1; alternative-direction rectangular loop with a number one badge",
+    "functionalityId": "enables an alternative single-item repeat mode with a different loop direction; represents a reverse or alternate single-track repeat",
+    "intentId": "use an alternative single-repeat mode in a media player; loop the current item with an alternate repeat orientation"
+  },
+  "fa-repeat-alt": {
+    "appearanceId": "two horizontal arrows forming a rectangular loop but with the arrow directions reversed compared to the standard repeat, pointing in alternate directions; alternative-direction rectangular two-arrow loop",
+    "functionalityId": "enables an alternate looping or repeat direction for media playback; cycles through content in the reverse loop orientation",
+    "intentId": "activate an alternate repeat or loop direction in a media player; cycle content using a reverse or alternative loop mode"
+  },
+  "fa-reply": {
+    "appearanceId": "a single curved arrow that points to the left, with its tail coming from the right and curving downward-left, like a reply arrow on an envelope; single leftward-curving reply arrow",
+    "functionalityId": "replies to a message, email, or comment; sends a response to the original sender",
+    "intentId": "reply to an email, message, or comment; send a response back to the original author"
+  },
+  "fa-reply-all": {
+    "appearanceId": "two overlapping leftward-curving arrows side by side, with the left arrow slightly offset behind the right, forming a double reply arrow shape; double leftward-curving reply-all arrows",
+    "functionalityId": "replies to all recipients of a message or email thread; sends a response to every participant in a conversation",
+    "intentId": "reply to all recipients of an email or group message; send a response to everyone in a conversation thread"
+  },
+  "fa-reply-time": {
+    "appearanceId": "a leftward-curving reply arrow combined with a small clock face badge showing clock hands; reply arrow with a clock time badge overlay",
+    "functionalityId": "indicates a scheduled reply or a timed response to a message; displays the reply time or sets a delayed send for a response",
+    "intentId": "schedule a timed reply to a message or email; indicate the response time or set a delayed send in a communication interface"
+  },
+  "fa-republican": {
+    "appearanceId": "an elephant silhouette representing the Republican Party mascot, typically shown with a raised trunk and stylized body; Republican elephant outline with trunk and body shape",
+    "functionalityId": "represents the Republican political party in the United States; indicates a Republican candidate, policy, or election-related item",
+    "intentId": "indicate a Republican political affiliation or candidate; label election content or political data with the Republican party symbol"
+  },
+  "fa-restroom": {
+    "appearanceId": "a male stick figure and a female stick figure with a skirt side by side, indicating a shared restroom; paired male and female person silhouettes for a gender-inclusive restroom sign",
+    "functionalityId": "indicates the location of a shared or gender-inclusive restroom facility; labels restroom or bathroom access in a venue map",
+    "intentId": "find or label a shared restroom or bathroom facility; indicate restroom access on a venue map or directory"
+  },
+  "fa-restroom-simple": {
+    "appearanceId": "a simplified pair of a male and female stick-figure silhouette side by side in a minimal line style; minimal paired gender-figure restroom symbol",
+    "functionalityId": "indicates the location of a restroom using a simplified or minimal icon style; labels bathroom access in a clean or simplified UI",
+    "intentId": "find or label a restroom facility using a simplified visual indicator; indicate bathroom access in a minimal or clean design"
+  },
+  "fa-retweet": {
+    "appearanceId": "two horizontal arrows forming a rectangular loop similar to a repeat symbol, styled for social media sharing; rectangular two-arrow retweet loop for social sharing",
+    "functionalityId": "retweets or reshares a social media post; forwards content to a user's followers on a social platform",
+    "intentId": "retweet or reshare a post on a social media platform; forward content to followers in a social network interface"
+  },
+  "fa-retweet-alt": {
+    "appearanceId": "two curved arrows forming a circular chase loop for social sharing, with an alternative circular path instead of a rectangular loop; circular two-arrow alternative retweet loop",
+    "functionalityId": "retweens or reshares content using an alternative circular loop style; represents a social reshare action with a circular arrow design",
+    "intentId": "reshare or retweet content using an alternative style action; forward a social post to followers with a circular share loop"
+  },
+  "fa-rhombus": {
+    "appearanceId": "a four-sided diamond or rhombus shape with equal sides and pointed top, bottom, left, and right vertices; geometric diamond rhombus outline with four equal sides",
+    "functionalityId": "represents a rhombus or diamond geometric shape element in a drawing tool; inserts or selects a diamond shape in a design layout",
+    "intentId": "insert or select a rhombus or diamond shape in a design or drawing application; represent a diamond geometric element in a layout"
+  },
+  "fa-ribbon": {
+    "appearanceId": "a decorative ribbon loop silhouette with two folded loop ends and two trailing tail ends forming an awareness or gift bow shape; looped awareness ribbon bow outline with two tails",
+    "functionalityId": "represents a cause awareness ribbon or a decorative gift bow; indicates a charitable campaign, award, or decorative embellishment",
+    "intentId": "indicate a cause awareness campaign or charitable initiative; represent a decorative ribbon or award in a social or health application"
+  },
+  "fa-right": {
+    "appearanceId": "a solid rightward-pointing arrow with a triangular arrowhead and a short horizontal shaft; plain right-direction arrow with a filled arrowhead",
+    "functionalityId": "navigates or moves to the right; indicates a forward or next action in a directional control",
+    "intentId": "move or navigate to the right in an interface; indicate a forward or next step in a sequence or carousel"
+  },
+  "fa-right-from-line": {
+    "appearanceId": "a rightward-pointing arrow with its tail beginning at a vertical line on the left side; right arrow departing from a left-side boundary line",
+    "functionalityId": "exits or moves content to the right from a boundary or starting line; represents an outward or departure action from a fixed edge",
+    "intentId": "exit a panel or region to the right from a boundary line; indicate a departure or expand-right action from a fixed edge"
+  },
+  "fa-right-left": {
+    "appearanceId": "two horizontal arrows pointing in opposite directions, one pointing right and one pointing left, stacked or side by side; bidirectional right-left double arrow pair",
+    "functionalityId": "swaps, exchanges, or toggles between two items or directions; represents a bidirectional transfer or sort action",
+    "intentId": "swap or exchange two items or values in an interface; indicate a bidirectional transfer or toggle between two states"
+  },
+  "fa-right-left-large": {
+    "appearanceId": "two large horizontal arrows pointing in opposite directions, one pointing right and one pointing left, with a notably larger and bolder arrow style; large bold bidirectional right-left arrow pair",
+    "functionalityId": "swaps or exchanges items with a more prominent visual weight; represents a large-scale bidirectional transfer or prominent toggle action",
+    "intentId": "perform a prominent swap or bidirectional exchange action; indicate a large-scale toggle or transfer between two directions"
+  },
+  "fa-right-long": {
+    "appearanceId": "a long horizontal arrow pointing right with an elongated shaft and a triangular arrowhead at the right end; extended-length rightward arrow with a long horizontal shaft",
+    "functionalityId": "indicates a long forward movement or navigation to the right; represents a significant or extended directional shift",
+    "intentId": "navigate significantly to the right or indicate a long forward progression; represent an extended directional move in a layout or flow"
+  },
+  "fa-right-long-to-line": {
+    "appearanceId": "a long rightward-pointing arrow with an elongated shaft whose arrowhead terminates at a vertical line on the right side; long right arrow ending at a right-side boundary line",
+    "functionalityId": "moves content rightward until it reaches a defined boundary or stop line; represents a snap-to-edge or align-to-right action",
+    "intentId": "snap or move content to the right edge or boundary; align an element to a right-side boundary line in a layout tool"
+  },
+  "fa-right-to-line": {
+    "appearanceId": "a short rightward-pointing arrow with its arrowhead touching or meeting a vertical line on the right side; right arrow pointing toward and reaching a right-side boundary line",
+    "functionalityId": "moves or collapses content to the right boundary line; docks or snaps an element to the right edge",
+    "intentId": "dock or snap a panel or element to the right boundary; collapse or move content to the right edge of a container"
+  },
+  "fa-ring": {
+    "appearanceId": "a circular band or ring silhouette with a uniform-width loop and no stone or setting, resembling a plain wedding or finger ring; plain circular band ring outline",
+    "functionalityId": "represents a ring accessory or jewelry item; indicates a wedding, engagement, or jewelry-related feature",
+    "intentId": "select or display a ring in a jewelry or wedding planning application; indicate a ring accessory in a fashion or e-commerce interface"
+  },
+  "fa-ring-diamond": {
+    "appearanceId": "a circular band ring silhouette with a raised diamond-shaped gemstone setting at the top of the band; ring outline with a diamond gem stone on the band",
+    "functionalityId": "represents a diamond engagement ring or a luxury jewelry item; indicates a jewelry selection or engagement-related feature",
+    "intentId": "select or display a diamond engagement ring in a jewelry or wedding application; indicate a luxury ring in an e-commerce or gift interface"
+  },
+  "fa-rings-wedding": {
+    "appearanceId": "two interlocking circular band rings side by side with their loops overlapping or linked together; two interlinked wedding band rings overlapping",
+    "functionalityId": "represents a wedding ceremony or marriage event; indicates a wedding planning, anniversary, or marriage-related feature",
+    "intentId": "indicate a wedding ceremony or marriage event in a planning or event application; represent a wedding or anniversary in a calendar or celebration interface"
+  }
+}

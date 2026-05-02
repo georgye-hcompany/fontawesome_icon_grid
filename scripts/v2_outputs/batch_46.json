@@ -1,0 +1,242 @@
+{
+  "fa-parking": {
+    "appearanceId": "a bold uppercase letter P centered inside a square or circle container; single-character parking glyph in a bounded shape",
+    "functionalityId": "marks or indicates a parking area, lot, or space; navigates to or designates a vehicle parking location",
+    "intentId": "find or indicate a parking area for a vehicle; mark a location as a parking zone on a map or signage"
+  },
+  "fa-parking-slash": {
+    "appearanceId": "a bold uppercase letter P inside a square or circle container with a diagonal slash line drawn through the entire shape; parking glyph with a strikethrough indicating prohibition",
+    "functionalityId": "indicates a no-parking zone or disabled parking status; marks a location where parking is forbidden or restricted",
+    "intentId": "designate a no-parking area or restriction on a map; indicate that parking is not permitted at a location"
+  },
+  "fa-party-back": {
+    "appearanceId": "a rear-view silhouette of a person with raised arms or festive accessories visible from behind, suggesting a party pose; back-facing figure outline with celebratory elements",
+    "functionalityId": "represents a party or celebration viewed from behind; indicates a festive event or social gathering",
+    "intentId": "celebrate or indicate a party or social event; convey a fun or festive atmosphere in a design"
+  },
+  "fa-party-bell": {
+    "appearanceId": "a rounded bell shape with a small clapper at the bottom and decorative festive elements such as streamers or stars around it; celebration bell outline with party accents",
+    "functionalityId": "rings or announces a celebration or party event; indicates a festive notification or party start signal",
+    "intentId": "announce or celebrate a party or festive occasion; signal the start of a celebration or event"
+  },
+  "fa-party-horn": {
+    "appearanceId": "a conical party horn or noisemaker shape with a wide bell opening and a small mouthpiece, often with a curled or streamer detail; celebration horn outline with a tapered cone body",
+    "functionalityId": "represents a party noisemaker or celebration horn; indicates a festive sound or party announcement",
+    "intentId": "celebrate or indicate a party or joyful event; signal festivity or a celebratory moment with a noise-making accessory"
+  },
+  "fa-passport": {
+    "appearanceId": "a small rectangular booklet with a rounded-corner cover, a globe or emblem badge on the front, and horizontal line details suggesting text pages; travel document booklet outline",
+    "functionalityId": "represents a passport or official travel document; accesses or manages travel identity or international travel features",
+    "intentId": "manage or verify travel identity documents; access international travel or border-crossing features in an application"
+  },
+  "fa-pastafarianism": {
+    "appearanceId": "a stylized flying spaghetti monster shape with rounded noodle tentacles and two eyeball stalks protruding from a central tangle of pasta; noodly deity symbol with dangling appendages and eyes on stalks",
+    "functionalityId": "represents the Pastafarianism religion or its deity the Flying Spaghetti Monster; indicates a parody religion or satirical spiritual symbol",
+    "intentId": "represent or reference the Pastafarianism parody religion; indicate a humorous or satirical spiritual symbol in a design"
+  },
+  "fa-paste": {
+    "appearanceId": "a rectangular clipboard outline with a small rectangular note or page overlapping the top center clip area; clipboard body with a document being placed on top",
+    "functionalityId": "pastes copied content into a target field or location; inserts clipboard contents at the current cursor position",
+    "intentId": "paste previously copied text or content into a document or field; insert clipboard data at the cursor location"
+  },
+  "fa-pause": {
+    "appearanceId": "two short vertical parallel bars of equal height spaced slightly apart; double vertical bar pause glyph",
+    "functionalityId": "pauses playback, recording, or a running process; temporarily halts media or animation",
+    "intentId": "pause media playback or a running task; temporarily stop an ongoing process without ending it"
+  },
+  "fa-paw": {
+    "appearanceId": "a large rounded central pad shape with four smaller oval toe pads arranged in an arc above it; animal paw print silhouette with a main pad and four toe pads",
+    "functionalityId": "represents a pet, animal, or veterinary context; navigates to pet profiles, animal services, or wildlife sections",
+    "intentId": "access pet or animal-related features in an application; indicate a pet profile, animal shelter, or veterinary service"
+  },
+  "fa-paw-alt": {
+    "appearanceId": "a large rounded central pad with four smaller oval toe pads in an arc above and small claw tips extending from each toe pad; animal paw print outline with claw details on toe pads",
+    "functionalityId": "represents a clawed animal or a more detailed pet paw print; indicates wildlife, predatory animals, or a detailed pet symbol",
+    "intentId": "access detailed pet or wildlife features; indicate a clawed animal profile or a more specific animal context"
+  },
+  "fa-paw-claws": {
+    "appearanceId": "a paw pad shape with elongated sharp claw shapes projecting prominently outward from each toe tip; stylized paw outline with large extended claw shapes",
+    "functionalityId": "represents a predatory or wild animal with prominent claws; indicates a fierce, dangerous, or clawed creature context",
+    "intentId": "indicate a wild or predatory animal in a game or application; represent danger, ferocity, or a clawed creature theme"
+  },
+  "fa-peace": {
+    "appearanceId": "a circle outline with a vertical line descending from the center top to bottom and two diagonal lines branching downward from the center to lower-left and lower-right; peace symbol circle with a Y-branching internal line pattern",
+    "functionalityId": "represents peace, non-violence, or anti-war sentiment; indicates a peace movement, harmony, or pacifist theme",
+    "intentId": "convey a message of peace, harmony, or non-violence; represent a peace movement or anti-war cause in a design"
+  },
+  "fa-peach": {
+    "appearanceId": "a round fruit silhouette with a small leaf and stem at the top and a subtle crease or seam line running down one side; peach fruit outline with a leaf and characteristic cleft",
+    "functionalityId": "represents a peach fruit in a food, recipe, or grocery context; indicates a peach flavor, ingredient, or produce item",
+    "intentId": "browse or select peach as a food ingredient or produce item; indicate a peach flavor or fruit category in a food application"
+  },
+  "fa-peanut": {
+    "appearanceId": "an elongated oval legume pod shape with a pinched waist in the middle suggesting two seeds inside; peanut shell silhouette with a characteristic double-bump and constricted center",
+    "functionalityId": "represents a peanut or legume in a food, allergy, or snack context; indicates a peanut ingredient or nut-related content",
+    "intentId": "identify or filter peanut content in food or allergy contexts; indicate a peanut snack or ingredient in a recipe interface"
+  },
+  "fa-peanuts": {
+    "appearanceId": "two or more elongated oval peanut pod shapes grouped together, each with a pinched waist suggesting seeds inside; multiple peanut shell silhouettes clustered as a group",
+    "functionalityId": "represents a serving or group of peanuts in a snack or food context; indicates peanuts as an ingredient or food category",
+    "intentId": "browse or manage peanut-based foods or snack items; indicate an allergy warning or peanut food category in an application"
+  },
+  "fa-peapod": {
+    "appearanceId": "an elongated curved pod shape with visible round bumps along its length suggesting peas inside, and a small curling tendril or stem at one end; pea pod outline with pea bumps and a stem or tendril",
+    "functionalityId": "represents a pea pod or legume vegetable in a food or grocery context; indicates fresh produce, vegetable ingredients, or a garden item",
+    "intentId": "browse or select pea pods or legumes in a grocery or recipe interface; indicate fresh vegetable produce in a food application"
+  },
+  "fa-pear": {
+    "appearanceId": "a rounded teardrop-shaped fruit with a narrow neck and a small stem and leaf at the top; pear fruit silhouette with a characteristic wider bottom and narrower top",
+    "functionalityId": "represents a pear fruit in a food, recipe, or grocery context; indicates a pear flavor, ingredient, or produce item",
+    "intentId": "browse or select pear as a food ingredient or produce item; indicate a pear flavor or fruit category in a food application"
+  },
+  "fa-pedestal": {
+    "appearanceId": "a vertical rectangular column or pillar shape with a wider base platform at the bottom and a flat top platform for display; classical pedestal or plinth outline with a tiered base",
+    "functionalityId": "represents a display pedestal, trophy base, or award platform; indicates a featured or elevated item in a showcase or museum context",
+    "intentId": "highlight or showcase a featured item on a display pedestal; represent an award, trophy, or museum exhibit stand"
+  },
+  "fa-pegasus": {
+    "appearanceId": "a winged horse silhouette in a rearing or galloping pose with large feathered wings spread outward from its sides; mythical horse outline with prominent extended wings",
+    "functionalityId": "represents the mythical winged horse Pegasus or a fantasy creature; indicates a mythology, fantasy, or high-flying theme",
+    "intentId": "represent a mythology or fantasy theme featuring the winged horse Pegasus; indicate a high-speed, legendary, or fantastical concept"
+  },
+  "fa-pen": {
+    "appearanceId": "a diagonal ballpoint pen or writing instrument with a tapered barrel body and a small ballpoint tip at one end; standard pen silhouette at an angle with a pointed tip",
+    "functionalityId": "activates an edit or write mode for a text field or document; opens an inline editor or annotation tool",
+    "intentId": "edit or annotate content in a document or field; activate a writing or editing mode in an interface"
+  },
+  "fa-pen-alt": {
+    "appearanceId": "a diagonal pen with an alternative or distinct barrel style, wider body or different proportions compared to the standard pen, with a pointed tip; alt-style pen silhouette with a broader or varied barrel",
+    "functionalityId": "activates an alternative edit or write mode; opens a secondary or different inline editor",
+    "intentId": "edit content using an alternative pen tool; access a secondary writing or annotation mode in an interface"
+  },
+  "fa-pen-alt-slash": {
+    "appearanceId": "a diagonal alt-style pen silhouette with a diagonal slash line drawn through the barrel; broader pen outline with a strikethrough indicating a disabled edit state",
+    "functionalityId": "disables or indicates unavailable alternative pen editing; shows that an alt pen or write mode is inactive or restricted",
+    "intentId": "indicate that alternative editing or annotation is currently disabled; communicate a read-only state for an alt pen tool"
+  },
+  "fa-pen-circle": {
+    "appearanceId": "a pen or pencil shape enclosed inside a solid or outlined circle container; pen instrument silhouette centered within a circular border",
+    "functionalityId": "activates an edit or compose mode from a circular button; opens an editor within a circular action control",
+    "intentId": "tap a circular edit button to begin writing or editing; access an editor or annotation tool from a round control element"
+  },
+  "fa-pen-fancy": {
+    "appearanceId": "a diagonal calligraphy pen with an elaborate decorative nib at the tip and a slender ornate barrel; fancy calligraphic pen silhouette with a broad angled nib and decorative body",
+    "functionalityId": "represents calligraphy, decorative writing, or stylized text entry; activates a fancy or calligraphic text formatting tool",
+    "intentId": "apply calligraphic or decorative handwriting to a design; access a fancy pen or calligraphy tool in a creative application"
+  },
+  "fa-pen-fancy-slash": {
+    "appearanceId": "a diagonal calligraphic pen with an ornate nib and a diagonal slash line drawn across the barrel; fancy pen silhouette with a strikethrough indicating disabled calligraphy mode",
+    "functionalityId": "disables or removes calligraphic or decorative pen formatting; indicates that the fancy pen tool is inactive or unavailable",
+    "intentId": "disable calligraphic writing or turn off a fancy pen tool; communicate that decorative handwriting mode is not available"
+  },
+  "fa-pen-field": {
+    "appearanceId": "a diagonal pen tip or nib with a small horizontal text-field rectangle or underline bar at its base; pen instrument with a form-field or text-input underline element",
+    "functionalityId": "activates or indicates a text input field for writing; opens a form field or text entry area in a document",
+    "intentId": "fill in a form field or enter text into an input area; access a writable text field in a form or document interface"
+  },
+  "fa-pen-line": {
+    "appearanceId": "a diagonal pen tip with a straight horizontal underline drawn beneath it; pen nib silhouette with a single baseline or underline stroke below",
+    "functionalityId": "represents a pen-with-underline or sign-here action; indicates a signature line or a text underline formatting tool",
+    "intentId": "sign or underscore text with a pen-and-line marker; indicate a signature line or apply underline formatting in a document"
+  },
+  "fa-pen-nib": {
+    "appearanceId": "a diamond or angular calligraphic nib shape pointing downward, isolated without a full pen barrel; pointed dip-pen or fountain-pen nib silhouette with a split tip",
+    "functionalityId": "represents a calligraphy nib, fountain pen tip, or ink-writing tool; activates a precise or calligraphic writing mode",
+    "intentId": "access or apply a calligraphy or ink-writing style; indicate a fountain pen or dip-pen nib in a creative writing interface"
+  },
+  "fa-pen-nib-slash": {
+    "appearanceId": "an angular calligraphic nib shape pointing downward with a diagonal slash line drawn through it; pen nib silhouette with a strikethrough indicating disabled pen input",
+    "functionalityId": "disables or removes a calligraphy nib or ink-writing tool; indicates that the pen nib or writing mode is inactive",
+    "intentId": "disable the calligraphy or ink pen tool in a creative interface; communicate that fountain pen or nib input is currently unavailable"
+  },
+  "fa-pen-paintbrush": {
+    "appearanceId": "two diagonal instruments crossing each other: a slender pen barrel and a paintbrush with a bristle tip, arranged in an X or side-by-side combination; crossed pen and paintbrush silhouette",
+    "functionalityId": "represents a combination of writing and painting tools; accesses a mixed creative mode or design toolset",
+    "intentId": "access creative design tools combining writing and painting; indicate a multi-tool creative or artistic interface"
+  },
+  "fa-pen-ruler": {
+    "appearanceId": "two diagonal instruments crossing each other: a pen barrel and a flat ruler with measurement tick marks, arranged in a crossed or overlapping combination; crossed pen and ruler silhouette",
+    "functionalityId": "represents a combination of writing and measurement tools; accesses a design layout or drafting mode with precise measurements",
+    "intentId": "access design or drafting tools that combine writing and measurement; indicate a layout or technical drawing interface"
+  },
+  "fa-pen-slash": {
+    "appearanceId": "a diagonal ballpoint pen silhouette with a diagonal slash line drawn across the barrel; standard pen outline with a strikethrough indicating read-only or disabled edit mode",
+    "functionalityId": "disables or indicates unavailable edit mode; shows that writing or annotation is currently inactive or restricted",
+    "intentId": "communicate that editing is disabled or in read-only mode; indicate that pen or text editing is not currently permitted"
+  },
+  "fa-pen-square": {
+    "appearanceId": "a pen or pencil nib shape enclosed inside a solid or outlined square container; pen instrument silhouette within a square border",
+    "functionalityId": "activates an edit or compose mode from a square button; opens an editor within a square action control",
+    "intentId": "tap a square edit button to begin writing or composing; access an editor or text input from a square control element"
+  },
+  "fa-pen-swirl": {
+    "appearanceId": "a diagonal pen combined with a looping swirl or cursive flourish line extending from its tip; pen silhouette with a decorative spiral or cursive stroke emerging from the nib",
+    "functionalityId": "represents a decorative or signature writing action with a flourish; activates a stylized or signature pen mode",
+    "intentId": "apply a stylized or signature writing flourish to a design; access a decorative pen or cursive writing tool"
+  },
+  "fa-pencil": {
+    "appearanceId": "a diagonal hexagonal-bodied pencil with a tapered pointed tip at one end and a small eraser cap at the other; standard pencil silhouette with a hexagonal barrel and sharpened tip",
+    "functionalityId": "activates an edit, draw, or annotate mode for a document or canvas; enables freehand writing or light editing",
+    "intentId": "edit, annotate, or sketch on a document or canvas; activate a pencil or drawing tool in an interface"
+  },
+  "fa-pencil-mechanical": {
+    "appearanceId": "a cylindrical mechanical pencil with a slender barrel, a small push-button click mechanism at the top, and a thin lead tip at the bottom; mechanical pencil silhouette with a clickable top and narrow lead point",
+    "functionalityId": "represents a mechanical pencil for precise drawing or writing; activates a precision drawing or drafting mode",
+    "intentId": "use a mechanical pencil for precise drawing or drafting; access a fine-point annotation or drawing tool"
+  },
+  "fa-pencil-slash": {
+    "appearanceId": "a diagonal hexagonal-bodied pencil silhouette with a diagonal slash line drawn across the barrel; standard pencil outline with a strikethrough indicating disabled draw or edit mode",
+    "functionalityId": "disables or indicates unavailable pencil editing or drawing; shows that the pencil tool or annotation mode is inactive",
+    "intentId": "communicate that pencil drawing or annotation is disabled; indicate that edit mode via pencil is currently not available"
+  },
+  "fa-pennant": {
+    "appearanceId": "a small triangular flag shape with a wide flat edge on the left and a pointed tip on the right, attached to a short vertical pole or staff; pennant flag silhouette with a triangular taper and a pole",
+    "functionalityId": "represents a sports pennant, achievement flag, or bookmark marker; indicates a team, victory, or notable milestone",
+    "intentId": "mark a sports team, achievement, or milestone with a pennant flag; indicate a victory or featured item in a sports or events interface"
+  },
+  "fa-people": {
+    "appearanceId": "two or more human silhouettes standing side by side with rounded heads and body outlines; multiple upright person shapes arranged in a row",
+    "functionalityId": "represents a group of people, a team, or a community; accesses a user list, team management, or social feature",
+    "intentId": "manage or view a group of users or team members; access community, social, or multi-user features in an application"
+  },
+  "fa-people-arrows": {
+    "appearanceId": "two human silhouettes facing away from each other with a double-headed arrow or two opposing arrows between them; pair of person outlines with diverging or opposing directional arrows",
+    "functionalityId": "represents social distancing, separation, or people moving apart; indicates physical distancing guidelines or user separation rules",
+    "intentId": "enforce or communicate social distancing or separation requirements; indicate that users or people should maintain distance"
+  },
+  "fa-people-carry": {
+    "appearanceId": "two human silhouettes side by side each with an arm raised, collectively supporting or carrying a box or object between them; paired person outlines lifting a shared load together",
+    "functionalityId": "represents collaborative lifting, moving, or teamwork in carrying an object; indicates a shared physical task or cooperative effort",
+    "intentId": "collaborate on moving or carrying items as a team; indicate a cooperative task or shared physical effort in an interface"
+  },
+  "fa-people-dress": {
+    "appearanceId": "one or more human silhouettes wearing a dress or skirt garment, with the lower body forming a triangular or flared dress shape; person outlines with a dress or skirt lower body",
+    "functionalityId": "represents people wearing dresses or skirts; filters or indicates dress-wearing figures in a fashion, gender, or demographic context",
+    "intentId": "filter or indicate dress-wearing individuals in a fashion or demographic context; represent female-presenting or dress-wearing people in an interface"
+  },
+  "fa-people-dress-simple": {
+    "appearanceId": "a simplified single human silhouette with a minimal dress or skirt shape on the lower body, using fewer details than the full dress variant; simplified person outline with a basic dress or skirt form",
+    "functionalityId": "represents a simplified or minimal dress-wearing person; indicates a basic dress or skirt figure in a reduced-detail context",
+    "intentId": "display a simple or minimal representation of a dress-wearing person; use a basic gender or clothing indicator in a low-detail design"
+  },
+  "fa-people-group": {
+    "appearanceId": "three or more human silhouettes clustered closely together in a group arrangement, with overlapping or adjacent body shapes; multiple person outlines arranged in a compact cluster",
+    "functionalityId": "represents a crowd, community, or grouped set of users; accesses group management, community features, or multi-user settings",
+    "intentId": "manage or represent a group or community of people; access multi-user community features or crowd-related functionality"
+  },
+  "fa-people-line": {
+    "appearanceId": "three or more human silhouettes standing in a horizontal row or queue line with equal spacing; multiple upright person shapes evenly arranged in a single horizontal line",
+    "functionalityId": "represents a queue, lineup, or ordered list of people; indicates a waiting line, rollcall, or sequential user arrangement",
+    "intentId": "manage a queue or lineup of people; indicate a waiting line or ordered sequence of users in an interface"
+  },
+  "fa-people-pants": {
+    "appearanceId": "one or more human silhouettes with legs visibly separated into a pants or trousers shape on the lower body; person outlines with a distinctly bifurcated pants lower body",
+    "functionalityId": "represents people wearing trousers or pants; filters or indicates pants-wearing figures in a fashion, gender, or demographic context",
+    "intentId": "filter or indicate pants-wearing individuals in a fashion or demographic context; represent individuals wearing trousers in an interface"
+  },
+  "fa-people-pants-simple": {
+    "appearanceId": "a simplified single human silhouette with a minimal bifurcated pants or trousers shape on the lower body, using fewer details than the full pants variant; simplified person outline with a basic pants or trousers form",
+    "functionalityId": "represents a simplified or minimal pants-wearing person; indicates a basic trouser-wearing figure in a reduced-detail context",
+    "intentId": "display a simple or minimal representation of a pants-wearing person; use a basic clothing or gender indicator in a low-detail design"
+  }
+}

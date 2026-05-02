@@ -1,0 +1,242 @@
+{
+  "fa-sort-up-down": {
+    "appearanceId": "an upward-pointing triangle or caret stacked directly above a downward-pointing triangle or caret, forming a bidirectional sort indicator; two opposing arrowheads arranged vertically tip-to-tip",
+    "functionalityId": "toggles or indicates a bidirectional sort order for a column or list; switches between ascending and descending sort modes",
+    "intentId": "sort a list or table column in either ascending or descending order; indicate that a field supports bidirectional sorting"
+  },
+  "fa-soup": {
+    "appearanceId": "a wide shallow bowl silhouette filled with liquid and a spoon resting across the rim or inside; round soup bowl outline with a ladle or spoon handle",
+    "functionalityId": "represents a soup dish or hot liquid food item in a menu or recipe context; indicates a soup course or warm food category",
+    "intentId": "select or display a soup dish in a food ordering or recipe application; indicate a hot liquid meal or soup course"
+  },
+  "fa-spa": {
+    "appearanceId": "a stylized flower or lotus blossom silhouette with rounded petals radiating from a central point, suggesting a spa or wellness motif; open petal flower outline with a soft organic shape",
+    "functionalityId": "represents a spa, wellness center, or relaxation service; indicates beauty treatments, massage, or holistic health options",
+    "intentId": "find or indicate a spa or wellness facility; access relaxation or beauty treatment services in a travel or health application"
+  },
+  "fa-space-station-moon": {
+    "appearanceId": "a crescent moon shape combined with a circular space station ring or docking structure, suggesting an orbital facility near the moon; crescent moon outline with an attached or overlapping ring station",
+    "functionalityId": "represents a lunar space station or moon-orbiting facility; indicates a space base, orbital installation, or science-fiction station theme",
+    "intentId": "indicate a lunar or moon-orbiting space station; represent a space base or orbital facility in a science-fiction or space exploration interface"
+  },
+  "fa-space-station-moon-alt": {
+    "appearanceId": "an alternative view of a crescent moon combined with a circular space station ring structure, with a slightly different arrangement or orientation of the ring and moon elements; alternate crescent moon with ring station layout",
+    "functionalityId": "represents an alternative depiction of a lunar space station or moon-orbiting facility; indicates a space base or orbital structure variant",
+    "intentId": "indicate an alternate design of a lunar space station; represent a sci-fi orbital facility with a different visual orientation in a space-themed interface"
+  },
+  "fa-spade": {
+    "appearanceId": "a classic playing card spade suit symbol with an inverted heart-shaped top lobes, a pointed bottom tip, and a short stem with a small base; spade suit glyph with a two-lobe head and stem",
+    "functionalityId": "represents the spades suit symbol in a card game or gambling context; indicates a spade category, filter, or suit selection",
+    "intentId": "identify or select the spades suit in a card game or casino interface; indicate a spade-suited category in a playing card application"
+  },
+  "fa-sparkle": {
+    "appearanceId": "a single four-pointed star or starburst shape with elongated narrow diamond points radiating from the center; lone sparkle glyph with four tapering spike rays",
+    "functionalityId": "indicates a highlight, new feature, or AI-generated content marker; adds a sparkle or magic emphasis to a UI element",
+    "intentId": "highlight a new feature, special item, or AI-generated content; add a visual sparkle accent to draw attention in an interface"
+  },
+  "fa-sparkles": {
+    "appearanceId": "two or three four-pointed starburst shapes of varying sizes scattered in a cluster, each with elongated diamond spike points; small group of sparkle glyphs with multi-size four-pointed stars",
+    "functionalityId": "indicates magic, AI-assistance, celebratory flair, or premium content; adds multiple sparkle accents to highlight special or enhanced elements",
+    "intentId": "highlight AI features, magic effects, or celebratory moments; indicate premium or enhanced content with a multi-sparkle visual accent"
+  },
+  "fa-speaker": {
+    "appearanceId": "a single loudspeaker cabinet silhouette viewed from the front with a rectangular box body, a large circular driver cone in the center, and a tweeter or port detail; speaker enclosure outline with a round driver grille",
+    "functionalityId": "represents a single audio speaker or loudspeaker device; controls or indicates an audio output source",
+    "intentId": "select or control a speaker or audio output device; indicate sound playback hardware in an audio or home theater interface"
+  },
+  "fa-speakers": {
+    "appearanceId": "two loudspeaker cabinet silhouettes side by side, each with a rectangular box and a large circular driver cone; stereo speaker pair outline with two round driver grilles",
+    "functionalityId": "represents a stereo speaker pair or multi-speaker audio system; controls or indicates a stereo or surround-sound audio output configuration",
+    "intentId": "select or manage a stereo or multi-speaker audio setup; indicate paired audio output devices in a home theater or sound system interface"
+  },
+  "fa-spell-check": {
+    "appearanceId": "the letters A and B with a checkmark beneath or beside them, or a text cursor with a green checkmark overlay indicating correct spelling; ABC letters with a verification tick mark",
+    "functionalityId": "activates or indicates a spell-check feature in a text editor or input field; verifies correct spelling of entered text",
+    "intentId": "check and correct spelling in a document or text field; enable spell-check functionality in a writing or editing interface"
+  },
+  "fa-spider": {
+    "appearanceId": "a standard orb-weaver spider silhouette with a round body, eight long segmented legs spreading radially, and a smaller head segment; round-bodied arachnid outline with eight radiating legs",
+    "functionalityId": "represents a spider or arachnid in a nature, Halloween, or pest-control context; indicates a creepy-crawly or spooky theme",
+    "intentId": "indicate a spider or arachnid in a nature, Halloween, or pest identification interface; represent a spooky or creepy theme in a seasonal application"
+  },
+  "fa-spider-black-widow": {
+    "appearanceId": "a spider silhouette with a round body featuring a distinct hourglass or red-mark shape on the abdomen, and eight radiating segmented legs; black widow arachnid outline with an hourglass marking on the underbelly",
+    "functionalityId": "represents a black widow spider or a venomous arachnid warning; indicates a dangerous spider species or a toxin-hazard context",
+    "intentId": "identify or warn about a black widow spider or venomous arachnid; indicate a danger or poison hazard from a specific spider species"
+  },
+  "fa-spider-web": {
+    "appearanceId": "a concentric geometric spider web pattern with radial spoke lines crossing multiple circular rings, showing no spider body; circular web outline with radial spokes and concentric ring rings",
+    "functionalityId": "represents a spider web structure or a network mesh pattern; indicates a trap, entanglement, or interconnected web theme",
+    "intentId": "indicate a spider web, network mesh, or entanglement theme; represent a web structure in a Halloween, nature, or network visualization interface"
+  },
+  "fa-spinner": {
+    "appearanceId": "a full near-circle arc with a tapered or faded tail creating a circular loading ring with a small gap; complete loading ring with a graduating tail and small open segment",
+    "functionalityId": "indicates that content or a process is loading or in progress; animates to signal an active background operation",
+    "intentId": "show a loading or processing state while waiting for an action to complete; indicate that the system is working in the background"
+  },
+  "fa-spinner-scale": {
+    "appearanceId": "a circular loading arc similar to a spinner but with proportional scaling indicators or multiple concentric arcs of varying stroke weight; circular arc loading ring with scale-proportional arc thickness",
+    "functionalityId": "indicates a scalable or proportional loading state; represents a loading spinner that adapts its arc to reflect progress or scale",
+    "intentId": "show a scalable or proportionally weighted loading state; indicate background processing with a visually scaled spinner in an interface"
+  },
+  "fa-spinner-third": {
+    "appearanceId": "a partial circular arc covering approximately one-third of a full circle, with tapered ends suggesting rotation; short one-third arc segment forming a partial loading ring",
+    "functionalityId": "indicates a loading or processing state with a shorter partial arc spinner; animates as a minimalist loading indicator",
+    "intentId": "show a compact or lightweight loading state; indicate an active background process with a minimal partial-arc spinner"
+  },
+  "fa-split": {
+    "appearanceId": "a single line or arrow entering from one side and branching into two diverging lines or arrows pointing in separate directions; Y-shaped or fork split path with one input and two outputs",
+    "functionalityId": "splits a flow, path, or data stream into two separate branches; divides a single item or sequence into multiple parts",
+    "intentId": "divide a workflow, path, or data into two branches; indicate a fork or split operation in a process or routing interface"
+  },
+  "fa-splotch": {
+    "appearanceId": "an irregular blob or paint splatter shape with jagged or uneven edges, resembling a random ink blot or paint smear; organic irregular blob outline with rough ragged edges",
+    "functionalityId": "represents a paint splotch, ink splatter, or abstract color blob; indicates a painting tool, random texture, or artistic stain",
+    "intentId": "apply a paint splotch or ink splatter effect in a design or art tool; indicate an abstract color blob or random texture element"
+  },
+  "fa-spoon": {
+    "appearanceId": "a spoon silhouette with an oval bowl at one end and a long straight or slightly tapered handle; eating utensil outline with a rounded scoop head",
+    "functionalityId": "represents a spoon utensil in a food, kitchen, or dining context; indicates a meal, recipe ingredient measurement, or dining setting",
+    "intentId": "indicate a spoon in a food ordering, recipe, or kitchen interface; represent a dining utensil or measurement tool in a culinary application"
+  },
+  "fa-sportsball": {
+    "appearanceId": "a generic round ball silhouette with curved seam lines or panel markings suggesting a sports ball without specifying the sport; circular ball outline with curved stitch or panel detail",
+    "functionalityId": "represents a generic sports ball or athletic sport activity; indicates a sports category, game, or recreational activity",
+    "intentId": "indicate a sports activity or athletic category; represent a generic sports ball in a recreation, fitness, or event interface"
+  },
+  "fa-spray-can": {
+    "appearanceId": "an aerosol spray can silhouette with a cylindrical body, a nozzle cap on top, and small dots or a spray mist cloud emitting from the nozzle; upright aerosol can outline with a spray burst at the tip",
+    "functionalityId": "represents a spray can or aerosol applicator in a painting or cleaning context; applies color, paint, or a spray effect in a design tool",
+    "intentId": "apply spray paint or aerosol coating in a design or art interface; indicate a spray can tool for painting or surface treatment"
+  },
+  "fa-sprinkler": {
+    "appearanceId": "a ground-level sprinkler head silhouette with a small rotating nozzle body and multiple water arc streams spraying outward in a fan or arc pattern; lawn sprinkler head with outward water spray arcs",
+    "functionalityId": "represents a lawn or irrigation sprinkler in a gardening or landscaping context; controls or schedules a water sprinkler system",
+    "intentId": "control or schedule a lawn sprinkler or irrigation system; indicate water distribution in a gardening or smart home interface"
+  },
+  "fa-sprinkler-ceiling": {
+    "appearanceId": "a ceiling-mounted fire suppression sprinkler head silhouette viewed from below, with a small circular or cross-shaped deflector plate and downward water spray arcs; overhead ceiling sprinkler with a deflector plate and downward spray pattern",
+    "functionalityId": "represents a ceiling-mounted fire suppression sprinkler; indicates a fire protection system, water activation, or building safety feature",
+    "intentId": "indicate a ceiling fire sprinkler or suppression system; represent building fire safety equipment in a safety or smart building interface"
+  },
+  "fa-sprout": {
+    "appearanceId": "a small plant sprout silhouette with a short stem and two small rounded leaves unfurling upward from a soil line or seed; seedling outline with a slim stalk and two leaf buds",
+    "functionalityId": "represents a plant sprout, seedling, or new growth in a gardening or ecology context; indicates growth, sustainability, or a new beginning",
+    "intentId": "indicate plant growth, sustainability, or an eco-friendly theme; represent a seedling or new beginning in a gardening or environmental interface"
+  },
+  "fa-square": {
+    "appearanceId": "a plain filled or outlined square shape with four equal straight sides and right-angle corners; basic square geometric form with no interior markings",
+    "functionalityId": "represents a square shape, a checkbox, or a solid block element; selects, marks, or indicates a square item or region",
+    "intentId": "select or mark a square region or checkbox; indicate a square shape or block element in a design or form interface"
+  },
+  "fa-square-0": {
+    "appearanceId": "a square container with the digit 0 centered inside; square badge enclosing the numeral zero",
+    "functionalityId": "labels or indicates the number zero in a square badge; represents an item indexed or tagged with the value 0",
+    "intentId": "identify or label an item with the number zero in a square badge; use a zero-indexed square marker in a list or grid interface"
+  },
+  "fa-square-1": {
+    "appearanceId": "a square container with the digit 1 centered inside; square badge enclosing the numeral one",
+    "functionalityId": "labels or indicates the number one in a square badge; represents the first item or a step numbered 1",
+    "intentId": "identify or label the first item with a square numbered badge; indicate step one or item one in a sequenced list or interface"
+  },
+  "fa-square-2": {
+    "appearanceId": "a square container with the digit 2 centered inside; square badge enclosing the numeral two",
+    "functionalityId": "labels or indicates the number two in a square badge; represents the second item or a step numbered 2",
+    "intentId": "identify or label the second item with a square numbered badge; indicate step two or item two in a sequenced list or interface"
+  },
+  "fa-square-3": {
+    "appearanceId": "a square container with the digit 3 centered inside; square badge enclosing the numeral three",
+    "functionalityId": "labels or indicates the number three in a square badge; represents the third item or a step numbered 3",
+    "intentId": "identify or label the third item with a square numbered badge; indicate step three or item three in a sequenced list or interface"
+  },
+  "fa-square-4": {
+    "appearanceId": "a square container with the digit 4 centered inside; square badge enclosing the numeral four",
+    "functionalityId": "labels or indicates the number four in a square badge; represents the fourth item or a step numbered 4",
+    "intentId": "identify or label the fourth item with a square numbered badge; indicate step four or item four in a sequenced list or interface"
+  },
+  "fa-square-5": {
+    "appearanceId": "a square container with the digit 5 centered inside; square badge enclosing the numeral five",
+    "functionalityId": "labels or indicates the number five in a square badge; represents the fifth item or a step numbered 5",
+    "intentId": "identify or label the fifth item with a square numbered badge; indicate step five or item five in a sequenced list or interface"
+  },
+  "fa-square-6": {
+    "appearanceId": "a square container with the digit 6 centered inside; square badge enclosing the numeral six",
+    "functionalityId": "labels or indicates the number six in a square badge; represents the sixth item or a step numbered 6",
+    "intentId": "identify or label the sixth item with a square numbered badge; indicate step six or item six in a sequenced list or interface"
+  },
+  "fa-square-7": {
+    "appearanceId": "a square container with the digit 7 centered inside; square badge enclosing the numeral seven",
+    "functionalityId": "labels or indicates the number seven in a square badge; represents the seventh item or a step numbered 7",
+    "intentId": "identify or label the seventh item with a square numbered badge; indicate step seven or item seven in a sequenced list or interface"
+  },
+  "fa-square-8": {
+    "appearanceId": "a square container with the digit 8 centered inside; square badge enclosing the numeral eight",
+    "functionalityId": "labels or indicates the number eight in a square badge; represents the eighth item or a step numbered 8",
+    "intentId": "identify or label the eighth item with a square numbered badge; indicate step eight or item eight in a sequenced list or interface"
+  },
+  "fa-square-9": {
+    "appearanceId": "a square container with the digit 9 centered inside; square badge enclosing the numeral nine",
+    "functionalityId": "labels or indicates the number nine in a square badge; represents the ninth item or a step numbered 9",
+    "intentId": "identify or label the ninth item with a square numbered badge; indicate step nine or item nine in a sequenced list or interface"
+  },
+  "fa-square-a": {
+    "appearanceId": "a square container with the uppercase letter A centered inside; square badge enclosing the first letter of the alphabet",
+    "functionalityId": "labels or indicates the letter A in a square badge; represents an item indexed or categorized with the letter A",
+    "intentId": "identify or label an item with the letter A in a square badge; use an A-indexed square marker in a list, grid, or categorization interface"
+  },
+  "fa-square-a-lock": {
+    "appearanceId": "a square container with the uppercase letter A centered inside and a small padlock badge overlaid at one corner; square badge with the letter A and a lock symbol overlay",
+    "functionalityId": "represents a locked or access-restricted A-labeled item or section; indicates that the A-keyed content requires authentication or is protected",
+    "intentId": "indicate that an A-labeled section or item is locked or requires access credentials; represent a secure or restricted A-category in an interface"
+  },
+  "fa-square-ampersand": {
+    "appearanceId": "a square container with an ampersand character centered inside; square badge enclosing the & symbol",
+    "functionalityId": "represents the ampersand symbol within a square badge; inserts or labels content with an & character in a typographic or code context",
+    "intentId": "insert or indicate an ampersand symbol in a square container; represent a join, combination, or typographic & character in a design or text interface"
+  },
+  "fa-square-arrow-down-left": {
+    "appearanceId": "a square container with a diagonal arrow pointing toward the lower-left corner inside; square badge enclosing a downward-left direction arrow",
+    "functionalityId": "navigates or moves content toward the lower-left direction; indicates a download, collapse, or move-to-lower-left action",
+    "intentId": "navigate or direct content to the lower-left; indicate a downward-left movement or collapse action in a layout or navigation interface"
+  },
+  "fa-square-arrow-down-right": {
+    "appearanceId": "a square container with a diagonal arrow pointing toward the lower-right corner inside; square badge enclosing a downward-right direction arrow",
+    "functionalityId": "navigates or moves content toward the lower-right direction; indicates a download, expand, or move-to-lower-right action",
+    "intentId": "navigate or direct content to the lower-right; indicate a downward-right movement or expand action in a layout or navigation interface"
+  },
+  "fa-square-arrow-up-left": {
+    "appearanceId": "a square container with a diagonal arrow pointing toward the upper-left corner inside; square badge enclosing an upward-left direction arrow",
+    "functionalityId": "navigates or moves content toward the upper-left direction; indicates an upload, collapse, or move-to-upper-left action",
+    "intentId": "navigate or direct content to the upper-left; indicate an upward-left movement or back-navigation action in a layout or interface"
+  },
+  "fa-square-b": {
+    "appearanceId": "a square container with the uppercase letter B centered inside; square badge enclosing the second letter of the alphabet",
+    "functionalityId": "labels or indicates the letter B in a square badge; represents an item indexed or categorized with the letter B",
+    "intentId": "identify or label an item with the letter B in a square badge; use a B-indexed square marker in a list, grid, or categorization interface"
+  },
+  "fa-square-binary": {
+    "appearanceId": "a square container with the digits 0 and 1 arranged inside to suggest binary code, such as a small grid or row of binary digits; square badge enclosing binary 0 and 1 digit characters",
+    "functionalityId": "represents binary data, programming code, or a digital computing concept; indicates a binary value, toggle state, or low-level data context",
+    "intentId": "indicate binary data or a digital computing concept; represent a binary value or programming context in a developer or data interface"
+  },
+  "fa-square-bolt": {
+    "appearanceId": "a square container with a lightning bolt or zigzag chevron shape centered inside; square badge enclosing a lightning bolt symbol",
+    "functionalityId": "represents a power action, electric feature, or quick-activation button in a square badge; indicates an energy, charge, or speed function",
+    "intentId": "trigger a power action, quick feature, or energy function from a square button; indicate an electric or high-speed operation in an interface"
+  },
+  "fa-square-c": {
+    "appearanceId": "a square container with the uppercase letter C centered inside; square badge enclosing the third letter of the alphabet",
+    "functionalityId": "labels or indicates the letter C in a square badge; represents an item indexed or categorized with the letter C",
+    "intentId": "identify or label an item with the letter C in a square badge; use a C-indexed square marker in a list, grid, or categorization interface"
+  },
+  "fa-square-code": {
+    "appearanceId": "a square container with a code bracket pair or angle-bracket symbols centered inside, such as less-than and greater-than signs; square badge enclosing left and right angle-bracket code symbols",
+    "functionalityId": "represents a code snippet, developer feature, or programming element within a square badge; opens or indicates a code editing or viewing context",
+    "intentId": "access or indicate a code block or developer feature in a square container; represent programming content or a code editor in a developer interface"
+  },
+  "fa-square-d": {
+    "appearanceId": "a square container with the uppercase letter D centered inside; square badge enclosing the fourth letter of the alphabet",
+    "functionalityId": "labels or indicates the letter D in a square badge; represents an item indexed or categorized with the letter D",
+    "intentId": "identify or label an item with the letter D in a square badge; use a D-indexed square marker in a list, grid, or categorization interface"
+  }
+}

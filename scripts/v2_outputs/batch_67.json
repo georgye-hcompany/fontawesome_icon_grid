@@ -1,0 +1,242 @@
+{
+  "fa-user-shakespeare": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, wearing a large ruffled Elizabethan collar (ruff) around the neck area; person outline with a wide pleated ruff collar at the neck",
+    "functionalityId": "represents a Shakespearean or Elizabethan-era character persona; indicates a theatrical, literary, or period-costumed user role",
+    "intentId": "select or display a Shakespearean character user avatar; represent a theatrical or literary persona in a creative or educational interface"
+  },
+  "fa-user-shield": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a shield badge to the lower right of the figure; person outline with a protective shield badge overlay",
+    "functionalityId": "represents a protected, secured, or trusted user account; indicates user security, account protection, or a trust-verified status",
+    "intentId": "protect or mark a user account as secure; indicate a trusted or protected user in a security or admin interface"
+  },
+  "fa-user-slash": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, overlaid with a diagonal slash line cutting through the entire figure; person outline with a negation slash across the silhouette",
+    "functionalityId": "represents a disabled, deactivated, or banned user account; indicates user suspension, removal, or no-user state",
+    "intentId": "disable or ban a user account; indicate that a user is inactive or blocked in an admin or moderation interface"
+  },
+  "fa-user-tag": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a price-tag or label badge to the lower right of the figure; person outline with a tag label badge overlay",
+    "functionalityId": "represents tagging or categorizing a user with a label or role; indicates user tagging, role assignment, or profile categorization",
+    "intentId": "tag or assign a label to a user account; categorize or role-assign a user in a directory or admin interface"
+  },
+  "fa-user-tie": {
+    "appearanceId": "a human figure silhouette with a circular head and a necktie shape visible at the collar of the body outline; person outline with a business necktie at the collar",
+    "functionalityId": "represents a business professional or formally dressed user; indicates a corporate, executive, or professional user role",
+    "intentId": "identify or display a business professional user role; represent a corporate or formal employee persona in a professional or HR interface"
+  },
+  "fa-user-tie-hair": {
+    "appearanceId": "a human figure silhouette with a circular head showing short hair detail and a necktie visible at the collar of the body; person outline with short hair and a business necktie",
+    "functionalityId": "represents a short-haired business professional wearing a tie; indicates a formal corporate persona with a short-hair appearance variant",
+    "intentId": "identify or display a short-haired formal professional user; represent a business persona in a corporate or HR interface"
+  },
+  "fa-user-tie-hair-long": {
+    "appearanceId": "a human figure silhouette with long flowing hair extending below the shoulders and a necktie visible at the collar of the body; person outline with long hair and a business necktie",
+    "functionalityId": "represents a long-haired business professional wearing a tie; indicates a formal corporate persona with a long-hair appearance variant",
+    "intentId": "identify or display a long-haired formal professional user; represent a business persona with long hair in a corporate or HR interface"
+  },
+  "fa-user-times": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by an X mark badge to the lower right of the figure; person outline with an X removal badge overlay",
+    "functionalityId": "represents removing, deleting, or dismissing a user; indicates user deletion, account closure, or rejection of a user",
+    "intentId": "delete or reject a user account; remove a user from a list or system in an admin or moderation interface"
+  },
+  "fa-user-unlock": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by an open padlock badge to the lower right of the figure; person outline with an unlocked padlock badge overlay",
+    "functionalityId": "represents unlocking or restoring access to a user account; indicates account unlock, access restoration, or removing a lockout",
+    "intentId": "unlock or restore a user account; grant access to a previously restricted user in an admin or security interface"
+  },
+  "fa-user-visor": {
+    "appearanceId": "a human figure silhouette with a circular head wearing a visor or protective face-shield extending from the forehead, and the standard shoulder arc; person outline with a visor or face shield on the head",
+    "functionalityId": "represents a user wearing a visor or protective face shield; indicates a safety, sports, or futuristic character role",
+    "intentId": "select or display a visor-wearing user avatar; represent a safety-equipped or futuristic persona in a profile or themed interface"
+  },
+  "fa-user-vneck": {
+    "appearanceId": "a human figure silhouette with a circular head and a V-neckline visible at the collar of the body outline; person outline with a V-neck shirt collar detail",
+    "functionalityId": "represents a casually dressed user wearing a V-neck shirt; indicates a casual or everyday user persona variant",
+    "intentId": "select or display a V-neck shirt user avatar; represent a casual user persona in a profile or character customization interface"
+  },
+  "fa-user-vneck-hair": {
+    "appearanceId": "a human figure silhouette with a circular head showing short hair detail and a V-neckline at the collar; person outline with short hair and a V-neck shirt collar",
+    "functionalityId": "represents a short-haired user wearing a V-neck shirt; indicates a casual persona with a short-hair and V-neck appearance variant",
+    "intentId": "select or display a short-haired V-neck user avatar; represent a casual short-haired persona in a profile or character interface"
+  },
+  "fa-user-vneck-hair-long": {
+    "appearanceId": "a human figure silhouette with long flowing hair extending below the shoulders and a V-neckline at the collar; person outline with long hair and a V-neck shirt collar",
+    "functionalityId": "represents a long-haired user wearing a V-neck shirt; indicates a casual persona with a long-hair and V-neck appearance variant",
+    "intentId": "select or display a long-haired V-neck user avatar; represent a casual long-haired persona in a profile or character interface"
+  },
+  "fa-users": {
+    "appearanceId": "three human figure silhouettes arranged side by side, each with a circular head and shoulder arc, the center figure slightly larger or forward; group of three person outlines forming a crowd",
+    "functionalityId": "represents a group of users, a team, or a community; indicates multi-user contexts, group membership, or community features",
+    "intentId": "access or manage a group or community of users; represent a team or crowd in a social, collaboration, or admin interface"
+  },
+  "fa-users-between-lines": {
+    "appearanceId": "two or three human figure silhouettes centered between two horizontal lines above and below the figures; person outlines sandwiched between a top and bottom horizontal rule",
+    "functionalityId": "represents users positioned within a bounded or constrained space; indicates group containment, queue, or a line-based organizational structure",
+    "intentId": "organize or display users within defined boundaries or a queue; represent a structured group arrangement in a scheduling or queue interface"
+  },
+  "fa-users-class": {
+    "appearanceId": "multiple rows of small human figure silhouettes arranged like seats in a classroom, with rows receding toward a focal point; grid or tiered arrangement of person outlines resembling a classroom seating chart",
+    "functionalityId": "represents a class, lecture group, or educational cohort of users; indicates a student group, class roster, or training session",
+    "intentId": "manage or display a class or educational group of users; represent a cohort or training group in an educational or LMS interface"
+  },
+  "fa-users-cog": {
+    "appearanceId": "two or three human figure silhouettes with a gear or cog badge overlaid on the group; person outlines with a gear settings badge indicating group configuration",
+    "functionalityId": "represents configuring or managing settings for a group of users; indicates group administration, team settings, or multi-user configuration",
+    "intentId": "configure settings for a user group or team; administer group preferences in a team management or admin interface"
+  },
+  "fa-users-crown": {
+    "appearanceId": "two or three human figure silhouettes with a decorative crown shape positioned above the group; person outlines topped with a crown indicating a privileged group",
+    "functionalityId": "represents a premium, VIP, or admin group of users; indicates a top-tier user group, elite team, or privileged community",
+    "intentId": "designate or display a VIP or admin user group; represent a privileged or elite team in a membership or admin interface"
+  },
+  "fa-users-line": {
+    "appearanceId": "several human figure silhouettes arranged in a single horizontal row or line, each with a circular head and shoulder arc; row of person outlines standing in a line",
+    "functionalityId": "represents users standing in a queue or arranged in a line; indicates a waiting queue, ordered list of users, or sequential group arrangement",
+    "intentId": "manage or display a queue or ordered line of users; represent a waiting list or sequential group in a service or scheduling interface"
+  },
+  "fa-users-medical": {
+    "appearanceId": "two or three human figure silhouettes with a medical cross badge overlaid on the group; person outlines with a red-cross or medical-plus badge indicating a healthcare group",
+    "functionalityId": "represents a medical team, clinical staff group, or group of patients; indicates a healthcare user group or medical personnel roster",
+    "intentId": "manage or display a medical team or patient group; represent clinical staff or healthcare users in a hospital or health management interface"
+  },
+  "fa-users-rays": {
+    "appearanceId": "two or three human figure silhouettes with rays or radial lines emanating outward from the group; person outlines surrounded by outward-pointing rays suggesting broadcast or radiation",
+    "functionalityId": "represents a group broadcasting, radiating influence, or spreading a message outward; indicates community outreach, group broadcast, or user influence",
+    "intentId": "broadcast a message or indicate outreach from a user group; represent community influence or group communication in a social or marketing interface"
+  },
+  "fa-users-rectangle": {
+    "appearanceId": "two or three human figure silhouettes enclosed within or positioned on a rectangle border; person outlines contained within a rectangular frame or boundary",
+    "functionalityId": "represents a user group contained within a defined rectangular area or container; indicates a bounded team, group workspace, or contained user list",
+    "intentId": "display or organize a user group within a container or workspace; represent a bounded team or group in a project management or admin interface"
+  },
+  "fa-users-slash": {
+    "appearanceId": "two or three human figure silhouettes overlaid with a diagonal slash line cutting through the group; person outlines with a negation slash indicating group removal or disbanding",
+    "functionalityId": "represents disbanding, blocking, or removing a group of users; indicates group deactivation, ban, or dissolution of a team",
+    "intentId": "remove or disband a user group; indicate that a group is blocked or dissolved in an admin or moderation interface"
+  },
+  "fa-users-viewfinder": {
+    "appearanceId": "two or three human figure silhouettes centered within a viewfinder-style square with corner brackets framing the group; person outlines enclosed in a camera-viewfinder corner bracket frame",
+    "functionalityId": "represents targeting, finding, or focusing on a group of users; indicates user group discovery, audience targeting, or group search",
+    "intentId": "find or target a specific group of users; locate or frame a user group in a discovery or audience targeting interface"
+  },
+  "fa-utensils-slash": {
+    "appearanceId": "a fork and knife silhouette side by side, overlaid with a diagonal slash line crossing through both utensils; dining utensil pair with a negation slash across them",
+    "functionalityId": "represents a no-food, closed kitchen, or fasting state; indicates that dining, food service, or meal options are unavailable",
+    "intentId": "indicate that food or dining is unavailable or restricted; represent a closed restaurant, fasting period, or no-meal status in a food or scheduling interface"
+  },
+  "fa-utility-pole": {
+    "appearanceId": "a tall vertical wooden post with a horizontal crossarm near the top forming a T-shape, with wires or insulators visible on the crossarm; telephone or power pole silhouette with a T-shaped top crossarm",
+    "functionalityId": "represents a utility pole used for electrical or telecommunications infrastructure; indicates power lines, electrical grid, or utility infrastructure",
+    "intentId": "indicate utility infrastructure or power line placement; represent electrical or telecommunications infrastructure in a mapping or utility interface"
+  },
+  "fa-utility-pole-double": {
+    "appearanceId": "two tall vertical wooden posts each with a horizontal crossarm forming T-shapes, connected or paired side by side with wires spanning between them; paired telephone or power poles with connecting crossarms and wires",
+    "functionalityId": "represents a double utility pole arrangement for electrical or telecoms infrastructure; indicates a power line span, dual pole support, or utility grid segment",
+    "intentId": "indicate a dual utility pole span or power line segment; represent electrical grid infrastructure in a mapping, utility, or construction interface"
+  },
+  "fa-v": {
+    "appearanceId": "the uppercase letter V rendered as a plain typographic glyph in a standard serif or sans-serif font; a single capital letter V character",
+    "functionalityId": "represents the letter V as a label, shortcut key, or alphabetic marker; indicates a V-keybinding, version tag, or alphabetical classification",
+    "intentId": "label or indicate something beginning with the letter V; use as a keyboard shortcut indicator or version marker in an interface"
+  },
+  "fa-vacuum": {
+    "appearanceId": "an upright vacuum cleaner silhouette with a long handle and a base cleaning head on the floor; standing vacuum cleaner outline with a vertical pole and a floor-contact head",
+    "functionalityId": "represents a vacuum cleaner used for cleaning floors; indicates cleaning services, housekeeping tasks, or home maintenance",
+    "intentId": "indicate a cleaning task or housekeeping service; represent vacuum or floor cleaning in a household management or cleaning service interface"
+  },
+  "fa-vacuum-robot": {
+    "appearanceId": "a round disc-shaped robotic vacuum cleaner silhouette with a low circular body and small sensor bumps on top; flat circular robot vacuum outline viewed from above or at a slight angle",
+    "functionalityId": "represents a robotic vacuum cleaner for automated floor cleaning; indicates smart home cleaning, autonomous vacuum, or automated housekeeping",
+    "intentId": "control or schedule a robotic vacuum cleaner; indicate automated floor cleaning in a smart home or IoT device interface"
+  },
+  "fa-value-absolute": {
+    "appearanceId": "two vertical parallel lines flanking a variable or number, forming the mathematical absolute value notation; a pair of vertical bar lines enclosing a value symbol",
+    "functionalityId": "represents the mathematical absolute value operation; indicates a non-negative magnitude, absolute value calculation, or numeric expression",
+    "intentId": "apply or display an absolute value operation; represent a mathematical magnitude expression in a calculator or formula editor interface"
+  },
+  "fa-vault": {
+    "appearanceId": "a large rectangular safe or bank vault door with a circular locking wheel handle centered on the front face and hinge details on one side; bank vault door silhouette with a round combination lock wheel",
+    "functionalityId": "represents a secure vault, safe, or locked storage for valuables; indicates high-security storage, encrypted data, or secure credentials",
+    "intentId": "store or access highly secure data or valuables; represent a password vault, secure storage, or credentials manager in a security interface"
+  },
+  "fa-vcard": {
+    "appearanceId": "a rectangular business card shape with a small person or contact icon and horizontal text lines representing name and contact information; business card silhouette with a profile area and text line placeholders",
+    "functionalityId": "represents a digital contact card or vCard format; indicates contact information sharing, electronic business card, or address book entry",
+    "intentId": "share or save contact information as a digital card; represent a contact profile or business card exchange in a contacts or networking interface"
+  },
+  "fa-vector-circle": {
+    "appearanceId": "a circle outline with small square anchor nodes positioned at cardinal points along the path, indicating editable vector control points; circular vector path with corner-handle anchor points at intervals",
+    "functionalityId": "represents a vector circle shape with editable anchor points; indicates vector drawing, circular path editing, or geometric shape creation",
+    "intentId": "draw or edit a vector circle shape; create or manipulate a circular path in a vector graphics or design tool interface"
+  },
+  "fa-vector-polygon": {
+    "appearanceId": "an irregular polygon outline with small square anchor nodes at each vertex indicating editable vector control points; multi-sided polygon path with square handle nodes at each corner vertex",
+    "functionalityId": "represents a vector polygon shape with editable anchor nodes at vertices; indicates vector drawing, polygon editing, or freeform shape creation",
+    "intentId": "draw or edit a vector polygon shape; create or manipulate a polygonal path in a vector graphics or design tool interface"
+  },
+  "fa-vector-square": {
+    "appearanceId": "a square outline with small square anchor nodes at each of the four corners indicating editable vector control points; square vector path with corner handle nodes at all four corners",
+    "functionalityId": "represents a vector square or rectangle shape with editable corner nodes; indicates vector drawing, bounding box selection, or geometric shape editing",
+    "intentId": "draw or edit a vector square shape; create or select a rectangular vector path in a graphic design or illustration tool interface"
+  },
+  "fa-vent-damper": {
+    "appearanceId": "a rectangular vent grille shape with horizontal slats or louver blades visible inside the frame, suggesting an adjustable air damper; rectangular HVAC vent outline with parallel horizontal louver slats",
+    "functionalityId": "represents an HVAC vent damper used to control airflow; indicates air flow regulation, ventilation control, or duct damper settings",
+    "intentId": "control or indicate airflow through a vent damper; represent HVAC ventilation settings in a building management or smart home interface"
+  },
+  "fa-venus": {
+    "appearanceId": "a circle with a small cross extending downward from the bottom of the circle, forming the female gender symbol; circle with a plus-cross stem below representing the Venus or female symbol",
+    "functionalityId": "represents the female gender symbol or the planet Venus; indicates female gender, woman identity, or the Venus astrological symbol",
+    "intentId": "indicate female gender or the Venus symbol; represent a female identity or gender option in a profile or demographic selection interface"
+  },
+  "fa-venus-double": {
+    "appearanceId": "two overlapping or side-by-side Venus symbols, each consisting of a circle with a downward cross stem; paired female gender symbols representing two women",
+    "functionalityId": "represents a female-female relationship, partnership, or dual female gender; indicates a same-sex female relationship or dual female identity",
+    "intentId": "indicate a female-female relationship or dual female gender identity; represent a same-sex female partnership in a profile or relationship status interface"
+  },
+  "fa-venus-mars": {
+    "appearanceId": "a Venus symbol (circle with downward cross) and a Mars symbol (circle with upward-right arrow) joined together side by side; female and male gender symbols combined in a single paired glyph",
+    "functionalityId": "represents a male-female relationship, gender pairing, or heterosexual partnership; indicates a combined gender symbol or opposite-sex relationship",
+    "intentId": "indicate a male-female relationship or combined gender representation; represent a heterosexual partnership or gender pairing in a profile or demographic interface"
+  },
+  "fa-vest": {
+    "appearanceId": "a sleeveless vest or waistcoat garment silhouette showing a front opening, chest shape, and armhole cutouts without sleeves; vest clothing outline with a center-front opening and no sleeves",
+    "functionalityId": "represents a vest or sleeveless jacket garment; indicates clothing selection, wardrobe categorization, or a vest product in a fashion or apparel context",
+    "intentId": "select or display a vest garment; represent a clothing item or outfit component in a fashion, wardrobe, or e-commerce interface"
+  },
+  "fa-vest-patches": {
+    "appearanceId": "a sleeveless vest silhouette with small patch or badge shapes applied on the chest and shoulders area; vest outline with decorative patches or insignia on the fabric",
+    "functionalityId": "represents a vest decorated with patches or insignia, often associated with motorcycle clubs or customized apparel; indicates a patched vest, biker gear, or customized clothing",
+    "intentId": "indicate a patched vest or customized jacket; represent biker culture, club membership, or custom apparel in a themed or community interface"
+  },
+  "fa-vhs": {
+    "appearanceId": "a rectangular VHS tape cassette silhouette with a wide flat body, two circular spool windows visible on the front face, and a recessed tape window at the bottom; VHS cassette tape outline with twin reel windows",
+    "functionalityId": "represents a VHS video tape cassette or analog video format; indicates legacy video media, retro content, or video archive",
+    "intentId": "indicate a VHS or retro video format; represent legacy analog video media in a media library, nostalgia, or archive interface"
+  },
+  "fa-vial": {
+    "appearanceId": "a single narrow cylindrical glass test tube or vial with a slightly tapered base and open or capped top; slender glass tube silhouette with a narrow cylindrical body",
+    "functionalityId": "represents a laboratory vial or test tube used for samples or experiments; indicates scientific testing, lab samples, or chemical storage",
+    "intentId": "indicate a laboratory sample or scientific test; represent a vial or test tube in a medical, research, or laboratory interface"
+  },
+  "fa-vial-circle-check": {
+    "appearanceId": "a single narrow glass vial or test tube with a circular checkmark badge overlaid at the upper portion; glass tube silhouette with a circle-check verification badge",
+    "functionalityId": "represents a verified, passed, or approved laboratory vial or test result; indicates a confirmed lab sample, test passed, or approved specimen",
+    "intentId": "indicate a confirmed or passed lab test result; represent a verified specimen or approved sample in a medical or laboratory interface"
+  },
+  "fa-vial-virus": {
+    "appearanceId": "a single narrow glass vial or test tube with a virus or pathogen icon (circular with protruding spikes) overlaid on or near the tube; glass tube silhouette combined with a spiky virus particle shape",
+    "functionalityId": "represents a vial containing a viral sample or infectious agent; indicates a virus specimen, pathogen storage, or infectious disease testing",
+    "intentId": "indicate a viral or infectious sample stored in a vial; represent a virus specimen or pathogen test in a medical or biosafety interface"
+  },
+  "fa-vials": {
+    "appearanceId": "multiple narrow cylindrical glass test tubes or vials grouped together upright in a row or rack; several glass tube silhouettes arranged side by side in a collection",
+    "functionalityId": "represents multiple laboratory vials or a set of test tubes; indicates a collection of samples, batch testing, or a laboratory sample rack",
+    "intentId": "manage or display a collection of laboratory samples; represent a batch of test tubes or specimen set in a research or clinical interface"
+  },
+  "fa-video": {
+    "appearanceId": "a video camera or camcorder silhouette with a rectangular body and a triangular lens cone protruding from one side, suggesting a recording device; video camera outline with a rectangular body and a side-mounted lens",
+    "functionalityId": "represents a video camera or video content; indicates video recording, playback, video calls, or video media",
+    "intentId": "start a video call, recording, or access video content; represent video media or camera functionality in a communication or media interface"
+  }
+}

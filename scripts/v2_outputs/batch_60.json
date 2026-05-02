@@ -1,0 +1,242 @@
+{
+  "fa-subway-tunnel": {
+    "appearanceId": "a rounded rectangular tunnel opening viewed head-on with railway tracks leading into the dark interior and curved arch walls; arched tunnel portal outline with converging rail tracks inside",
+    "functionalityId": "represents a subway or underground rail tunnel; indicates an underground transit passage or metro rail entry point",
+    "intentId": "navigate to or indicate a subway tunnel or underground rail passage; represent metro transit infrastructure in a transportation or map interface"
+  },
+  "fa-suitcase": {
+    "appearanceId": "a rectangular hard-shell or soft-body suitcase silhouette with a top carry handle, side latches, and a horizontal center seam dividing the two halves; upright luggage case outline with a handle and center dividing line",
+    "functionalityId": "represents travel luggage or a packed suitcase; indicates baggage check-in, packing, or travel management in a travel interface",
+    "intentId": "manage travel luggage or indicate a baggage or packing context; access travel or trip management features in a travel booking interface"
+  },
+  "fa-suitcase-rolling": {
+    "appearanceId": "a rectangular upright rolling suitcase silhouette with a telescoping pull handle extended at the top and small wheels visible at the base; wheeled luggage outline with a retractable handle and base rollers",
+    "functionalityId": "represents a rolling carry-on or checked suitcase; indicates wheeled luggage, travel packing, or baggage in a travel interface",
+    "intentId": "manage rolling luggage or indicate a travel packing context; access baggage or trip management in a travel booking or airport interface"
+  },
+  "fa-sun": {
+    "appearanceId": "a circular sun disc with evenly spaced short straight rays radiating outward in all directions around the perimeter; round sun shape with uniform straight radiating rays",
+    "functionalityId": "represents sunlight, daytime, or a brightness setting; toggles or indicates a light theme or daytime mode in an interface",
+    "intentId": "switch to a light or day mode; indicate sunny weather or adjust brightness settings in an application"
+  },
+  "fa-sun-alt": {
+    "appearanceId": "a circular sun disc with an alternative ray pattern such as alternating long and short rays or a slightly different ray style compared to the standard sun; round sun shape with a varied or alternate ray configuration",
+    "functionalityId": "represents an alternative sun or brightness symbol; indicates an alternate daytime, solar, or light theme setting",
+    "intentId": "switch to a light or day mode using an alternate sun symbol; indicate a solar or brightness context with a variant sun representation"
+  },
+  "fa-sun-cloud": {
+    "appearanceId": "a circular sun disc partially obscured behind or beside a fluffy cloud shape, with sun rays visible peeking around the cloud edges; sun with radiating rays and a cloud overlay partially covering the disc",
+    "functionalityId": "represents partly cloudy weather conditions with some sunshine; indicates a mixed sun-and-cloud weather state in a forecast interface",
+    "intentId": "display partly cloudy weather in a forecast or weather application; indicate a mix of sunshine and cloud cover in a weather widget"
+  },
+  "fa-sun-dust": {
+    "appearanceId": "a circular sun disc with radiating rays and small scattered dot or particle shapes surrounding it suggesting airborne dust or haze particles; round sun with rays and scattered dust particle specks",
+    "functionalityId": "represents dusty or particle-laden sunny conditions; indicates a dust storm or low-air-quality sunny weather in a forecast interface",
+    "intentId": "display dusty or particle-filled sunny weather in a forecast or air quality interface; indicate a dust or haze event in combination with sunshine"
+  },
+  "fa-sun-haze": {
+    "appearanceId": "a circular sun disc with radiating rays and short horizontal wavy lines below or around it suggesting atmospheric haze or heat shimmer; round sun with rays and haze shimmer lines",
+    "functionalityId": "represents hazy or smoggy sunny conditions; indicates reduced visibility due to haze or atmospheric particles in a weather forecast",
+    "intentId": "display hazy sunny weather in a forecast or air quality interface; indicate atmospheric haze or smog in combination with sunshine"
+  },
+  "fa-sun-plant-wilt": {
+    "appearanceId": "a circular sun disc with radiating rays positioned above a small drooping wilted plant with downward-bent leaves and a curved limp stem; sun with rays over a wilting plant silhouette",
+    "functionalityId": "represents extreme heat causing plant wilt or drought stress on vegetation; indicates a heat wave or drought weather condition affecting plants",
+    "intentId": "indicate extreme heat, drought, or plant-wilting conditions in a weather or environmental interface; represent heat stress on vegetation"
+  },
+  "fa-sunglasses": {
+    "appearanceId": "a pair of sunglasses viewed from the front with two large oval or rectangular lenses connected by a nose bridge and side temples; eyewear silhouette with two connected dark lens frames and ear arms",
+    "functionalityId": "represents sunglasses eyewear or UV protection; indicates a cool or summery aesthetic, sun protection, or outdoor eyewear in an interface",
+    "intentId": "select or display sunglasses in a fashion or accessories context; indicate sun protection eyewear or a summer theme in an application"
+  },
+  "fa-sunrise": {
+    "appearanceId": "a circular sun disc rising above a horizontal horizon line with rays radiating upward and outward, with the lower half of the sun below the horizon; sun arc ascending above a horizon baseline with upward rays",
+    "functionalityId": "represents sunrise or the start of a new day; indicates morning time, dawn, or a wake-up alarm in a scheduling or weather interface",
+    "intentId": "indicate sunrise or morning time in a weather, clock, or scheduling interface; represent the start of a new day or dawn event"
+  },
+  "fa-sunset": {
+    "appearanceId": "a circular sun disc descending toward a horizontal horizon line with rays radiating upward and outward, with the lower portion of the sun touching or crossing the horizon; sun arc descending toward a horizon baseline with outward rays",
+    "functionalityId": "represents sunset or the end of the day; indicates evening time, dusk, or a closing event in a scheduling or weather interface",
+    "intentId": "indicate sunset or evening time in a weather, clock, or scheduling interface; represent the end of day or dusk event"
+  },
+  "fa-superscript": {
+    "appearanceId": "a large base letter with a smaller raised letter or number positioned at the upper right as a superscript; typographic character with a smaller elevated glyph at the top-right corner",
+    "functionalityId": "applies superscript text formatting to a selected character or number; raises a selected character above the text baseline in a text editor",
+    "intentId": "format text as superscript in a document or text editor; insert a raised exponent or footnote reference number in written content"
+  },
+  "fa-surprise": {
+    "appearanceId": "a circular face outline with wide open round eyes and a large open O-shaped mouth expressing shock or surprise; round emoji face with circular wide eyes and an open-circle surprised mouth",
+    "functionalityId": "represents a surprised, shocked, or astonished emotional reaction; indicates an unexpected event or surprise state in a messaging or feedback interface",
+    "intentId": "express surprise or astonishment in a messaging or emoji context; indicate an unexpected event or shocked reaction in a feedback interface"
+  },
+  "fa-sushi": {
+    "appearanceId": "a piece of nigiri sushi silhouette with an oval rice mound and a rectangular slice of fish draped over the top; sushi nigiri outline with rice base and fish topping",
+    "functionalityId": "represents a sushi dish or Japanese cuisine item in a food menu; indicates a sushi category or Japanese restaurant option",
+    "intentId": "select or display a sushi item in a food ordering or restaurant menu interface; indicate Japanese cuisine or a sushi category"
+  },
+  "fa-swap": {
+    "appearanceId": "two horizontal arrows pointing in opposite directions, one pointing left and one pointing right, arranged vertically one above the other to indicate a bidirectional swap; two opposing horizontal arrows stacked to show exchange",
+    "functionalityId": "swaps or exchanges two values, items, or states in opposite directions; triggers a two-way exchange action between two elements",
+    "intentId": "exchange or swap two items, values, or states in an interface; perform a two-way switch or trade operation"
+  },
+  "fa-swap-arrows": {
+    "appearanceId": "two curved arrows looping in opposite rotational directions forming a circular exchange pattern, similar to a recycling or sync loop but with two distinctly separate arrow arcs; dual opposing curved arrows in an exchange loop arrangement",
+    "functionalityId": "represents a bidirectional exchange or rotation swap between two elements; triggers a circular swap or alternating rotation action",
+    "intentId": "swap or rotate two elements in a circular exchange; perform a bidirectional or alternating switch in a configuration or layout interface"
+  },
+  "fa-swatchbook": {
+    "appearanceId": "a fanned-out set of rectangular color swatch panels bound together at one corner like a paint chip book, showing overlapping layered swatches; fan-spread color swatch book with layered rectangular panels",
+    "functionalityId": "opens or represents a color palette or swatch selection tool; accesses a collection of color samples in a design or branding interface",
+    "intentId": "select a color from a swatch book or palette in a design or branding tool; access or manage a color sample collection"
+  },
+  "fa-swimmer": {
+    "appearanceId": "a human figure silhouette in a horizontal swimming stroke pose with arms extended forward and legs behind in a crawl or freestyle position; person outline in a horizontal swim stroke posture",
+    "functionalityId": "represents swimming, a swimmer, or aquatic exercise; indicates a swimming pool, water sports, or swim activity in an application",
+    "intentId": "indicate swimming or aquatic exercise in a fitness, sports, or leisure interface; represent a swimming activity or pool amenity"
+  },
+  "fa-sword": {
+    "appearanceId": "a single straight-bladed sword silhouette with a long narrow blade, a cross-shaped guard, and a grip handle with a pommel at the base; classic longsword outline with a straight blade and crossguard",
+    "functionalityId": "represents a sword weapon in a game, fantasy, or combat context; selects or equips a sword item in a role-playing or inventory interface",
+    "intentId": "equip or select a sword in a game or fantasy interface; indicate a weapon, combat, or medieval-themed category"
+  },
+  "fa-sword-laser": {
+    "appearanceId": "a sword silhouette where the blade is replaced by or depicted as a glowing laser beam with a hilt and guard but no metal blade; laser saber hilt outline with a glowing energy beam blade",
+    "functionalityId": "represents a laser sword or sci-fi energy weapon in a game or fantasy context; selects or equips a laser sword in a sci-fi or role-playing interface",
+    "intentId": "equip or select a laser sword in a sci-fi or fantasy game interface; indicate a futuristic energy weapon in a combat or inventory context"
+  },
+  "fa-sword-laser-alt": {
+    "appearanceId": "an alternative laser sword silhouette with a different hilt design, beam angle, or guard style compared to the primary laser sword; alternate laser saber outline with a variant hilt or beam configuration",
+    "functionalityId": "represents an alternate laser sword or second sci-fi energy weapon variant; selects or equips an alternate laser sword style in a game interface",
+    "intentId": "equip or select an alternate laser sword variant in a sci-fi or fantasy game; indicate a secondary or alternative energy weapon style"
+  },
+  "fa-swords": {
+    "appearanceId": "two straight-bladed swords crossed in an X pattern at their centers, with blade tips pointing outward diagonally; pair of crossed longswords in a symmetrical X arrangement",
+    "functionalityId": "represents combat, battle, or a duel between two opponents; indicates a fight, warfare, or competitive clash in a game or strategy interface",
+    "intentId": "indicate combat, warfare, or a battle scenario in a game or strategy interface; represent a duel or conflict event"
+  },
+  "fa-swords-laser": {
+    "appearanceId": "two laser sword silhouettes crossed in an X pattern with glowing energy blades instead of metal blades, with hilts at the outer edges; pair of crossed laser sabers in a symmetrical X arrangement",
+    "functionalityId": "represents a sci-fi laser sword duel or futuristic combat encounter; indicates a laser battle or energy weapon clash in a game or sci-fi interface",
+    "intentId": "indicate a laser sword duel or sci-fi combat encounter in a game interface; represent a futuristic battle or energy weapon clash"
+  },
+  "fa-symbols": {
+    "appearanceId": "a cluster of assorted typographic symbols such as a percent sign, ampersand, dollar sign, or asterisk arranged together in a compact group; multiple special character glyphs arranged in a small grouping",
+    "functionalityId": "represents a collection of special characters or symbols in a text or keyboard interface; opens a symbol picker or character map",
+    "intentId": "insert or browse special characters or symbols in a text editor or keyboard interface; access a symbol or character map in an application"
+  },
+  "fa-synagogue": {
+    "appearanceId": "a synagogue building silhouette with a domed or arched roof, a Star of David emblem on the facade, and arched windows or entrance; Jewish house of worship outline with a dome and Star of David motif",
+    "functionalityId": "represents a synagogue or Jewish place of worship; indicates a Jewish religious site, community center, or religious event location",
+    "intentId": "navigate to or indicate a synagogue or Jewish place of worship; represent a Jewish religious site in a map or directory interface"
+  },
+  "fa-sync": {
+    "appearanceId": "a circular arrow loop formed by two curved arrows chasing each other in a clockwise or counterclockwise direction forming a complete circle; circular sync arrow loop with two sweeping arrow arcs",
+    "functionalityId": "syncs, refreshes, or updates data between a local device and a remote source; triggers a synchronization or reload action",
+    "intentId": "synchronize data with a remote server or refresh the current content; trigger a sync or update operation in an application"
+  },
+  "fa-syringe": {
+    "appearanceId": "a medical syringe silhouette with a cylindrical barrel, a plunger rod at the rear, and a thin needle tip at the front; hypodermic needle outline with a barrel, plunger, and needle",
+    "functionalityId": "represents a medical injection, vaccination, or drug dosage; indicates a syringe for medical, pharmacy, or vaccination context",
+    "intentId": "indicate a medical injection, vaccination, or medication dosage; represent a syringe in a healthcare or pharmacy interface"
+  },
+  "fa-t": {
+    "appearanceId": "a single uppercase letter T glyph in a standard serif or sans-serif typeface; capital letter T typographic character",
+    "functionalityId": "represents the letter T as a label, keyboard key, or text identifier; indicates a text, type, or title element in a design or editor interface",
+    "intentId": "label or identify an item with the letter T; indicate a text, type, or title element in a design, editor, or keyboard interface"
+  },
+  "fa-t-rex": {
+    "appearanceId": "a Tyrannosaurus rex dinosaur silhouette viewed from the side with a large head, tiny forearms, a massive body, strong hindlegs, and a long tail; T-rex dinosaur outline with characteristic small arms and large jaw",
+    "functionalityId": "represents a Tyrannosaurus rex or large carnivorous dinosaur; indicates a dinosaur theme, prehistoric content, or a paleontology category",
+    "intentId": "indicate a dinosaur or prehistoric content theme; represent a T-rex or large carnivore in a game, educational, or entertainment interface"
+  },
+  "fa-table": {
+    "appearanceId": "a rectangular grid of rows and columns with horizontal and vertical dividing lines forming cells; flat data table outline with row and column cell divisions",
+    "functionalityId": "inserts or represents a data table or spreadsheet grid; opens a tabular data view or table editor in an interface",
+    "intentId": "insert or view a data table or spreadsheet grid; manage tabular information in a document or data interface"
+  },
+  "fa-table-cells-column-lock": {
+    "appearanceId": "a rectangular table grid with one or more columns highlighted or marked and a small padlock symbol on a column indicating it is locked; grid outline with a lock badge on a specific column",
+    "functionalityId": "locks one or more columns in a table to prevent editing or scrolling; freezes a column in place within a table or spreadsheet view",
+    "intentId": "lock or freeze a table column to prevent editing or keep it in view while scrolling; manage column lock settings in a spreadsheet or data table"
+  },
+  "fa-table-cells-column-unlock": {
+    "appearanceId": "a rectangular table grid with one or more columns marked and a small open padlock symbol on a column indicating it is unlocked; grid outline with an open lock badge on a specific column",
+    "functionalityId": "unlocks one or more columns in a table to allow editing or free scrolling; releases a frozen or locked column in a table or spreadsheet",
+    "intentId": "unlock or unfreeze a table column to allow editing or scrolling; release a column lock in a spreadsheet or data table interface"
+  },
+  "fa-table-cells-lock": {
+    "appearanceId": "a rectangular table grid with a padlock symbol overlaid on the center or on multiple cells indicating the entire table or its cells are locked; grid outline with a lock badge over the cell area",
+    "functionalityId": "locks the cells of a table to prevent editing or modification; protects all table cells from changes in a spreadsheet or data editor",
+    "intentId": "lock all cells in a table to prevent editing or data modification; protect a table's contents in a spreadsheet or document interface"
+  },
+  "fa-table-cells-row-lock": {
+    "appearanceId": "a rectangular table grid with one or more rows highlighted or marked and a small padlock symbol on a row indicating it is locked; grid outline with a lock badge on a specific row",
+    "functionalityId": "locks one or more rows in a table to prevent editing or keep them fixed during scrolling; freezes a row in place within a table or spreadsheet",
+    "intentId": "lock or freeze a table row to prevent editing or keep it visible while scrolling; manage row lock settings in a spreadsheet or data table"
+  },
+  "fa-table-cells-row-unlock": {
+    "appearanceId": "a rectangular table grid with one or more rows marked and a small open padlock symbol on a row indicating it is unlocked; grid outline with an open lock badge on a specific row",
+    "functionalityId": "unlocks one or more rows in a table to allow editing or free scrolling; releases a frozen or locked row in a table or spreadsheet",
+    "intentId": "unlock or unfreeze a table row to allow editing or scrolling; release a row lock in a spreadsheet or data table interface"
+  },
+  "fa-table-cells-unlock": {
+    "appearanceId": "a rectangular table grid with a small open padlock symbol overlaid on the center or cells indicating the table cells are unlocked and editable; grid outline with an open lock badge over the cell area",
+    "functionalityId": "unlocks the cells of a table to allow editing or modification; removes cell protection in a spreadsheet or data editor",
+    "intentId": "unlock table cells to allow editing or data entry; remove cell protection in a spreadsheet or document interface"
+  },
+  "fa-table-layout": {
+    "appearanceId": "a rectangular grid showing a mixed layout arrangement with some larger merged cells or differently sized blocks suggesting a page or dashboard layout; grid outline with varied-size block sections indicating a layout view",
+    "functionalityId": "represents a customizable table or dashboard layout with rearrangeable sections; configures or previews a table's visual arrangement",
+    "intentId": "configure or preview a table's layout arrangement; customize the visual structure of a data grid or dashboard in a design interface"
+  },
+  "fa-table-picnic": {
+    "appearanceId": "a picnic table silhouette viewed from the side or front with a flat tabletop, attached bench seats extending outward on both sides, and support legs; outdoor picnic table outline with side bench seats",
+    "functionalityId": "represents an outdoor picnic table or park seating area; indicates an outdoor dining spot, recreational area, or park facility",
+    "intentId": "indicate an outdoor picnic area or park seating in a map or leisure interface; represent an outdoor dining or recreational table facility"
+  },
+  "fa-table-pivot": {
+    "appearanceId": "a rectangular table grid with an arrow or rotation indicator suggesting data is being pivoted or transposed, or showing a table with a pivot axis indicator; grid outline with a pivot or transpose rotation arrow",
+    "functionalityId": "pivots or transposes a data table by rotating rows into columns or vice versa; creates a pivot table view from existing tabular data",
+    "intentId": "create or apply a pivot table to reorganize and summarize data; rotate or transpose a data table in a spreadsheet or analytics interface"
+  },
+  "fa-table-tennis": {
+    "appearanceId": "a ping-pong paddle silhouette with a round paddle face and a short handle, often accompanied by a small ball; table tennis paddle outline with a round head and grip handle",
+    "functionalityId": "represents table tennis or ping-pong as a sport or recreational activity; indicates a table tennis facility, game, or sports category",
+    "intentId": "indicate table tennis or ping-pong in a sports, recreation, or game interface; represent a table tennis activity or facility"
+  },
+  "fa-table-tree": {
+    "appearanceId": "a rectangular table grid with a tree hierarchy or expandable row-indent structure visible in the first column, suggesting a tree-view table layout; grid outline with an indented tree-hierarchy row structure in the left column",
+    "functionalityId": "represents a hierarchical tree-view table with expandable parent and child rows; displays nested data in a tree-structured table format",
+    "intentId": "display or navigate hierarchical data in a tree-view table; expand or collapse nested rows in a data grid or file tree interface"
+  },
+  "fa-tablet": {
+    "appearanceId": "a rectangular tablet device silhouette in portrait orientation with a flat screen area and a border bezel, without a visible home button or keyboard; plain tablet frame outline with a screen face and thin bezel",
+    "functionalityId": "represents a tablet computer or touchscreen device; indicates tablet-specific content, apps, or device settings in an interface",
+    "intentId": "access tablet-specific features or indicate a tablet device in an app or settings interface; represent a touchscreen tablet in a device category"
+  },
+  "fa-tablet-alt": {
+    "appearanceId": "a rectangular tablet device silhouette in portrait orientation with a home button circle at the bottom center and a front-facing camera dot at the top; tablet frame outline with a bottom home button and top camera indicator",
+    "functionalityId": "represents an alternative tablet device style with a visible home button; indicates a home-button tablet or an alternate tablet view in an interface",
+    "intentId": "indicate a tablet device with a home button in a device or app interface; represent an older-style or alternate tablet form in a settings or catalog context"
+  },
+  "fa-tablet-button": {
+    "appearanceId": "a rectangular tablet device silhouette with a clearly prominent home button or physical side button shown as a distinguishing feature; tablet outline with a highlighted physical button element",
+    "functionalityId": "represents a tablet with a physical button for navigation or interaction; indicates a tablet home button press or hardware button function",
+    "intentId": "indicate a tablet device's physical button in a hardware or interface guide; represent a home button or navigation button action on a tablet"
+  },
+  "fa-tablet-rugged": {
+    "appearanceId": "a rectangular tablet device silhouette with a thick rubberized outer casing or reinforced bumper frame indicating a ruggedized or industrial-grade device; tablet outline with a heavy-duty protective case border",
+    "functionalityId": "represents a rugged, industrial-grade, or hardened tablet device; indicates field use, outdoor durability, or ruggedized hardware in a device catalog",
+    "intentId": "indicate a rugged or industrial tablet in a field, construction, or outdoor work interface; represent a hardened tablet device in a hardware catalog"
+  },
+  "fa-tablet-screen": {
+    "appearanceId": "a rectangular tablet device silhouette with visible content or interface elements displayed on the screen face; tablet frame outline with a content-filled screen display area",
+    "functionalityId": "represents a tablet screen with active content; indicates a tablet display or screen content in an application or media context",
+    "intentId": "view or interact with content on a tablet screen; indicate a tablet's active display in an app or media interface"
+  },
+  "fa-tablets": {
+    "appearanceId": "two or more small oval or round medication tablet pills shown together, sometimes with a score line or capsule shape; multiple pill or tablet shapes arranged together",
+    "functionalityId": "represents medication tablets or pharmaceutical pills; indicates a drug dosage, medication category, or pharmacy item in a health interface",
+    "intentId": "indicate medication tablets or pharmaceutical pills in a health or pharmacy interface; represent a drug dosage or medication category"
+  }
+}

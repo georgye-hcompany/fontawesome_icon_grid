@@ -1,0 +1,242 @@
+{
+  "fa-video-arrow-down-left": {
+    "appearanceId": "a video camera body silhouette with a lens on the left and a trapezoidal body, with a small diagonal arrow pointing down-and-left as a badge overlaid on the lower-right corner; video camera outline with a down-left directional arrow badge",
+    "functionalityId": "receives or downloads an incoming video stream from a remote source; indicates an incoming video call or video download action",
+    "intentId": "accept or download an incoming video call or video file; indicate a video being received from a remote participant in a conferencing or media interface"
+  },
+  "fa-video-arrow-up-right": {
+    "appearanceId": "a video camera body silhouette with a lens on the left and a trapezoidal body, with a small diagonal arrow pointing up-and-right as a badge overlaid on the upper-right corner; video camera outline with an up-right directional arrow badge",
+    "functionalityId": "sends or uploads an outgoing video stream to a remote destination; indicates initiating a video call or sharing a video to an external location",
+    "intentId": "share or upload a video to a remote participant or platform; initiate an outgoing video call or video export in a conferencing or media interface"
+  },
+  "fa-video-plus": {
+    "appearanceId": "a video camera body silhouette with a lens on the left and a trapezoidal body, with a small plus sign badge overlaid on the lower-right corner; video camera outline with an addition plus badge",
+    "functionalityId": "adds a new video recording, camera feed, or video item to a collection; indicates creating or appending a video entry in a media library",
+    "intentId": "add a new video or start a new video recording in a media or conferencing interface; create or append a video item to a collection or playlist"
+  },
+  "fa-video-slash": {
+    "appearanceId": "a video camera body silhouette with a lens on the left and a trapezoidal body, overlaid with a diagonal slash line cutting through the entire camera shape; video camera outline with a negation slash across it",
+    "functionalityId": "disables or mutes the video camera feed in a conferencing or media application; indicates that video is turned off or unavailable",
+    "intentId": "turn off or mute the video camera in a video call or streaming interface; indicate that video transmission is disabled or blocked"
+  },
+  "fa-vihara": {
+    "appearanceId": "a Buddhist or Hindu temple building silhouette with a tiered multi-level pagoda-style or gabled roof structure, symmetric columns or pillars, and a wide base; ornate temple outline with a multi-tiered roof and columned facade",
+    "functionalityId": "represents a vihara or Buddhist monastery and temple structure; indicates a Buddhist place of worship, religious site, or monastery location",
+    "intentId": "mark or navigate to a Buddhist temple or vihara on a map or directory; represent a Buddhist religious site or monastery in a places or travel interface"
+  },
+  "fa-violin": {
+    "appearanceId": "an hourglass-shaped violin body silhouette with a narrow waist, curved upper and lower bouts, a scroll headstock at the top of the neck, tuning pegs, and f-hole cutouts on the body; stringed instrument outline with a curved hourglass body, scroll headstock, and f-holes",
+    "functionalityId": "represents a violin or orchestral string instrument in a music or performance context; indicates classical music, string section, or orchestral instrument content",
+    "intentId": "indicate a violin, string instrument, or classical music category in a music interface; represent an orchestral or chamber music context in a performance or education application"
+  },
+  "fa-virus": {
+    "appearanceId": "a circular blob shape with multiple short spike protrusions radiating outward around its entire perimeter, resembling a pathogen cell; round virus cell outline with evenly spaced surface spikes",
+    "functionalityId": "represents a computer virus, malware, or biological pathogen; indicates a security threat, infection risk, or antivirus scan action",
+    "intentId": "indicate a virus threat, malware detection, or pathogen in a security or health interface; represent an infection or security scan result in an antivirus or medical application"
+  },
+  "fa-virus-covid": {
+    "appearanceId": "a circular cell body with a crown-like ring of longer club-tipped spike protrusions arranged symmetrically around the perimeter, forming a coronavirus crown structure; spherical coronavirus outline with regularly spaced club-ended spike proteins",
+    "functionalityId": "represents the COVID-19 coronavirus pathogen specifically; indicates a COVID infection risk, pandemic-related content, or coronavirus health information",
+    "intentId": "indicate COVID-19 related health information or virus status in a medical or public health interface; represent coronavirus pandemic content or infection risk"
+  },
+  "fa-virus-covid-slash": {
+    "appearanceId": "a circular coronavirus cell with crown-like club-tipped spike protrusions, overlaid with a diagonal slash line cutting through the entire shape; coronavirus crown cell outline with a negation slash across it",
+    "functionalityId": "represents COVID-19 prevention, elimination, or a negative COVID test result; indicates virus-free status or anti-COVID measures",
+    "intentId": "indicate a negative COVID test result, virus elimination, or COVID prevention measures in a health interface; represent a COVID-free or anti-pandemic status"
+  },
+  "fa-virus-slash": {
+    "appearanceId": "a circular blob shape with short spike protrusions radiating outward, overlaid with a diagonal slash line cutting through the entire virus shape; round spiked virus cell outline with a negation slash across it",
+    "functionalityId": "represents virus elimination, antivirus protection, or a clear health status; indicates that a virus has been removed or a threat has been neutralized",
+    "intentId": "indicate virus removal, malware elimination, or a clean health status in a security or medical interface; represent antivirus protection or a virus-free result"
+  },
+  "fa-viruses": {
+    "appearanceId": "multiple circular blob shapes each with short spike protrusions scattered across the composition, showing two or three distinct virus cells of varying sizes; a cluster of round spiked virus cells arranged together",
+    "functionalityId": "represents multiple viruses, a viral infection spread, or a collection of pathogens; indicates widespread infection, multiple malware threats, or an epidemic context",
+    "intentId": "indicate multiple viral threats, widespread infection, or an epidemic in a health or security interface; represent a multi-pathogen or multi-malware scenario"
+  },
+  "fa-voicemail": {
+    "appearanceId": "two side-by-side circles or reel shapes with a horizontal connecting bar along the bottom, resembling an old tape cassette reel pair or voicemail symbol; two circular reel shapes joined by a baseline bar",
+    "functionalityId": "accesses or plays back a voicemail message in a phone or communications application; indicates new voicemail messages or an audio inbox",
+    "intentId": "check or listen to voicemail messages in a phone or communications interface; access an audio inbox or recorded message queue"
+  },
+  "fa-volcano": {
+    "appearanceId": "a mountain silhouette with a wide triangular body tapering to a truncated top crater, with wavy lava or eruption plume lines rising from the crater opening; volcanic mountain outline with a crater top and eruption plumes",
+    "functionalityId": "represents a volcanic eruption, geological hazard, or natural disaster event; indicates a volcano landmark, geological feature, or hazard alert",
+    "intentId": "mark a volcano location or eruption hazard on a map or disaster alert interface; represent a geological or natural disaster event in a science or emergency interface"
+  },
+  "fa-volleyball": {
+    "appearanceId": "a circular ball silhouette with curved panel seam lines crossing the surface in a pattern typical of a volleyball, dividing the sphere into sections; round volleyball outline with curved surface seam lines",
+    "functionalityId": "represents a volleyball sport, game, or athletic activity; indicates a volleyball match, beach volleyball event, or sports category",
+    "intentId": "indicate a volleyball sport, event, or team in a sports or recreation interface; represent a volleyball game or athletic activity in a scheduling or fitness application"
+  },
+  "fa-volume": {
+    "appearanceId": "a speaker cone silhouette pointing right with two curved arc lines radiating outward to the right of the cone representing medium sound output; speaker outline with two sound wave arcs to the right",
+    "functionalityId": "represents the audio volume control at a medium level; adjusts or indicates the current audio output level in a media or system interface",
+    "intentId": "adjust or display the audio volume level in a media player or system settings interface; indicate active sound output at a moderate level"
+  },
+  "fa-volume-low": {
+    "appearanceId": "a speaker cone silhouette pointing right with a single short curved arc line radiating to the right of the cone, indicating a low sound level; speaker outline with one small sound wave arc to the right",
+    "functionalityId": "represents the audio volume control at a low level; adjusts or indicates a quiet or reduced audio output in a media or system interface",
+    "intentId": "lower the audio volume or indicate a quiet sound level in a media player or system settings interface; represent a reduced or soft audio output state"
+  },
+  "fa-volume-mute": {
+    "appearanceId": "a speaker cone silhouette pointing right with a diagonal slash line overlaid across the cone and wave area, indicating a muted or silenced state; speaker cone outline with a negation slash across it",
+    "functionalityId": "mutes or silences the audio output in a media player or system interface; indicates that sound is completely suppressed",
+    "intentId": "mute the audio output in a media player or device interface; indicate a silenced or muted sound state in a communications or entertainment application"
+  },
+  "fa-volume-off": {
+    "appearanceId": "a speaker cone silhouette pointing right with no arc lines or wave shapes beside it, showing just the bare speaker cone with no sound output; speaker cone outline alone with no wave arcs",
+    "functionalityId": "represents the audio volume set to zero or turned off with no sound emission; indicates a silent or off state without a slash indicator",
+    "intentId": "turn off or set audio volume to zero in a media player or device interface; indicate a fully silent audio state without an explicit mute symbol"
+  },
+  "fa-volume-slash": {
+    "appearanceId": "a speaker cone silhouette pointing right accompanied by one or more sound wave arcs, with a diagonal slash line cutting across the entire speaker shape; speaker cone with wave arcs and a negation slash overlay",
+    "functionalityId": "mutes or disables audio with an explicit slash over the active speaker shape; indicates that sound is cut off or blocked in a media or system interface",
+    "intentId": "mute or disable audio output in a media or system interface; indicate a slashed or blocked sound state in a conferencing or entertainment application"
+  },
+  "fa-volume-up": {
+    "appearanceId": "a speaker cone silhouette pointing right with three curved arc lines radiating outward to the right, progressively larger, indicating a high sound level; speaker outline with three sound wave arcs of increasing size to the right",
+    "functionalityId": "represents the audio volume control at a high level; increases or indicates a loud audio output in a media player or system interface",
+    "intentId": "increase or indicate a high audio volume level in a media player or device settings interface; represent a loud or maximum sound output state"
+  },
+  "fa-vote-nay": {
+    "appearanceId": "a downward-pointing thumb silhouette with the fist and extended thumb pointing downward, indicating a thumbs-down or negative vote gesture; thumbs-down hand silhouette with fist and downward thumb",
+    "functionalityId": "casts or records a negative vote, disapproval, or nay response in a voting or feedback interface; indicates a thumbs-down or rejection action",
+    "intentId": "submit a negative vote or disapproval in a polling or feedback interface; indicate a nay response or rejection in a voting or rating system"
+  },
+  "fa-vote-yea": {
+    "appearanceId": "an upward-pointing thumb silhouette with the fist and extended thumb pointing upward, indicating a thumbs-up or positive vote gesture; thumbs-up hand silhouette with fist and upward thumb",
+    "functionalityId": "casts or records a positive vote, approval, or yea response in a voting or feedback interface; indicates a thumbs-up or affirmation action",
+    "intentId": "submit a positive vote or approval in a polling or feedback interface; indicate a yea response or endorsement in a voting or rating system"
+  },
+  "fa-vr-cardboard": {
+    "appearanceId": "a rectangular VR headset viewer outline shaped like a folded cardboard box with two circular or oval lens openings side by side on the front face and a strap or head-opening at the back; cardboard VR headset outline with dual circular lens holes",
+    "functionalityId": "represents a cardboard VR viewer or virtual reality headset device; indicates a VR experience, virtual reality content, or immersive media mode",
+    "intentId": "access or launch a VR or virtual reality experience in a media or gaming interface; represent a cardboard or budget VR headset device in a technology or entertainment context"
+  },
+  "fa-w": {
+    "appearanceId": "a single uppercase letter W glyph in a standard serif or sans-serif typeface; capital letter W typographic character",
+    "functionalityId": "represents the letter W as a label, keyboard shortcut key, or text identifier; indicates a W-categorized item or alphabetical marker in an interface",
+    "intentId": "label or identify an item with the letter W; indicate a W-keyed shortcut or alphabetical marker in a design, editor, or keyboard interface"
+  },
+  "fa-waffle": {
+    "appearanceId": "a square waffle grid shape with a criss-cross pattern of perpendicular grooves forming a lattice of raised square cells across the entire face; square waffle outline with a crossed grid pattern of cells",
+    "functionalityId": "represents a waffle food item in a food, menu, or breakfast context; indicates a waffle dish, brunch item, or griddle food category",
+    "intentId": "indicate a waffle or griddle breakfast item in a food or restaurant menu interface; represent a brunch dish or gridded food category in a recipe or ordering application"
+  },
+  "fa-wagon-covered": {
+    "appearanceId": "a four-wheeled wagon silhouette with a large rounded canvas canopy or bonnet arching over the wagon bed, two large spoked wheels at the rear and two smaller ones at the front; covered prairie wagon outline with an arched canvas top and spoked wheels",
+    "functionalityId": "represents a covered wagon or pioneer transport vehicle in a historical or western context; indicates frontier travel, pioneer heritage, or old-west themed content",
+    "intentId": "indicate pioneer, western, or frontier travel in a historical or themed interface; represent a covered wagon in a history, travel, or game context"
+  },
+  "fa-walker": {
+    "appearanceId": "a mobility walker frame silhouette with four legs forming a rectangular open frame structure and two horizontal crossbars for gripping, resembling a standard walking aid frame; four-legged mobility walker frame outline with grip bars",
+    "functionalityId": "represents a walker mobility aid used by elderly or physically limited individuals; indicates mobility assistance, accessibility equipment, or physical therapy context",
+    "intentId": "indicate walker or mobility aid equipment in a healthcare, accessibility, or medical supply interface; represent elderly care or physical rehabilitation equipment"
+  },
+  "fa-walkie-talkie": {
+    "appearanceId": "a rectangular handheld radio transceiver silhouette with a telescoping antenna extending from the top, a speaker grille on the upper body, and button controls on the side; portable two-way radio outline with a top antenna and body speaker grille",
+    "functionalityId": "represents a walkie-talkie or handheld two-way radio communication device; indicates push-to-talk communication, field radio, or radio dispatch",
+    "intentId": "indicate two-way radio communication or push-to-talk messaging in a field operations or communications interface; represent a walkie-talkie or dispatch radio device"
+  },
+  "fa-walking": {
+    "appearanceId": "a human figure silhouette mid-stride with one leg stepping forward and the opposite arm extended forward, depicting a person in a walking motion; pedestrian figure outline with one leg advanced and arms in a walking pose",
+    "functionalityId": "represents a pedestrian walking, a walking route, or step-counting activity; indicates walkability, a pedestrian path, or a walking fitness mode",
+    "intentId": "indicate a walking route, pedestrian zone, or step-counting activity in a fitness or navigation interface; represent a walking mode or pedestrian path"
+  },
+  "fa-wall-brick": {
+    "appearanceId": "a section of brick wall silhouette showing several rows of rectangular brick shapes laid in a staggered offset pattern, forming a masonry wall section; staggered-row rectangular brick wall outline",
+    "functionalityId": "represents a brick wall, masonry structure, or barrier in a construction or building context; indicates a wall element, firewall metaphor, or building material",
+    "intentId": "indicate a wall, barrier, or masonry structure in a construction, security, or architecture interface; represent a brick wall as a physical barrier or building element"
+  },
+  "fa-wallet": {
+    "appearanceId": "a folded bi-fold wallet silhouette showing the closed wallet exterior with a small card pocket or coin slot opening visible on one side; rectangular bi-fold wallet outline with a visible card pocket",
+    "functionalityId": "represents a wallet or payment method holder for storing cards and cash; indicates a payment interface, digital wallet, or financial account access",
+    "intentId": "access a wallet, payment method, or financial account in a payment or e-commerce interface; manage stored cards or funds in a digital wallet application"
+  },
+  "fa-wand": {
+    "appearanceId": "a thin straight rod or stick silhouette tapering slightly at one end, representing a simple magic wand without sparkles; plain straight magic wand rod outline with a tapered tip",
+    "functionalityId": "represents a magic wand tool for applying automatic or smart transformations in a creative application; indicates an auto-fix, smart tool, or magic selection action",
+    "intentId": "apply an automatic fix, transformation, or smart selection in a creative or editing interface; indicate a magic tool or one-click enhancement action"
+  },
+  "fa-wand-sparkles": {
+    "appearanceId": "a thin straight or slightly tapered wand rod silhouette with small starburst or sparkle shapes radiating from the tip or around the upper end; magic wand outline with sparkle or starburst accents at the tip",
+    "functionalityId": "represents a magic wand with sparkle effects, used for AI-powered or smart enhancement tools; indicates a generate, enhance, or AI-assist action in a creative interface",
+    "intentId": "apply a smart enhancement, AI generation, or magic effect in a creative or editing interface; indicate an AI-powered or sparkle-effect transformation tool"
+  },
+  "fa-warehouse": {
+    "appearanceId": "a large rectangular building silhouette with a wide flat-roofed body, a lower front facade with a large loading dock or bay door opening at the base, and a peaked or flat roofline; wide industrial warehouse building outline with a large bay door at the base",
+    "functionalityId": "represents a warehouse or large storage facility for inventory management; indicates a storage location, fulfillment center, or logistics depot",
+    "intentId": "manage inventory or locate a warehouse storage facility in a logistics or supply chain interface; represent a fulfillment center or storage depot in an inventory application"
+  },
+  "fa-warehouse-alt": {
+    "appearanceId": "a large rectangular building silhouette similar to the warehouse shape but with a different door or opening style such as a roll-up shutter door or multiple smaller bay openings instead of a single large dock; wide industrial building outline with an alternate door or bay configuration",
+    "functionalityId": "represents an alternate warehouse or storage facility variant with a different entry configuration; indicates a storage location or industrial building using an alternate architectural style",
+    "intentId": "manage inventory or locate a storage facility using an alternate warehouse representation in a logistics or supply chain interface; represent a different warehouse entrance style"
+  },
+  "fa-warning": {
+    "appearanceId": "an equilateral triangle outline with a pointed apex at the top and a flat horizontal base at the bottom, containing an exclamation mark in the center; triangular caution sign outline with a centered exclamation point",
+    "functionalityId": "alerts the user to a potential warning, hazard, or important caution message; indicates a warning state or cautionary condition requiring attention",
+    "intentId": "alert the user to a warning, caution, or potential hazard in an interface; indicate an important cautionary notice or risk condition that needs acknowledgment"
+  },
+  "fa-washer": {
+    "appearanceId": "a front-loading washing machine silhouette with a boxy rectangular cabinet body, a large circular porthole door centered on the front panel, and small control buttons along the top; front-loader washing machine outline with a circular porthole door and control panel",
+    "functionalityId": "represents a washing machine or laundry appliance in a home or appliance context; indicates laundry settings, appliance control, or a laundry service category",
+    "intentId": "control or indicate a washing machine or laundry appliance in a smart home or appliance management interface; represent a laundry service or wash cycle option"
+  },
+  "fa-watch": {
+    "appearanceId": "a round analog watch face with clock hands inside a circular case, attached to a wristband strap above and below the case; circular watch face outline with a wristband strap",
+    "functionalityId": "represents a wristwatch or timekeeping device; indicates time display, timer functions, or a watch product category in an interface",
+    "intentId": "display the time or access a timer in a clock or scheduling interface; represent a wristwatch product or timekeeping feature in a retail or utility application"
+  },
+  "fa-watch-apple": {
+    "appearanceId": "a smartwatch with a rounded-square or squircle face shape on a wristband strap, with a flat screen display area and a digital crown or side button on the edge; squircle-faced smartwatch outline with a wristband and side digital crown",
+    "functionalityId": "represents an Apple Watch or square-faced smartwatch in a device or wearable context; indicates a smartwatch product, wearable tech, or health-tracking device",
+    "intentId": "represent an Apple Watch or smartwatch device in a product, health tracking, or wearable tech interface; indicate a square-faced smartwatch accessory or connectivity feature"
+  },
+  "fa-watch-calculator": {
+    "appearanceId": "a round or rectangular watch face outline on a wristband strap with a small numeric keypad or calculator button grid visible on the face; watch face outline with a calculator keypad display on the face and a wristband",
+    "functionalityId": "represents a calculator watch or a watch with numeric input capability; indicates a retro digital watch with calculation features or a utility wearable device",
+    "intentId": "indicate a calculator watch or numeric input wearable in a retro, novelty, or utility device interface; represent a watch with built-in computation functionality"
+  },
+  "fa-watch-fitness": {
+    "appearanceId": "a round or rectangular watch face on a wristband strap with activity metrics or a waveform or fitness indicator graphic displayed on the face screen; fitness tracker watch outline with an activity or heart rate display on the face",
+    "functionalityId": "represents a fitness tracker or sports watch that monitors health metrics; indicates activity tracking, heart rate monitoring, or a fitness wearable device",
+    "intentId": "track fitness metrics or activity data with a fitness wearable in a health or sports interface; represent a fitness tracker or smartwatch in a health monitoring application"
+  },
+  "fa-watch-smart": {
+    "appearanceId": "a round or rectangular smartwatch face on a wristband strap with a generic digital screen display suggesting smart app capability, similar to a smartwatch interface but without specific platform branding; smartwatch outline with a screen face and wristband strap",
+    "functionalityId": "represents a generic smartwatch or connected wearable device; indicates smart notifications, app access, or a connected wearable in an interface",
+    "intentId": "manage smartwatch notifications or connected wearable features in a device management or productivity interface; represent a generic smart wearable device"
+  },
+  "fa-water": {
+    "appearanceId": "a series of two or more parallel horizontal wavy lines undulating with smooth crests and troughs, representing a body of water surface; horizontal wave lines with smooth undulating crests indicating a water surface",
+    "functionalityId": "represents water, a body of water, or hydration in a nature or utility context; indicates water supply, flooding, or a water-related feature on a map or dashboard",
+    "intentId": "indicate water, hydration, or a body of water in a nature, utility, or environment interface; represent water supply, flood level, or a water-related feature"
+  },
+  "fa-water-lower": {
+    "appearanceId": "horizontal undulating wavy lines representing a water surface with a downward-pointing arrow below or alongside the waves, indicating a decreasing water level; water wave lines with a downward arrow indicating level decrease",
+    "functionalityId": "represents a decreasing or receding water level; indicates a flood receding, reservoir drop, or water level being lowered",
+    "intentId": "indicate a decreasing or receding water level in a flood monitoring or utility management interface; represent a water level drop in an environmental or water management application"
+  },
+  "fa-water-rise": {
+    "appearanceId": "horizontal undulating wavy lines representing a water surface with an upward-pointing arrow above or alongside the waves, indicating an increasing water level; water wave lines with an upward arrow indicating level rise",
+    "functionalityId": "represents an increasing or rising water level; indicates a flood risk, reservoir rise, or water level increase",
+    "intentId": "indicate a rising or increasing water level in a flood monitoring or utility management interface; represent a flood risk or rising water level in an environmental or emergency application"
+  },
+  "fa-watermelon-slice": {
+    "appearanceId": "a triangular wedge slice of watermelon with a curved rind edge along the outer arc and a flat straight cut side, with small oval seed shapes and a lighter inner flesh area; watermelon wedge slice outline with rind arc, flat cut edge, and seed dots",
+    "functionalityId": "represents a watermelon slice or summer fruit in a food, snack, or summer theme context; indicates a fruit item, summer refreshment, or seasonal food category",
+    "intentId": "indicate a watermelon or summer fruit item in a food, recipe, or seasonal interface; represent a refreshing snack or fruit category in a menu or nutrition application"
+  },
+  "fa-wave": {
+    "appearanceId": "a single undulating wavy line with one or more smooth rounded crests and troughs forming a generic wave shape; generic single wavy line with rounded crests and troughs",
+    "functionalityId": "represents a generic wave, waveform, or undulating pattern in an audio, water, or signal context; indicates a wave shape or oscillation in a visualization or design element",
+    "intentId": "represent a wave, signal, or oscillation pattern in an audio, water, or data visualization interface; indicate a wave shape or waveform element in a design or scientific context"
+  },
+  "fa-wave-sine": {
+    "appearanceId": "a smooth pure sinusoidal wave curve with evenly spaced rounded crests and troughs of equal amplitude, forming a mathematically regular sine wave; smooth regular sine curve with equal crests and troughs at consistent intervals",
+    "functionalityId": "represents a sine wave or periodic signal in an audio, signal processing, or mathematics context; indicates a pure tone, oscillating frequency, or trigonometric wave function",
+    "intentId": "represent a sine wave or periodic signal in an audio engineering, mathematics, or signal processing interface; indicate a pure frequency tone or oscillating waveform in a scientific or audio application"
+  }
+}

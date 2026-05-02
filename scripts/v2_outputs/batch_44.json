@@ -1,0 +1,242 @@
+{
+  "fa-mug-hot": {
+    "appearanceId": "a wide cylindrical mug with a handle on the right side and two or three wavy steam lines rising from the open top; coffee cup outline with rising steam curls",
+    "functionalityId": "represents a hot beverage such as coffee or tea; indicates a warm drink or break time in a food or lifestyle interface",
+    "intentId": "find or order a hot beverage; indicate a coffee break or warm drink option in an application"
+  },
+  "fa-mug-tea": {
+    "appearanceId": "a cylindrical mug with a handle on the right side and a small tea bag string dangling over the rim with a tag; teacup outline with a hanging tea bag and label",
+    "functionalityId": "represents a cup of tea or a tea-brewing action; indicates a tea drink or herbal beverage option",
+    "intentId": "select or order a tea beverage; indicate a tea-related feature or drink menu item"
+  },
+  "fa-mug-tea-saucer": {
+    "appearanceId": "a cylindrical mug with a handle and a tea bag string hanging over the rim, resting on a flat oval saucer beneath; teacup-and-saucer set with a dangling tea bag tag",
+    "functionalityId": "represents a formal tea service or a tea drink presented on a saucer; indicates an elevated tea experience or café-style beverage",
+    "intentId": "select a formal tea service or café beverage; indicate a refined tea drink option in a menu or lifestyle interface"
+  },
+  "fa-mug-marshmallows": {
+    "appearanceId": "a wide cylindrical mug with a handle and several small rounded marshmallow shapes floating on top inside the cup opening; hot cocoa mug outline with marshmallow pieces in the bowl",
+    "functionalityId": "represents a hot chocolate or cocoa drink with marshmallows; indicates a sweet warm beverage or winter comfort drink",
+    "intentId": "select or represent a hot chocolate drink; indicate a cozy winter beverage or sweet hot drink option"
+  },
+  "fa-mushroom": {
+    "appearanceId": "a rounded dome-shaped mushroom cap on a short stubby cylindrical stem; toadstool silhouette with a smooth convex cap and broad base",
+    "functionalityId": "represents a mushroom ingredient or fungus in a food or nature context; indicates a foraging, cooking, or nature category",
+    "intentId": "browse mushroom-related recipes or ingredients; represent a fungus or nature item in a food or outdoor application"
+  },
+  "fa-music": {
+    "appearanceId": "two eighth notes joined by a horizontal beam at the top with downward stems and filled note heads; beamed double music note pair",
+    "functionalityId": "represents audio playback or music content; opens or indicates a music player or audio feature",
+    "intentId": "access or play music or audio content; navigate to a music library or audio playback interface"
+  },
+  "fa-music-alt": {
+    "appearanceId": "a single quarter note with a filled oval head and a vertical stem topped by a small flag; standalone single eighth-note or flagged quarter-note glyph",
+    "functionalityId": "represents music or audio content using an alternative note style; indicates an audio or music feature with a single-note symbol",
+    "intentId": "access music or audio content with an alternate visual representation; navigate to a sound or music interface"
+  },
+  "fa-music-alt-slash": {
+    "appearanceId": "a single flagged musical note glyph with a diagonal slash line drawn through it; alternative single note silhouette with a strikethrough overlay",
+    "functionalityId": "mutes or disables music or audio playback; indicates that sound or music is turned off",
+    "intentId": "mute or disable music playback; indicate that audio content is currently silenced or unavailable"
+  },
+  "fa-music-magnifying-glass": {
+    "appearanceId": "two beamed eighth notes with a magnifying glass overlaid in the lower-right corner; double music note pair with a circular search lens badge",
+    "functionalityId": "searches for a song, artist, or audio track; finds music content within a library or streaming service",
+    "intentId": "search for music or a specific audio track; locate a song or artist in a music library"
+  },
+  "fa-music-slash": {
+    "appearanceId": "two beamed eighth notes joined by a horizontal beam with a diagonal slash line drawn through the pair; double music note silhouette with a forward-slash strikethrough",
+    "functionalityId": "mutes or disables music or audio playback; indicates that sound output is turned off or unavailable",
+    "intentId": "mute or disable music playback; indicate that audio is silenced or the music feature is inactive"
+  },
+  "fa-mustache": {
+    "appearanceId": "a symmetrical curved mustache shape with two upward-curling ends meeting at a center dip; handlebar mustache silhouette with twin outward curls",
+    "functionalityId": "represents a mustache as a style or disguise element; indicates a facial hair option in an avatar or costume interface",
+    "intentId": "add or select a mustache in an avatar customization or costume tool; represent a facial hair style or disguise element"
+  },
+  "fa-n": {
+    "appearanceId": "a single uppercase letter N glyph in a standard serif or sans-serif typeface; plain capital letter N character",
+    "functionalityId": "represents the letter N as an alphabetical index, label, or keyboard shortcut indicator; displays the fourteenth letter of the Latin alphabet",
+    "intentId": "use the letter N as a label, index marker, or alphabetical navigation element; identify an item beginning with or categorized under the letter N"
+  },
+  "fa-naira-sign": {
+    "appearanceId": "an uppercase letter N glyph with two short horizontal double bars crossing through the upper portion of the vertical strokes; Nigerian naira currency symbol with dual crossbars",
+    "functionalityId": "represents the Nigerian naira currency in financial interfaces; displays or inputs a naira monetary value",
+    "intentId": "indicate a price or amount in Nigerian naira; access or display naira currency information in a financial application"
+  },
+  "fa-narwhal": {
+    "appearanceId": "a cetacean body silhouette with a long straight spiral tusk projecting forward from the snout, a rounded head, and small flippers; whale outline with a prominent unicorn-style horn",
+    "functionalityId": "represents a narwhal animal in a wildlife, marine, or fantasy context; indicates an Arctic sea creature or unique animal category",
+    "intentId": "represent a narwhal or Arctic marine animal; use as a whimsical or wildlife icon in a nature or education interface"
+  },
+  "fa-nesting-dolls": {
+    "appearanceId": "two or three stacked matryoshka doll silhouettes of decreasing size nested together, each with a rounded top and cylindrical base; Russian nesting doll set outline with concentric doll shapes",
+    "functionalityId": "represents nested or layered structures, Russian folk art, or a nesting-dolls toy; indicates hierarchical or contained relationships in a data or UI context",
+    "intentId": "visualize a nested or hierarchical data structure; represent Russian folk culture or a layered containment concept"
+  },
+  "fa-network-wired": {
+    "appearanceId": "a hierarchical diagram of small rectangles connected by vertical and horizontal lines, resembling a tree-structured LAN topology; wired network diagram with branching node boxes",
+    "functionalityId": "represents a wired network topology or LAN infrastructure; displays or manages physical network connections and devices",
+    "intentId": "view or configure a wired network setup; manage physical network infrastructure or LAN topology"
+  },
+  "fa-neuter": {
+    "appearanceId": "a circle outline with a single short vertical line extending downward from the bottom, lacking a crossbar or arrow; neuter or sexless gender symbol with a plain downward stem",
+    "functionalityId": "represents the neuter or ungendered symbol in biological or demographic contexts; indicates a non-binary or unspecified gender category",
+    "intentId": "select or indicate a neuter or ungendered classification; represent a neutral gender option in a form or demographic interface"
+  },
+  "fa-newspaper": {
+    "appearanceId": "a folded rectangular sheet with a bold headline text block at the top and several columns of smaller text lines below, with a fold crease on one side; broadsheet newspaper outline with headline and column text",
+    "functionalityId": "represents a news article, publication, or press content; accesses or displays news feed or media content",
+    "intentId": "read or browse news articles and publications; access a news feed or media content section"
+  },
+  "fa-nfc": {
+    "appearanceId": "three progressively larger concentric curved arcs radiating outward to the right, resembling a wireless signal; NFC wave symbol with three nested curved lines",
+    "functionalityId": "represents Near Field Communication capability or NFC tap-to-connect functionality; indicates an NFC-enabled device or transaction point",
+    "intentId": "use NFC to connect or transfer data by tapping devices; access or configure an NFC payment or communication feature"
+  },
+  "fa-nfc-lock": {
+    "appearanceId": "three concentric curved NFC arcs with a small padlock shape overlaid in the lower-right corner; NFC wave symbol with a locked padlock badge",
+    "functionalityId": "represents a locked or secured NFC connection; indicates that NFC access is restricted or requires authentication",
+    "intentId": "secure an NFC channel or restrict NFC access; indicate that an NFC transaction requires authorization"
+  },
+  "fa-nfc-magnifying-glass": {
+    "appearanceId": "three concentric curved NFC arcs with a magnifying glass shape overlaid in the lower-right corner; NFC wave symbol with a circular search lens badge",
+    "functionalityId": "searches for or scans an NFC tag or device; inspects NFC data or discovers nearby NFC-enabled items",
+    "intentId": "scan or search for an NFC tag or device; discover or inspect nearby NFC content"
+  },
+  "fa-nfc-pen": {
+    "appearanceId": "three concentric curved NFC arcs with a diagonal pen or pencil shape overlaid in the lower-right corner; NFC wave symbol with a writing instrument badge",
+    "functionalityId": "writes data to an NFC tag or edits NFC content; programs or configures an NFC chip via a write action",
+    "intentId": "write or program data to an NFC tag; configure or update NFC chip content"
+  },
+  "fa-nfc-signal": {
+    "appearanceId": "three concentric curved NFC arcs with one or two additional smaller signal arcs or dots indicating active transmission; NFC wave symbol with an extra active-signal indicator",
+    "functionalityId": "indicates an active or transmitting NFC signal; shows that NFC communication is currently in progress",
+    "intentId": "confirm that an NFC signal is actively transmitting; monitor or display the live status of an NFC connection"
+  },
+  "fa-nfc-slash": {
+    "appearanceId": "three concentric curved NFC arcs with a diagonal slash line drawn through them; NFC wave symbol with a forward-slash strikethrough overlay",
+    "functionalityId": "disables or indicates unavailable NFC functionality; shows that NFC is turned off or blocked",
+    "intentId": "disable or turn off NFC on a device; indicate that NFC is inactive or unsupported"
+  },
+  "fa-nfc-trash": {
+    "appearanceId": "three concentric curved NFC arcs with a small trash can or waste bin shape overlaid in the lower-right corner; NFC wave symbol with a delete or discard badge",
+    "functionalityId": "deletes or clears NFC tag data; removes a stored NFC record or wipes an NFC chip",
+    "intentId": "delete or wipe data from an NFC tag; clear or remove an NFC record from a device"
+  },
+  "fa-nose": {
+    "appearanceId": "a curved triangular or rounded nose bridge shape with two small oval nostrils at the base; human nose profile outline with visible nostril openings",
+    "functionalityId": "represents a nose in an anatomy, emoji, or avatar customization context; indicates olfactory or scent-related features",
+    "intentId": "customize or select a nose shape in an avatar editor; represent olfactory senses or a facial anatomy element"
+  },
+  "fa-not-equal": {
+    "appearanceId": "two short horizontal parallel lines with a diagonal slash crossing through both; not-equal-to mathematical operator with a strikethrough pair of bars",
+    "functionalityId": "represents a not-equal comparison operator in a mathematical or logical expression; filters or queries items where values differ",
+    "intentId": "apply a not-equal filter or comparison in a data query; indicate that two values are different in a formula or logical expression"
+  },
+  "fa-notdef": {
+    "appearanceId": "a rectangular box outline containing a question mark or a small inner rectangle, representing an undefined or missing glyph placeholder; empty glyph box with a fallback indicator",
+    "functionalityId": "represents a missing or undefined character glyph in a font; indicates that a character has no corresponding visual representation",
+    "intentId": "identify or handle a missing glyph in a font rendering context; indicate an undefined or unsupported character"
+  },
+  "fa-note": {
+    "appearanceId": "a small rectangular paper sheet with a folded corner in the upper-right and a plain body; simple note paper outline with a dog-ear corner fold",
+    "functionalityId": "creates or represents a single text note or memo; displays a plain note item in a notes or annotation interface",
+    "intentId": "create or view a simple note or memo; annotate content with a plain text note"
+  },
+  "fa-note-medical": {
+    "appearanceId": "a small rectangular paper sheet with a folded corner and a medical cross or plus sign badge overlaid on the body; note paper outline with a healthcare cross symbol",
+    "functionalityId": "represents a medical record, clinical note, or health documentation entry; creates or accesses a patient or health-related note",
+    "intentId": "create or access a medical note or clinical record; document health information in a medical or patient care interface"
+  },
+  "fa-note-sticky": {
+    "appearanceId": "a small square paper sheet with a slightly curled or folded lower-right corner suggesting a peel-off adhesive note; sticky note square with a curled corner detail",
+    "functionalityId": "creates or represents a sticky note or quick memo reminder; adds an adhesive annotation to a document or interface",
+    "intentId": "add a sticky note reminder or quick annotation; place a brief memo on a document or workspace"
+  },
+  "fa-notebook": {
+    "appearanceId": "a rectangular notebook with a spiral wire binding along the left edge, a solid cover, and ruled or blank interior pages; spiral-bound notebook outline with a coiled spine",
+    "functionalityId": "represents a notebook or journal for writing notes and records; opens or indicates a note-taking or journal application",
+    "intentId": "open or manage a notebook or journal for note-taking; access a personal writing or record-keeping interface"
+  },
+  "fa-notes": {
+    "appearanceId": "two small rectangular paper sheets with folded corners slightly overlapping or stacked, suggesting multiple notes; dual-note paper stack with dog-ear corners",
+    "functionalityId": "represents a collection of multiple notes or memos; opens or manages a list of text notes in a notes application",
+    "intentId": "view or manage a collection of notes or memos; access a multi-note list or note-taking library"
+  },
+  "fa-notes-medical": {
+    "appearanceId": "a rectangular clipboard or notepad with a medical cross badge and several horizontal ruled lines on the body; clinical notepad outline with a healthcare cross symbol and text lines",
+    "functionalityId": "represents medical notes, clinical documentation, or a patient chart; accesses or creates health records and medical paperwork",
+    "intentId": "access or create medical documentation or a patient chart; manage clinical notes in a healthcare application"
+  },
+  "fa-o": {
+    "appearanceId": "a single uppercase letter O glyph in a standard serif or sans-serif typeface; plain capital letter O character",
+    "functionalityId": "represents the letter O as an alphabetical index, label, or keyboard shortcut indicator; displays the fifteenth letter of the Latin alphabet",
+    "intentId": "use the letter O as a label, index marker, or alphabetical navigation element; identify an item beginning with or categorized under the letter O"
+  },
+  "fa-object-exclude": {
+    "appearanceId": "two overlapping shapes—such as a circle and a rectangle—where the overlapping intersection area is removed, leaving only the non-overlapping outer portions; boolean-exclude result showing two shapes minus their shared overlap",
+    "functionalityId": "performs a boolean exclude operation removing the intersection of two shapes; subtracts the overlapping region from both objects",
+    "intentId": "apply a boolean exclude to remove the overlap between two graphic shapes; create a cutout effect by excluding the shared area"
+  },
+  "fa-object-group": {
+    "appearanceId": "two or more small rectangles enclosed within a larger dashed or solid bounding rectangle, indicating they are grouped together; selection group outline containing multiple inner shapes",
+    "functionalityId": "groups multiple selected objects into a single unit; combines separate elements into one grouped layer or component",
+    "intentId": "group multiple design elements into a single object; combine selected shapes or layers for collective editing"
+  },
+  "fa-object-intersect": {
+    "appearanceId": "two overlapping shapes where only the shared intersection area in the center is highlighted or filled, with the outer portions faded; boolean-intersect result showing the overlap region of two objects",
+    "functionalityId": "performs a boolean intersect operation retaining only the overlapping area of two shapes; extracts the shared region from two overlapping objects",
+    "intentId": "apply a boolean intersect to keep only the overlapping area of two shapes; extract the common region from multiple graphic objects"
+  },
+  "fa-object-subtract": {
+    "appearanceId": "two overlapping shapes where the foreground shape is subtracted from the background shape, leaving a cutout hole in the back object; boolean-subtract result showing a shape with a punched-out foreground cutout",
+    "functionalityId": "performs a boolean subtract operation removing the front shape from the back shape; punches a hole in one object using the outline of another",
+    "intentId": "apply a boolean subtract to cut a shape out of another object; create a cutout in a background shape using a foreground mask"
+  },
+  "fa-object-ungroup": {
+    "appearanceId": "two or more small rectangles with the outer bounding group rectangle broken or dashed with gaps, indicating the group has been dissolved; ungrouped selection outline with a broken or open bounding box",
+    "functionalityId": "ungroups a combined object back into its individual separate components; dissolves a grouped layer into independently editable elements",
+    "intentId": "ungroup a grouped design object into its individual parts; separate a combined element into independently editable shapes"
+  },
+  "fa-object-union": {
+    "appearanceId": "two overlapping shapes merged into a single unified outline with the overlapping boundary removed, forming one combined silhouette; boolean-union result showing two shapes fused into a single merged form",
+    "functionalityId": "performs a boolean union operation merging two or more shapes into one outline; combines overlapping objects into a single unified path",
+    "intentId": "apply a boolean union to merge multiple shapes into one; combine overlapping graphic objects into a single unified shape"
+  },
+  "fa-objects-align-bottom": {
+    "appearanceId": "two or three small rectangles of different heights sitting flush along a common baseline at the bottom edge; shapes with their bottom edges aligned to a horizontal guide",
+    "functionalityId": "aligns selected objects to the bottom edge; snaps the lower edges of multiple elements to a common horizontal baseline",
+    "intentId": "align multiple design elements to the bottom edge; ensure objects share a common lower boundary in a layout"
+  },
+  "fa-objects-align-center-horizontal": {
+    "appearanceId": "two or three small rectangles of different sizes centered along a shared horizontal midline running left to right; shapes aligned to a common horizontal center axis",
+    "functionalityId": "aligns selected objects to the horizontal center axis; centers multiple elements vertically along a shared horizontal midpoint",
+    "intentId": "center multiple design elements along a horizontal axis; align objects to the same vertical midpoint in a layout"
+  },
+  "fa-objects-align-center-vertical": {
+    "appearanceId": "two or three small rectangles of different widths centered along a shared vertical midline running top to bottom; shapes aligned to a common vertical center axis",
+    "functionalityId": "aligns selected objects to the vertical center axis; centers multiple elements horizontally along a shared vertical midpoint",
+    "intentId": "center multiple design elements along a vertical axis; align objects to the same horizontal midpoint in a layout"
+  },
+  "fa-objects-align-left": {
+    "appearanceId": "two or three small rectangles of different widths flush against a common left edge vertical guide; shapes with their left edges aligned to a vertical guide line",
+    "functionalityId": "aligns selected objects to the left edge; snaps the left sides of multiple elements to a common vertical guide",
+    "intentId": "align multiple design elements to the left edge; ensure objects share a common left boundary in a layout"
+  },
+  "fa-objects-align-right": {
+    "appearanceId": "two or three small rectangles of different widths flush against a common right edge vertical guide; shapes with their right edges aligned to a vertical guide line",
+    "functionalityId": "aligns selected objects to the right edge; snaps the right sides of multiple elements to a common vertical guide",
+    "intentId": "align multiple design elements to the right edge; ensure objects share a common right boundary in a layout"
+  },
+  "fa-objects-align-top": {
+    "appearanceId": "two or three small rectangles of different heights with their top edges flush along a common top horizontal guide; shapes with their upper edges aligned to a horizontal guide line",
+    "functionalityId": "aligns selected objects to the top edge; snaps the upper edges of multiple elements to a common horizontal guide",
+    "intentId": "align multiple design elements to the top edge; ensure objects share a common upper boundary in a layout"
+  },
+  "fa-objects-column": {
+    "appearanceId": "two or three small rectangles stacked vertically in a single column with equal spacing between them; shapes arranged in a vertical column layout",
+    "functionalityId": "arranges selected objects into a vertical column; distributes elements evenly in a single vertical stack",
+    "intentId": "arrange design elements into a vertical column layout; distribute objects evenly in a stacked vertical arrangement"
+  }
+}

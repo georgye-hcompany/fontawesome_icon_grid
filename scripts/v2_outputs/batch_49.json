@@ -1,0 +1,242 @@
+{
+  "fa-place-of-worship": {
+    "appearanceId": "a building silhouette with a domed roof or peaked spire at the top and arched entrance below, suggesting a religious structure; worship building outline with a dome or steeple and arched doorway",
+    "functionalityId": "represents a religious building, place of worship, or house of faith; indicates a church, mosque, synagogue, or spiritual gathering location",
+    "intentId": "locate or indicate a place of worship or religious building on a map; represent a faith community or spiritual venue in a directory or navigation interface"
+  },
+  "fa-plane": {
+    "appearanceId": "a top-down airplane silhouette with outstretched swept wings, a fuselage body, and a tail fin; classic aircraft overhead view outline with wing and tail shape",
+    "functionalityId": "represents an airplane or air travel; indicates a flight, airport, or aviation-related feature",
+    "intentId": "indicate air travel or a flight route; access aviation or airport information in a travel application"
+  },
+  "fa-plane-alt": {
+    "appearanceId": "an alternative side-view or slightly stylized airplane silhouette with swept wings, fuselage, and tail unit in a different proportional rendering; alternate aircraft profile outline with wing and tail details",
+    "functionalityId": "represents an airplane or air travel in an alternate visual style; indicates a flight, aircraft, or aviation feature with a secondary icon variant",
+    "intentId": "indicate air travel using an alternative airplane icon style; access flight or aviation content with a different visual treatment"
+  },
+  "fa-plane-arrival": {
+    "appearanceId": "an airplane silhouette angled nose-down in a descending landing approach, often with a dashed runway line or ground line below; aircraft in a downward-tilted arrival pose",
+    "functionalityId": "represents an arriving flight or landing aircraft; indicates an inbound flight, arrivals hall, or landing event",
+    "intentId": "track or display an arriving flight; access arrivals information at an airport or travel interface"
+  },
+  "fa-plane-circle-check": {
+    "appearanceId": "an airplane silhouette with a small filled circle containing a checkmark badge overlaid in the lower-right corner; aircraft outline with a circular check approval badge",
+    "functionalityId": "represents a flight that has been confirmed, cleared, or approved; indicates a verified or check-cleared aircraft status",
+    "intentId": "confirm or display a flight clearance or approval status; indicate a verified or check-passed flight in a travel or aviation interface"
+  },
+  "fa-plane-circle-exclamation": {
+    "appearanceId": "an airplane silhouette with a small filled circle containing an exclamation mark badge overlaid at the corner; aircraft outline with a circular warning or alert badge",
+    "functionalityId": "represents a flight with a warning, alert, or issue requiring attention; indicates a flight delay, disruption, or safety concern",
+    "intentId": "flag a flight with a warning or status alert; indicate a flight disruption, delay, or safety issue in a travel interface"
+  },
+  "fa-plane-circle-xmark": {
+    "appearanceId": "an airplane silhouette with a small filled circle containing an X mark badge overlaid at the corner; aircraft outline with a circular cancellation or blocked badge",
+    "functionalityId": "represents a cancelled, blocked, or rejected flight; indicates a flight cancellation or removal from a schedule",
+    "intentId": "indicate a cancelled or blocked flight in a travel or aviation interface; remove or flag a flight as unavailable"
+  },
+  "fa-plane-departure": {
+    "appearanceId": "an airplane silhouette angled nose-up in an ascending takeoff pose, often with a dashed runway line or ground line below; aircraft in an upward-tilted departure pose",
+    "functionalityId": "represents a departing flight or taking-off aircraft; indicates an outbound flight, departures board, or takeoff event",
+    "intentId": "track or display a departing flight; access departures information at an airport or travel interface"
+  },
+  "fa-plane-lock": {
+    "appearanceId": "an airplane silhouette with a small padlock shape overlaid or placed beside the aircraft body; aircraft outline with a lock badge indicating restricted or secured status",
+    "functionalityId": "represents a locked, restricted, or grounded aircraft; indicates a flight that is unavailable, secured, or access-controlled",
+    "intentId": "indicate a locked or restricted flight or aircraft; represent a secured or access-controlled aviation context"
+  },
+  "fa-plane-prop": {
+    "appearanceId": "a small propeller aircraft silhouette viewed from the front or side showing a spinning propeller disc at the nose and shorter wings; prop plane outline with nose propeller and fuselage",
+    "functionalityId": "represents a propeller-driven light aircraft or small plane; indicates general aviation, private flying, or a prop-engine aircraft type",
+    "intentId": "indicate a propeller aircraft or general aviation flight; access light aircraft or private aviation content in a travel or aviation interface"
+  },
+  "fa-plane-slash": {
+    "appearanceId": "an airplane silhouette with a diagonal slash line drawn through the aircraft body; aircraft outline with a forward-slash strikethrough",
+    "functionalityId": "represents a flight that is cancelled, prohibited, or unavailable; indicates a no-fly zone, grounded aircraft, or flight restriction",
+    "intentId": "indicate a cancelled flight or flight restriction; represent a no-fly zone or grounded aircraft in a travel or aviation interface"
+  },
+  "fa-plane-tail": {
+    "appearanceId": "the tail section of an airplane showing the vertical stabilizer fin and horizontal tail planes without the main fuselage or wings; aircraft tail fin and stabilizer outline only",
+    "functionalityId": "represents the tail section of an aircraft or an airline tail livery; indicates an airline brand, aircraft registration, or tail identification",
+    "intentId": "identify or display an airline tail livery or aircraft tail section; represent an airline brand or aircraft registration in an aviation interface"
+  },
+  "fa-plane-up": {
+    "appearanceId": "an airplane silhouette oriented with the nose pointing straight upward in a vertical climb pose; aircraft outline facing directly upward in a steep ascent",
+    "functionalityId": "represents an aircraft in a steep climb or upward-facing orientation; indicates an upward movement, altitude gain, or ascending flight state",
+    "intentId": "indicate a steep climb or upward flight trajectory; represent an ascending or gaining-altitude state in an aviation interface"
+  },
+  "fa-plane-up-slash": {
+    "appearanceId": "an upward-facing airplane silhouette with a diagonal slash line drawn through the aircraft body; nose-up aircraft outline with a strikethrough cancellation mark",
+    "functionalityId": "represents a cancelled upward climb, a grounded ascending aircraft, or a prohibited steep-climb state; indicates a blocked or cancelled upward flight action",
+    "intentId": "indicate a cancelled or blocked ascending flight; represent a prohibited climb or grounded upward-trajectory aircraft in an aviation interface"
+  },
+  "fa-planet-moon": {
+    "appearanceId": "a large circular planet shape with a smaller crescent or full circle moon orbiting beside or around it; planet disc outline with a companion moon circle",
+    "functionalityId": "represents a planet with a natural moon or a celestial body system; indicates an astronomy, space exploration, or science fiction context",
+    "intentId": "represent a planet and moon system in an astronomy or space-themed application; indicate a celestial body or solar system context"
+  },
+  "fa-planet-ringed": {
+    "appearanceId": "a spherical planet silhouette encircled by a flat elliptical ring band, resembling Saturn's ring system; ringed planet disc outline with an orbital ring ellipse",
+    "functionalityId": "represents a ringed planet like Saturn or a space-themed concept; indicates an astronomy, cosmology, or science fiction context",
+    "intentId": "represent a ringed planet or Saturn in an astronomy or space-themed interface; indicate a celestial or outer-space context"
+  },
+  "fa-plant-wilt": {
+    "appearanceId": "a potted plant silhouette with drooping or downward-curving stem and leaves indicating wilting or dying vegetation; houseplant outline with bent drooping stems",
+    "functionalityId": "represents a wilting, neglected, or dying plant; indicates low water, poor plant health, or a need for care",
+    "intentId": "indicate a plant that needs watering or care; represent poor plant health or a neglected houseplant in a gardening or home application"
+  },
+  "fa-plate-utensils": {
+    "appearanceId": "a round plate silhouette with a fork on the left side and a knife on the right side arranged in a place-setting layout; dinner plate outline flanked by fork and knife utensils",
+    "functionalityId": "represents a meal setting, dining experience, or restaurant place setting; indicates a food menu, dining area, or meal service",
+    "intentId": "indicate a restaurant, dining area, or meal service; access a food menu or dining feature in a hospitality or food application"
+  },
+  "fa-plate-wheat": {
+    "appearanceId": "a round plate silhouette with a wheat stalk or grain symbol centered on the plate surface; dinner plate outline with a wheat or grain emblem",
+    "functionalityId": "represents a wheat-based meal, grain food, or a dietary wheat content indicator; indicates a bread, grain, or wheat food category",
+    "intentId": "indicate wheat or grain content in a food item; represent a grain-based meal or dietary wheat information in a nutrition or food application"
+  },
+  "fa-play": {
+    "appearanceId": "a solid right-pointing equilateral triangle forming the standard media play button shape; filled triangular play arrow pointing to the right",
+    "functionalityId": "starts or resumes playback of audio, video, or media content; triggers a play action in a media player interface",
+    "intentId": "play or resume audio or video content; start media playback in a player or streaming application"
+  },
+  "fa-play-pause": {
+    "appearanceId": "a right-pointing triangular play arrow on the left side combined with two vertical parallel bars forming a pause symbol on the right side; play triangle and pause double-bar composite glyph",
+    "functionalityId": "toggles between play and pause states for media playback; combines play and pause controls into a single toggle button",
+    "intentId": "toggle media playback between playing and paused states; control play or pause in a media player with a single button"
+  },
+  "fa-plug": {
+    "appearanceId": "an electrical plug silhouette showing two or three parallel prongs extending from a rectangular plug body; power plug outline with flat or round pin prongs",
+    "functionalityId": "represents an electrical connection, power plug, or plugin; indicates connecting a device to a power source or enabling an integration",
+    "intentId": "connect a device to a power source or enable a software plugin; indicate an electrical connection or integration in a settings interface"
+  },
+  "fa-plug-circle-bolt": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing a lightning bolt badge overlaid at the corner; power plug prongs outline with a circular lightning or power badge",
+    "functionalityId": "represents a powered, active, or fast-charging electrical connection; indicates a power-on state or high-speed charging for a plug",
+    "intentId": "indicate an active power connection or fast-charging plug; represent an energized electrical socket or power boost in an energy interface"
+  },
+  "fa-plug-circle-check": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing a checkmark badge overlaid at the corner; power plug prongs outline with a circular approval or verified badge",
+    "functionalityId": "represents a verified, approved, or successfully connected plug; indicates a confirmed electrical connection or cleared plugin status",
+    "intentId": "confirm a successful electrical connection or approved plugin; indicate a verified power or integration status in a device or settings interface"
+  },
+  "fa-plug-circle-exclamation": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing an exclamation mark badge overlaid at the corner; power plug prongs outline with a circular warning or alert badge",
+    "functionalityId": "represents a plug or connection with an error, warning, or attention-needed status; indicates a faulty, problematic, or alerting electrical connection",
+    "intentId": "alert to a problematic or faulty power connection; indicate an electrical or plugin warning in a device or settings interface"
+  },
+  "fa-plug-circle-minus": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing a horizontal minus bar badge overlaid at the corner; power plug prongs outline with a circular remove or subtract badge",
+    "functionalityId": "removes or disconnects a plug or power connection; indicates a reduction or removal of an electrical connection or plugin",
+    "intentId": "remove or disconnect a power plug or plugin; indicate a reduced or removed electrical connection in a device or settings interface"
+  },
+  "fa-plug-circle-plus": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing a plus sign badge overlaid at the corner; power plug prongs outline with a circular add or new-connection badge",
+    "functionalityId": "adds a new plug connection, power outlet, or plugin; indicates adding an electrical connection or installing a new plugin",
+    "intentId": "add a new power connection or install a plugin; indicate adding an electrical outlet or integration in a device or settings interface"
+  },
+  "fa-plug-circle-xmark": {
+    "appearanceId": "an electrical plug silhouette with a small filled circle containing an X mark badge overlaid at the corner; power plug prongs outline with a circular cancel or blocked badge",
+    "functionalityId": "represents a blocked, rejected, or disabled plug connection; indicates a cancelled electrical connection or removed plugin",
+    "intentId": "block or cancel a power connection or plugin; indicate a disabled or rejected electrical plug in a device or settings interface"
+  },
+  "fa-plus-large": {
+    "appearanceId": "a large bold plus sign with four equal-length arms meeting at a center point, rendered with thicker strokes than a standard plus; oversized cross-shaped addition glyph with wide arms",
+    "functionalityId": "adds, creates, or expands an item or element with emphasis; performs an add or expand action using a visually prominent plus button",
+    "intentId": "add or create a new item with a visually prominent action button; perform an expansion or addition in an interface where the action needs emphasis"
+  },
+  "fa-plus-minus": {
+    "appearanceId": "a plus sign positioned above or beside a minus sign forming a combined plus-minus glyph; stacked or paired addition and subtraction symbols",
+    "functionalityId": "represents a tolerance, approximation, or bidirectional adjustment value; indicates plus-or-minus variance in a numerical or scientific display",
+    "intentId": "display a plus-or-minus tolerance or approximation in a numerical or scientific interface; indicate a bidirectional adjustment value"
+  },
+  "fa-plus-square": {
+    "appearanceId": "a square or rounded-square outline with a plus sign centered inside; square badge with an add or create cross symbol",
+    "functionalityId": "adds or creates a new item within a square UI element; triggers an add or expand action from a square interface control",
+    "intentId": "add or create a new item using a square button; perform an expansion or addition action in a square-shaped UI component"
+  },
+  "fa-podcast": {
+    "appearanceId": "a set of curved radio signal or WiFi-like arc lines radiating upward above a vertical antenna or microphone base; broadcast signal arcs over a standing microphone or antenna",
+    "functionalityId": "represents a podcast, audio broadcast, or streaming radio show; accesses or subscribes to a podcast feed",
+    "intentId": "listen to or subscribe to a podcast or audio broadcast; access a podcast platform or audio streaming interface"
+  },
+  "fa-podium": {
+    "appearanceId": "a tall rectangular lectern or podium silhouette with a slanted top surface and a vertical support base; speaker's lectern outline with a reading surface and stand",
+    "functionalityId": "represents a speaker's podium or lectern for public speaking; indicates a presentation, speech, or speaking event",
+    "intentId": "indicate a public speaking engagement or presentation podium; represent a lectern or speaking venue in a conference or event application"
+  },
+  "fa-podium-star": {
+    "appearanceId": "a tall rectangular lectern or podium silhouette with a small star shape overlaid on the front face; speaker's podium outline with a star emblem on the stand",
+    "functionalityId": "represents a featured or award-winning speaker's podium; indicates a keynote, featured presentation, or starred speaking event",
+    "intentId": "indicate a featured or keynote speaking event at a podium; represent an award or starred presentation in a conference or event interface"
+  },
+  "fa-police-box": {
+    "appearanceId": "a tall narrow rectangular box silhouette with a lamp or beacon on top, small window panels on the sides, and double doors at the front; police call box or TARDIS-style booth outline",
+    "functionalityId": "represents a classic police call box or emergency phone booth; indicates a retro police communications kiosk or a science-fiction time-travel reference",
+    "intentId": "indicate a classic police call box location or retro emergency kiosk; represent a science-fiction or cultural reference to a police box"
+  },
+  "fa-poll": {
+    "appearanceId": "a vertical bar chart silhouette with two or three columns of varying heights rising from a baseline; standard bar graph outline with upright columns",
+    "functionalityId": "represents a poll, survey, or voting results chart; displays or creates a bar chart of opinion or vote data",
+    "intentId": "conduct or display a poll or survey with a vertical bar chart; access voting results or opinion data in a chart interface"
+  },
+  "fa-poll-h": {
+    "appearanceId": "a horizontal bar chart silhouette with two or three rows of varying-length bars extending rightward from a vertical baseline; horizontal bar graph outline with sideways columns",
+    "functionalityId": "represents a horizontal poll, survey result, or comparison chart; displays or creates a horizontal bar chart of opinion or ranking data",
+    "intentId": "conduct or display a poll or comparison with a horizontal bar chart; access ranked survey results in a horizontal chart interface"
+  },
+  "fa-poll-people": {
+    "appearanceId": "a bar chart or polling graphic combined with small human silhouettes representing respondents alongside or within the chart bars; person-figure-enhanced poll chart with human icons in the bars",
+    "functionalityId": "represents a people-based poll, headcount survey, or population vote result; displays voting or survey data with person-count representation",
+    "intentId": "conduct or display a people-based poll or headcount survey; access voting results with individual respondent representation in a chart interface"
+  },
+  "fa-pompebled": {
+    "appearanceId": "a stylized floral or daisy-like bloom silhouette with evenly spaced rounded petals radiating around a circular center; rounded petal flower outline resembling a Frisian pompebled leaf",
+    "functionalityId": "represents the Frisian pompebled leaf or a lily-pad floral motif; indicates a Frisian cultural symbol or regional identity element",
+    "intentId": "represent the Frisian cultural symbol or regional identity in an interface; indicate a pompebled floral motif in a regional or heraldic context"
+  },
+  "fa-poo": {
+    "appearanceId": "a swirled pile of brown poop shape with a pointed swirl top, rounded base, and a cartoonish smiling face; emoji-style poop swirl silhouette with face details",
+    "functionalityId": "represents waste, low quality, or a humorous reaction; indicates a bad review, waste content, or a playful negative emoji response",
+    "intentId": "express a humorous negative reaction or low-quality assessment; indicate waste or a playful bad-rating in a social or emoji-based interface"
+  },
+  "fa-poo-bolt": {
+    "appearanceId": "a swirled poop pile silhouette with a lightning bolt symbol overlaid or attached; emoji-style poop swirl shape with an electric bolt badge",
+    "functionalityId": "represents an explosive, electrically charged, or intensified poop joke; indicates a humorous or exaggerated negative reaction with added intensity",
+    "intentId": "express a strongly humorous or over-the-top negative reaction; indicate an intensified bad or messy outcome in a playful interface"
+  },
+  "fa-pool-8-ball": {
+    "appearanceId": "a filled circle representing a billiard pool ball with a smaller inner circle and the number 8 centered inside; solid eight-ball disc with a numbered inset circle",
+    "functionalityId": "represents a billiards eight-ball or pool game; indicates a pool table, cue sports, or billiards game activity",
+    "intentId": "indicate a billiards or pool game; access cue sports content or a pool table feature in a gaming or sports application"
+  },
+  "fa-poop": {
+    "appearanceId": "a swirled pile of excrement shape with a pointed swirl top and rounded multi-lobed base, rendered without facial features; plain poop swirl silhouette with layered lobe base",
+    "functionalityId": "represents waste, excrement, or a negative quality indicator; indicates bathroom humor, waste content, or a low-quality status",
+    "intentId": "indicate waste, poor quality, or bathroom humor in an interface; represent excrement or a negative emoji-like reaction"
+  },
+  "fa-popcorn": {
+    "appearanceId": "a striped popcorn bag or bucket silhouette with puffed popcorn pieces overflowing from the top; popcorn container outline with fluffy corn puffs",
+    "functionalityId": "represents popcorn snack food or a movie theater experience; indicates a cinema, entertainment, or snack food context",
+    "intentId": "indicate a movie theater, cinema snack, or entertainment context; represent popcorn as a snack food in a food or media application"
+  },
+  "fa-popsicle": {
+    "appearanceId": "a frozen ice pop silhouette with a rectangular or rounded flat frozen treat on a thin stick handle; popsicle ice bar outline with a stick",
+    "functionalityId": "represents a frozen popsicle treat or ice pop snack; indicates a summer snack, frozen dessert, or cold treat food item",
+    "intentId": "indicate a frozen popsicle or ice pop in a food or dessert interface; represent a summer snack or cold treat in a food application"
+  },
+  "fa-portal-enter": {
+    "appearanceId": "an archway or circular portal frame outline with an inward-pointing arrow or figure entering into the portal opening; doorway arch shape with an entering directional arrow",
+    "functionalityId": "represents entering a portal, gateway, or virtual space; indicates a login, entry, or transition into a new environment or level",
+    "intentId": "enter a portal, gateway, or virtual environment; indicate a login, entry point, or transition into a new space in a game or application"
+  },
+  "fa-portal-exit": {
+    "appearanceId": "an archway or circular portal frame outline with an outward-pointing arrow or figure exiting from the portal opening; doorway arch shape with an exiting directional arrow",
+    "functionalityId": "represents exiting a portal, gateway, or virtual space; indicates a logout, exit, or transition out of a current environment or level",
+    "intentId": "exit a portal, gateway, or virtual environment; indicate a logout, exit point, or transition out of a current space in a game or application"
+  },
+  "fa-portrait": {
+    "appearanceId": "a vertically oriented rectangular frame or card silhouette containing a simplified head-and-shoulders human figure outline; portrait card shape with a bust or person outline inside",
+    "functionalityId": "represents a portrait photograph, ID card, or user profile picture in vertical orientation; displays or selects a person's portrait image",
+    "intentId": "display or select a portrait photograph or profile picture; access an ID card or user photo in a vertically oriented card interface"
+  }
+}

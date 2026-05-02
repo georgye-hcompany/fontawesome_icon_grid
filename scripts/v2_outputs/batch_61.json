@@ -1,0 +1,242 @@
+{
+  "fa-tachometer": {
+    "appearanceId": "a circular speedometer or gauge face with a needle pointer angled to the right indicating high speed, with tick marks along the arc and a center pivot pin; round dial gauge outline with a right-pointing needle and arc tick marks",
+    "functionalityId": "represents a speed, performance, or throughput gauge; indicates a dashboard metric, system speed, or performance measurement in an interface",
+    "intentId": "monitor speed or performance metrics in a dashboard or analytics interface; indicate a throughput or system performance reading"
+  },
+  "fa-tachometer-slow": {
+    "appearanceId": "a circular speedometer or gauge face with a needle pointer angled to the left indicating low speed, with tick marks along the arc and a center pivot pin; round dial gauge outline with a left-pointing needle indicating a low reading",
+    "functionalityId": "represents a slow speed, low throughput, or reduced performance reading on a gauge; indicates a low-speed or degraded performance state in a dashboard",
+    "intentId": "indicate slow speed or low performance in a dashboard or monitoring interface; warn of reduced throughput or a low metric reading"
+  },
+  "fa-taco": {
+    "appearanceId": "a taco shell silhouette shaped as a folded U-curve with filling ingredients such as lettuce and meat visible inside the open top; folded tortilla shell outline with layered filling contents showing at the top opening",
+    "functionalityId": "represents a taco food item in a menu or food ordering interface; indicates a Mexican cuisine category or taco selection",
+    "intentId": "select or display a taco in a food ordering or restaurant menu interface; indicate a Mexican cuisine category or taco option"
+  },
+  "fa-tag": {
+    "appearanceId": "a pointed rectangular price tag or label silhouette with a small circular hole at the left end and a pointed tip on the right; tag shape outline with a hole punch at one end and a pointed tip at the other",
+    "functionalityId": "adds or represents a label, tag, or category marker on an item; indicates a price, keyword, or classification tag in an interface",
+    "intentId": "label, tag, or categorize an item with a keyword or price; manage tags or classification markers in a content or product interface"
+  },
+  "fa-tags": {
+    "appearanceId": "two or more overlapping pointed rectangular price tag or label silhouettes with small circular holes, stacked or layered to indicate multiple tags; multiple tag shapes overlapping to suggest a collection of labels",
+    "functionalityId": "represents multiple labels, tags, or category markers applied to an item; manages or displays a set of tags or keywords in an interface",
+    "intentId": "manage or view multiple tags or labels on an item; categorize content with multiple keywords or classification markers"
+  },
+  "fa-tally": {
+    "appearanceId": "four vertical straight marks with a single diagonal slash crossing through all four to form a group of five tally marks; four upright strokes crossed by a diagonal strike-through line",
+    "functionalityId": "represents a count of five using tally mark notation; tracks or displays a grouped tally count of five in a scoring or counting interface",
+    "intentId": "track or display a count of five using tally notation; record a score or frequency count in a tally-based interface"
+  },
+  "fa-tally-1": {
+    "appearanceId": "a single vertical straight mark representing one tally; one upright stroke indicating a single tally count",
+    "functionalityId": "represents a count of one using a single tally mark; tracks or displays a single-unit tally in a counting or scoring interface",
+    "intentId": "record or display a count of one in a tally-based scoring or counting interface; indicate a single-unit tally mark"
+  },
+  "fa-tally-2": {
+    "appearanceId": "two vertical straight marks placed side by side representing two tally units; two upright parallel strokes indicating a count of two",
+    "functionalityId": "represents a count of two using two tally marks; tracks or displays a two-unit tally in a counting or scoring interface",
+    "intentId": "record or display a count of two in a tally-based scoring or counting interface; indicate a two-unit tally"
+  },
+  "fa-tally-3": {
+    "appearanceId": "three vertical straight marks placed side by side representing three tally units; three upright parallel strokes indicating a count of three",
+    "functionalityId": "represents a count of three using three tally marks; tracks or displays a three-unit tally in a counting or scoring interface",
+    "intentId": "record or display a count of three in a tally-based scoring or counting interface; indicate a three-unit tally"
+  },
+  "fa-tally-4": {
+    "appearanceId": "four vertical straight marks placed side by side representing four tally units without a diagonal cross; four upright parallel strokes without a strike-through indicating a count of four",
+    "functionalityId": "represents a count of four using four tally marks; tracks or displays a four-unit tally in a counting or scoring interface",
+    "intentId": "record or display a count of four in a tally-based scoring or counting interface; indicate a four-unit tally"
+  },
+  "fa-tamale": {
+    "appearanceId": "a tamale silhouette showing a rectangular or cylindrical masa-filled corn husk wrap with tied or folded ends; oblong wrapped food parcel outline with tied or folded husk ends",
+    "functionalityId": "represents a tamale food item in a menu or food ordering interface; indicates a traditional Latin American cuisine category or tamale selection",
+    "intentId": "select or display a tamale in a food ordering or restaurant menu interface; indicate a Latin American cuisine category"
+  },
+  "fa-tanakh": {
+    "appearanceId": "an open book silhouette with a Star of David emblem on the cover or pages, representing the Hebrew Bible; open book outline with a six-pointed Star of David on its face",
+    "functionalityId": "represents the Tanakh or Hebrew Bible as a Jewish religious text; indicates a Jewish scripture, religious studies, or faith-related category",
+    "intentId": "indicate or access Jewish scripture or religious content in a faith or educational interface; represent the Tanakh or Hebrew Bible"
+  },
+  "fa-tank-water": {
+    "appearanceId": "a large cylindrical or rounded storage tank silhouette elevated on support legs with a water or liquid fill level visible inside; elevated cylindrical tank outline with support legs and a visible liquid fill line",
+    "functionalityId": "represents a water storage tank or elevated water reservoir; indicates water supply infrastructure, liquid storage capacity, or a tank fill level",
+    "intentId": "monitor or manage water storage capacity in a utility or infrastructure interface; indicate a water tank or liquid reservoir in a facilities management system"
+  },
+  "fa-tape": {
+    "appearanceId": "a roll of tape or adhesive tape silhouette viewed from the side showing a circular reel with a hollow center hole and a short extending tape strip; round tape reel outline with a center hole and a short tape strip extending from the edge",
+    "functionalityId": "represents adhesive tape or a tape roll in a craft, repair, or office supply context; indicates a taping or affixing action in an interface",
+    "intentId": "select or indicate adhesive tape in a craft, repair, or office supply interface; represent a taping or affixing operation"
+  },
+  "fa-tarp": {
+    "appearanceId": "a flat rectangular tarp or tarpaulin sheet silhouette viewed at a slight angle showing grommeted corners and a flat surface; flat rectangular sheet outline with corner grommet details",
+    "functionalityId": "represents a tarp or protective sheet cover in an outdoor, camping, or emergency supply context; indicates a waterproof cover or ground sheet",
+    "intentId": "select or indicate a tarp or protective cover in an outdoor, camping, or emergency preparedness interface; represent a waterproof sheeting option"
+  },
+  "fa-tarp-droplet": {
+    "appearanceId": "a flat rectangular tarp or tarpaulin sheet silhouette with a water droplet shape on or above it indicating waterproofing or moisture resistance; rectangular sheet outline with a water droplet overlaid or adjacent",
+    "functionalityId": "represents a waterproof tarp or moisture-resistant protective cover; indicates water repellency or weatherproofing for a tarp in an outdoor context",
+    "intentId": "select or indicate a waterproof tarp in an outdoor, camping, or emergency preparedness interface; represent a moisture-resistant or weatherproof cover"
+  },
+  "fa-tasks": {
+    "appearanceId": "a list of horizontal rows with small checkbox squares on the left side, some checked and some unchecked, representing a to-do or task checklist; checklist rows with square checkbox elements showing mixed checked and unchecked states",
+    "functionalityId": "represents a task list or to-do checklist with completable items; manages or displays a checklist of tasks or project steps in a productivity interface",
+    "intentId": "manage or view a task list or to-do checklist in a project or productivity interface; track completion of multiple checklist items"
+  },
+  "fa-tasks-alt": {
+    "appearanceId": "a list of horizontal rows with small checkbox squares on the left, similar to a checklist but with an alternate layout such as tighter spacing or a different checkbox style; checklist rows with checkbox elements in an alternate row or spacing arrangement",
+    "functionalityId": "represents an alternate-style task checklist or to-do list; manages or displays a variant checklist layout in a productivity interface",
+    "intentId": "manage or view an alternate-style task list or checklist in a project or productivity interface; track task completion with a variant checklist layout"
+  },
+  "fa-taxi-bus": {
+    "appearanceId": "a bus-shaped vehicle silhouette with taxi-style features such as a checker pattern stripe or taxi sign on top combined with a multi-window bus body; elongated bus vehicle outline with a taxi indicator or checker stripe detail",
+    "functionalityId": "represents a taxi bus or shared-ride bus service in a transportation interface; indicates a transit bus with taxi or shuttle functionality",
+    "intentId": "book or indicate a taxi bus or shared shuttle service in a transportation or transit interface; represent a bus-taxi hybrid transit option"
+  },
+  "fa-teddy-bear": {
+    "appearanceId": "a stuffed teddy bear silhouette with a rounded head, two small ear bumps, a round body, short arms extended outward, and short legs; plush bear toy outline with round ears, round body, and outstretched short arms",
+    "functionalityId": "represents a teddy bear or stuffed animal toy; indicates a children's toy category, comfort item, or playful theme in an interface",
+    "intentId": "indicate a toy or children's product in a shopping or gift interface; represent a comfort item or playful teddy bear theme"
+  },
+  "fa-teeth": {
+    "appearanceId": "a row of upper and lower teeth shown as a closed mouth with a straight or slightly curved gumline and rectangular tooth shapes aligned side by side; closed mouth outline showing upper and lower tooth rows along the gumline",
+    "functionalityId": "represents human teeth or dental health in a healthcare or hygiene context; indicates a dental or oral health category in a medical interface",
+    "intentId": "indicate dental health or oral hygiene in a healthcare or medical interface; represent a dentistry or teeth-related category"
+  },
+  "fa-teeth-open": {
+    "appearanceId": "a row of upper and lower teeth shown with the mouth open, revealing upper and lower tooth rows separated by a visible gap; open mouth outline showing separated upper and lower tooth rows with a gap between them",
+    "functionalityId": "represents an open mouth showing teeth in a dental or medical examination context; indicates an open-mouth dental assessment or oral health check",
+    "intentId": "indicate an open-mouth dental examination or oral health check in a healthcare interface; represent an open smile or dental assessment context"
+  },
+  "fa-telescope": {
+    "appearanceId": "a refracting telescope silhouette mounted on a tripod stand with an angled tube body, an eyepiece at one end, and an objective lens cap at the other; telescope tube outline angled upward on a tripod with eyepiece and lens details",
+    "functionalityId": "represents a telescope for astronomical observation or long-distance viewing; indicates a stargazing, astronomy, or sky-watching activity in an interface",
+    "intentId": "indicate an astronomy or stargazing activity in a science or educational interface; access telescope or sky observation features in an astronomy application"
+  },
+  "fa-temperature-0": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem, with the fill level at the very bottom showing zero or empty fill indicating no temperature; thermometer outline with an empty or completely unfilled stem and a bottom bulb",
+    "functionalityId": "represents the lowest or zero temperature level on a thermometer scale; indicates no heat or a completely cold reading in a temperature interface",
+    "intentId": "display a zero or minimum temperature reading in a climate or settings interface; indicate the coldest or empty level on a temperature scale"
+  },
+  "fa-temperature-1": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem filled to one-fifth of its height indicating a very low temperature level; thermometer outline with a one-fifth fill level in the stem from the bottom bulb",
+    "functionalityId": "represents a very low temperature level at one-fifth capacity on a thermometer scale; indicates a cold or near-minimum temperature reading",
+    "intentId": "display a very low or near-minimum temperature reading in a climate or settings interface; indicate a cold level on a temperature scale"
+  },
+  "fa-temperature-2": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem filled to two-fifths of its height indicating a low-to-moderate temperature level; thermometer outline with a two-fifths fill level in the stem from the bottom bulb",
+    "functionalityId": "represents a low-to-moderate temperature level at two-fifths capacity on a thermometer scale; indicates a below-average temperature reading",
+    "intentId": "display a low or below-average temperature reading in a climate or settings interface; indicate a mild-cold level on a temperature scale"
+  },
+  "fa-temperature-3": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem filled to three-fifths of its height indicating a moderate temperature level; thermometer outline with a three-fifths fill level in the stem from the bottom bulb",
+    "functionalityId": "represents a moderate temperature level at three-fifths capacity on a thermometer scale; indicates an average or mid-range temperature reading",
+    "intentId": "display a moderate or average temperature reading in a climate or settings interface; indicate a mid-range level on a temperature scale"
+  },
+  "fa-temperature-4": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem filled completely to the top indicating a maximum or full temperature level; thermometer outline with a fully filled stem from base bulb to top",
+    "functionalityId": "represents a maximum or full temperature level at four-fifths or full capacity on a thermometer scale; indicates a high or near-maximum temperature reading",
+    "intentId": "display a high or maximum temperature reading in a climate or settings interface; indicate the hottest or full level on a temperature scale"
+  },
+  "fa-temperature-down": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem, with a downward-pointing arrow overlaid beside or on the stem indicating a falling temperature; thermometer outline with a downward arrow indicating temperature decrease",
+    "functionalityId": "represents a falling or decreasing temperature reading; indicates a temperature drop or cooling trend in a climate or thermostat interface",
+    "intentId": "indicate a temperature decrease or cooling trend in a climate control or weather interface; lower a temperature setting or display a falling reading"
+  },
+  "fa-temperature-high": {
+    "appearanceId": "a thermometer silhouette with a mostly full or high fill level in the stem and a sun or heat indicator nearby suggesting elevated heat; thermometer outline with a high fill level and a heat-indicating detail",
+    "functionalityId": "represents a high temperature reading or a hot weather condition; indicates elevated heat, a high-temperature alert, or hot weather in a climate interface",
+    "intentId": "indicate high temperature or hot weather in a climate, thermostat, or weather interface; display a high-temperature alert or hot condition warning"
+  },
+  "fa-temperature-hot": {
+    "appearanceId": "a thermometer silhouette with a high or full fill level and a sun or flame-like indicator suggesting extreme heat or a very hot reading; thermometer outline with a near-full stem fill and a heat or sun symbol",
+    "functionalityId": "represents an extremely hot temperature or heat wave condition; indicates dangerously high heat or a very hot weather reading in a climate interface",
+    "intentId": "indicate extreme heat or a dangerously high temperature in a weather or safety interface; display a hot weather warning or heat emergency condition"
+  },
+  "fa-temperature-list": {
+    "appearanceId": "a thermometer silhouette alongside a short vertical list of temperature readings or tick marks, suggesting a series of recorded temperature values; thermometer outline with a stacked list of reading lines beside it",
+    "functionalityId": "represents a list or log of multiple temperature readings; displays a temperature history or multi-entry temperature record in a climate or data interface",
+    "intentId": "view or manage a log of temperature readings in a climate monitoring or data recording interface; access a temperature history list"
+  },
+  "fa-temperature-low": {
+    "appearanceId": "a thermometer silhouette with a low fill level in the stem and a snowflake or cold indicator nearby suggesting a cool or cold reading; thermometer outline with a low stem fill and a cold-indicating detail",
+    "functionalityId": "represents a low temperature reading or cool weather condition; indicates reduced heat, a low-temperature alert, or cold weather in a climate interface",
+    "intentId": "indicate low temperature or cold weather in a climate, thermostat, or weather interface; display a low-temperature alert or cold condition warning"
+  },
+  "fa-temperature-snow": {
+    "appearanceId": "a thermometer silhouette with a low fill level alongside a snowflake shape indicating freezing or below-freezing temperatures; thermometer outline with a low fill and a snowflake symbol",
+    "functionalityId": "represents a freezing or sub-zero temperature associated with snowfall; indicates a snow or frost weather condition in a climate or forecast interface",
+    "intentId": "indicate freezing or snowy weather conditions in a climate or weather forecast interface; display a frost or snowfall temperature warning"
+  },
+  "fa-temperature-up": {
+    "appearanceId": "a thermometer silhouette with a bulb at the base and a narrow stem, with an upward-pointing arrow overlaid beside or on the stem indicating a rising temperature; thermometer outline with an upward arrow indicating temperature increase",
+    "functionalityId": "represents a rising or increasing temperature reading; indicates a temperature increase or warming trend in a climate or thermostat interface",
+    "intentId": "indicate a temperature increase or warming trend in a climate control or weather interface; raise a temperature setting or display a rising reading"
+  },
+  "fa-tenge": {
+    "appearanceId": "the Kazakhstani tenge currency symbol consisting of a capital letter T with two horizontal parallel bars crossing its upper stem; tenge currency glyph with a T-shape and two horizontal strike-through bars",
+    "functionalityId": "represents the Kazakhstani tenge currency symbol in a financial or pricing interface; indicates a tenge-denominated amount or currency selection",
+    "intentId": "display or select the Kazakhstani tenge currency in a financial, pricing, or currency conversion interface; indicate a tenge-denominated value"
+  },
+  "fa-tennis-ball": {
+    "appearanceId": "a circular ball silhouette with two curved swoosh lines across its surface mimicking the felt seam pattern of a tennis ball; round ball outline with two curved seam lines crossing the surface",
+    "functionalityId": "represents a tennis ball in a sports or recreational activity context; indicates a tennis game, court, or sporting goods category in an interface",
+    "intentId": "indicate a tennis sport or activity in a sports, recreation, or fitness interface; represent a tennis ball or court-related feature"
+  },
+  "fa-tent": {
+    "appearanceId": "a triangular tent silhouette with a peaked center ridge, sloping side panels meeting the ground, and a front opening at the base; classic A-frame tent outline with a center peak and ground-level opening",
+    "functionalityId": "represents a camping tent or temporary outdoor shelter; indicates a campsite, outdoor recreation, or camping equipment in an interface",
+    "intentId": "indicate camping, outdoor shelter, or a campsite in a recreation or map interface; represent a tent or temporary outdoor shelter"
+  },
+  "fa-tent-arrow-down-to-line": {
+    "appearanceId": "a triangular tent silhouette with a downward-pointing arrow descending from the tent peak toward a horizontal baseline below; peaked tent outline with a downward arrow pointing to a line beneath the tent",
+    "functionalityId": "represents setting up a tent at a designated ground line or anchoring a shelter to a fixed baseline; indicates a tent placement or setup action",
+    "intentId": "indicate tent placement or anchoring at a specific ground line in a camping or emergency shelter interface; set up a tent at a designated location"
+  },
+  "fa-tent-arrow-left-right": {
+    "appearanceId": "a triangular tent silhouette with arrows pointing left and right on either side of the tent indicating horizontal repositioning or expansion; peaked tent outline flanked by a left-pointing and a right-pointing arrow",
+    "functionalityId": "represents moving or repositioning a tent horizontally or selecting between tent placement directions; indicates a shelter relocation or lateral adjustment",
+    "intentId": "reposition or adjust a tent placement left or right in a camping layout or emergency shelter interface; indicate lateral tent movement options"
+  },
+  "fa-tent-arrow-turn-left": {
+    "appearanceId": "a triangular tent silhouette with a curved or bent arrow turning to the left beside or below the tent indicating a directional turn or reorientation; peaked tent outline with a left-turning arrow",
+    "functionalityId": "represents redirecting or reorienting a tent or shelter toward the left; indicates a turn-left directional action for a tent or camp area",
+    "intentId": "redirect or reorient a tent or shelter to the left in a camping layout or navigation interface; indicate a left-turn direction from a tent position"
+  },
+  "fa-tent-arrows-down": {
+    "appearanceId": "a triangular tent silhouette with two downward-pointing arrows on either side of the tent descending toward the ground, suggesting anchoring or staking down; peaked tent outline with dual downward arrows on both sides pointing to the ground",
+    "functionalityId": "represents anchoring or staking down a tent on both sides to secure it to the ground; indicates a tent-securing or staking action in a camping interface",
+    "intentId": "anchor or secure a tent by staking it down on both sides in a camping or emergency shelter interface; indicate tent staking or ground anchoring"
+  },
+  "fa-tent-double-peak": {
+    "appearanceId": "a tent silhouette with two distinct triangular peaks side by side, suggesting a larger multi-room or double-peaked camping tent; two-peaked tent outline with dual ridge points and a wider base",
+    "functionalityId": "represents a larger double-peaked tent or multi-section camping shelter; indicates a larger tent option or multi-room camping shelter in an interface",
+    "intentId": "select or indicate a large double-peaked tent or multi-room camping shelter in an outdoor or camping interface; represent a larger temporary shelter option"
+  },
+  "fa-tents": {
+    "appearanceId": "two or more triangular tent silhouettes arranged side by side suggesting a campground or group camping setup; multiple A-frame tent outlines grouped together to indicate a campsite cluster",
+    "functionalityId": "represents multiple tents or an encampment of shelters; indicates a campground, group camping area, or refugee camp in a map or outdoor interface",
+    "intentId": "indicate a campground or multiple shelter area in a map, outdoor, or emergency management interface; represent a group camping or encampment site"
+  },
+  "fa-terminal": {
+    "appearanceId": "a rectangular screen or window outline with a right-angle bracket prompt symbol and a blinking cursor line inside, representing a command-line terminal; monitor or window outline with a caret prompt and a text cursor inside",
+    "functionalityId": "opens or represents a command-line terminal or shell interface; indicates a terminal window, CLI prompt, or code execution environment",
+    "intentId": "open or access a command-line terminal or shell in a development or system administration interface; indicate a CLI or code execution environment"
+  },
+  "fa-text": {
+    "appearanceId": "a capital letter T with a thin baseline cursor line or a simple text glyph representing generic text content; large T glyph with a baseline underline or text indicator",
+    "functionalityId": "represents a text element or plain text content type in a design or editor interface; inserts or selects a text block in a layout or document tool",
+    "intentId": "insert or manage a text element in a design, document, or editor interface; indicate a plain text content block or text-type selection"
+  },
+  "fa-text-height": {
+    "appearanceId": "two capital letter A glyphs of different sizes positioned side by side with a vertical double-headed arrow between them indicating adjustable text height or font size; large and small A letters flanking an up-down arrow to show text height adjustment",
+    "functionalityId": "adjusts or represents the vertical height or font size of text in a text editor or design tool; modifies the line height or character height setting",
+    "intentId": "adjust or set text height or font size in a text editor or design interface; control vertical text dimension or line height in a document"
+  },
+  "fa-text-size": {
+    "appearanceId": "two capital letter A glyphs of noticeably different sizes placed side by side indicating a relative text size comparison or font size control; large A and small A characters side by side to indicate a font size or text scale selector",
+    "functionalityId": "adjusts or represents the size or scale of text in a text editor or design tool; modifies the font size or text scaling in a document or interface",
+    "intentId": "adjust or control text size or font scale in a text editor or design interface; set the relative size of text in a document or layout tool"
+  }
+}

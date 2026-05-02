@@ -1,0 +1,242 @@
+{
+  "fa-octagon": {
+    "appearanceId": "eight-sided polygon with equal sides and flat edges; regular octagon outline shape",
+    "functionalityId": "represents a stop or warning shape; marks a boundary or geometric placeholder",
+    "intentId": "indicate a stop sign or warning zone; use a geometric octagon shape as a design element"
+  },
+  "fa-octagon-check": {
+    "appearanceId": "eight-sided polygon with a checkmark overlaid at the center; octagon outline containing a tick mark glyph",
+    "functionalityId": "confirms or approves a selection within an octagonal badge; marks an item as verified inside a stop-sign shape",
+    "intentId": "indicate approval or successful completion within a badge; confirm a task or status with an octagonal check mark"
+  },
+  "fa-octagon-divide": {
+    "appearanceId": "eight-sided polygon with a horizontal division line and two dots overlaid at the center; octagon outline containing a divide or obelus symbol",
+    "functionalityId": "represents a division operation or split within an octagonal badge; marks a mathematical divide symbol inside a stop-sign shape",
+    "intentId": "indicate a division or split action within a badge; use as a mathematical or segmentation symbol in an octagonal context"
+  },
+  "fa-octagon-exclamation": {
+    "appearanceId": "eight-sided polygon with a bold exclamation mark overlaid at the center; octagon outline containing an alert punctuation glyph",
+    "functionalityId": "signals a warning or alert within an octagonal badge; highlights an urgent notice inside a stop-sign shape",
+    "intentId": "warn the user of a critical issue or hazard; draw attention to an urgent alert using an octagonal badge"
+  },
+  "fa-octagon-plus": {
+    "appearanceId": "eight-sided polygon with a plus sign overlaid at the center; octagon outline containing a cross or addition glyph",
+    "functionalityId": "adds a new item or action within an octagonal badge; represents a create or expand function inside a stop-sign shape",
+    "intentId": "add or create a new entry using an octagonal badge; indicate an additive action within a geometric badge shape"
+  },
+  "fa-octagon-xmark": {
+    "appearanceId": "eight-sided polygon with an X mark overlaid at the center; octagon outline containing a cross or close glyph",
+    "functionalityId": "cancels, closes, or removes an item within an octagonal badge; marks rejection or deletion inside a stop-sign shape",
+    "intentId": "reject, cancel, or close an action using an octagonal badge; indicate a forbidden or removed state with an X inside an octagon"
+  },
+  "fa-octopus": {
+    "appearanceId": "rounded bulbous head with eight tentacles or arms extending downward with sucker bumps; cartoon cephalopod body with curling limbs",
+    "functionalityId": "represents an octopus animal or sea creature; illustrates a multi-armed marine organism",
+    "intentId": "identify or categorize ocean wildlife content; use as a marine life or aquatic theme symbol"
+  },
+  "fa-oil-can": {
+    "appearanceId": "small handheld can body with a long narrow spout and a pump lever on top; lubrication can outline with a nozzle tip",
+    "functionalityId": "represents oil or lubricant dispensing; indicates a maintenance or lubrication action",
+    "intentId": "signal a need for lubrication or mechanical maintenance; access oil or fluid service settings"
+  },
+  "fa-oil-can-drip": {
+    "appearanceId": "small handheld can body with a long narrow spout and a drop of liquid falling from the nozzle tip; lubrication can outline with a dripping droplet",
+    "functionalityId": "represents active oil dripping or lubricant being dispensed; indicates fluid application during maintenance",
+    "intentId": "signal active lubrication or fluid dispensing in progress; indicate oil application during a service or repair task"
+  },
+  "fa-oil-temp": {
+    "appearanceId": "thermometer outline with an oil drop or flame shape at the base indicating temperature; temperature gauge combined with an oil or fluid symbol",
+    "functionalityId": "monitors or displays the oil temperature level; indicates engine or fluid heat status",
+    "intentId": "check or alert on oil temperature for engine health; monitor fluid temperature in a vehicle or mechanical system"
+  },
+  "fa-oil-well": {
+    "appearanceId": "derrick tower structure with cross-beam supports and a base platform; oil rig or pump jack silhouette outline",
+    "functionalityId": "represents an oil extraction or drilling site; indicates petroleum production infrastructure",
+    "intentId": "identify oil and gas extraction or energy resources; navigate to petroleum production or drilling content"
+  },
+  "fa-olive": {
+    "appearanceId": "small oval fruit shape with a tiny stem or leaf nub at the top; rounded drupe silhouette resembling a small berry or pit fruit",
+    "functionalityId": "represents an olive fruit or food ingredient; identifies an olive in a culinary or botanical context",
+    "intentId": "label or browse olive-related food or recipe content; identify an olive ingredient in a menu or ingredient list"
+  },
+  "fa-olive-branch": {
+    "appearanceId": "curved stem or twig with small oval leaves and round olive fruits along its length; botanical branch silhouette with berries and foliage",
+    "functionalityId": "symbolizes peace, reconciliation, or a diplomatic gesture; represents an olive branch as a botanical or peace emblem",
+    "intentId": "convey peace, harmony, or goodwill in a design; reference diplomacy or reconciliation in a symbolic context"
+  },
+  "fa-om": {
+    "appearanceId": "stylized Sanskrit Om or Aum character with curved lines, a hook, and a crescent and dot above; ornate Hindu sacred symbol glyph",
+    "functionalityId": "represents the Hindu sacred syllable Om or Aum; indicates a spiritual, meditative, or religious context",
+    "intentId": "identify Hindu or Buddhist religious content; use as a spiritual or meditation theme symbol"
+  },
+  "fa-omega": {
+    "appearanceId": "Greek capital letter omega with two curved legs and an open base; horseshoe-shaped character glyph with upward-curving ends",
+    "functionalityId": "represents the Greek letter omega or the last in a sequence; indicates an electrical resistance unit or end-point symbol",
+    "intentId": "label a physics or electrical resistance value; use as a Greek alphabet character or end-of-sequence marker"
+  },
+  "fa-onion": {
+    "appearanceId": "rounded bulb shape with layered curved lines and a short stem at the top; bulbous vegetable silhouette with concentric layer lines",
+    "functionalityId": "represents an onion vegetable or food ingredient; identifies an onion in a culinary or grocery context",
+    "intentId": "label or browse onion-related food or recipe content; identify an onion ingredient in a menu or shopping list"
+  },
+  "fa-option": {
+    "appearanceId": "keyboard key outline labeled with the word Option or the Mac option symbol (a horizontal line with a bent upward line); keycap shape with modifier key glyph",
+    "functionalityId": "represents the Option or Alt keyboard modifier key; indicates an alternate keyboard shortcut or input option",
+    "intentId": "reference a keyboard shortcut using the Option key; indicate alternate input or modifier key functionality"
+  },
+  "fa-ornament": {
+    "appearanceId": "round ball shape with a small cap and hanging loop at the top; spherical Christmas or holiday decoration bauble outline",
+    "functionalityId": "represents a holiday ornament or festive decoration; indicates a Christmas tree bauble or seasonal embellishment",
+    "intentId": "decorate or theme content for a holiday or Christmas season; identify ornament or seasonal decoration items"
+  },
+  "fa-otter": {
+    "appearanceId": "small furry animal silhouette with a rounded head, short limbs, and a long tapered tail; semi-aquatic mammal body outline",
+    "functionalityId": "represents an otter animal or wildlife subject; illustrates a semi-aquatic mammal in a nature context",
+    "intentId": "identify wildlife or nature content featuring otters; use as a playful or nature-themed mascot or symbol"
+  },
+  "fa-outlet": {
+    "appearanceId": "rectangular wall plate outline with two vertical slot openings and a round ground hole forming a face shape; electrical outlet faceplate with plug receptacle slots",
+    "functionalityId": "represents an electrical outlet or power socket; indicates a power source or plug-in connection point",
+    "intentId": "locate or label an electrical power outlet; indicate a device charging or power connection location"
+  },
+  "fa-oven": {
+    "appearanceId": "rectangular appliance outline with a large front window, control knobs or dials along the top, and a handle bar; kitchen oven silhouette with viewing door and controls",
+    "functionalityId": "represents a kitchen oven or cooking appliance; indicates baking or roasting functionality in a culinary context",
+    "intentId": "access cooking or baking settings for a smart oven; identify kitchen appliance controls in a home or recipe context"
+  },
+  "fa-overline": {
+    "appearanceId": "a horizontal line drawn above a row of text characters; overbar or vinculum stroke sitting on top of letter glyphs",
+    "functionalityId": "applies an overline text decoration above characters; marks text with a horizontal bar above the baseline",
+    "intentId": "format text with an overline or overbar decoration; indicate a mathematical vinculum or text markup style"
+  },
+  "fa-p": {
+    "appearanceId": "single uppercase or lowercase letter P glyph; Roman alphabet character with a vertical stem and a single right-side bowl",
+    "functionalityId": "represents the letter P as a typographic character; labels or abbreviates a word, name, or category starting with P",
+    "intentId": "use as a single-letter label, abbreviation, or keyboard shortcut; indicate a category or item beginning with the letter P"
+  },
+  "fa-page": {
+    "appearanceId": "rectangular document sheet outline with a folded upper-right corner; paper page silhouette with a dog-ear fold at the top corner",
+    "functionalityId": "represents a document page or file sheet; indicates a page of content in a document or report",
+    "intentId": "navigate to or open a document page; represent a page of content in a file or publication"
+  },
+  "fa-page-break": {
+    "appearanceId": "two stacked page outlines separated by a dashed horizontal dividing line; document sheet pair with a break line between them",
+    "functionalityId": "inserts or indicates a page break in a document; marks the division point between two pages in a layout",
+    "intentId": "add a page break to a document for print or layout formatting; navigate to the boundary between two pages in a publication"
+  },
+  "fa-pager": {
+    "appearanceId": "small rectangular handheld device outline with a display screen and a row of buttons; beeper or paging device silhouette with a screen and controls",
+    "functionalityId": "represents a pager or beeper communication device; indicates a one-way wireless messaging gadget",
+    "intentId": "indicate on-call or emergency paging communication; reference a legacy wireless messaging device in a healthcare or service context"
+  },
+  "fa-paint-roller": {
+    "appearanceId": "cylindrical roller head mounted on an L-shaped handle frame; paint roller tool outline with a textured drum and an angled grip",
+    "functionalityId": "represents a paint roller tool for applying paint to surfaces; indicates a wall painting or coating action",
+    "intentId": "apply paint or color to a large surface area; indicate a painting or decorating task in a home or design context"
+  },
+  "fa-paintbrush": {
+    "appearanceId": "long straight handle with a tapered ferrule and a pointed bristle tip at one end; standard artist paintbrush silhouette with a narrow tip",
+    "functionalityId": "represents a paintbrush tool for painting or drawing; indicates a freehand brush stroke or artistic editing action",
+    "intentId": "select a brush tool for painting or artistic creation; indicate a drawing or illustration mode in a creative application"
+  },
+  "fa-paintbrush-alt": {
+    "appearanceId": "angled or fan-shaped bristle head on a short tapered handle; flat or angled artist brush silhouette with a wider bristle spread",
+    "functionalityId": "represents an alternate style of paintbrush for broad strokes; indicates an angled or flat brush tool for painting",
+    "intentId": "select an alternate brush style for painting or design; use a flat or angled brush for broader artistic strokes"
+  },
+  "fa-paintbrush-pencil": {
+    "appearanceId": "dual-ended tool with a pointed bristle tip on one end and a pencil or eraser tip on the other; combination brush-and-pencil instrument outline",
+    "functionalityId": "represents a combined paintbrush and pencil tool; indicates a multi-mode drawing and painting instrument",
+    "intentId": "switch between brush and pencil modes in a creative tool; use a combined drawing and painting instrument in a design application"
+  },
+  "fa-palette": {
+    "appearanceId": "oval thumbhole palette board with several small circular paint blobs arranged around the edge; artist mixing palette silhouette with a thumb cutout and color dots",
+    "functionalityId": "represents an artist's color palette for mixing paints; indicates a color selection or theme customization tool",
+    "intentId": "choose or customize a color scheme in a design application; indicate artistic or creative color mixing functionality"
+  },
+  "fa-pallet": {
+    "appearanceId": "flat wooden shipping pallet with horizontal deck boards and visible support blocks or stringers underneath; warehouse pallet silhouette with parallel slat lines",
+    "functionalityId": "represents a shipping or storage pallet for moving goods; indicates warehouse, logistics, or freight handling",
+    "intentId": "manage or track warehouse inventory or shipping pallets; indicate freight or logistics operations in a supply chain context"
+  },
+  "fa-pallet-alt": {
+    "appearanceId": "flat wooden shipping pallet outline in an alternate or stylized perspective showing deck boards and support rails; warehouse pallet silhouette with a different angle or design variant",
+    "functionalityId": "represents an alternate view or style of a shipping pallet; indicates warehouse storage or freight handling in a variant format",
+    "intentId": "manage or display an alternate pallet format in a logistics or inventory system; use a variant pallet symbol in supply chain design"
+  },
+  "fa-pallet-box": {
+    "appearanceId": "flat wooden pallet base with a rectangular box or crate stacked on top; shipping pallet silhouette with a container or crate overlaid above",
+    "functionalityId": "represents a boxed shipment loaded on a pallet; indicates a packaged freight unit ready for warehousing or transport",
+    "intentId": "track or manage a palletized shipment with a stacked box; indicate packaged freight in a warehouse or logistics workflow"
+  },
+  "fa-pan-food": {
+    "appearanceId": "wide shallow circular pan or dish outline with a long straight handle; flat cooking pan silhouette viewed from above or at an angle",
+    "functionalityId": "represents a cooking pan or skillet for preparing food; indicates a stovetop cooking or frying action",
+    "intentId": "select or manage a cooking pan in a recipe or kitchen context; indicate food preparation on a stovetop"
+  },
+  "fa-pan-frying": {
+    "appearanceId": "wide shallow frying pan outline with a long handle and wavy steam lines or food contents visible inside; skillet silhouette with heat or cooking activity indicated",
+    "functionalityId": "represents active frying or sauteing food in a pan; indicates stovetop cooking with heat applied to a skillet",
+    "intentId": "indicate an active frying or cooking process on a stovetop; access frying-related recipes or cooking instructions"
+  },
+  "fa-pancakes": {
+    "appearanceId": "stack of multiple flat circular disc shapes layered on top of each other; tiered stack of round flat cakes or discs",
+    "functionalityId": "represents a stack of pancakes as a food item; indicates a breakfast dish or stacked flat cake food",
+    "intentId": "browse or label breakfast food content featuring pancakes; identify a pancake dish in a menu or recipe application"
+  },
+  "fa-panel-ews": {
+    "appearanceId": "rectangular panel outline divided into sections with small indicator lights or status blocks arranged in a grid or row; control panel faceplate with multiple status indicators",
+    "functionalityId": "represents an early warning system or status monitoring panel; displays system health or alert indicators on a dashboard panel",
+    "intentId": "monitor system alerts or early warning indicators on a control panel; access a status or alarm monitoring dashboard"
+  },
+  "fa-panel-fire": {
+    "appearanceId": "rectangular panel outline with a flame or fire symbol displayed on its face; control or display panel silhouette featuring a fire hazard indicator",
+    "functionalityId": "represents a fire alarm or fire detection panel; indicates a fire safety monitoring or alerting system",
+    "intentId": "monitor or access a fire alarm or fire detection control panel; indicate fire safety system status in a building or facility"
+  },
+  "fa-panorama": {
+    "appearanceId": "wide rectangular image frame with a curved or landscape scene silhouette inside; wide-angle photo frame outline with a broad horizontal aspect ratio",
+    "functionalityId": "represents a panoramic wide-angle photo or view; indicates a 360-degree or wide-format image display",
+    "intentId": "capture or view a wide-angle panoramic photograph; browse or display a broad landscape or immersive photo format"
+  },
+  "fa-paper-plane": {
+    "appearanceId": "folded paper airplane shape with angular wings and a pointed nose; origami-style aircraft silhouette formed from a flat sheet",
+    "functionalityId": "sends a message or submits content; represents a send or transmit action",
+    "intentId": "send a message or submit a form to a recipient; indicate a dispatch or outbox action in a messaging interface"
+  },
+  "fa-paperclip": {
+    "appearanceId": "elongated oval loop with a parallel inner loop forming a wire paperclip shape; fastening clip outline with a double-loop wire form",
+    "functionalityId": "attaches a file or document to a message or record; indicates an attachment or linked file",
+    "intentId": "attach a file or document to an email or message; indicate a file attachment in a communication or document interface"
+  },
+  "fa-paperclip-vertical": {
+    "appearanceId": "elongated vertical oval loop with a parallel inner loop forming a wire paperclip oriented in portrait alignment; upright double-loop wire fastener shape",
+    "functionalityId": "attaches a file or document in a vertically oriented layout; indicates an attachment in a vertical or portrait arrangement",
+    "intentId": "attach a file or document in a vertically oriented interface; indicate a portrait-mode or vertically arranged attachment action"
+  },
+  "fa-parachute-box": {
+    "appearanceId": "open parachute canopy with suspension lines hanging down to a rectangular box or crate below; supply drop silhouette with a box package suspended from a chute",
+    "functionalityId": "represents an airdrop, supply delivery, or humanitarian aid package; indicates a package being delivered via parachute",
+    "intentId": "indicate a supply drop or airdrop delivery of goods; represent humanitarian aid, relief supply, or aerial cargo delivery"
+  },
+  "fa-paragraph": {
+    "appearanceId": "pilcrow or paragraph mark glyph with a reversed P shape and a double vertical stem; typographic paragraph symbol with a filled bowl and dual downstrokes",
+    "functionalityId": "inserts or marks a paragraph break in a text document; indicates a paragraph formatting symbol in a text editor",
+    "intentId": "format or navigate paragraph breaks in a document; indicate a paragraph style or text structure in a word processing context"
+  },
+  "fa-paragraph-rtl": {
+    "appearanceId": "mirrored pilcrow or reversed paragraph mark glyph with the bowl facing right and dual vertical stems; right-to-left typography paragraph symbol",
+    "functionalityId": "inserts or marks a paragraph break for right-to-left text direction; indicates RTL paragraph formatting in a text editor",
+    "intentId": "format or navigate paragraph breaks in a right-to-left language document; indicate RTL text structure or paragraph style for Arabic, Hebrew, or similar scripts"
+  },
+  "fa-parentheses": {
+    "appearanceId": "matched pair of curved bracket glyphs facing each other with a space between; opening and closing parenthesis character pair ( )",
+    "functionalityId": "represents a pair of parentheses as a typographic or code element; inserts or indicates grouped or enclosed text content",
+    "intentId": "insert or indicate parenthetical grouping in text or code; use as a mathematical or programming grouping symbol"
+  },
+  "fa-parenthesis": {
+    "appearanceId": "single curved bracket glyph as a standalone character; one half of a parenthesis pair, either opening or closing curved bracket",
+    "functionalityId": "represents a single parenthesis character as a typographic element; inserts or indicates one side of an enclosing bracket",
+    "intentId": "insert a single parenthesis character in text or code; indicate one bracket of a grouping or enclosing pair in a formula or expression"
+  }
+}

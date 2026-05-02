@@ -1,0 +1,37 @@
+{
+  "fa-xmark-large": {
+    "appearanceId": "a large X shape formed by two thick diagonal strokes crossing at the center; bold cross mark with two intersecting diagonal lines",
+    "functionalityId": "dismiss or close a dialog, modal, or notification; cancel or remove a selected item",
+    "intentId": "close or dismiss an interface element; indicate cancellation or deletion in a UI interaction"
+  },
+  "fa-xmarks-lines": {
+    "appearanceId": "multiple X marks arranged along horizontal lines, each X sitting on a ruled line; a set of X glyphs distributed across parallel horizontal rules",
+    "functionalityId": "mark multiple lines as incorrect, rejected, or crossed out; indicate errors or deletions across a list of entries",
+    "intentId": "review and flag multiple incorrect or invalid list items; indicate bulk rejection or line-level errors in a form or checklist"
+  },
+  "fa-y": {
+    "appearanceId": "a single uppercase letter Y with two diagonal upper arms meeting at a central junction descending to a vertical stem; capital Y letterform glyph",
+    "functionalityId": "represent the letter Y as a label, abbreviation, or shortcut key; indicate a Y-axis or branching path",
+    "intentId": "label a Y-axis coordinate or branching junction; use as a keyboard shortcut indicator or alphabetic label in a chart or interface"
+  },
+  "fa-yin-yang": {
+    "appearanceId": "a circle divided into two interlocking teardrop halves of opposite fill, each half containing a small filled circle; classic yin-yang symbol with two contrasting swirling sections",
+    "functionalityId": "represent balance, duality, or harmony between opposing forces; indicate Eastern philosophy, wellness, or complementary states",
+    "intentId": "convey balance or duality in a wellness or philosophy context; represent harmony between opposing elements in a spiritual or mindfulness interface"
+  },
+  "fa-z": {
+    "appearanceId": "a single uppercase letter Z with a top horizontal bar, diagonal stroke, and bottom horizontal bar; capital Z letterform glyph",
+    "functionalityId": "represent the letter Z as a label, abbreviation, or shortcut key; indicate the last item in an alphabetic sequence",
+    "intentId": "label the final item in an alphabetic list or axis; use as a keyboard shortcut indicator or Z-axis label in a 3D or chart interface"
+  },
+  "fa-zap": {
+    "appearanceId": "an angular lightning bolt silhouette with a downward zigzag stroke tapering to a point; electrical zap shape with a sharp angular chevron outline",
+    "functionalityId": "indicate a quick action, power boost, or electrical charge; trigger an instant or high-energy operation",
+    "intentId": "execute a fast or powerful action; represent electrical energy or an instant trigger in a power or performance interface"
+  },
+  "fa-zzz": {
+    "appearanceId": "three Z letters stacked diagonally in descending or ascending size, suggesting snoring or sleep; trio of Z glyphs arranged in a cascading stack",
+    "functionalityId": "indicate a sleep, idle, or dormant state; represent snoring, rest, or a paused process",
+    "intentId": "show that a user, device, or process is asleep or inactive; convey rest or a sleep timer in a device or wellness interface"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-usb-drive": {
+    "appearanceId": "a small rectangular USB flash drive body with a connector plug protruding from one end and a status indicator notch or cap on the body; compact thumb drive silhouette with a USB plug end",
+    "functionalityId": "represents a USB flash drive or portable storage device; indicates removable media, data transfer, or file storage via USB",
+    "intentId": "manage or access files on a USB drive; indicate portable storage or data transfer in a file management or device interface"
+  },
+  "fa-usd": {
+    "appearanceId": "an uppercase letter S with a single or double vertical line passing through the center vertically; dollar sign glyph with a vertical stroke through an S curve",
+    "functionalityId": "represents US dollar currency or a monetary value; indicates a price, cost, or financial amount in a currency context",
+    "intentId": "display or input a US dollar amount; indicate pricing or financial value in a payment or e-commerce interface"
+  },
+  "fa-usd-circle": {
+    "appearanceId": "a circular badge containing a dollar sign symbol centered within the circle boundary; round disc outline enclosing a dollar sign glyph",
+    "functionalityId": "represents a dollar amount enclosed in a circular badge; indicates a monetary value, pricing, or currency in a compact circular form",
+    "intentId": "display a currency amount or price in a compact circular badge; indicate financial transactions or pricing in a payment interface"
+  },
+  "fa-usd-square": {
+    "appearanceId": "a square or rounded-rectangle badge containing a dollar sign symbol centered within; square outline enclosing a dollar sign glyph",
+    "functionalityId": "represents a dollar amount enclosed in a square badge; indicates a monetary value or currency in a compact square form",
+    "intentId": "display a currency amount or price in a square badge; indicate financial transactions or pricing in a payment or retail interface"
+  },
+  "fa-user": {
+    "appearanceId": "a human figure silhouette with a circular head and rounded shoulder arc below; generic person outline with head circle and curved torso base",
+    "functionalityId": "represents a generic user or person account; indicates a user profile or individual account in an interface",
+    "intentId": "access a user profile or account; represent a person or individual in a contacts or authentication interface"
+  },
+  "fa-user-alien": {
+    "appearanceId": "a human figure silhouette with a large oval alien head featuring oversized eyes instead of a normal human head, paired with the standard shoulder arc; alien-headed person outline with large cranium and shoulder base",
+    "functionalityId": "represents an extraterrestrial or alien character in user form; indicates a sci-fi, fantasy, or non-human user persona",
+    "intentId": "select or display an alien or sci-fi user avatar; represent a non-human character type in a game or creative profile interface"
+  },
+  "fa-user-alt": {
+    "appearanceId": "a human figure silhouette with a circular head and a full rounded body or bust shown more prominently than the standard user; alternate person outline with a slightly fuller or centered figure shape",
+    "functionalityId": "represents an alternate version of a user or person symbol; indicates a user profile or account with a slightly different visual emphasis",
+    "intentId": "access a user profile or account using an alternate person symbol; represent an individual in an interface that requires a distinct user icon variant"
+  },
+  "fa-user-alt-slash": {
+    "appearanceId": "a human figure silhouette with a circular head and body, overlaid with a diagonal slash line cutting through the figure; alternate person outline with a negation slash across the silhouette",
+    "functionalityId": "represents a blocked, removed, or unavailable user; indicates user removal, account deactivation, or no-user state",
+    "intentId": "remove or deactivate a user account; indicate that a user is blocked or unavailable in an admin or account management interface"
+  },
+  "fa-user-astronaut": {
+    "appearanceId": "a human figure silhouette with a large round astronaut helmet enclosing the head and a spacesuit body with visible suit details at the shoulders; space-suited person outline with a spherical helmet",
+    "functionalityId": "represents an astronaut or space explorer persona; indicates a space-themed user role or character in a sci-fi or space application",
+    "intentId": "select or display an astronaut user avatar; represent a space or aerospace role in a profile or game character interface"
+  },
+  "fa-user-beard-bolt": {
+    "appearanceId": "a human figure silhouette with a circular head featuring a beard shape along the jaw, and a lightning bolt badge overlaid on the shoulder area; bearded person outline with a lightning bolt accent",
+    "functionalityId": "represents a bearded user with an energy or power attribute; indicates a stylized or powered-up user persona",
+    "intentId": "select or display a bearded user with a power attribute; represent a distinctive user persona in a profile or character selection interface"
+  },
+  "fa-user-bounty-hunter": {
+    "appearanceId": "a human figure silhouette with a wide-brimmed bounty hunter hat atop the head and a rugged or armored shoulder outline; person outline wearing a wide-brimmed hat suggestive of a bounty hunter",
+    "functionalityId": "represents a bounty hunter character or role; indicates a pursuit, capture, or reward-based user persona in a game or themed interface",
+    "intentId": "select or display a bounty hunter user avatar; represent a hunter or tracker role in a game or themed application"
+  },
+  "fa-user-check": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a checkmark badge to the lower right of the figure; person outline with a confirmation checkmark overlay",
+    "functionalityId": "represents a verified, confirmed, or approved user; indicates user verification, account approval, or identity confirmation",
+    "intentId": "verify or approve a user account; indicate that a user has been confirmed or validated in an admin or onboarding interface"
+  },
+  "fa-user-chef": {
+    "appearanceId": "a human figure silhouette with a tall chef hat (toque) on top of the head and shoulder arc below; person outline wearing a tall cylindrical chef hat",
+    "functionalityId": "represents a chef or culinary professional user role; indicates a cooking, food service, or kitchen management persona",
+    "intentId": "assign or display a chef role to a user; represent a culinary professional in a restaurant, recipe, or food service interface"
+  },
+  "fa-user-clock": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a small clock badge to the lower right showing clock hands; person outline with a clock overlay badge",
+    "functionalityId": "represents a user with a time-based status or scheduled activity; indicates user availability, shift timing, or time-tracked user activity",
+    "intentId": "track or display a user's time or schedule; indicate a timed user session or shift in a scheduling or time management interface"
+  },
+  "fa-user-cog": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a gear or cog badge to the lower right of the figure; person outline with a gear settings badge overlay",
+    "functionalityId": "represents a user with administrative or configuration access; indicates user settings, account configuration, or admin controls",
+    "intentId": "access user account settings or configuration; manage administrative preferences for a user in a settings or admin interface"
+  },
+  "fa-user-cowboy": {
+    "appearanceId": "a human figure silhouette with a wide-brimmed cowboy hat on the head and shoulder arc below; person outline wearing a wide-brimmed western cowboy hat",
+    "functionalityId": "represents a cowboy or western-themed user persona; indicates a western character role or themed avatar",
+    "intentId": "select or display a cowboy user avatar; represent a western or ranch-themed character in a game or themed profile interface"
+  },
+  "fa-user-crown": {
+    "appearanceId": "a human figure silhouette with a decorative crown shape atop the circular head and shoulder arc below; person outline wearing a crown above the head",
+    "functionalityId": "represents a premium, admin, or royalty-tier user; indicates a top-tier, VIP, or administrator user role",
+    "intentId": "designate or display a premium or admin user status; represent a VIP or privileged account in a membership or admin interface"
+  },
+  "fa-user-doctor-hair": {
+    "appearanceId": "a human figure silhouette of a doctor with short hair visible on the circular head, wearing a stethoscope or medical accessory and short hair detail; person outline with short hair and a medical profession indicator",
+    "functionalityId": "represents a male or short-haired doctor or medical professional; indicates a healthcare provider with a short-hair appearance variant",
+    "intentId": "identify or select a short-haired doctor user persona; represent a medical professional in a healthcare or telemedicine interface"
+  },
+  "fa-user-doctor-hair-long": {
+    "appearanceId": "a human figure silhouette of a doctor with long flowing hair extending below the shoulders, paired with a stethoscope or medical accessory; person outline with long hair and a medical profession indicator",
+    "functionalityId": "represents a long-haired doctor or medical professional; indicates a healthcare provider with a long-hair appearance variant",
+    "intentId": "identify or select a long-haired doctor user persona; represent a medical professional with long hair in a healthcare or telemedicine interface"
+  },
+  "fa-user-graduate": {
+    "appearanceId": "a human figure silhouette with a flat-topped graduation mortarboard cap with a tassel atop the head and shoulder arc below; person outline wearing an academic graduation cap",
+    "functionalityId": "represents a student who has graduated or an academic user role; indicates graduation, educational achievement, or alumni status",
+    "intentId": "mark or display a graduated student or alumni user; represent an academic achievement or education context in a learning or graduation interface"
+  },
+  "fa-user-group": {
+    "appearanceId": "two overlapping human figure silhouettes side by side, each with a circular head and shoulder arc, the second figure slightly behind and offset to the right; pair of overlapping person outlines forming a group",
+    "functionalityId": "represents a group of users or a team; indicates a shared user group, team membership, or multi-person context",
+    "intentId": "access or manage a group of users or a team; represent a community, group, or shared space in a collaboration interface"
+  },
+  "fa-user-group-simple": {
+    "appearanceId": "two simplified overlapping human figure silhouettes with minimal detail, each with a circular head and arc torso, slightly offset to suggest a group; simplified pair of overlapping person outlines",
+    "functionalityId": "represents a simplified group of users or team; indicates a streamlined multi-user or group context",
+    "intentId": "access or display a simplified user group or team; represent a group in a minimal or compact interface context"
+  },
+  "fa-user-hair": {
+    "appearanceId": "a human figure silhouette with a visible short hair style rendered on the circular head and the standard shoulder arc below; person outline with short hair detail on the head",
+    "functionalityId": "represents a user with a generic short hair style; indicates a basic hair-variant persona",
+    "intentId": "select or display a user avatar with short hair; represent a hair-styled persona in a profile or character customization interface"
+  },
+  "fa-user-hair-buns": {
+    "appearanceId": "a human figure silhouette with two small rounded bun shapes on top of the circular head forming a double bun hairstyle, and the standard shoulder arc below; person outline with double hair buns on the head",
+    "functionalityId": "represents a user with a hair buns hairstyle; indicates a hair-bun variant persona or avatar",
+    "intentId": "select or display a user avatar with hair buns; represent a hair-bun styled persona in a profile or character customization interface"
+  },
+  "fa-user-hair-long": {
+    "appearanceId": "a human figure silhouette with long flowing hair extending well below the shoulders from the circular head, and the standard shoulder arc; person outline with long flowing hair cascading downward",
+    "functionalityId": "represents a user with long flowing hair; indicates a long-hair variant persona or avatar",
+    "intentId": "select or display a user avatar with long hair; represent a long-haired persona in a profile or character customization interface"
+  },
+  "fa-user-hard-hat": {
+    "appearanceId": "a human figure silhouette with a rounded hard hat (construction helmet) on top of the circular head and shoulder arc below; person outline wearing a protective hard hat",
+    "functionalityId": "represents a construction worker, engineer, or safety-role user; indicates a hard hat-wearing professional in a construction or industrial context",
+    "intentId": "assign or display a construction or safety worker user role; represent a worker with PPE in a construction or workplace safety interface"
+  },
+  "fa-user-headset": {
+    "appearanceId": "a human figure silhouette with a headset device arcing over the circular head with a microphone arm extending in front, and the standard shoulder arc; person outline wearing an over-ear headset with microphone",
+    "functionalityId": "represents a customer support agent, call center operator, or remote worker with headset; indicates a support or communication role",
+    "intentId": "contact or assign a customer support agent; represent a call center or support staff persona in a customer service interface"
+  },
+  "fa-user-hoodie": {
+    "appearanceId": "a human figure silhouette wearing a hoodie with a visible hood shape rising behind and around the circular head and shoulder area; person outline with a hooded sweatshirt hood framing the head",
+    "functionalityId": "represents a casual or anonymous user wearing a hoodie; indicates an informal or incognito user persona",
+    "intentId": "select or display a hoodie-wearing user avatar; represent an informal or casual persona in a profile or character interface"
+  },
+  "fa-user-injured": {
+    "appearanceId": "a human figure silhouette with bandage or cast shapes on the arm or head, indicating an injury, and the standard head circle and shoulder arc; person outline with visible injury bandage or sling",
+    "functionalityId": "represents an injured or incapacitated user or patient; indicates injury status, medical leave, or patient record in a health interface",
+    "intentId": "mark or display an injured user or patient status; represent an injured person in a medical, insurance, or health management interface"
+  },
+  "fa-user-lock": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a padlock badge to the lower right of the figure; person outline with a padlock security badge overlay",
+    "functionalityId": "represents a locked or restricted user account; indicates account lockout, restricted access, or user security enforcement",
+    "intentId": "lock or restrict a user account; indicate a secured or access-restricted user in an admin or security interface"
+  },
+  "fa-user-magnifying-glass": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a magnifying glass badge to the lower right; person outline with a magnifying glass search badge overlay",
+    "functionalityId": "represents a user search or profile lookup action; indicates searching for a user, auditing a user account, or user discovery",
+    "intentId": "search for or investigate a user account; find or audit a specific user in a directory or admin interface"
+  },
+  "fa-user-md": {
+    "appearanceId": "a human figure silhouette wearing a stethoscope draped around the neck area, with a circular head and shoulder arc; person outline with a stethoscope accessory around the neck",
+    "functionalityId": "represents a medical doctor or physician user role; indicates a doctor profile, medical professional account, or clinical staff",
+    "intentId": "identify or contact a physician or doctor; represent a medical professional in a healthcare or clinical interface"
+  },
+  "fa-user-md-chat": {
+    "appearanceId": "a human figure silhouette with a stethoscope around the neck and a small speech bubble badge overlaid near the shoulder; person outline with a stethoscope and a chat bubble badge",
+    "functionalityId": "represents a doctor available for chat consultation; indicates a telehealth messaging or physician chat feature",
+    "intentId": "initiate a chat with a doctor or medical professional; access a telehealth messaging or consultation feature in a healthcare interface"
+  },
+  "fa-user-minus": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a minus sign badge to the lower right of the figure; person outline with a minus sign removal badge overlay",
+    "functionalityId": "represents removing or subtracting a user from a group or list; indicates user removal, account deletion, or unsubscribing",
+    "intentId": "remove a user from a group or list; delete or unsubscribe a user account in an admin or contacts interface"
+  },
+  "fa-user-music": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a musical note badge near the shoulder area; person outline with a musical note accent badge",
+    "functionalityId": "represents a musician, music-related user, or audio persona; indicates a music profile, artist account, or audio content creator",
+    "intentId": "identify or display a musician or music user profile; represent a music-related persona in a streaming or artist profile interface"
+  },
+  "fa-user-ninja": {
+    "appearanceId": "a human figure silhouette with a ninja mask covering the lower face and a wrapped head covering, leaving only the eyes visible above the mask; person outline with a ninja mask and head wrap",
+    "functionalityId": "represents a ninja character or stealth-role user persona; indicates a covert, anonymous, or agile character type",
+    "intentId": "select or display a ninja user avatar; represent a stealth or martial arts character in a game or themed profile interface"
+  },
+  "fa-user-nurse": {
+    "appearanceId": "a human figure silhouette wearing a nurse cap with a cross emblem atop the circular head and shoulder arc below; person outline with a traditional nurse cap on the head",
+    "functionalityId": "represents a nurse or nursing professional user role; indicates a nursing staff account, patient care role, or clinical staff",
+    "intentId": "identify or assign a nurse user role; represent a nursing professional in a healthcare, hospital, or clinical interface"
+  },
+  "fa-user-nurse-hair": {
+    "appearanceId": "a human figure silhouette of a nurse with short hair visible on the circular head, wearing a nurse cap, and the standard shoulder arc; person outline with short hair and a nurse cap",
+    "functionalityId": "represents a short-haired nurse or nursing professional; indicates a nursing role with a short-hair appearance variant",
+    "intentId": "identify or select a short-haired nurse user persona; represent a nursing professional with short hair in a healthcare interface"
+  },
+  "fa-user-nurse-hair-long": {
+    "appearanceId": "a human figure silhouette of a nurse with long flowing hair extending below the shoulders, wearing a nurse cap; person outline with long hair and a nurse cap",
+    "functionalityId": "represents a long-haired nurse or nursing professional; indicates a nursing role with a long-hair appearance variant",
+    "intentId": "identify or select a long-haired nurse user persona; represent a nursing professional with long hair in a healthcare interface"
+  },
+  "fa-user-pen": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a pen or pencil badge to the lower right of the figure; person outline with a pen edit badge overlay",
+    "functionalityId": "represents editing a user profile or annotating a user record; indicates profile editing or user data modification",
+    "intentId": "edit or update a user profile; modify user information or annotate a user record in an admin or profile management interface"
+  },
+  "fa-user-pilot": {
+    "appearanceId": "a human figure silhouette wearing a pilot cap (peaked cap) on the circular head and the standard shoulder arc; person outline wearing a peaked pilot hat",
+    "functionalityId": "represents an airline pilot or aviation professional user role; indicates a pilot profile or aviation crew member",
+    "intentId": "identify or display a pilot user role; represent an aviation professional or flight crew member in a flight or aviation interface"
+  },
+  "fa-user-pilot-tie": {
+    "appearanceId": "a human figure silhouette wearing a pilot cap on the head and a tie visible at the collar of the body, forming a uniformed pilot appearance; person outline with a peaked pilot cap and a tie at the collar",
+    "functionalityId": "represents a uniformed airline pilot with a tie; indicates a formal aviation professional or flight officer persona",
+    "intentId": "identify or display a formally uniformed pilot user role; represent a senior flight crew member or aviation officer in a flight management interface"
+  },
+  "fa-user-plus": {
+    "appearanceId": "a human figure silhouette with a circular head and shoulder arc, accompanied by a plus sign badge to the lower right of the figure; person outline with a plus sign addition badge overlay",
+    "functionalityId": "represents adding or inviting a new user to a group or system; indicates user creation, invitation, or adding a contact",
+    "intentId": "add a new user or invite someone to a group; create a new user account or add a contact in an admin or social interface"
+  },
+  "fa-user-police": {
+    "appearanceId": "a human figure silhouette wearing a police cap with a badge or emblem on the circular head and the standard shoulder arc; person outline wearing a police officer cap",
+    "functionalityId": "represents a police officer or law enforcement user role; indicates an officer profile or law enforcement persona",
+    "intentId": "identify or display a police officer user role; represent a law enforcement professional in a public safety or security interface"
+  },
+  "fa-user-police-tie": {
+    "appearanceId": "a human figure silhouette wearing a police cap on the head and a tie visible at the collar, forming a uniformed police officer appearance; person outline with a police cap and a tie at the collar",
+    "functionalityId": "represents a formally uniformed police officer with a tie; indicates a senior officer or detective persona",
+    "intentId": "identify or display a formally uniformed police officer role; represent a senior law enforcement officer in a public safety or security interface"
+  },
+  "fa-user-robot": {
+    "appearanceId": "a human figure silhouette with a rectangular or angular robot head with antenna on top replacing the circular human head, and the standard shoulder arc; person outline with a robotic square head and antenna",
+    "functionalityId": "represents a robot, bot, or automated user persona; indicates a bot account, AI agent, or automated process in a system",
+    "intentId": "identify or manage a bot or automated user account; represent an AI agent or robot persona in a system or chatbot interface"
+  },
+  "fa-user-robot-xmarks": {
+    "appearanceId": "a human figure silhouette with a rectangular robot head featuring X marks for eyes on top of the shoulder arc; person outline with a robot head bearing X-shaped eyes indicating an error or deactivated state",
+    "functionalityId": "represents a deactivated, errored, or failed robot or bot user; indicates a broken bot, disabled automation, or failed AI agent",
+    "intentId": "identify or manage a deactivated or errored bot account; represent a failed or disabled automated user in a system or admin interface"
+  },
+  "fa-user-secret": {
+    "appearanceId": "a human figure silhouette wearing a wide-brimmed fedora hat, with a collar turned up and the face obscured suggesting a spy or incognito appearance; person outline with a spy fedora and raised collar hiding the face",
+    "functionalityId": "represents a secret agent, anonymous, or privacy-focused user; indicates an incognito mode, anonymous session, or secret identity",
+    "intentId": "enable or indicate an anonymous or private user session; represent a secret agent or incognito persona in a privacy or security interface"
+  }
+}

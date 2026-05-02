@@ -1,0 +1,242 @@
+{
+  "fa-sausage": {
+    "appearanceId": "an elongated oval or cylindrical sausage link with rounded ends and a slight curved shape; plump tubular food shape with smooth skin outline",
+    "functionalityId": "represents a sausage food item in a menu or recipe context; labels a meat product in a grocery or cooking interface",
+    "intentId": "select or display a sausage in a food ordering or recipe application; indicate a meat ingredient or barbecue food item"
+  },
+  "fa-save": {
+    "appearanceId": "a classic 3.5-inch floppy disk silhouette with a rectangular body, a sliding metal shutter at the bottom, and a label area in the upper portion; square floppy disk outline with shutter and label panel",
+    "functionalityId": "saves the current document, file, or state to storage; triggers a save action in an application or editor",
+    "intentId": "preserve the current work or data to disk; commit changes permanently in a file or document editor"
+  },
+  "fa-save-circle-arrow-right": {
+    "appearanceId": "a floppy disk silhouette with a small filled circle containing a rightward-pointing arrow overlaid at one corner as a badge; square floppy disk outline with a circle-arrow-right badge",
+    "functionalityId": "saves and forwards or exports a file to a next step or destination; triggers a save-and-continue or save-and-send action",
+    "intentId": "save a file and move it forward in a workflow; export or forward saved content to the next step"
+  },
+  "fa-save-times": {
+    "appearanceId": "a floppy disk silhouette with a small X mark or times symbol overlaid at one corner as a badge; square floppy disk outline with a cancel or close badge",
+    "functionalityId": "cancels or dismisses a save action; represents an unsaved or save-failed state for a document",
+    "intentId": "cancel a pending save operation; indicate that a file was not saved or that saving was aborted"
+  },
+  "fa-sax-hot": {
+    "appearanceId": "a saxophone silhouette with a curved neck, flared bell, and key pad details, paired with small flame or heat lines indicating a hot playing style; saxophone body with heat or fire accent marks",
+    "functionalityId": "represents a hot jazz or energetic saxophone performance; indicates a live music, jazz, or high-energy saxophone context",
+    "intentId": "indicate a lively jazz or energetic musical performance on saxophone; represent hot jazz or a featured saxophone player"
+  },
+  "fa-saxophone": {
+    "appearanceId": "a saxophone silhouette with a curved neck, elongated tapered body with key pads, and a flared bell at the bottom; upright woodwind instrument outline with characteristic S-curve and bell",
+    "functionalityId": "represents a saxophone instrument in a music application; selects a saxophone sound or opens saxophone-related content",
+    "intentId": "play or select a saxophone instrument in a music interface; indicate a jazz or woodwind instrument category"
+  },
+  "fa-scale-unbalanced": {
+    "appearanceId": "a balance scale silhouette with two hanging pans at unequal heights on a horizontal beam, one side tipped lower than the other; tilted justice scale with asymmetric pan positions",
+    "functionalityId": "represents an unequal or imbalanced comparison, judgment, or weight; indicates inequality, disproportion, or a biased evaluation",
+    "intentId": "indicate an imbalance, inequality, or uneven comparison; represent a biased judgment or disproportionate weighting in a legal or analytical context"
+  },
+  "fa-scalpel": {
+    "appearanceId": "a surgical scalpel silhouette with a flat handle and a short pointed triangular blade at one end; medical cutting instrument outline with a slim handle and angled blade tip",
+    "functionalityId": "represents a surgical scalpel or precision cutting tool; indicates a medical procedure, surgery, or fine incision action",
+    "intentId": "indicate a surgical or medical cutting action; represent a precision medical tool in a healthcare or procedure interface"
+  },
+  "fa-scalpel-path": {
+    "appearanceId": "a surgical scalpel silhouette with a dotted or dashed curved path line extending from the blade tip indicating an incision trajectory; scalpel blade with a cut-path trace line",
+    "functionalityId": "represents a surgical incision path or a planned cut trajectory; indicates a procedure route, surgical planning, or precision path cutting",
+    "intentId": "plan or indicate a surgical incision path; represent a procedural cut route in a medical or surgical planning interface"
+  },
+  "fa-scanner": {
+    "appearanceId": "a flatbed document scanner body outline with a hinged lid, a long scan bed, and a control panel area at one side; horizontal scanner unit with a flat glass bed and lid",
+    "functionalityId": "represents a document or flatbed scanner device; initiates a scanning action or accesses scanner settings",
+    "intentId": "scan a document or image using a flatbed scanner; access scanning functionality in a device or document management interface"
+  },
+  "fa-scanner-image": {
+    "appearanceId": "a flatbed scanner body with a small photograph or image thumbnail displayed or overlaid on the scan bed area; horizontal scanner outline with an image badge on the glass bed",
+    "functionalityId": "represents scanning a photo or image document; initiates a photo scan or opens image scanning settings",
+    "intentId": "scan a photograph or image using a flatbed scanner; access photo scanning in a document or media management application"
+  },
+  "fa-scanner-keyboard": {
+    "appearanceId": "a flatbed scanner body with a small keyboard icon or key-row badge overlaid on or below the scanner unit; horizontal scanner outline with a keyboard indicator badge",
+    "functionalityId": "represents a scanner with keyboard input or a keyboard-equipped scanning terminal; initiates keyboard-driven scanning or a keyed scan entry",
+    "intentId": "operate a scanner using keyboard controls; access a keyboard-input scanning terminal in a document workflow"
+  },
+  "fa-scanner-touchscreen": {
+    "appearanceId": "a flatbed scanner body with a small touchscreen panel or finger-tap indicator badge overlaid at one end of the scanner unit; horizontal scanner outline with a touchscreen interface badge",
+    "functionalityId": "represents a touchscreen-enabled scanner or a scanner with a touch panel interface; activates scanning via a touch display",
+    "intentId": "use a touchscreen-equipped scanner for document scanning; access a touch-panel scanning interface in a device or office workflow"
+  },
+  "fa-scarecrow": {
+    "appearanceId": "a scarecrow silhouette with outstretched arms on a cross-shaped post, a straw-stuffed figure with a hat and patched clothing; cross-post scarecrow outline with hat and tattered clothes",
+    "functionalityId": "represents a scarecrow figure used in agricultural or Halloween contexts; indicates a farm, garden, or spooky seasonal theme",
+    "intentId": "indicate a farm, garden, or harvest theme; represent a scarecrow in an agricultural or autumn-seasonal context"
+  },
+  "fa-scarf": {
+    "appearanceId": "a long looping or draped scarf shape with tapered or fringed ends hanging in a curved arc; flowing fabric strip outline with rounded end tassels",
+    "functionalityId": "represents a scarf clothing accessory in a fashion or wardrobe interface; indicates cold-weather apparel or a style accessory",
+    "intentId": "select or display a scarf in a clothing or fashion application; indicate winter or cold-weather accessory options"
+  },
+  "fa-school": {
+    "appearanceId": "a school building silhouette with a central rectangular facade, a bell tower or cupola on top, and symmetric wing extensions; institutional building outline with a tower and symmetric wings",
+    "functionalityId": "represents a school, educational institution, or learning facility; indicates an education category or school location",
+    "intentId": "navigate to or indicate a school building or educational facility; represent an educational institution in a map or directory interface"
+  },
+  "fa-school-circle-check": {
+    "appearanceId": "a school building silhouette with a small filled circle containing a checkmark overlaid at one corner; institutional building outline with a circle-check approval badge",
+    "functionalityId": "marks a school as verified, approved, or meeting a standard; confirms an educational institution's accredited or open status",
+    "intentId": "indicate that a school is verified, accredited, or operationally approved; confirm a school status in an educational management interface"
+  },
+  "fa-school-circle-exclamation": {
+    "appearanceId": "a school building silhouette with a small filled circle containing an exclamation mark overlaid at one corner; institutional building outline with a circle-alert warning badge",
+    "functionalityId": "represents a school with an alert, warning, or issue requiring attention; indicates a school-related safety notice or status problem",
+    "intentId": "flag a school with a warning or alert status; indicate an issue or safety concern at an educational facility"
+  },
+  "fa-school-circle-xmark": {
+    "appearanceId": "a school building silhouette with a small filled circle containing an X mark overlaid at one corner; institutional building outline with a circle-X rejection or closure badge",
+    "functionalityId": "represents a school that is closed, unavailable, or rejected; indicates that a school facility is not operational or has been removed",
+    "intentId": "indicate a school closure, suspension, or removal; represent an unavailable or rejected educational institution in a management interface"
+  },
+  "fa-school-flag": {
+    "appearanceId": "a school building silhouette with a flag on a short pole overlaid at the top or on the roof; institutional building outline with a flagpole and waving flag banner",
+    "functionalityId": "represents a school with a national, institutional, or event flag displayed; indicates a flagged school location or a patriotic educational context",
+    "intentId": "indicate a school with a flag display or national affiliation; represent a school with patriotic or institutional flag signage"
+  },
+  "fa-school-lock": {
+    "appearanceId": "a school building silhouette with a small padlock shape overlaid at one corner or on the entrance; institutional building outline with a lock badge overlay",
+    "functionalityId": "represents a school in lockdown, a secured facility, or restricted access; indicates security measures or access restrictions at an educational institution",
+    "intentId": "indicate a school lockdown or restricted access situation; represent secured or controlled entry to an educational facility"
+  },
+  "fa-screencast": {
+    "appearanceId": "a monitor or display screen outline with a small wireless broadcast or signal arc emanating from the screen; rectangular screen frame with outward-radiating cast or stream waves",
+    "functionalityId": "starts or manages a screen broadcast or casting session to a remote display; streams the screen content to another device wirelessly",
+    "intentId": "broadcast or cast a screen to a remote display or audience; share a live screen feed in a presentation or streaming interface"
+  },
+  "fa-screenshot": {
+    "appearanceId": "a monitor or screen outline with a dashed rectangular selection box or crop area inside the display area; screen frame with an inner dashed capture-region box",
+    "functionalityId": "captures or triggers a screenshot of the current display content; defines a capture region for a screen grab",
+    "intentId": "capture a screenshot or define a capture area on screen; grab or save the current display content as an image"
+  },
+  "fa-screwdriver": {
+    "appearanceId": "a screwdriver tool silhouette with a long cylindrical shaft, a flat or Phillips tip at one end, and a handle grip at the other; hand tool outline with a slim shaft and tip",
+    "functionalityId": "represents a screwdriver tool for assembly or repair; indicates a settings, configuration, or hardware maintenance action",
+    "intentId": "access settings or configuration tools; represent a repair or assembly action in a hardware or maintenance interface"
+  },
+  "fa-scribble": {
+    "appearanceId": "an irregular looping or zigzag freehand scribble line with multiple overlapping curved strokes; messy hand-drawn looping mark with no regular pattern",
+    "functionalityId": "represents a freehand drawing, annotation, or scribble action; indicates a markup, doodle, or handwritten note feature",
+    "intentId": "add a freehand annotation or doodle to a document; indicate a handwritten markup or creative scribble tool"
+  },
+  "fa-scroll": {
+    "appearanceId": "a rolled parchment scroll with two horizontal cylindrical rollers at the top and bottom and a smooth rectangular document face in the center; classic scroll silhouette with rounded end rollers",
+    "functionalityId": "represents a scroll document, ancient text, or a literary manuscript; indicates a historical, fantasy, or quest-log document context",
+    "intentId": "access a scroll-format document or ancient text; represent a historical manuscript or fantasy quest log in an application"
+  },
+  "fa-scroll-old": {
+    "appearanceId": "a rolled parchment scroll in a worn or aged style with tattered or irregular edges on the document face and visible aging details on the rolled ends; weathered scroll silhouette with frayed or worn edges",
+    "functionalityId": "represents an ancient, weathered, or antique scroll document; indicates an aged manuscript, old lore, or historical artifact context",
+    "intentId": "access an aged or historical scroll document; represent an antique manuscript or worn ancient text in a fantasy or historical application"
+  },
+  "fa-scrubber": {
+    "appearanceId": "a small filled circle or dot centered on a horizontal line, resembling a playback position indicator or timeline handle; round timeline thumb marker on a horizontal track",
+    "functionalityId": "represents a media playback scrubber or timeline position handle; adjusts the current playback position along a media timeline",
+    "intentId": "seek or adjust the playback position in a media player; indicate the current position on a video or audio timeline"
+  },
+  "fa-scythe": {
+    "appearanceId": "a scythe silhouette with a long curved blade attached to a long wooden handle at a swept angle; agricultural or grim-reaper tool outline with curved blade and tall staff",
+    "functionalityId": "represents a scythe harvesting tool or a grim-reaper death symbol; indicates a harvest, mowing, or dark fantasy context",
+    "intentId": "represent a harvest tool or a grim-reaper death symbol; indicate a farming, autumn harvest, or dark fantasy theme"
+  },
+  "fa-sd-card": {
+    "appearanceId": "a small rectangular SD memory card silhouette with a notched corner and contact stripe along one edge; flash memory card outline with a notched top-left corner and connector contacts",
+    "functionalityId": "represents an SD or flash memory card for storage; indicates a memory card slot, file transfer, or removable storage action",
+    "intentId": "access or manage files on an SD memory card; indicate removable flash storage in a device or file management interface"
+  },
+  "fa-sd-cards": {
+    "appearanceId": "two SD memory card silhouettes overlapping or stacked side-by-side, each with a notched corner and contact stripe; pair of flash memory card outlines arranged together",
+    "functionalityId": "represents multiple SD or flash memory cards or a dual-card slot; indicates expanded storage, a card collection, or multi-card management",
+    "intentId": "manage multiple SD cards or a dual-slot storage configuration; indicate expanded or redundant flash storage in a device interface"
+  },
+  "fa-seal": {
+    "appearanceId": "a circular wax seal or emblem shape with a decorative scalloped or sunburst edge and a smooth interior face; round seal disc outline with a ruffled or starburst perimeter",
+    "functionalityId": "represents an official seal, stamp of approval, or emblem badge; indicates authentication, certification, or an official designation",
+    "intentId": "indicate an official certification, authentication, or approval seal; represent an emblem or stamp of authority in a document or credential interface"
+  },
+  "fa-seal-exclamation": {
+    "appearanceId": "a circular wax seal shape with a scalloped or sunburst edge and an exclamation mark glyph centered inside the seal face; round seal disc with an interior exclamation point",
+    "functionalityId": "represents an official warning seal or an urgent certified alert; indicates a flagged or urgent official notice requiring attention",
+    "intentId": "indicate an official warning or urgent certified notice; represent an alarmed or flagged seal status in a document or compliance interface"
+  },
+  "fa-seal-question": {
+    "appearanceId": "a circular wax seal shape with a scalloped or sunburst edge and a question mark glyph centered inside the seal face; round seal disc with an interior question mark",
+    "functionalityId": "represents a seal with an unknown or unverified status; indicates an official credential or badge that is pending verification or is in question",
+    "intentId": "indicate an unverified or questionable official seal; represent a certification or credential whose authenticity is under review"
+  },
+  "fa-search": {
+    "appearanceId": "a magnifying glass silhouette with a circular lens frame and a diagonal handle extending from the lower right; round lens with a straight diagonal grip handle",
+    "functionalityId": "opens or triggers a search interface; initiates a query or lookup action in an application",
+    "intentId": "find or look up content within an application or data set; access a search feature to locate items or information"
+  },
+  "fa-search-dollar": {
+    "appearanceId": "a magnifying glass silhouette with a dollar sign or currency symbol visible inside the circular lens area; round search lens with a dollar glyph inside the glass",
+    "functionalityId": "searches for financial data, prices, or monetary values; looks up cost or currency information in a financial interface",
+    "intentId": "find financial records, prices, or monetary information; search for cost or currency data in a financial or e-commerce application"
+  },
+  "fa-search-location": {
+    "appearanceId": "a magnifying glass silhouette with a map location pin or teardrop marker visible inside the circular lens area; round search lens with a location pin glyph inside the glass",
+    "functionalityId": "searches for a geographic location, address, or place; performs a location lookup or map search action",
+    "intentId": "find a specific location, address, or place on a map; search for geographic information in a mapping or navigation interface"
+  },
+  "fa-search-minus": {
+    "appearanceId": "a magnifying glass silhouette with a horizontal minus bar inside the circular lens area; round search lens with a minus sign glyph inside the glass",
+    "functionalityId": "zooms out or reduces the scale of a view; decreases the magnification level in a map or document",
+    "intentId": "zoom out or reduce magnification in a view or document; decrease the scale level in a map or image viewer"
+  },
+  "fa-search-plus": {
+    "appearanceId": "a magnifying glass silhouette with a plus sign inside the circular lens area; round search lens with a cross or plus glyph inside the glass",
+    "functionalityId": "zooms in or increases the scale of a view; enlarges the magnification level in a map or document",
+    "intentId": "zoom in or increase magnification in a view or document; enlarge the scale level in a map or image viewer"
+  },
+  "fa-seat-airline": {
+    "appearanceId": "a side-profile silhouette of an airline seat with an upright backrest, armrest extensions, and a seat cushion base; airplane passenger seat outline viewed from the side",
+    "functionalityId": "represents an airline seat or passenger seating selection; indicates seat booking, cabin class, or in-flight seating in a travel interface",
+    "intentId": "select or view an airline seat in a flight booking or seat map interface; indicate passenger seating options in an aviation or travel application"
+  },
+  "fa-section": {
+    "appearanceId": "a typographic section sign glyph with two interlocking S-curves forming the double-S symbol; legal or document section symbol with two curved strokes",
+    "functionalityId": "inserts or references a section symbol in a legal, academic, or document context; marks or labels a numbered section of text",
+    "intentId": "insert or reference a section marker in a legal or academic document; indicate a numbered section in a formal text or contract"
+  },
+  "fa-semicolon": {
+    "appearanceId": "a typographic semicolon glyph with a dot above and a curved comma stroke below; standard punctuation mark with upper dot and lower descending curve",
+    "functionalityId": "inserts a semicolon punctuation character in a text or code editor; separates clauses or code statements in a text field",
+    "intentId": "insert a semicolon character in a text or code editing interface; separate sentence clauses or programming statements"
+  },
+  "fa-send": {
+    "appearanceId": "a paper airplane or triangular arrow shape pointing upward or to the upper right, resembling a send or submit directional glyph; triangular plane or forward-pointing arrow silhouette",
+    "functionalityId": "sends a message, email, or data to a recipient; submits or transmits content to a destination",
+    "intentId": "send a message or submit content to a recipient or destination; transmit data or a communication in a messaging or form interface"
+  },
+  "fa-send-back": {
+    "appearanceId": "a rectangular shape with a behind-layer arrow or a downward z-order arrow indicating the element is being moved one level behind another; layered rectangle with a send-behind directional arrow",
+    "functionalityId": "sends a selected element one layer backward in the stacking order; moves an object behind its immediate neighbor in a design layer stack",
+    "intentId": "move a design element one layer backward in a stacking order; manage object z-order in a graphic design or layout editor"
+  },
+  "fa-send-backward": {
+    "appearanceId": "a rectangular shape with an arrow indicating movement to the very back of a layer stack, or multiple behind-layer arrows suggesting full back-most repositioning; layered rectangle with a send-to-back directional arrow",
+    "functionalityId": "sends a selected element all the way to the back of the stacking order; moves an object to the bottom-most layer position in a design layout",
+    "intentId": "move a design element to the back of all layers in a stacking order; manage object z-order by pushing an element to the bottom layer in a design tool"
+  },
+  "fa-sensor": {
+    "appearanceId": "a small rectangular or circular sensor device silhouette with signal arcs or detection lines radiating outward; compact sensor unit outline with wireless signal or detection waves",
+    "functionalityId": "represents a sensor device for detecting environmental conditions or signals; monitors or reads data from a physical sensor",
+    "intentId": "monitor or manage a sensor device in an IoT or smart home interface; indicate environmental sensing or data collection from a physical sensor"
+  },
+  "fa-sensor-alert": {
+    "appearanceId": "a sensor device silhouette with a small exclamation mark or alert triangle badge overlaid; compact sensor unit outline with a warning or alert indicator badge",
+    "functionalityId": "represents a sensor that has triggered an alert or detected an anomaly; indicates a sensor-detected warning event or threshold breach",
+    "intentId": "respond to a sensor alert or anomaly detection; indicate that a sensor has triggered a warning in an IoT or monitoring interface"
+  },
+  "fa-sensor-cloud": {
+    "appearanceId": "a sensor device silhouette with a small cloud shape badge overlaid or combined; compact sensor unit outline with a cloud connectivity or upload indicator",
+    "functionalityId": "represents a cloud-connected sensor that uploads data to a remote service; indicates sensor data being sent to or stored in the cloud",
+    "intentId": "connect a sensor to cloud storage or a remote monitoring service; indicate cloud-based sensor data logging in an IoT or smart home platform"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "fa-square-dashed": {
+    "appearanceId": "square outline drawn with a dashed or dotted border instead of a solid line; rectangular frame composed of evenly spaced dash segments",
+    "functionalityId": "marks or outlines a selection area with a dashed boundary; defines a placeholder or drop-target zone",
+    "intentId": "indicate a selection region, placeholder, or drop zone with a dashed border; define an unfilled or pending area in a layout"
+  },
+  "fa-square-dashed-circle-plus": {
+    "appearanceId": "dashed-border square outline with a small circle containing a plus sign overlaid at one corner; dotted rectangular frame with an add-circle badge",
+    "functionalityId": "adds a new item or element into a dashed placeholder area; creates a new entry within a dotted selection zone",
+    "intentId": "add a new item to a placeholder or empty slot; insert content into an unoccupied dashed region"
+  },
+  "fa-square-divide": {
+    "appearanceId": "square container enclosing an obelus division symbol with a dot above and a dot below a horizontal bar; box outline with a divide arithmetic glyph inside",
+    "functionalityId": "performs or represents a division operation in a calculator or math interface; inserts the division operator symbol",
+    "intentId": "perform a division calculation; insert or indicate a divide operation in a math or calculator interface"
+  },
+  "fa-square-down": {
+    "appearanceId": "square container enclosing a downward-pointing arrow centered inside; box outline with a vertical arrow pointing toward the bottom edge",
+    "functionalityId": "moves or downloads content downward within a square control; collapses or scrolls content in a downward direction",
+    "intentId": "scroll down or download content using a square directional button; navigate downward within a bounded interface element"
+  },
+  "fa-square-down-left": {
+    "appearanceId": "square container enclosing a diagonal arrow pointing toward the lower-left corner; box outline with an arrow aimed at the bottom-left",
+    "functionalityId": "moves or navigates content toward the lower-left within a square control; shifts an element diagonally down and to the left",
+    "intentId": "navigate or move content diagonally toward the lower-left; reposition an element in the down-left direction within a bounded area"
+  },
+  "fa-square-down-right": {
+    "appearanceId": "square container enclosing a diagonal arrow pointing toward the lower-right corner; box outline with an arrow aimed at the bottom-right",
+    "functionalityId": "moves or navigates content toward the lower-right within a square control; shifts an element diagonally down and to the right",
+    "intentId": "navigate or move content diagonally toward the lower-right; reposition an element in the down-right direction within a bounded area"
+  },
+  "fa-square-e": {
+    "appearanceId": "square container enclosing an uppercase letter E centered inside; box outline with a capital E glyph",
+    "functionalityId": "labels or represents an item beginning with E in a square badge; marks an E-category entry or keyboard shortcut",
+    "intentId": "identify or tag an E-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for E"
+  },
+  "fa-square-ellipsis": {
+    "appearanceId": "square container enclosing three horizontally arranged dots centered inside; box outline with a horizontal ellipsis glyph",
+    "functionalityId": "opens a more-options or overflow menu housed in a square control; expands hidden actions within a square button",
+    "intentId": "access additional options or overflow actions from a square button; reveal a hidden menu or context actions"
+  },
+  "fa-square-ellipsis-vertical": {
+    "appearanceId": "square container enclosing three vertically stacked dots centered inside; box outline with a vertical ellipsis glyph",
+    "functionalityId": "opens a vertical more-options or overflow menu housed in a square control; expands a vertical context menu from a square button",
+    "intentId": "access a vertical overflow menu or additional actions from a square button; reveal a vertical context menu in a bounded control"
+  },
+  "fa-square-f": {
+    "appearanceId": "square container enclosing an uppercase letter F centered inside; box outline with a capital F glyph",
+    "functionalityId": "labels or represents an item beginning with F in a square badge; marks an F-category entry or keyboard shortcut",
+    "intentId": "identify or tag an F-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for F"
+  },
+  "fa-square-full": {
+    "appearanceId": "a completely solid filled square with no interior details; fully shaded rectangular block with no hollow center",
+    "functionalityId": "represents a fully selected, filled, or active square state; marks a checkbox or toggle as completely on or filled",
+    "intentId": "indicate a fully selected or filled square state; represent a complete fill or solid block in a toggle or grid interface"
+  },
+  "fa-square-g": {
+    "appearanceId": "square container enclosing an uppercase letter G centered inside; box outline with a capital G glyph",
+    "functionalityId": "labels or represents an item beginning with G in a square badge; marks a G-category entry or keyboard shortcut",
+    "intentId": "identify or tag a G-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for G"
+  },
+  "fa-square-i": {
+    "appearanceId": "square container enclosing an uppercase letter I centered inside; box outline with a capital I glyph",
+    "functionalityId": "labels or represents an item beginning with I in a square badge; marks an I-category entry or keyboard shortcut",
+    "intentId": "identify or tag an I-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for I"
+  },
+  "fa-square-j": {
+    "appearanceId": "square container enclosing an uppercase letter J centered inside; box outline with a capital J glyph",
+    "functionalityId": "labels or represents an item beginning with J in a square badge; marks a J-category entry or keyboard shortcut",
+    "intentId": "identify or tag a J-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for J"
+  },
+  "fa-square-k": {
+    "appearanceId": "square container enclosing an uppercase letter K centered inside; box outline with a capital K glyph",
+    "functionalityId": "labels or represents an item beginning with K in a square badge; marks a K-category entry or keyboard shortcut",
+    "intentId": "identify or tag a K-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for K"
+  },
+  "fa-square-kanban": {
+    "appearanceId": "square container enclosing a set of vertical column cards or stacked task cards arranged in a kanban-style layout; box outline with column-and-card board diagram inside",
+    "functionalityId": "opens or displays a kanban board view within a square panel; organizes tasks into column-based workflow cards",
+    "intentId": "view or manage a kanban task board; organize work items into columns within a square board interface"
+  },
+  "fa-square-l": {
+    "appearanceId": "square container enclosing an uppercase letter L centered inside; box outline with a capital L glyph",
+    "functionalityId": "labels or represents an item beginning with L in a square badge; marks an L-category entry or keyboard shortcut",
+    "intentId": "identify or tag an L-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for L"
+  },
+  "fa-square-left": {
+    "appearanceId": "square container enclosing a leftward-pointing arrow centered inside; box outline with a horizontal arrow pointing toward the left edge",
+    "functionalityId": "navigates or moves content leftward within a square control; shifts focus or scrolls in a leftward direction",
+    "intentId": "navigate left or move content in the left direction using a square button; go back or pan left within a bounded interface element"
+  },
+  "fa-square-list": {
+    "appearanceId": "square container enclosing a short bulleted or line list with two or three horizontal rows; box outline with a list of lines inside",
+    "functionalityId": "opens or displays a list view housed in a square panel; shows a bulleted or itemized list within a bounded control",
+    "intentId": "view or manage a list of items in a square panel; access a bulleted or ordered list within a bounded interface element"
+  },
+  "fa-square-m": {
+    "appearanceId": "square container enclosing an uppercase letter M centered inside; box outline with a capital M glyph",
+    "functionalityId": "labels or represents an item beginning with M in a square badge; marks an M-category entry or keyboard shortcut",
+    "intentId": "identify or tag an M-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for M"
+  },
+  "fa-square-n": {
+    "appearanceId": "square container enclosing an uppercase letter N centered inside; box outline with a capital N glyph",
+    "functionalityId": "labels or represents an item beginning with N in a square badge; marks an N-category entry or keyboard shortcut",
+    "intentId": "identify or tag an N-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for N"
+  },
+  "fa-square-nfi": {
+    "appearanceId": "square container enclosing the letters NFI in a compact typographic arrangement; box outline with an NFI abbreviation glyph",
+    "functionalityId": "represents or labels an NFI-designated facility or category in a square badge; marks an NFI item or shortcode entry",
+    "intentId": "identify or tag an NFI-labeled item or facility; use as a category badge or shortcode marker for NFI-classified content"
+  },
+  "fa-square-o": {
+    "appearanceId": "square container enclosing an uppercase letter O centered inside; box outline with a capital O glyph",
+    "functionalityId": "labels or represents an item beginning with O in a square badge; marks an O-category entry or keyboard shortcut",
+    "intentId": "identify or tag an O-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for O"
+  },
+  "fa-square-p": {
+    "appearanceId": "square container enclosing an uppercase letter P centered inside; box outline with a capital P glyph",
+    "functionalityId": "labels or represents an item beginning with P in a square badge; marks a P-category entry or keyboard shortcut",
+    "intentId": "identify or tag a P-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for P"
+  },
+  "fa-square-person-confined": {
+    "appearanceId": "square container enclosing a simplified human figure silhouette depicted inside a confined or enclosed space; box outline with a person trapped or boxed within it",
+    "functionalityId": "represents a person in confinement, detention, or a restricted enclosure; indicates a jail, isolation, or containment status",
+    "intentId": "indicate a person in detention, isolation, or a confined area; represent a containment or restriction status in a security or medical interface"
+  },
+  "fa-square-q": {
+    "appearanceId": "square container enclosing an uppercase letter Q centered inside; box outline with a capital Q glyph",
+    "functionalityId": "labels or represents an item beginning with Q in a square badge; marks a Q-category entry or keyboard shortcut",
+    "intentId": "identify or tag a Q-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for Q"
+  },
+  "fa-square-quarters": {
+    "appearanceId": "square container divided into four equal quadrants by a vertical and horizontal line crossing at the center; box outline with four interior quarter sections",
+    "functionalityId": "divides a view or element into four equal quadrant sections; represents a four-part layout or segmented grid",
+    "intentId": "split content into four equal quadrants; represent a four-section layout or segmented area in a design or data interface"
+  },
+  "fa-square-quote": {
+    "appearanceId": "square container enclosing a large quotation mark or double-quote glyph centered inside; box outline with an opening or closing curly quote mark",
+    "functionalityId": "inserts or highlights a quoted passage within a square callout block; marks a blockquote or testimonial section",
+    "intentId": "add a quoted passage or blockquote to a document; indicate a testimonial or cited text within a square callout"
+  },
+  "fa-square-r": {
+    "appearanceId": "square container enclosing an uppercase letter R centered inside; box outline with a capital R glyph",
+    "functionalityId": "labels or represents an item beginning with R in a square badge; marks an R-category entry or keyboard shortcut",
+    "intentId": "identify or tag an R-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for R"
+  },
+  "fa-square-right": {
+    "appearanceId": "square container enclosing a rightward-pointing arrow centered inside; box outline with a horizontal arrow pointing toward the right edge",
+    "functionalityId": "navigates or moves content rightward within a square control; advances focus or scrolls in a rightward direction",
+    "intentId": "navigate right or move content in the right direction using a square button; advance or pan right within a bounded interface element"
+  },
+  "fa-square-ring": {
+    "appearanceId": "square container enclosing a circle or ring shape centered inside; box outline with a hollow circular ring glyph",
+    "functionalityId": "represents a ring, loop, or circular element within a square badge; marks a circular or ring-shaped item in a catalog",
+    "intentId": "indicate a ring or circular shape within a square container; identify a ring item or looped element in a catalog or design interface"
+  },
+  "fa-square-root": {
+    "appearanceId": "square container enclosing a radical sign with a horizontal overline extending to the right; box outline with a square-root mathematical symbol inside",
+    "functionalityId": "calculates or represents the square root operation in a math or calculator interface; inserts a radical symbol for a mathematical expression",
+    "intentId": "perform a square root calculation; insert or indicate a radical operation in a math or scientific interface"
+  },
+  "fa-square-root-alt": {
+    "appearanceId": "a standalone radical sign with a variable expression under the horizontal overline bar; alternative square-root glyph with an expression beneath the vinculum",
+    "functionalityId": "calculates or represents an alternative square root or radical expression; inserts a radical symbol with a variable for mathematical notation",
+    "intentId": "perform a square root or radical calculation; insert a radical expression in a math or scientific notation interface"
+  },
+  "fa-square-s": {
+    "appearanceId": "square container enclosing an uppercase letter S centered inside; box outline with a capital S glyph",
+    "functionalityId": "labels or represents an item beginning with S in a square badge; marks an S-category entry or keyboard shortcut",
+    "intentId": "identify or tag an S-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for S"
+  },
+  "fa-square-sliders": {
+    "appearanceId": "square container enclosing two or three horizontal adjustment slider bars with small circular handles; box outline with a set of tuning sliders inside",
+    "functionalityId": "opens or adjusts settings and parameters via sliders in a square panel; controls multiple values using horizontal slider controls",
+    "intentId": "adjust multiple settings or parameters using slider controls in a square panel; tune values or preferences in a configuration interface"
+  },
+  "fa-square-small": {
+    "appearanceId": "square container enclosing a smaller inset square centered within it; larger box outline with a proportionally smaller square shape inside",
+    "functionalityId": "represents a nested or smaller square element within a bounding box; indicates a sub-region or inset area inside a square container",
+    "intentId": "indicate an inset or nested square region; represent a sub-area or inner block within a larger bounding square"
+  },
+  "fa-square-star": {
+    "appearanceId": "square container enclosing a five-pointed star shape centered inside; box outline with a star glyph",
+    "functionalityId": "marks or favorites an item using a star within a square badge; rates or highlights a featured item in a square control",
+    "intentId": "favorite or highlight an item using a star in a square badge; mark a featured or top-rated entry in a list or grid"
+  },
+  "fa-square-t": {
+    "appearanceId": "square container enclosing an uppercase letter T centered inside; box outline with a capital T glyph",
+    "functionalityId": "labels or represents an item beginning with T in a square badge; marks a T-category entry or keyboard shortcut",
+    "intentId": "identify or tag a T-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for T"
+  },
+  "fa-square-terminal": {
+    "appearanceId": "square container enclosing a terminal prompt symbol such as a blinking cursor or caret beside a command line; box outline with a command-line cursor prompt inside",
+    "functionalityId": "opens or accesses a terminal or command-line interface within a square panel; executes a command prompt or shell session",
+    "intentId": "open a terminal or command-line interface; access a shell or developer console within a square panel"
+  },
+  "fa-square-u": {
+    "appearanceId": "square container enclosing an uppercase letter U centered inside; box outline with a capital U glyph",
+    "functionalityId": "labels or represents an item beginning with U in a square badge; marks a U-category entry or keyboard shortcut",
+    "intentId": "identify or tag a U-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for U"
+  },
+  "fa-square-up": {
+    "appearanceId": "square container enclosing an upward-pointing arrow centered inside; box outline with a vertical arrow pointing toward the top edge",
+    "functionalityId": "moves or uploads content upward within a square control; scrolls or elevates an item in an upward direction",
+    "intentId": "scroll up or upload content using a square directional button; navigate upward within a bounded interface element"
+  },
+  "fa-square-up-left": {
+    "appearanceId": "square container enclosing a diagonal arrow pointing toward the upper-left corner; box outline with an arrow aimed at the top-left",
+    "functionalityId": "moves or navigates content toward the upper-left within a square control; shifts an element diagonally up and to the left",
+    "intentId": "navigate or move content diagonally toward the upper-left; reposition an element in the up-left direction within a bounded area"
+  },
+  "fa-square-up-right": {
+    "appearanceId": "square container enclosing a diagonal arrow pointing toward the upper-right corner; box outline with an arrow aimed at the top-right",
+    "functionalityId": "moves or navigates content toward the upper-right within a square control; shifts an element diagonally up and to the right",
+    "intentId": "navigate or move content diagonally toward the upper-right; reposition an element in the up-right direction or open an external link"
+  },
+  "fa-square-user": {
+    "appearanceId": "square container enclosing a simplified person silhouette with a round head and shoulder arc; box outline with a user or profile figure inside",
+    "functionalityId": "opens a user profile or account within a square button; accesses user settings or identity information from a square control",
+    "intentId": "view or manage a user profile or account; access identity or account settings from a square interface element"
+  },
+  "fa-square-v": {
+    "appearanceId": "square container enclosing an uppercase letter V centered inside; box outline with a capital V glyph",
+    "functionalityId": "labels or represents an item beginning with V in a square badge; marks a V-category entry or keyboard shortcut",
+    "intentId": "identify or tag a V-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for V"
+  },
+  "fa-square-virus": {
+    "appearanceId": "square container enclosing a virus particle shape with a round body and short spike protrusions; box outline with a spiky virus particle glyph inside",
+    "functionalityId": "represents a virus threat or infection contained within a square indicator; indicates malware, pathogen, or a quarantine status",
+    "intentId": "indicate a virus threat or infected status in a square badge; represent malware or pathogen detection in a security or health interface"
+  },
+  "fa-square-w": {
+    "appearanceId": "square container enclosing an uppercase letter W centered inside; box outline with a capital W glyph",
+    "functionalityId": "labels or represents an item beginning with W in a square badge; marks a W-category entry or keyboard shortcut",
+    "intentId": "identify or tag a W-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for W"
+  },
+  "fa-square-x": {
+    "appearanceId": "square container enclosing an uppercase letter X centered inside; box outline with a capital X glyph",
+    "functionalityId": "labels or represents an item beginning with X in a square badge; marks an X-category entry or keyboard shortcut",
+    "intentId": "identify or tag an X-labeled item or section; use as a keyboard shortcut badge or alphabetical category marker for X"
+  }
+}
